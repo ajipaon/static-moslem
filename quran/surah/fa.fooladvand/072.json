@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "بگو: «به من وحى شده است كه تنى چند از جنّيان گوش فرا داشتند و گفتند: راستى ما قرآنى شگفت‌آور شنيديم.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "[كه‌] به راه راست هدايت مى‌كند. پس به آن ايمان آورديم و هرگز كسى را شريك پروردگارمان قرار نخواهيم داد.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "و اينكه او، پروردگار والاى ما، همسر و فرزندى اختيار نكرده است.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "و [شگفت‌] آنكه كم خرد ما، در باره خدا سخنانى ياوه مى‌سرايد.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "و ما پنداشته بوديم كه انس و جن هرگز به خدا دروغ نمى‌بندند.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "و مردانى از آدميان به مردانى از جن پناه مى‌بردند و بر سركشى آنها مى‌افزودند.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "و آنها [نيز] آن گونه كه [شما] پنداشته‌ايد، گمان بردند كه خدا هرگز كسى را زنده نخواهد گردانيد.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "و ما بر آسمان دست يافتيم و آن را پر از نگهبانان توانا و تيرهاى شهاب يافتيم.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "و در [آسمان‌] براى شنيدن، به كمين مى‌نشستيم، [اما] اكنون هر كه بخواهد به گوش باشد، تير شهابى در كمين خود مى‌يابد.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "و ما [درست‌] نمى‌دانيم كه آيا براى كسانى كه در زمينند بدى خواسته شده يا پروردگارشان برايشان هدايت خواسته است؟",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "و از ميان ما برخى درستكارند و برخى غير آن، و ما فرقه‌هايى گوناگونيم.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "و ما مى‌دانيم كه هرگز نمى‌توانيم در زمين خداى را به ستوه آوريم، و هرگز او را با گريز [خود] درمانده نتوانيم كرد",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "و ما چون هدايت را شنيديم بدان گرويديم؛ پس كسى كه به پروردگار خود ايمان آورد، از كمى [پاداش‌] و سختى بيم ندارد.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "و از ميان ما برخى فرمانبردار و برخى از ما منحرفند: پس كسانى كه به فرمانند، آنان در جستجوى راه درستند،",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "ولى منحرفان، هيزم جهنم خواهند بود.»",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "و اگر [مردم‌] در راه درست، پايدارى ورزند، قطعاً آب گوارايى بديشان نوشانيم.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "تا در اين باره آنان را بيازماييم، و هر كس از ياد پروردگار خود دل بگرداند، وى را در قيد عذابى [روز]افزون درآورد.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "و مساجد ويژه خداست، پس هيچ كس را با خدا مخوانيد.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "و همين كه «بنده خدا» برخاست تا او را بخواند، چيزى نمانده بود كه بر سر وى فرو افتند.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "بگو: «من تنها پروردگار خود را مى‌خوانم و كسى را با او شريك نمى‌گردانم.»",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "بگو: «من براى شما اختيار زيان و هدايتى را ندارم.»",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "بگو: «هرگز كسى مرا در برابر خدا پناه نمى‌دهد و هرگز پناهگاهى غير از او نمى‌يابم.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "[وظيفه من‌] تنها ابلاغى از خدا و [رساندن‌] پيامهاى اوست.» و هر كس خدا و پيامبرش را نافرمانى كند قطعاً آتش دوزخ براى اوست و جاودانه در آن خواهند ماند.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "[باش‌] تا آنچه را وعده داده مى‌شوند ببينند، آنگاه دريابند كه ياور چه كسى ضعيف‌تر و كدام يك شماره‌اش كمتر است.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "بگو: «نمى‌دانم آنچه را كه وعده داده شده‌ايد نزديك است يا پروردگارم براى آن زمانى نهاده است؟»",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "داناى نهان است، و كسى را بر غيب خود آگاه نمى‌كند،",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "جز پيامبرى را كه از او خشنود باشد، كه [در اين صورت‌] براى او از پيش رو و از پشت سرش نگاهبانانى بر خواهد گماشت،",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "تا معلوم بدارد كه پيامهاى پروردگار خود را رسانيده‌اند؛ و [خدا] بدانچه نزد ايشان است احاطه دارد و هر چيزى را به عدد شماره كرده است.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.fooladvand",
+      "language": "fa",
+      "name": "فولادوند",
+      "englishName": "Mohammad Mahdi Fooladvand",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

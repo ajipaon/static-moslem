@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "اى جامه به خويشتن فرو پيچيده،",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "به پا خيز شب را مگر اندكى،",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "نيمى از شب يا اندكى از آن را بكاه،",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "يا بر آن [نصف‌] بيفزاى و قرآن را شمرده شمرده بخوان.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "در حقيقت ما به زودى بر تو گفتارى گرانبار القا مى‌كنيم.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "قطعاً برخاستن شب، رنجش بيشتر و گفتار [در آن هنگام‌] راستين‌تر است.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "[و] تو را، در روز، آمد و شدى دراز است.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "و نام پروردگار خود را ياد كن و تنها به او بپرداز.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "[اوست‌] پروردگار خاور و باختر، خدايى جز او نيست، پس او را كارساز خويش اختيار كن.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "و بر آنچه مى‌گويند شكيبا باش و از آنان با دورى گزيدنى خوش فاصله بگير.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "و مرا با تكذيب‌كنندگان توانگر واگذار و اندكى مهلتشان ده.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "در حقيقت پيش ما زنجيرها و دوزخ،",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "و غذايى گلوگير و عذابى پر درد است.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "روزى كه زمين و كوهها به لرزه درآيند و كوهها به سان ريگ روان گردند.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "بى‌گمان، ما به سوى شما فرستاده‌اى كه گواه بر شماست روانه كرديم، همان گونه كه فرستاده‌اى به سوى فرعون فرستاديم.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "[ولى‌] فرعون به آن فرستاده عصيان ورزيد، پس ما او را به سختى فرو گرفتيم.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "پس اگر كفر بورزيد، چگونه از روزى كه كودكان را پير مى‌گرداند، پرهيز توانيد كرد؟",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "آسمان از [بيم‌] آن [روز] در هم شكافد؛ وعده او انجام يافتنى است.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "قطعاً اين [آيات‌] اندرزى است، تا هر كه بخواهد به سوى پروردگار خود راهى در پيش گيرد.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "در حقيقت، پروردگارت مى‌داند كه تو و گروهى از كسانى كه با تواند، نزديك به دو سوم از شب يا نصف آن يا يك سوم آن را [به نماز] برمى‌خيزيد، و خداست كه شب و روز را اندازه‌گيرى مى‌كند. [او ]مى‌داند كه [شما] هرگز حساب آن را نداريد، پس بر شما ببخشود، [اينك‌] هر چه از قرآن ميسر مى‌شود بخوانيد. [خدا] مى‌داند كه به زودى در ميانتان بيمارانى خواهند بود، و [عده‌اى‌] ديگر در زمين سفر مى‌كنند [و] در پى روزى خدا هستند، و [گروهى‌] ديگر در راه خدا پيكار مى‌نمايند. پس هر چه از [قرآن‌] ميسر شد تلاوت كنيد و نماز را برپا داريد و زكات را بپردازيد و وام نيكو به خدا دهيد؛ و هر كار خوبى براى خويش از پيش فرستيد آن را نزد خدا بهتر و با پاداشى بيشتر باز خواهيد يافت. و از خدا طلب آمرزش كنيد كه خدا آمرزنده مهربان است.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.fooladvand",
+      "language": "fa",
+      "name": "فولادوند",
+      "englishName": "Mohammad Mahdi Fooladvand",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
