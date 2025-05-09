@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "हमने नूह को उसकी क़ौम के पास (पैग़म्बर बनाकर) भेजा कि क़ब्ल उसके कि उनकी क़ौम पर दर्दनाक अज़ाब आए उनको उससे डराओ",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "तो नूह (अपनी क़ौम से) कहने लगे ऐ मेरी क़ौम मैं तो तुम्हें साफ़ साफ़ डराता (और समझाता) हूँ",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "कि तुम लोग ख़ुदा की इबादत करो और उसी से डरो और मेरी इताअत करो",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "ख़ुदा तुम्हारे गुनाह बख्श देगा और तुम्हें (मौत के) मुक़र्रर वक्त तक बाक़ी रखेगा, बेशक जब ख़ुदा का मुक़र्रर किया हुआ वक्त अा जाता है तो पीछे हटाया नहीं जा सकता अगर तुम समझते होते",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "(जब लोगों ने न माना तो) अर्ज़ की परवरदिगार मैं अपनी क़ौम को (ईमान की तरफ) बुलाता रहा",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "लेकिन वह मेरे बुलाने से और ज्यादा गुरेज़ ही करते रहे",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "और मैने जब उनको बुलाया कि (ये तौबा करें और) तू उन्हें माफ कर दे तो उन्होने अपने कानों में उंगलियां दे लीं और मुझसे छिपने को कपड़े ओढ़ लिए और अड़ गए और बहुत शिद्दत से अकड़ बैठे",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "फिर मैंने उनको बिल एलान बुलाया फिर उनको ज़ाहिर ब ज़ाहिर समझाया",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "और उनकी पोशीदा भी फ़हमाईश की कि मैंने उनसे कहा",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "अपने परवरदिगार से मग़फेरत की दुआ माँगो बेशक वह बड़ा बख्शने वाला है",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "(और) तुम पर आसमान से मूसलाधार पानी बरसाएगा",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "और माल और औलाद में तरक्क़ी देगा, और तुम्हारे लिए बाग़ बनाएगा, और तुम्हारे लिए नहरें जारी करेगा",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "तुम्हें क्या हो गया है कि तुम ख़ुदा की अज़मत का ज़रा भी ख्याल नहीं करते",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "हालॉकि उसी ने तुमको तरह तरह का पैदा किया",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "क्या तुमने ग़ौर नहीं किया कि ख़ुदा ने सात आसमान ऊपर तलें क्यों कर बनाए",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "और उसी ने उसमें चाँद को नूर बनाया और सूरज को रौशन चिराग़ बना दिया",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "और ख़ुदा ही तुमको ज़मीन से पैदा किया",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "फिर तुमको उसी में दोबारा ले जाएगा और (क़यामत में उसी से) निकाल कर खड़ा करेगा",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "और ख़ुदा ही ने ज़मीन को तुम्हारे लिए फ़र्श बनाया",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "ताकि तुम उसके बड़े बड़े कुशादा रास्तों में चलो फिरो",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "(फिर) नूह ने अर्ज़ की परवरदिगार इन लोगों ने मेरी नाफ़रमानी की उस शख़्श के ताबेदार बन के जिसने उनके माल और औलाद में नुक़सान के सिवा फ़ायदा न पहुँचाया",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "और उन्होंने (मेरे साथ) बड़ी मक्कारियाँ की",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "और (उलटे) कहने लगे कि आपने माबूदों को हरगिज़ न छोड़ना और न वद को और सुआ को और न यगूस और यऊक़ व नस्र को छोड़ना",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "और उन्होंने बहुतेरों को गुमराह कर छोड़ा और तू (उन) ज़ालिमों की गुमराही को और बढ़ा दे",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "(आख़िर) वह अपने गुनाहों की बदौलत (पहले तो) डुबाए गए फिर जहन्नुम में झोंके गए तो उन लोगों ने ख़ुदा के सिवा किसी को अपना मददगार न पाया",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "और नूह ने अर्ज़ की परवरदिगार (इन) काफ़िरों में रूए ज़मीन पर किसी को बसा हुआ न रहने दे",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "क्योंकि अगर तू उनको छोड़ देगा तो ये (फिर) तेरे बन्दों को गुमराह करेंगे और उनकी औलाद भी गुनाहगार और कट्टी काफिर ही होगी",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "परवरदिगार मुझको और मेरे माँ बाप को और जो मोमिन मेरे घर में आए उनको और तमाम ईमानदार मर्दों और मोमिन औरतों को बख्श दे और (इन) ज़ालिमों की बस तबाही को और ज्यादा कर",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "hi.hindi",
+      "language": "hi",
+      "name": "फ़ारूक़ ख़ान & नदवी",
+      "englishName": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
