@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "سوێند به ئاسمان و ئه‌و ئه‌ستێرانه‌ی به‌شه‌ودا ده‌رده‌که‌ون.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "جا تۆ چووزانی (طارق) چیه‌.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "ئه‌ستێره‌یه‌که به ڕووناکیه‌که‌ی تاریکی ده‌بڕێت.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "(سوێند به‌وانه‌) هیچ که‌س نیه چاودێری نه‌بێت، (سه‌ره‌تا خوا چاودێری هه‌مووانه‌، فریشته‌کانیشی کردووه به چاودێرو پارێزه‌رمان).",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "که‌واته با ئاده‌میزاد ته‌ماشا بکات و سه‌رنج بدات که له چی دروستکراوه‌؟!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "دروستکراوه له ئاوێکی هه‌ڵقوڵاو (که مه‌نی پیاوه و هێلکۆکه‌ی ئافره‌ته‌، هه‌ردوولایان هه‌ڵده‌قوڵێن بۆ پێکهاتنی ئاده‌میزاد، به‌ویستی خوا).",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "له نێوان بڕبڕه‌کانی پشت و ئێسکه‌کانی سینه‌دا ده‌رده‌چێت.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "بێگومان ئه‌و زاته دووباره (دروستکردنه‌وه‌ی ئاده‌میزادی) زۆر لائاسانه و توانای ته‌واوی هه‌یه‌.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "ئه‌و ڕۆژه‌ی که هه‌موو نهێنیه‌کان ده‌رده‌که‌وێت و ئاشکرا ده‌کرێت.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "ئاده‌میزاد هیچ هێزو پشتیوانیه‌کی نیه‌.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "سوێند به ئاسمانێك که خاوه‌نی گێڕانه‌وه‌یه (سوڕی ئاو له سروشتدا، شه‌پۆله‌کانی ته‌له‌فون و ڕادیۆ و ته‌له‌فیزیۆن... هتد).",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "هه‌روه‌ها سوێند به زه‌وی که درزی تێ ده‌بێت به‌هۆی ڕووه‌که‌وه‌.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "به‌ڕاستی ئه‌م قورئانه گوفتارێکی جیاکه‌ره‌وه‌یه (جیاکه‌ره‌وه‌ی حه‌ق و ناحه‌ق، ڕاست و درۆ، چاك و خراپ و،... هتد).",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "ئه‌م قورئانه گوفتارێکی گه‌ڵته نیه‌.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "به‌ڕاستی ئه‌وانه سه‌رگه‌رمی پیلانن و خه‌ریکی داونانه‌وه‌ن (بۆ ئیمانداران).",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "(به‌ڵام خوا ده‌فه‌رموێت): منیش پلان و نه‌خشه‌ی خۆم ده‌خه‌مه‌کار.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "که‌واته تۆیش تاوێك مۆڵه‌تی بێ باوه‌ڕان بده‌، که‌مێك لێیان بوه‌سته (بزانه چیان به‌سه‌ر ده‌هێنم).",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "name": "ته‌فسیری ئاسان",
+      "englishName": "Burhan Muhammad-Amin",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

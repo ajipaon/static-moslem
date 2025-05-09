@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "അല്ലാഹുവിന്റെ സഹായവും വിജയവും വന്നുകിട്ടിയാല്‍.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "ജനങ്ങള്‍ അല്ലാഹുവിന്റെ മതത്തില്‍ കൂട്ടംകൂട്ടമായി പ്രവേശിക്കുന്നത് നീ കാണുകയും ചെയ്താല്‍",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "നിന്റെ രക്ഷിതാവിനെ സ്തുതിക്കുന്നതോടൊപ്പം നീ അവനെ പ്രകീര്‍ത്തിക്കുകയും, നീ അവനോട് പാപമോചനം തേടുകയും ചെയ്യുക. തീര്‍ച്ചയായും അവന്‍ പശ്ചാത്താപം സ്വീകരിക്കുന്നവനാകുന്നു.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "englishName": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

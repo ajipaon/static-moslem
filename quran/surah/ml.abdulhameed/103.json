@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "കാലം തന്നെയാണ് സത്യം,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "തീര്‍ച്ചയായും മനുഷ്യന്‍ നഷ്ടത്തില്‍ തന്നെയാകുന്നു;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "വിശ്വസിക്കുകയും സല്‍കര്‍മ്മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും, സത്യം കൈക്കൊള്ളാന്‍ അന്യോന്യം ഉപദേശിക്കുകയും ക്ഷമ കൈക്കൊള്ളാന്‍ അന്യോന്യം ഉപദേശിക്കുകയും ചെയ്തവരൊഴികെ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "englishName": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

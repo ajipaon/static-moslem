@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "പറയുക: പുലരിയുടെ രക്ഷിതാവിനോട് ഞാന്‍ ശരണം തേടുന്നു.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "അവന്‍ സൃഷ്ടിച്ചുട്ടുള്ളവയുടെ കെടുതിയില്‍ നിന്ന്‌.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "ഇരുളടയുമ്പോഴുള്ള രാത്രിയുടെ കെടുതിയില്‍നിന്നും.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "കെട്ടുകളില്‍ ഊതുന്ന സ്ത്രീകളുടെ കെടുതിയില്‍നിന്നും",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "അസൂയാലു അസൂയപ്പെടുമ്പോള്‍ അവന്‍റെ കെടുതിയില്‍നിന്നും.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "englishName": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

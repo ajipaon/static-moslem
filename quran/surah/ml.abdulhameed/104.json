@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "കുത്തുവാക്ക് പറയുന്നവനും അവഹേളിക്കുന്നവനുമായ ഏതൊരാള്‍ക്കും നാശം.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "അതായത് ധനം ശേഖരിക്കുകയും അത് എണ്ണിനോക്കിക്കൊണ്ടിരിക്കുകയും ചെയ്യുന്നവന്‌.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "അവന്‍റെ ധനം അവന് ശാശ്വത ജീവിതം നല്‍കിയിരിക്കുന്നു എന്ന് അവന്‍ വിചാരിക്കുന്നു.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "നിസ്സംശയം, അവന്‍ ഹുത്വമയില്‍ എറിയപ്പെടുക തന്നെ ചെയ്യും.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "ഹുത്വമ എന്നാല്‍ എന്താണെന്ന് നിനക്കറിയാമോ?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "അത് അല്ലാഹുവിന്‍റെ ജ്വലിപ്പിക്കപ്പെട്ട അഗ്നിയാകുന്നു.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "ഹൃദയങ്ങളിലേക്ക് കത്തിപ്പടരുന്നതായ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "തീര്‍ച്ചയായും അത് അവരുടെ മേല്‍ അടച്ചുമൂടപ്പെടുന്നതായിരിക്കും.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "നീട്ടിയുണ്ടാക്കപ്പെട്ട സ്തംഭങ്ങളിലായിക്കൊണ്ട്‌.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "englishName": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

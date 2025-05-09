@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "ته‌سبیحات و ستایشی په‌روه‌ردگاری به‌رزو بڵند و پایه‌دارت بکه‌.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "ئه‌‌و زاته‌ی هه‌موو شتێکی دروستکردووه به‌جوانی و ڕێکوپێک و تێرو ته‌واویی کردووه‌.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "ئه‌و زاته‌ی که نه‌خشه‌ی کێشاوه بۆ هه‌موو شتێك و جا ڕێنموویی کردووه‌.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "ئه‌وه‌ی که گژوگیای له له‌وه‌ڕگا ده‌رهێناوه‌.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "(به‌ڵام دوای ماوه‌یه‌ک) ده‌یکاته پووش و په‌ڵاشتێکی زه‌رده و وشك و ڕه‌شهه‌ڵگه‌ڕاو.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "{ ئه‌ی محمد (صلی الله علیه وسلم) } ئێمه قورئانت له ڕێگه‌ی جوبره‌ئیله‌وه به‌سه‌ردا ده‌خوێنینه‌وه‌، ئیتر هه‌رگیز بیرت ناچێت.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "مه‌گه‌ر شتێك ویستی خوای له‌سه‌ربێت، چونکه به‌ڕاستی خوا ئاگاداره به‌و شتانه‌ی که ئاشکراو دیارن، یاخود شاراوه‌ن.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "جا دڵنیابه ئێمه یارمه‌تیت ده‌ده‌ین بۆ ئه‌نجامدانی هه‌موو چاکه‌یه‌ك، هه‌موو کارێكی له‌بارت بۆ ئاسان ده‌که‌ین.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "که‌واته تۆ ئیتر له‌سه‌ر یادخستنه‌وه و یاداوه‌ری ئه‌و که‌سانه به‌رده‌وام به که سوودیان وه‌رگرتووه و ئاماده‌ن زیاتر تێبگه‌ن.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "بێگومان ئه‌و که‌سه‌ی که ترسی خوای له دڵدا بێت یاده‌وه‌ری وه‌رده‌گرێت.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "خراپترین که‌س خۆی لێ دوور ده‌گرێت...",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "ئه‌وه‌ی ده‌چێته ناو ئاگره‌که گه‌وره‌که‌وه و ده‌سوتێت تیایدا.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "له‌وه‌ودوا نه ئه‌وه‌یه بمرێت و (ڕزگاری بێت، نه ئه‌وه‌شه که‌) ژیانێکی ئاسایی به‌سه‌ر به‌رێت.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "بێگومان ئه‌و که‌سه سه‌رفرازه که ده‌روونی خۆی پاك ڕاگرتووه و...",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "ناوی په‌روه‌ردگاری ده‌بات و نوێژی بۆ ده‌کات و کڕنووش و سوژده‌ی بۆ بردووه‌.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "که‌چی ئێوه ڕێبازی ڕزگاری ناگرنه به‌رو به‌ڵکو زیاتر ژیانی دنیاتان مه‌به‌سته‌.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "له‌کاتێکدا قیامه‌ت و به‌ده‌ست هێنانی به‌هه‌شت چاکتره و به‌رده‌وامیشه (هه‌ر به‌راورد ناکرێت له‌گه‌ڵ ته‌مه‌نی کورتی دنیادا).",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "بێگومان ئه‌م یادخستنه‌وانه له په‌ڕاوه دێرینه‌کانیشدا باسکراوه‌.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "(له‌وانه‌) کتێبه پیرۆزه‌کانی ئیبراهیم و موسا.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "name": "ته‌فسیری ئاسان",
+      "englishName": "Burhan Muhammad-Amin",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

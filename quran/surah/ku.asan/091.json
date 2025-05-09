@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "سوێند به خۆر و تیشكی خۆراکه له سه‌ره‌تایی ڕۆژدا سه‌رهه‌ڵده‌دا).",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "سوێند به مانگ، کاتێك به‌شوێنیدا دێت.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "سوێند به ڕۆژ کاتێک که خۆر ده‌رده‌خات.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "سوێند به شه‌و که خۆر داده‌پۆشیت.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "سوێند به ئاسمان و به‌و زاته به ده‌سه‌ڵاته‌ی دروستی کردووه‌.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "سوێند به زه‌وی و به‌و زاته‌ی که به‌شێوه‌ی هێلکه‌یی دایناوه‌.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "سوێند به ده‌روون و ئه‌و زاته‌ی که به ڕێک و پێکی به‌دیهێناوه‌.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "جا توانای خراپه و چاکه و خوانه‌ناسی و خواناسی تێدا دابین کردووه‌.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "(سوێند به‌وانه هه‌موو) به‌ڕاستی ئه‌و که‌سه سه‌رفرازه که نه‌فسی پاک و پوخته کردووه و ئیمان و ترسی خوای تیادا ڕواندووه‌.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "بێگومان نائومێد بوو ئه‌و که‌سه‌ی نه‌فسی خۆی ناپوخت کرد و ئاڵوده‌ی گوناهو تاوان و خراپه‌ی کرد.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "قه‌ومی ثمود به‌هۆی سه‌رکه‌شی و یاخی بوونیانه‌وه‌، بڕوایان به پێغه‌مبه‌ره‌که‌یان نه‌هێنا.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "کاتێک شه‌قاوه و خوانه‌ناسترین که‌سیان خۆیی ڕاپسکاند (بۆ سه‌ربڕینی وشتره‌که‌).",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "جا پێغه‌مبه‌ری خوا (صاڵح) پێی وتن: واز بهێنن له‌م وشتره که موعجیزه‌ی خوایه‌، مۆڵه‌تی بده‌ن له نۆره ئاوه‌که‌ی خۆیدا ئاو بخواته‌وه‌.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "که‌چی بڕوایان به هه‌ره‌شه‌کانی نه‌کرد، ئینجا وشتره‌که‌یان سه‌ربڕی، ئه‌وسا ئیتر په‌روه‌ردگاریان وڵاتی کاولکردن و له‌گه‌ڵ زه‌ویدا ته‌ختی کرد به‌سه‌ریاندا و که‌سیان ڕزگاری نه‌بوو (به‌هۆی گوناهو تاوانیانه‌وه‌).",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "له کاتێکدا که خوای به‌ده‌سه‌ڵات له سه‌ره‌نجامی ئه‌و کاره‌یشی هه‌رگیز ناترسێت.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "name": "ته‌فسیری ئاسان",
+      "englishName": "Burhan Muhammad-Amin",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

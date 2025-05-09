@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "کاتێك خۆر ده‌پێچرێته‌وه و ڕووناکی نامێنێت.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "کاتێکیش ئه‌ستێره‌کان (له خو‌لگه‌ی خۆیان) ده‌ترازێن و ده‌ده‌ن به‌یه‌کدا.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "کاتێك کێوه‌کان له شوێنی خۆیان هه‌ڵده‌که‌نرێن و به‌ملاولادا ده‌برێن.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "کا‌تێك حوشترانی ئاوس که ته‌مه‌نی باردارییان ده مانگه گوێیان پێنادرێت (بێگومان ئه‌و وشترانه لای عه‌ره‌ب زۆر نازدارن).",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "کاتێك گیانله‌به‌رانی کێوی و وه‌حشی و دڕنده به ده‌وری یه‌کدا کۆده‌کرێنه‌وه (ئه‌وانیش دڕندایه‌تی خۆیانیان له بیر ده‌چێته‌وه له سامناکی ئه‌و ڕۆژه‌).",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "کاتێك ده‌ریاکان گڕ ده‌درێن (دیاره که ته‌قینه‌وه‌ی ئه‌تۆمی ڕووده‌دات و ئاوی ده‌ریاکان ده‌بنه‌وه به هایدرۆجین و ئۆکسجین).",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "کاتێك گیانی هه‌ر که‌س ده‌گه‌رێته‌وه بۆ لاشه‌ی و جووت ده‌بێته‌وه له‌گه‌ڵیدا.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "کاتێك کچی زینده به‌چاڵکراو پرسیاری لێده‌کرێت.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "به چ گوناهێك، به چ تۆمه‌تێك کوژرا؟!",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "کاتێك نامه‌ی کرده‌وه‌کان واڵا ده‌کرێت.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "کاتێك ئاسمان لاده‌برێن و داده‌ماڵرێن.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "کاتێك دۆزه‌خ داده‌گیرسێت و تاوده‌درێت.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "کاتێك به‌‌هه‌شت نزیك ده‌خرێته‌وه (له خواناسان).",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "ئیتر ئه‌و کاته هه‌رکه‌س ده‌زانێت چی ئاماده کردووه و چ توێشوویه‌کی پێیه‌.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "سوێند به‌و ئه‌ستێرانه‌ی که په‌نهان ده‌بن و ون ده‌بن له‌چاو، یاخود به‌هۆی سوڕانه‌وه‌ی زه‌وی و خۆیانه‌وه (به‌هۆی هه‌ڵهاتنی خۆره‌وه‌) ون ده‌بن.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "به‌و هه‌سارانه‌ی که په‌نا ده‌گرن و دیار نامێنن.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "به‌و شه‌وه‌ی که دادێت و تاریکایه‌که‌ی ڕوومان تێده‌کات.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "به به‌ره‌به‌یان که پشووی تێدێت، وه‌کو زینده‌وه‌رێك ئاهی تێدێته‌وه و ده‌ست ده‌کات به هه‌ناسه‌دان و ژیان و ڕووناکیه‌که‌ی ده‌رده‌که‌وێت.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "(سوێند به‌وانه هه‌مووی) به‌ڕاستی، بێ دوودڵی ئه‌م قورئانه له‌زاری نێردراوێکی به‌ڕێزه‌وه‌یه (که جوبره‌ئیله‌).",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "خاوه‌نی هێزو ده‌سه‌ڵاته و لای خاوه‌نی عه‌رش، فریشته‌یه‌کی پایه‌داره‌.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "فه‌رمانڕه‌وایه له‌وێ، هه‌روه‌ها ئه‌مین و دڵسۆزه له کاره‌کانیدا.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "دڵنیابن که هاورێکه‌تان { محمد (صلی الله علیه وسلم) } شێت نیه و (له‌که‌ماڵی ژیریدایه‌).",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "بێگومان محمد (صلی الله علیه وسلم) جوبره‌ئیلی بینی به ئاشکرا له ئاسۆی نومایاندا.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "هه‌رچی پێ ده‌گات، له جیهانی نهێنی و شاراوه‌کانه‌وه‌، لێتان ناشارێته‌وه و ڕاستیتان پێ ڕاده‌گه‌یه‌نێت چونکه هه‌رگیز له گه‌یاندنی په‌یامه‌که‌یدا ڕژدو ڕه‌زیل نیه‌.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "ئه‌م قورئانه گوفتاری شه‌یتانی نه‌فرین لێکراو نیه‌.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "ئیتر بۆ کوێ ده‌چن؟ ڕوو ده‌که‌نه کوێ؟ ڕوو ده‌که‌نه کێ؟",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "ئه‌م قورئانه ته‌نها یادخه‌ره‌وه‌یه بۆ سه‌رجه‌م دانیشتووانی زه‌وی (بۆ په‌ری و ئاده‌میزاد له هه‌موو سه‌رده‌مه‌کاندا).",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "بۆ ئه‌وانه‌تان که ده‌یانه‌وێت ڕێبازی ڕاست و دروست بگرنه‌به‌ر.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "ویستی ئێوه‌ش نایه‌ته دێته دی مه‌گه‌ر کاتێك خوای په‌روه‌ردگاری جیهانیان بیه‌وێت، (هه‌رکه‌س ویستی خێری هه‌بێت خوای گه‌وره سه‌ربه‌رستی لێ زه‌وت ناکات، له‌گه‌ڵ ئه‌وه‌شدا هه‌ر ئه‌وه پێش دێت که ویستی خوای له‌سه‌ره و توانای تێگه‌یشتنمان له نهێنی و شاراوه‌کا‌ن زۆر سنوورداره‌).",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "name": "ته‌فسیری ئاسان",
+      "englishName": "Burhan Muhammad-Amin",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
