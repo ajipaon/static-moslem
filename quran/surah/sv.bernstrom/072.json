@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Säg [Muhammad]: ”Det har uppenbarats för mig att en skara av osynliga väsen fick lyssna till [Koranen], och [att] de sade [till de sina]: 'Vi har lyssnat till en märklig uppläsning,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "som leder [lyssnaren] till kunskap om rätt och orätt. Vi tror på dess [ord] och vi skall inte sätta gudar vid vår Herres sida.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Låt Vår Herres namn hållas högt i ära, Han som aldrig haft en ledsagerska vid Sin sida och inte har [avlat] någon son!",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "Den dåraktigaste av oss brukade göra oerhörda [påståenden] om Gud,",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "och förr trodde vi att varken människorna eller de osynliga väsendena skulle yttra lögner om Gud.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "Men det fanns människor som hade för vana att anropa några av de osynliga väsendena om skydd, och kom på så sätt deras högmod att växa,",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "och de trodde, liksom ni har trott, att Gud inte skulle sända någon ytterligare [profet].",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "Vi försökte nå himlen [för att utforska dess hemligheter], men där fann vi mäktiga väktare och flammor av eld;",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "och vi [försökte] komma till de platser där vi brukade lyssna, men den som nu vill lyssna kommer att finna [att] en flamma av eld ligger i beredskap för honom.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Vi vet inte om de som lever på jorden skall få det onda [på sin lott] eller om deras Herre vill [ge dem] kunskap om rätt och orätt.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Bland oss finns de som vill göra det rätta och andra som har mindre intresse för det rätta; ja, vi har alltid varit delade i olika grupper.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Men vi har insett att vi inte kan trotsa Guds [vilja] på jorden och inte heller komma undan den genom att fly.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Och efter att [nu] ha fått höra om vägledningen, tror vi på den; den som tror på sin Herre behöver inte vara rädd att [hans förtjänster] skall frånkännas honom eller [att han skall få lida annan] orätt.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Bland oss finns [nu] de som har underkastat sig Guds vilja och de som går det ondas väg. De som har underkastat sig Guds vilja är de som sökte kunskap om rätt och orätt;",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "men de som väljer att gå det ondas väg skall bli bränsle för helvetets [ugnar]!'”",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "OM DE [som förnekar Oss] hade slagit in på den raka vägen, skulle Vi helt visst ha skänkt dem regn i riklig mängd",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "för att pröva deras [villighet att tacka Oss för Våra gåvor]. Och den som vägrar att åkalla sin Herre skall Han utlämna åt ett straff från vilket ingen lindring ges.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Men när Guds tjänare reser sig för att anropa Honom tränger massorna på [som om de ville övermanna honom].",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Säg: \"Jag anropar ingen annan än min Herre och jag sätter ingen vid Hans sida.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Säg: \"Jag har ingen makt över er och kan inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen.\"",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Säg: \"Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom,",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "om [jag] inte förkunnar vad Gud [befaller mig att förkunna] och framför [alla] Hans budskap.\" Och på den som visar olydnad mot Gud och Hans Sändebud väntar helvetets eld och i den skall han [och hans likar] förbli till evig tid.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "När de [som sätter gudar vid Guds sida] till sist får skåda [straffet], som de varnades för; skall de inse vilka som hade det svagaste stödet och var obetydligast till antalet [- de eller de troende]!",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Säg: \"Jag vet inte om det som har lovats er är nära förestående eller om min Herre skall skjuta upp det.\"",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Han känner det som är dolt för människor, men Han låter ingen få insikt i Sina hemligheter",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "utom det sändebud som Han [utser till detta]. Och då sätter Han ut vakter framför och bakom sändebudet,",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "för att det skall vara uppenbart att [han såväl som de andra sändebuden] har kunnat framföra sin Herres budskap. Allt som berör dem har Han under uppsikt och Han håller räkning på allt [i Sin skapelse].",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sv.bernstrom",
+      "language": "sv",
+      "name": "Bernström",
+      "englishName": "Knut Bernström",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

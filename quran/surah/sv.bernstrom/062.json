@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "ALLT det som himlarna rymmer och det som jorden bär prisar Gud, Konungen, den Helige, den Allsmäktige, den Vise.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "Det är Han som har sänt ett Sändebud till de olärda ur deras egna led för att framföra Hans budskap till dem och [lära] dem renhet och undervisa dem i Skriften och [profeternas] visdom - de hade förut helt uppenbart gått vilse -",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "och till andra [folk], som ännu inte kommit i beröring med dem - Han är den Allsmäktige, den Vise.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Sådan är Guds nåd, och Han skänker den till den Han vill. Guds nåd är en outsinlig källa.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "DE som anförtroddes Tora och som därefter inte förmådde bära denna [börda], kan liknas vid åsnan som bär en last av heliga böcker. Ett folk som påstår att Guds budskap är lögn visar upp sin mest motbjudande sida; Gud vägleder inte dem som oupphörligt begår orätt.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Säg: \"Ni, bekännare av den judiska tron! Om ni som ni påstår är Guds enda vänner bland människorna, borde ni önska er döden - om ni talar sanning!\"",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Men de kommer aldrig att önska sig döden på grund av det som deras händer har sänt före dem [till Domen]; och Gud känner de orättfärdiga.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Säg: \"Döden, som ni vill fly från, skall infinna sig till det möte [som är utsatt] för er och då skall ni föras åter till Honom som känner allt det som är dolt för människor och det som de kan bevittna, och då skall Han låta er veta vad era handlingar [var värda].\"",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "TROENDE! När böneutroparen kallar till fredagsbönen, lämna då handel och köpenskap och skynda er dit där Guds namn åkallas; detta är för er det bästa - om ni [bara] visste!",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Och när bönen är slut skall var och en gå tillbaka till sitt för att söka det som Gud i Sin godhet [beviljar honom]. Och ha alltid Gud i tankarna, för att det skall gå er väl i händer.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "[Men om] människorna blir varse [ett tillfälle att göra] en vinst eller [att få en stunds] förlustelse, bryter de upp [från bönen] och lämnar dig [Muhammad] stående [i predikstolen]. [Varna dem och] säg: \"Det som [väntar er] hos Gud är bättre än ytlig förströelse eller [ett tillfälle att göra] en vinst; ingen sörjer bättre [för de sina] än Gud!\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sv.bernstrom",
+      "language": "sv",
+      "name": "Bernström",
+      "englishName": "Knut Bernström",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Alif Lam Mim (A. L. M.)",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Huu ni mteremsho wa Kitabu kisicho kuwa na shaka yoyote kinacho toka kwa Mola Mlezi wa walimwengu wote.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Au wanasema: Amekizua? Bali hichi ni Kweli iliyo toka kwa Mola wako Mlezi ili uwaonye watu wasio fikiwa na mwonyaji kabla yako; huenda wakaongoka.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Mwenyezi Mungu ndiye aliye umba mbingu na ardhi na viliomo baina yao kwa siku sita, na akatawala kwenye Kiti cha Enzi. Nyinyi hamna mlinzi wala mwombezi isipo kuwa Yeye tu. Basi, je, hamkumbuki?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "Anapitisha mambo yote yalio baina mbingu na ardhi, kisha yanapanda kwake kwa siku ambayo kipimo chake ni miaka elfu kwa mnavyo hisabu nyinyi.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Huyu ndiye Mwenye kuyajua yasiyo onekana na yanayo onekana. Mwenye nguvu, Mwenye kurehemu.",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "Ambaye ametengeneza vizuri umbo la kila kitu; na akaanzisha kumuumba mtu kwa udongo.",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Na kisha akajaalia uzao wake utokane na kizazi cha maji madhaifu.",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Kisha akamtengeneza, na akampulizia roho yake, na akakujaalieni kusikia na kuona, na nyoyo za kufahamu. Ni uchache mnavyo shukuru.",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "Nao husema: Tutapo kwisha potea chini ya ardhi, ni kweli tutarudishwa katika umbo jipya? Bali wao wanakanusha kwamba watakutana na Mola wao Mlezi.",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Sema: Atakufisheni Malaika wa mauti aliye wakilishwa juu yenu; kisha mtarejeshwa kwa Mola wenu Mlezi.",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "Na ungeli waona wakosefu wanvyo inamisha vichwa vyao mbele ya Mola wao Mlezi, (wakisema): Mola wetu Mlezi! Tumesha ona, na tumesha sikia. Turejeshe tukatende mema, kwani hakika sisi tumekwisha kuwa na yakini sasa.",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "Na lau tungeli taka tunge mpa kila mtu uwongofu wake. Lakini imekwisha kuwa kauli iliyo toka kwangu: Kwa yakini nitaijaza Jahannamu kwa wote hawa, majini na watu.",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "Basi onjeni kwa vile mlivyo usahau mkutano wa Siku yenu hii. Na Sisi hakika tunakusahauni. Basi onjeni adhabu ya milele kwa yale mliyo kuwa mkiyatenda.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Hakika wanao ziamini Aya zetu ni hao tu ambao wakikumbushwa hizo, basi wao huanguka kusujudu, na humsabihi Mola wao Mlezi kwa kumhimidi, nao hawajivuni.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Mbavu zao zinaachana na vitanda kwa kumwomba Mola wao Mlezi kwa khofu na kutumaini, na hutoa kutokana na tulivyo waruzuku.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Nafsi yoyote haijui waliyo fichiwa katika hayo yanayo furahisha macho - ni malipo ya yale waliyo kuwa wakiyatenda.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Ati aliye Muumini atakuwa sawa na aliye mpotovu? Hawawi sawa.",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "Ama walio amini na wakatenda mema, watakuwa nazo Bustani za makaazi mazuri. Ndio pa kufikia kwa waliyo kuwa wakiyatenda.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "Na ama wale walio tenda uovu, basi makaazi yao ni Motoni. Kila wakitaka kutoka humo watarudishwa humo humo. Na wataambiwa: Onjeni adhabu ya Moto ambayo mliyo kuwa mkiikanusha.",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "Na tutawaonjesha adhabu khafifu kabla ya adhabu kubwa, huenda labda watarejea.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "Na ni nani dhaalimu mkubwa kuliko yule anaye kumbushwa kwa Ishara za Mola wake Mlezi, kisha akazikataa? Hakika Sisi tutajilipiza kwa wakosefu.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Hakika Sisi tulikwisha mpa Musa Kitabu. Basi usiwe na shaka kuwa kakipokea. Na tukakifanya kuwa ni uwongofu kwa Wana wa Israili.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "Na tukawafanya miongoni mwao waongozi wanao ongoa watu kwa amri yetu, walipo subiri na wakawa na yakini na Ishara zetu.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Hakika Mola wako Mlezi ndiye atakaye fafanua baina yao Siku ya Kiyama katika waliyo kuwa wakikhitalifiana.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Je! Haijawabainikia kwamba kaumu ngapi tuliziangamiza kabla yao, nao wanapita katika maskani zao hizo? Hakika katika hayo zipo Ishara. Basi, je, hawasikii?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Je! Hawaoni ya kwamba tunayapeleka maji kwenye ardhi kavu, kisha kwayo tunaitoa mimea wanayo kula wanyama wao na wao wenyewe? Je! Hawaoni?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "Wanasema: Ushindi huu ni lini, kama mnasema kweli?",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Sema: Siku ya Ushindi, wale walio kufuru imani yao haitawafaa kitu, wala wao hawatapewa muhula.",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Basi wapuuze, nawe ngonja; hakika wao wanangoja.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sw.barwani",
+      "language": "sw",
+      "name": "Al-Barwani",
+      "englishName": "Ali Muhsin Al-Barwani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

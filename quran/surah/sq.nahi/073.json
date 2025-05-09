@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O ti i mbështjellur (Muhammed)!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Zgjoju (lutju) Perëndisë natën, pos të paktën; -",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "gjysmën e saj ose edhe më pak nga ajo,",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "ose diçka më shumë se ajo, dhe lexo Kur’anin me kujdes dhe qartë,",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Ne, me të vërtetë, do të dërgojmë ty fjalë të rënda –",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "sepse, zgjuarja natën, me të vërtetë, vepron më fuqishëm dhe shprehjet (mësimet) janë më të kthjellta,",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "meqë ti, me të vërtetë, ditën je shumë i angazhuar.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Dhe përmende emrin e Zotit tënd dhe përkushtoju krejtësisht Atij.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "Ai ësht Zot i lindjes dhe i perëndimit, s’ka zot tjetër përveç Tij, dhe Atë merre për mbrojtës!",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Dhe, duroji llomotitjet e atyre dhe largohu nga ata në mënyrë të bukur,",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "e lermëni Mua (t’i qeroj hesapet) me ata që të konsiderojnë (ty) për gënjeshtar, të cilët jetojnë në luks dhe jepju pak afat atyre:",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "se, padyshim, Ne kemi pranga dhe zjarr,",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "dhe gjellëra që ngelin në fyt, dhe dënime të dhembshme",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "në Ditën kur Toka dhe malet dridhen e bëhen si grumbuj të shkapërderdhur të rërës.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Ne, juve, me të vërtetë, ju kemi dërguar një Profet dëshmitar kundër jush, ashtu siç ia kemi pas dërguar një profet Faraonit,",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "por Faraoni e ka kundërshtuar Profetin, andaj e kemi dënuar atë me dënim të rëndë.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Qysh do të ruheni ju (nga dënimet) nëse mbeteni jobesimtarë Ditën në të cilën fëmijët bëhen të thinjët (prej tmerrit të madh)?!",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "Atë ditë, qielli do të çahet (nga tmerri), e premtimi i Zotit do të jetë i plotësuar.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Kjo, me të vërtetë, është këshillë; dhe kush dëshiron – le ta zgjedhin rrugën (që shpie) te Zoti i tij.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Me të vërtetë, Zoti yt e di, se ti (o Muhammed) lutesh më pak se dy të tretat e natës, ndonjëherë gjysmën ose të tretën e saj, si edhe disa prej atyre që janë me ty. Zoti e ka caktuar gjatësinë e ditës dhe të natës, Ai e di se ju nuk mundeni me e llogaritur atë, andaj ju ka bërë lehtësi; e ju lexoni Kur’an aq sa mundeni; Ai e di që ndokush nga ju do të jetë i sëmurë, kurse disa të tjerë udhëtojnë nëpër botë, duke kërkuar dhuntitë e Perëndisë (për jetesë), dhe të tjerë që luftojnë në rrugën e Perëndisë – prandaj, lexoni ju sa keni mundëis nga Kur’ani, dhe kryeni namazin dhe jepnie zeqatin, dhe për hir të Perëndisë jepnihua, sepse, çdo të mirë që e përgatitni ju për vete më parë, do ta gjeni te Perëndia më të mirë dhe (do të keni) shpërblim më të madh. Kërkoni falje te Perëndia, se, Perëndia, me të vërtetë, është falës dhe mëshirues i madh.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sq.nahi",
+      "language": "sq",
+      "name": "Efendi Nahi",
+      "englishName": "Hasan Efendi Nahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

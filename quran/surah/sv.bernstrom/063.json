@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "NÄR HYCKLARNA kommer till dig säger de: \"Vi vittnar att du är Guds Sändebud!\" Men Gud vet att du är Hans Sändebud, och Gud vittnar att hycklarna ljuger.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "De svär sina eder för att skydda sig och på så sätt leder de [andra] bort från Guds väg; det de gör är ont,",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "därför att de utåt bekänner tron men förnekar den [i hjärtat] - och då förseglas deras hjärtan så att sanningen inte kan nå dem.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "När du ser dem kan du få ett gott intryck av deras yttre och du lyssnar på dem när de talar. [I själva verket är de lika andefattiga] som uppstöttade trästockar, och [i sin rädsla och osäkerhet] tror de att varje rop [från mängden] är ett hot mot dem. De är dina fiender, [Muhammad]; - var därför på din vakt mot dem. Guds förbannelse över dem! Hur förvirrade är inte deras begrepp!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "När de uppmanas: \"Kom [och låt] Guds Sändebud be att Han förlåter er!\" vänder de bort huvudet och du ser dem dra sig undan, fulla av högmod.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Vad dem beträffar är det likgiltigt om du ber om förlåtelse för dem eller inte - Gud kommer inte att förlåta dem. Gud vägleder inte dem som förhärdats i synd och trots.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Det är de som säger [till andra]: \"Ge ingenting till dem som sluter upp kring Guds Sändebud; då ger de sig nog av härifrån!\" - Men himlarnas och jordens skatter tillhör Gud, fastän hycklarna inte förstår det.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "De säger [också]: \"Om vi kommer tillbaka till staden [från detta fälttåg], skall de som har makten helt säkert driva bort dessa föraktliga stackare härifrån!\" - Men [den verkliga] makten ligger hos Gud - och Hans Sändebud och de troende - och det vet inte hycklarna.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "TROENDE! Låt inte [omsorgen om] era ägodelar och [bekymren för] era barn få er att glömma att åkalla Guds namn; de som gör detta är förlorarna.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Och ge av det som Vi har skänkt er för er försörjning innan ni känner döden närma sig och ni säger: \"Herre! Ge mig bara ett kort uppskov; då skall jag ge åt de behövande och leva som en rättskaffens människa!\"",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "Men Gud beviljar inte uppskov åt den vars tid har löpt ut, och Gud har full kännedom om vad ni gör.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sv.bernstrom",
+      "language": "sv",
+      "name": "Bernström",
+      "englishName": "Knut Bernström",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

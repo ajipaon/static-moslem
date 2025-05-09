@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Ne e kemi dërguar Nuhun te populli i tij: “Paralajmëro popullin tënd para se t’i arrijë dënimi i dhembshëm!”",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "Ai tha: “O populli im, unë, me të vërtetë, jam për ju paralajmërues i qartë;",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "që t’i luteni Perëndisë dhe t’i ruheni (kundërshtimit) të Atij dhe që të më dëgjoni mua,",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "Ai ju falë mëkatet tuaja dhe do t’ju lërë të jetoni deri në çastin e caktuar, e kur t’ju vije çasti i caktuar i Perëndisë, me të vërtetë, ai nuk shtyhet; ta dini ju”.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "Ai tha: “O Zoti im, unë, me te vërtetë, e thirra popullin tim natë e ditë,",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "por thirrja ime (nuk solli dobi, por) shkaktoi largim edhe më të madh.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "E, sa herë që i thërrita (unë) ata (në punë të mbarë), për t’i falur Ti, ata i shtinin gishtërinjtë në veshët e tyre dhe mbuloheshin me petkat e tyre (për të mos më parë) – ishin këmbëngulës dhe shumë mendjemëdhenj.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "Pastaj, i thirra haptazi (me zë edhe më të lartë),",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "e mandej ua shpalla publikisht atë, si dhe në besim u përshpërita (i thirra në të gjitha format).",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "Dhe ju thashë: Kërkoni falje nga Perëndia i jua, sepse, me të vërtetë, Ai është falës, i madh;",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "Ai do t’ju dërgojë juve shi të bollshëm,",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "dhe do t’ju ndihmojë me pasuri dhe me fëmijë, dhe për ju do të krijojë kopshtije dhe për ju do të krijojë lumenj.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "Përse nuk i frikoheni madhërisë së Perëndisë,",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "e, Ai ju ka krijuar me forma (faza) të ndryshme?!",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "A nuk po shihni se si Perëndia i ka krijuar shtatë qiejt – palë-palë (kat-kat),",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "dhe në ta e ka bërë Hënën dritë, kurse Diellin e ka bërë fener (ndriçues)?",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "Perëndia ju ka krijuar nga toka (dheu), ashtu si bimët,",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "pastaj ju kthen te ajo dhe prej saj sërish do t’ju nxjerrë.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "Perëndia për ju Tokën e ka bërë shtrojë,",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "që të ecni nëpër të, nëpër rrugët e gjera?”",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Nuhu tha: “O Zoti im, ata më kundërshtuan mua dhe u dhanë pas atyre, pasuria dhe fëmijët e të cilëve nuk kanë sjellë gjë tjetër, pos shkatërrimt,",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "dhe trilluan trillime të mëdha (kundër Nuhut)",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "dhe kanë thënë (populli i Nuhut): Mos i lini kurrsesi zotrat tuaja, mos e lini kurrsesi as Veddin, as Suvain, as Jeguthin, as Jeukin, as Nesrin’!",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "E, këta idhujë kanë mashtruar shumë (njerëz); e ti (keqbërësve), mos u smadho asgjë, përpos humbjes!”",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Për shkak të mëkateve të tyre, ata janë përmbytur, e janë hedhur në zjarr dhe ata nuk kanë gjetur mbrojtës tjetër për vete, përveç Perëndisë.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "Dhe Nuhu tha: “O Zoti im, mos lë të qarkullojë në faqe të dheut asnjë mohues,",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "sepse, me të vërtetë, nëse Ti i lë, ata – do t’i shpien në humbje robërit e Tu dhe do tëlindin vetëm mëkatarë dhe jobesimtarë!",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "O Zoti im, falmë mua dhe prindërit e mi, dhe ata të cilët hynë në shtëpinë time si besimtarë, dhe besimtarët e besimtaret, ndërsa zullumqarëve shtoju vetëm shkatërrimin!",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sq.nahi",
+      "language": "sq",
+      "name": "Efendi Nahi",
+      "englishName": "Hasan Efendi Nahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
