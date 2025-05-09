@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "Kur të vijnë hipokritët të thonë: “Ne dëshmojmë se ti je, me të vërtetë, Profet i All-llahut” edhe All-llahu e di se ti je njëmend Profet i Tij, porse All-llahu dëshmon se hipokritët janë me siguri rrenacak.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "Ata betimin e tyre e shfrytëzojnë si mbrojtje dhe shmangen nga rruga e All-llahut. Është shumë keq, njëmend, çka bëjnë ata!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "Ajo është nga se ata besuan e pastaj mohuan, prandaj u vulosën zemrat e tyre dhe ata më nuk kuptojnë.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Kur i shikon ata, pamja e tyre të mahnit, por kur flasin, ti i dëgjon fjalët e tyre, mirëpo ata janë sikur shtylla të zbrazëta dhe mendojnë se çdo thirrje është kundër tyre. Ata janë armiq, andaj ruaju prej tyre! Ku po shkojnë, All-llahu i vraftë!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "Dhe kur u thuhet: “Ejani, Profeti i All-llahut do të kërkojë falje për ju”, ata luajnë kokat e tyre dhe ti i sheh se largohen, se ata janë arrogantë.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Për ata është një lloj, u lute ti për ata apo nuk u lute, All-llahu me siguri nuk udhëzon në rrugë të drejtë popullin e mbrapshtë.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Ata janë që thonë: “Mos u jepni kurrgjë atyre që janë me Profetin e All-llahut, derisa të largohen”. Pasuria e qiejve dhe e tokës janë të All-llahut, por hipokritët nuk e marrin vesh.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "Ata thonë: “Nëse kthehemi në medine gjithsesi të fortit kanë për t’i përzënë prej aty më të dobëtit!” Por forca është e All-llahut dhe Profetit të tij dhe e besimtarëve, por hipokritët s’e dinë.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "O besimtarë, le të mos u largojë pasuria dhe fëmijët tuaj vëmendjen nga All-llahu. Kush bën ashtu, hej, ata janë të humbur.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Dhe shpërndani prej asaj që Ne ju furnizojmë para se t’i vijë vdekja ndonjërit prej jush, e të thotë: “O Zot, sikur të më presësh edhe pak do të jap lëmoshë dhe të bëhem nga të mirët”.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "All-llahu, me siguri, nuk do t’ia vonojë askujt kur t’i vijë momenti i vet, dhe All-llahu e di mirë se çka punoni.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sq.mehdiu",
+      "language": "sq",
+      "name": "Feti Mehdiu",
+      "englishName": "Feti Mehdiu",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

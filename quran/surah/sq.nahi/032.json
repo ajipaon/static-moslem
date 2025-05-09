@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Elif, Lám, Mîm.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Shpallja e këtij Libri, për të cilin s’ka dyshim – është nga Zoti i gjithësisë,",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "e ata thonë: “Ai (Muhammedi) e ka trilluar atë! Jo, ajo është e Vërteta nga Zoti yt – për ta paralajmëruar popullin, të cilit, para teje nuk i ka ardhur kurrfarë paralajmëruesi, që të shkojë në rrugë të drejtë.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Perëndia është Ai që ka krijuar qiejt dhe Tokën dhe çdo gjë që gjendet në mes tyre, për gjashtë ditë (periudha kohore), dhe e ka mbizotëruar Gjithësinë (Arshin). Ju, nuk keni – pos Tij, ndihmës as ndërmjetësues; e vallë, a nuk po mendoni?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "Ai i udhëheq të gjitha gjërat, prej qiellit deri në Tokë, e atëherë kthehen tek Ai në ditën, gjatësia e së cilës është një mijë vjet sipas llogaritjes suaj (në këtë Botë).",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Ai është dijtës i gjërave të padukshme dhe të dukshme, i Plotëfuqishëm dhe Mëshirues,",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "i cili e ka bërë të mirë çdo gjë që ka krijuar dhe ka filluar krijimin e njeriut prej balte,",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "(e) pastaj, ka bërë që pasardhësit e tij të krijohen prej një rrjedhje të dobët të ujit (spermës),",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "pastaj, e ka krijuar atë (njeriun) dhe i ka dhënë gjallëri, me frymëzimin e Tij. Ai ju ka dhënë të dëgjuarit, të pamurit dhe të menduarit, - e sa pak prej jush që jeni mirënjohës.",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "Dhe ata thonë: “E, vallë, pasi të humbasim nën tokë, përsëri do të ngjallemi?” Dhe ata, nuk besojnë se do të takohen me Zotin e tyre.",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Thuaju: “Do t’jua merr shpirtin engjëlli i vdekjes, i cili është caktuar për ju, e pastaj do të ktheheni te Zoti juaj”.",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "E, sikur t’i shohësh mëkatarët se si para Zotit të tyre kokëulur thonë: “O Zoti ynë, pamë dhe dëgjuam, andaj, kthena që të punojmë vepra të mira! Na, me të vërtetë, me ngulmëri besojmë!”",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "E, sikur Ne të donim, do t’ia jepnim çdo personi udhëzimin e tij, por kjo është fjala Ime e vërtetë: “Me të vërtetë, do ta mbush xhehennemin me xhindë dhe njerëz bashkërisht!”",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "E, shijoni (dënimin), ngase e keni harruar takimin e kësaj dite. Në të vërtetë, Ne ju kemi braktisur – dhe shijoni dënimin e përhershëm për atë që keni punuar.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Ajetet Tona i besojnë vetëm ata të cilët kur të këshillohen me to, bijnë në sexhde, dhe të cilët, e madhërojnë Zotin e tyre duke iu falenderuar Atij, dhe të cilët, nuk bëhen mendjemëdhenj.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Pjesët e trupit të tyre ngriten nga shtrati (për t’u falur); i luten Zotit të tyre duke druajtur dhe shpresuar, dhe japin (lëmoshë) nga ajo që u kemi dhënë Ne.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Askush nuk di se çfarë gëzime të fshehta janë për ta – shpërblimi për atë që kanë punuar.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Vallë! A është njësoj si besimtari si mëkatari? Jo, ata nuk janë të barabartë:",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "ata që kanë besuar dhe punuar vepra të mira, për ta janë kopshtet e xhennetit Meëva – të përgatitur për atë që kanë punuar;",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "e ata që kanë bërë keq, vendbanim i tyre është zjarri; sa herë që duan të dalin nga ai (zjarri), do të kthehen në të dhe do t’u thuhet: “Shijoni dënimin e zjarrit, të cilin e keni përgënjeshtruar!”",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "Dhe Ne, do të bëjmë që të shijojnë dënimin e kësaj jete para (atij) dënimit të madh, për t’u penduar ata.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "Kush është zullumqar më i madh se ai, që është këshilluar me argumentet e Zotit të tij, e shmanget prej tyre? Na, me të vërtetë, do t’i dënojmë mëkatarët!",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Na, madje, ia kemi dhënë Librin Musait, dhe mos dysho në takimin me të, dhe e kemi bërë atë (Librin) udhërrëfyes për bijtë e Israelit.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "Na, prej tyre – kemi bërë udhëheqës, të cilët udhëzonin me urdhërat Tona, meqë ishin të durueshëm dhe besonin bindshëm në argumentet Tona.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Me të vërtetë, Zoti yt, do t’i gjykojë në mes tyre Ditën e Kijametit, për atë që e kundërshtuan njëri-tjetrin.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "(Vallë)! A nuk u është e qartë atyre se sa popuj i kemi shkatërruar Ne para tyre; nëpër shtëpiat e të cilëve ecin? Me të vërtetë, në këto ka argumente, e ata nuk po dëgjojnë (këshillat).",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Vallë! A nuk shohin ata, që Ne, me të vërtetë e dërgojmë ujin në tokën e shkretëruar, e me të – nxjerrim të lashtat, me të cilat ushqehen shtazët e tyre dhe ata vetë, e ata madje nuk po shohin?!",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "Dhe, ata thonë: “E, kur më fitorja (Dita e Kijametit), nëse thoni të vërtetën?”",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Thuaju (o Muhammed!): “Ditën e gjykimit, nuk do t’u bëjë dobi mohuesve besimi i tyre, e as që do t’u jepet afat”.",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Andaj, ti shmangu nga ata dhe prit, edhe ata, me të vërtetë, po presin!",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sq.nahi",
+      "language": "sq",
+      "name": "Efendi Nahi",
+      "englishName": "Hasan Efendi Nahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Thuaj: Mua më është shpallur se disa xhindë kanë dëgjuar dhe kanë thënë: - Ne me të vërtetë kei dëgjuar një Kur’an fantastik,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "Që udhëzon në rrugë të drejtë, andaj ne i besuam dhe më Zotit tonë nuk do t’i bëjmë shok askë,",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Kurse Ai –qoftë lartësuar madhëri e Zotit tonë! – nuk ka marrë për vete as shoqe as fëmijë;",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "Por një i çmendur yni fliste gënjeshtra ndaj All-llahut,",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "Kurse ne kemi menduar se as njeriu e as xhindi nuk do të flasë gënjeshtra për All-llahun,",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "Dhe se ka pasur njerëz, të cilët kanë kërkuar mbrojtje prej exhinëve tek njerëzit, dhe ashtu ua kanë shtuar tërbimin.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "Dhe ata kanë menduar, siç keni menduar edhe ju, se All-llahu askë nuk do ta ngjallë.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "dhe ne jemi përpjekur të prekim qiellin, por atë e kemi gjetur përplotë me rojtarë të fortë dhe yjë sulmues – meteorë.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "Dhe kemi ndejtur aty, në vendvështrim (vështrimore), dhe kush dëgjon tani, do të hasë në pritën e meteorit.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Dhe en nuk dimë, a u dëshirohet keq atyre që janë në tokë, apo Zoti i tyre dëshiron t’i drejtojë?",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Dhe me siguri në mesin tonë ka të mirë, por ka edhe të tjerë që nuk janë kështu, kemi qenë drejtimesh të ndryshme.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Dhe ne e dimë se nuk mund ta pengojmë All-llahun në tokë dhe as do ta pengojmë më të ikur.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Dhe ne, sapo e dëgjuam udhëzimin (Kur’anin), i besuam atij, dhe kush i beson Zotit të vet, nuk i frikësohet as dëmit as padrejtësisë.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Dhe prej nesh ka muslimanë, edhe të padrejtë ka, prandaj kush e përqafon islamizmin, ata kanë zgjedhur rrugën e vërtetë,",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Kurse të larguarit do të jenë lëndë djegëse të xhehennemit,",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "E sikur t’i përmbaheshin rrugës së drejtë, Ne do t’i kishim ngopur me ujë të mjaftueshëm,",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "Për t’i vënë në sprovë, dhe kush ia kthen shpinën vërejtjes së Zotit të vet, Ai do ta shtyjë në dënim të rëndë.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Me të vërtetë xhamiat janë për All-llahun, dhe mos i luteni askjt përveç All-llahut!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Sepse kur robi i All-llahut u ngrit t’i lutet Atij, gati e rrëzuan (grupe exhinësh).",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Thuaj: “Unë i falem vetëm Zotit tim dhe atij askë nuk ia bëj shok”.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Thuaj: “Unë nuk kam mundësi as për dëm as për dobi”.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Thuaj: “Mua askush nuk do të më mbrojë nga All-llahu dhe nuk do të gjejë mbështetje askund përveç tek Ai”.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "përveç kumtimit nga All-llahu dhe revelatat e Tij. Dhe kush është i padëgjueshëm ndaj All-llahut dhe Profetit të tij, me siguri e pret zjarri i xhehennemit, ku do të mbesin përgjithmonë.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Derisa të përjetojnë atë që u premtohet, dhe do ta marrin vesh se kush është më i dobët dhe më i vogël në numër.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Thuaj: “Nuk e di a do të ndodh së shpejti ajo që u premtohet apo Zoti im do ta vonojë atë”.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Ai e di të padukshmen dhe fshehtësit e veta nuk ia zbulon askujt,",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "Përveç atij me të cilin është i kënaqur nga të dërguarit. Prandaj, ai edhe përpara edhe pas tij vë rojën,",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "Që ta dijë se kanë kumtuar traktatet e Zotit të vet. Ai e di në hollësi se çka ka tek ata; Ai e di numrin e çdo sendi që ekziston.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sq.mehdiu",
+      "language": "sq",
+      "name": "Feti Mehdiu",
+      "englishName": "Feti Mehdiu",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
