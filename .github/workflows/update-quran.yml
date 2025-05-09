@@ -1,31 +1,23 @@
 name: Update Quran JSON
-
 on:
   schedule:
     - cron: "*/5 * * * *"
-
 permissions:
   contents: write # Tambahkan ini agar bisa git push
-
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: pip install requests
-
       - name: Run quran.py
         run: python quran.py
-
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
