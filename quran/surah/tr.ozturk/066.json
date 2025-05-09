@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 66,
+    "name": "سُورَةُ التَّحۡرِيمِ",
+    "englishName": "At-Tahrim",
+    "englishNameTranslation": "The Prohibition",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5230,
+        "text": "Ey Peygamber! Allah'ın sana helal kıldığı şeyi, eşlerinin hoşnutluğunu isteyerek neden haramlaştırıyorsun? Allah Gafûr'dur, Rahîm'dir.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5231,
+        "text": "Allah size, yeminlerinizi çözmeyi farz kılmıştır. Ve Allah, sizin Mevlâ'nızdır. Alîm'dir O, her şeyi bilir; Hakîm'dir O, hikmetleri sonsuzdur.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5232,
+        "text": "Hani, Peygamber, eşlerinden birine bir sözü gizlice söylemişti. Sonra eşi bu sözü duyurup Allah da onu Peygamber'e bildirince, Peygamber sözün bir kısmını açıklamış, bir kısmından vazgeçmişti. Peygamber, sözü eşine bildirdiğinde o: \"Bunu sana kim haber verdi?\" demişti. Peygamber de: \"O her şeyi bilen, her şeyden haberi olan bana bildirdi.\" diye cevaplamıştı.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5233,
+        "text": "Eğer ikiniz, ey hanımlar, Allah'a tövbe ederseniz ne iyi, çünkü kalpleriniz kaydı; yok eğer Peygamber'e karşı dayanışmaya girerseniz hiç kuşkusuz bizzat Allah, onun destekçisidir. Cebrail'le iman sahiplerinin iyilik severleri/ barışçıları da. Bütün bunlardan sonra melekler de ona arka çıkarlar.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5234,
+        "text": "O sizi boşarsa, kim bilir belki de Rabbi ona sizin yerinize sizden daha hayırlı eşler nasip eder: Allah'a teslim olan, iman sahibi, gönülden bağlı, tövbe etmesini seven, ibadete düşkün, yolculuk edebilen dullar ve bâkireler.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5235,
+        "text": "Ey iman sahipleri! Kendilerinizi ve ailelerinizi öyle bir ateşten koruyun ki, yakıtı insanlarla taşlardır. O ateşin başında çok katı, çok sert melekler vardır. Onlar, kendilerine emir verdiği konuda Allah'a isyan etmezler ve emredildikleri şeyi yaparlar.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5236,
+        "text": "Ey küfre sapanlar! Özür dilemeyin bugün! Çünkü siz yapıp ettiklerinizin karşılığı olarak cezalandırılıyorsunuz.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5237,
+        "text": "Ey iman edenler! Etkili öğüt veren bir tövbe ile Allah'a yönelin. Umulur ki Rabbiniz, çirkinliklerinizi ve günahlarınızı örter ve sizi altlarından ırmaklar akan cennetlere yerleştirir. O gün Allah, peygamberi ve onunla birlikte inananları utandırmayacaktır. Onların ışığı önlerinden ve sağ yanlarından koşup gelir. Şöyle derler: \"Ey Rabbimiz! Işığımızı tamamla ve bizi bağışla! Sen her şeye Kadîr'sin, her şeye gücün yeter.\"",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5238,
+        "text": "Ey Peygamber! Küfre sapanlarla ve münafıklarla mücadele et ve onlara karşı sert davran! Varacakları yer cehennemdir onların. Ne kötü dönüş yeridir o!",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5239,
+        "text": "Allah, küfre sapanlarla ilgili olarak Nûh'un karısı ile Lût'un karısını örnek verdi. Bu ikisi, kullarımızdan iki barışçı kulun nikâhı altında idiler, onlara hıyanet ettiler de eşleri, Allah'tan onlara gelecek olanı hiçbir şeyle geri çeviremediler. Şöyle dendi onlara: \"Girin ateşe diğer gireceklerle birlikte!\"",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5240,
+        "text": "Allah, iman edenlerle ilgili olarak da Firavun'un karısını örnek verdi. Hani, o şöyle demişti: \"Ey Rabbim! Benim için katında, cennette bir barınak yap; beni, Firavun'dan, onun yapıp ettiğinden kurtar; beni zulme sapmış topluluktan da kurtar.\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5241,
+        "text": "Ve Allah, ırzını bir kale gibi koruyan İmran kızı Meryem'i de örnek verdi. Biz onun içine ruhumuzdan üfledik. Ve o, Rabbinin kelimelerini ve kitaplarını tasdikledi de içten bağlananlardan oldu.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "Öztürk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

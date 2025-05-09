@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "De ki: \"Yarılan karanlıktan çıkan sabahın Rabbine/yarılışlardan fışkıran oluşun Rabbine sığınırım!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "Yarattıklarının şerrinden,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "Çöktüğü zaman karanlığın/gelip çattığı zaman göz perdelenmesinin/tutulduğu zaman Ay'ın/battığı zaman Güneş'in/taştığı zaman şehvetin/soktuğu zaman yılanın/ümit kırdığı zaman musibetin şerrinden!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "Düğümlere üfleyip tüküren üfürükçülerin şerrinden!",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "Kıskandığı zaman hasetçinin şerrinden...\"",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "Öztürk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

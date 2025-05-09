@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Vaz geçemezlerdi kafirlikten kitap ehlinden kafir olanlar ve şirk koşanlar, kendilerine apaçık kesin bir delil gelmedikçe.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Bir kesin delil, bir peygamber, Allah tarafından, onlara tertemiz sahifeleri okumadıkça.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "O sahifelerdedir hükmü sabit doğru kitaplar.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Ve ancak kendilerine apaçık kesin bir delil geldikten sonradır ki aykırılığa düştüler, kendilerine kitap verilmiş olanlar.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Ve ancak özleri halis olarak ve onun gerçek dinine uyarak Allah'a kulluk etmeleri emredildi onlara, doğru olmaları emredildi ve namaz kılmaları ve zekat vermeleri ve işte budur hükümleri sabit doğru kitaplardaki din de.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Kitap ehlinden kafir olanlar ve şirk koşanlar, şüphe yok ki cehennem ateşindedir, ebedidir onlar orada, onlardır yaratılmışların en kötüleri.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "İnananlar ve iyi işlerde bulunanlarsa: Onlardır şüphe yok ki yaratılmışların en hayırlıları.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Rablerinin katındaki mükafatları, kıyılarından ırmaklar akan ebedi Adn cennetleridir, ebedidir onlar orada, Allah razı olmuştur onlardan ve onlar da razı olmuşlardır ondan; ve bu mükafat, Rabbinden korkanadır.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.golpinarli",
+      "language": "tr",
+      "name": "Abdulbakî Gölpınarlı",
+      "englishName": "Abdulbaki Golpinarli",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

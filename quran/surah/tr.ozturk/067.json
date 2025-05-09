@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "Mülk ve yönetim elinde bulunan o Allah ne yücedir! O, her şeye Kadîr'dir.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "Hanginizin daha güzel iş yapacağını belirlemek için sizi imtihana çekmek üzere ölümü ve hayatı yaratan O'dur. Azîz'dir O, Gafûr'dur.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "Birbiriyle uyum ve ahenk içinde yedi gökleri yaratan da O'dur. O Rahman'ın yaratışında/yarattıklarında herhangi bir uyuşmazlık, aykırılık, çelişme göremezsin. Bir kez daha bak! Bir çatlaklık, bir uyuşmazlık görüyor musun?",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "Sonra bakışı iki kez daha döndür! Umudunu kesmiş olarak döner sana göz. Utanmış, bitkin düşmüştür o.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "Yemin olsun ki, biz en yakın göğü kandillerle süsledik ve onları şeytanlara ateş taneleri yaptık. O şeytanlar için çılgın ateş azabını da hazırladık.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "Ve Rablerine karşı nankörlük edenler için cehennem azabı vardır. Ne kötü bir dönüş yeridir o!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "Onun içine atıldıklarında, onun derinden gelen sesini işitirler. Feveran etmektedir o.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "Öfkesinden çatlayacak hale gelir. İçine bir güruh atıldıkça, onun bekçileri bunlara sorarlar: \"Size hiçbir uyarıcı gelmedi mi?\"",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "Derler ki: \"Gelmedi olur mu? Bize uyarıcı geldi. Fakat biz yalanladık. Ve: 'Allah bir şey indirmemiştir, siz büyük bir sapıklık içindesiniz, başka değil!' şeklinde konuştuk.\"",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "Ve derler ki: \"Eğer söz dinleseydik yahut aklımızı çalıştırsaydık şu çılgın ateşin dostları arasında olmazdık.\"",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "Günahlarını işte böyle itiraf ettiler. Çılgın ateşin halkına böyle kahır yaraşır.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "Görmedikleri halde Rablerinden ürperenlere gelince, onlar için bir bağışlanma ve büyük bir ödül vardır.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "Sözünüzü ister gizleyin ister onu açıklayın; şu bir gerçek ki O, göğüslerin özünü çok iyi bilir.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "Yaratmış olan bilmez mi/Allah, yarattığı kimseyi bilmez mi? Latîf'tir O, Habîr'dir.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "O, yeri sizin için boyun eğer yaptı. Haydi, onun omuzlarında yürüyün ve Allah'ın rızıklarından yiyin. Dönüş O'nadır.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "O göktekinin, sizi yere batırmayacağından emin misiniz? O zaman yer aniden çalkalanmaya başlar.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "O göktekinin, çakıl taşları taşıyan bir rüzgârı üzerinize salmayacağından emin misiniz? O zaman bileceksiniz nasılmış uyarım!",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "Yemin olsun, onlardan öncekiler de yalanlamışlardı. Ama nasıl olmuştu benim azabım?!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "Üstlerinde, kanatlarını açıp kapayarak uçan kuşları hiç görmediler mi? Onları Rahman'dan başkası tutmuyor. Kuşkusuz O, her şeyi görmektedir.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "Rahman'a karşı/Rahman'dan başka size yardım edecek ordunuz kimdir? İnkârcılar bir aldanış/gurur içindeler; hepsi bu!",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "Peki, O, rızkını tutarsa kim var sizi rızıklandıracak? Hayır, bir azgınlık ve nefret içinde inat etmekteler.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "Peki, yüzüstü kapanarak yürüyen mi daha düzgün gider yoksa dosdoğru yol üzerinde dik ve düzgün yürüyen mi?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "De ki: \"Sizi oluşturan O'dur. O size, işitme gücü, gözler ve gönüller verdi. Ne kadar da az şükrediyorsunuz!\"",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "De ki: \"Sizi, yeryüzünde yaratıp yayan O'dur. O'nun huzurunda haşredileceksiniz.\"",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "Derler ki: \"Eğer doğru sözlülerseniz, bu vaat de zaman?\"",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "De ki: \"Bilgi Allah'ın katındadır. Bana gelince, ben ancak açıkça uyaran biriyim.\"",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "Onu yakından gördüklerinde, inkâr edenlerin yüzleri kötüleşti. Şöyle denildi: \"O habire çağırıp durduğunuz şey budur.\"",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "Söyle onlara: \"Diyelim ki, Allah beni ve beraberimdekileri öldürdü, yahut bize acıdı. Peki, kâfirleri korkunç bir azaptan kim kurtaracak?\"",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "De ki: \"Rahman'dır O, O'na inandık biz ve yalnız O'na güvendik. Yakında bileceksiniz kimmiş apaçık sapıklığın içinde.\"",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "Şunu da söyle: \"Bir sabah suyunuz çekiliverse, kim getirecek fışkırıp akan bir su size?\"",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "Öztürk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

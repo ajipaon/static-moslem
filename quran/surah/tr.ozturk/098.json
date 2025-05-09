@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Ehlikitap'tan küfre sapanlarla müşrikler, kendilerine beyyine/açık kanıt gelinceye kadar çözülüp ayrılacak değillerdi.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Allah tarafından gönderilen, tertemiz sayfalar okuyan bir resul gelinceye dek.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "O sayfalar içindedir dosdoğru-eskimez kitaplar.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Kitap verilmiş olanlar, kendilerine beyyine/açık delil geldikten sonradır ki parçalanıp bölündüler.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Oysaki onlara, dini yalnız O'na özgüleyerek, dosdoğru yürüyen kişiler halinde sadece Allah'a ibadet etmeleri, namazı/duayı yerine getirmeleri, zekâtı vermeleri emredilmişti. İşte budur doğru, eskimez ve aşınmaz din.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Ehlikitap'ın küfre sapanlarıyla müşrikler, içinde sürekli kalıcılar olarak cehennem ateşindedirler. İşte onlardır yaratılmışların en şerlisi.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "İman edip hayra ve barışa yönelik fiiller sergileyenlere gelince, işte onlardır yaratılmışların en hayırlısı.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Onların, Rableri katındaki ödülleri, altlarından ırmaklar akan Adn cennetleri/temiz-bereketli bahçelerdir. Sürekli kalacaklardır orada. Allah onlardan razı olmuştur, onlar da O'ndan razı olmuşlardır. İşte bu, içi ürpererek Rabbine saygı duyan kişi içindir.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "Öztürk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 57,
+    "name": "سُورَةُ الحَدِيدِ",
+    "englishName": "Al-Hadid",
+    "englishNameTranslation": "The Iron",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5076,
+        "text": "Göklerde ve yerdeki her şey Allah'ı tespih etmektedir. Azîz'dir O, Hakîm'dir.",
+        "numberInSurah": 1,
+        "juz": 27,
+        "manzil": 7,
+        "page": 537,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5077,
+        "text": "Göklerin ve yerin mülkü ve yönetimi O'nundur; diriltir, öldürür. Her şey üzerinde kudret sahibidir O.",
+        "numberInSurah": 2,
+        "juz": 27,
+        "manzil": 7,
+        "page": 537,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5078,
+        "text": "Evvel'dir O, başlangıcı yoktur; Âhir'dir O, sonu yoktur; Zâhir'dir O, her şeyde belirir; Bâtın'dır O, gözlerden gizlenmiştir. Her şeyi en güzel biçimde bilendir o.",
+        "numberInSurah": 3,
+        "juz": 27,
+        "manzil": 7,
+        "page": 537,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5079,
+        "text": "O, odur ki, göklerle yeri altı günde yarattı, sonra arş üzerinde egemenlik kurdu. Yere gireni ve ondan çıkanı, gökten ineni ve onda yükseleni bilir. O, nerede olursanız olun sizinle beraberdir. Allah, işleyip üretmekte olduklarınızı en iyi şekilde görmektedir.",
+        "numberInSurah": 4,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5080,
+        "text": "Göklerin de yerin de mülkü ve yönetimi O'nundur. İşler ve oluşlar Allah'a döndürülür.",
+        "numberInSurah": 5,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5081,
+        "text": "Geceyi gündüzün içine sokar O; gündüzü de gecenin içine sokar. Göğüslerin sakladıklarını çok iyi bilendir O.",
+        "numberInSurah": 6,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5082,
+        "text": "Allah'a ve resulüne iman edin; sizi üzerinde buyruk sahibi yaptığı şeylerden başkalarına bol bol verin! İçinizden iman eden ve infakta bulunanlar için çok büyük bir ödül vardır.",
+        "numberInSurah": 7,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5083,
+        "text": "İman sahipleri iseniz size ne oluyor da Allah'a güvenmiyorsunuz? Oysaki Resul sizi Rabbinize inanmaya çağırıyor, sizden kuvvetli bir söz de almıştır.",
+        "numberInSurah": 8,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5084,
+        "text": "O, odur ki, sizi karanlıklardan aydınlığa çıkarsın diye kulu üzerine, gerçeği apaçık gösteren ayetler indiriyor. Allah size karşı gerçekten çok şefkatli, çok merhametlidir.",
+        "numberInSurah": 9,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5085,
+        "text": "Allah yolunda harcama yapmanıza engel ne var ki?.. Göklerin ve yerin mirası zaten Allah'ındır. Sizin, Fetih'ten önce infakta bulunan ve çarpışmaya gireniniz, bunu yapmayanlarla aynı değildir. Onlar, derece yönünden Fetih'ten sonra infakta bulunup çarpışmaya girenlerden çok daha üstündür. Allah hepsine güzellik vaat etmiştir. Allah, işleyip ürettiklerinizi en iyi biçimde haber almaktadır.",
+        "numberInSurah": 10,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 472,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5086,
+        "text": "Allah'a kim güzel bir borç verecek ki, O onun verdiğini kat kat artırsın. Böyle birisi için onur verici bir ödül de vardır.",
+        "numberInSurah": 11,
+        "juz": 27,
+        "manzil": 7,
+        "page": 538,
+        "ruku": 473,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5087,
+        "text": "Gün olur, mümin erkeklerle mümin kadınları, ışıkları önlerinde ve sağ yanlarında koşar görürsün. Şöyle denilir: \"Bugün size, altlarından ırmaklar akan cennetler müjdeleniyor. Sürekli kalıcısınız içlerinde.\" İşte büyük başarının ta kendisidir bu.",
+        "numberInSurah": 12,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5088,
+        "text": "O gün ikiyüzlü erkeklerle ikiyüzlü kadınlar, iman edenlere şöyle derler: \"Bize bakın da ışığınızdan bir parça alalım.\" Şöyle denir onlara: \"Arkanıza dönün de bir ışık arayın.\" Nihayet aralarına kapısı olan bir sur çekilir. İçinde rahmet vardır onun. Dış tarafı ise azap.",
+        "numberInSurah": 13,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5089,
+        "text": "Onlara seslenirler: \"Biz sizinle değil miydik?\" Derler ki: \"Evet, bizimleydiniz. Ancak siz kendinizi yaktınız, bekleyip durdunuz, şüphe ettiniz, hayal ve kuruntular/hurafeler/anlamını bilmeden okuyuşlar sizi aldattı; nihayet Allah'ın emri geldi. O yaman aldatıcı, sizi Allah ile aldattı.\"",
+        "numberInSurah": 14,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5090,
+        "text": "Bugün artık ne sizden fidye alınır ne de küfre sapanlardan. Varacağınız yer ateştir. Odur sizin mevlânız. Ne kötü dönüş yeridir o!",
+        "numberInSurah": 15,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 215,
+        "sajda": false
+      },
+      {
+        "number": 5091,
+        "text": "İnananlar için hâlâ vakti gelmedi mi ki, kalpleri Allah'ın zikri/Kur'an'ı ve Hak'tan inen için ürpersin de daha önce kendilerine kitap verilmiş, sonra üzerlerinden uzun zaman geçmiş de kalpleri kaskatı kesilmiş kimseler gibi olmasınlar! Onların çoğu yoldan çıkmıştır.",
+        "numberInSurah": 16,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5092,
+        "text": "Bilin ki Allah, toprağa ölümünden sonra hayat verir. Ayetleri size açık-seçik bildiriyoruz ki, aklınızı işletebilesiniz.",
+        "numberInSurah": 17,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5093,
+        "text": "Şu bir gerçek: Sadaka veren erkeklerle sadaka veren kadınlar, bir de Allah'a güzelce borç verenler için karşılıklar kat kat yapılır. Onlar için, onur verici bir ödül de vardır.",
+        "numberInSurah": 18,
+        "juz": 27,
+        "manzil": 7,
+        "page": 539,
+        "ruku": 473,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5094,
+        "text": "Allah'a ve resulüne inananlar var ya, özü-sözü doğru kişiler onlardır. Rableri katında tanık olanlar/şehitlik mertebesine erenler de onlardır. Onların ödülleri ve ışıkları vardır. Küfre sapıp ayetlerimizi yalanlayanlara gelince, onlar cehennemin dostu olacaklardır.",
+        "numberInSurah": 19,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 473,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5095,
+        "text": "Bilin ki, şu iğreti dünya hayatı bir oyun ve eğlenceden, bir süsten, aranızda bir övünmeden, mallarda ve evlatlarda çoğalma yarışından başka şey değildir. Bir yağmur misali ki, çıkardığı bitkiler çiftçilerin hoşuna gider. Ama biraz sonra o ot kurur, sapsarı kesildiğini görürsün. Nihayet bir ot ufantısı haline gelir. Âhirette şiddetli bir azap var, Allah'tan bir af ve hoşnutluk da var. Dünya hayatı bir aldanış/gurur aracından başka şey değildir.",
+        "numberInSurah": 20,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5096,
+        "text": "Rabbinizden bir affa ve Allah ile resulüne inananlar için hazırlanmış bulunan, eni de yerle göğün eni kadar olan bir cennete doğru yarışarak koşun. Bu, Allah'ın dilediğine vereceği bir lütuftur. Allah, o büyük lütfun sahibidir.",
+        "numberInSurah": 21,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5097,
+        "text": "Yeryüzünde ve kendi benliklerinizde meydana gelen hiçbir musibet yoktur ki, biz onu yaratmadan önce bir Kitap'ta belirlenmiş olmasın. Bu, Allah için çok kolaydır.",
+        "numberInSurah": 22,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5098,
+        "text": "Böyle yapılmıştır ki, elinizden çıkana üzülüp ümitsizliğe düşmeyesiniz ve Allah'ın size verdiğiyle sevinip şımarmayasınız. Çünkü Allah, kendini beğenip övünenlerin hiçbirini sevmez.",
+        "numberInSurah": 23,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5099,
+        "text": "Onlar; cimrilik eden, insanlara da cimriliği emreden kişilerdir. Yüz çeviren bilsin ki, Allah Ganî'dir, Hamîd'dir.",
+        "numberInSurah": 24,
+        "juz": 27,
+        "manzil": 7,
+        "page": 540,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5100,
+        "text": "Yemin olsun, biz, resullerimizi açık-seçik delillerle gönderdik ve onlarla birlikte Kitap'ı ve ölçüyü de indirdik ki, insanlar adaleti ayakta tutsunlar/adaletle doğrulsunlar. Ve demiri de indirdik. Onda zorlu bir kuvvet ve insanlar için birçok yarar vardır. Allah bu sayede, kendisine ve resullerine, gayba inanarak kimin yardım edeceğini bilecektir. Allah Kavî'dir, Azîz'dir.",
+        "numberInSurah": 25,
+        "juz": 27,
+        "manzil": 7,
+        "page": 541,
+        "ruku": 474,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5101,
+        "text": "Yemin olsun, Nûh'u ve İbrahim'i de resul olarak gönderdik. Peygamberliği ve Kitap'ı bunların soyları arasına koyduk. O soylardan bir kısmı hidayete ermiştir. Ama onlardan çoğu, yoldan çıkmış olanlardır.",
+        "numberInSurah": 26,
+        "juz": 27,
+        "manzil": 7,
+        "page": 541,
+        "ruku": 475,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5102,
+        "text": "Sonra onların eserleri üzere, resullerimizi art arda gönderdik. Meryem'in oğlu İsa'yı da onların ardınca gönderdik. Ona İncil'i verdik; ona uyanların gönüllerine şefkat ve merhamet koyduk. Bir bid'at olarak ortaya çıkardıkları ruhbaniyeti, onlar üzerine biz yazmamıştık. Allah'ın rızasını kazanmak için ortaya çıkardılar. Ama ona gerektiği şekilde saygılı olmadılar. Onların, iman edenlerine ödüllerini verdik. Onlardan çoğu yoldan çıkmış olanlardır.",
+        "numberInSurah": 27,
+        "juz": 27,
+        "manzil": 7,
+        "page": 541,
+        "ruku": 475,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5103,
+        "text": "Ey iman edenler! Allah'tan korkun ve onun resulüne inanın ki size rahmetinden iki nasip versin: Size, kendisiyle yol açacağınız bir ışık lütfetsin ve sizi affetsin. Allah Gafûr'dur, Rahîm'dir.",
+        "numberInSurah": 28,
+        "juz": 27,
+        "manzil": 7,
+        "page": 541,
+        "ruku": 475,
+        "hizbQuarter": 216,
+        "sajda": false
+      },
+      {
+        "number": 5104,
+        "text": "Böylece, Ehlikitap, Allah'ın lütfundan hiçbir şeyi kotarma gücünde olmadıklarını bilsinler. Lütuf, Allah'ın elindedir; onu dilediğine verir. Allah, büyük lütfun sahibidir.",
+        "numberInSurah": 29,
+        "juz": 27,
+        "manzil": 7,
+        "page": 541,
+        "ruku": 475,
+        "hizbQuarter": 216,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "Öztürk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

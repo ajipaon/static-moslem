@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "Saltanat, tasarruf ve tedbir, elinde olan mabudun şanı yücedir, münezzehtir ve onun her şeye gücü yeter.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "Öyle bir mabuttur ki yaratmıştır ölümü ve dirimi, hanginiz daha güzel işte bulunacak, sınamak için sizi ve odur üstün olan ve suçları örten.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "Öylesine ki birbiri üstünde olarak yedi kat göğü yaratmıştır; rahmanın yaratışında hiçbir uygunsuzluk, aykırılık göremezsin; artık çevir gözünü de bak, görebilir misin bir yarık, bir çatlak?",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "Gene de gözünü çevir de bir daha, bir daha bak; aradığını bulamaz da gözün, mahrum bir halde sana döner ve yorgundur o, bitkindir.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "Ve andolsun ki biz, en yakın olan dünya göğünü ışıklarla bezedik ve onları, Şeytanlara atılacak şeyler olarak halkettik ve Şeytanlara, yakıp kavuran bir azaptır, hazırladık.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "Ve Rablerine kafir olanlara cehennem azabı var ve cehennem, dönülüp varılacak ne de kötü yer.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "Oraya atıldılar mı duyarlar ki cehennem, kesikkesik nefes almada ve coşup kaynıyor o.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "Neredeyse hışmından patlayıp dağılacak; ona, her bölük atıldıkça muhafız memurları onlara sorarlar: Size bir korkutucu gelmedi mi?",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "Evet derler, andolsun ki geldi bize korkutucu da yalanladık onu ve Allah dedik, hiçbir şeyi indirmemiştir; siz ancak, pek büyük bir sapıklığa düşmüşsünüz.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "Ve eğer derler, duysaydık, yahut akıl etseydik yakıp kavuran cehennem ehli olmazdık.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "Derken suçlarını söylerler; artık ırak olsun yakıp kavuran cehennemin ehli.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "Şüphe yok ki görmedikleri halde Rablerinden korkanlaradır yarlıganma ve pek büyük bir mükafat.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "Ve sözünüzü gizli tutun, yahut açığa vurun onu, şüphe yok ki o, gönüllerde olanı bilir.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "Hiç bilmez mi yaratan ve odur kullarına lutfeden ve her şeyden haberdar olan.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "O, öyle bir mabuttur ki yeryüzünü, size karşı aşağı gönüllü, münkat ve sakin bir halde yaratmıştır, köşesinde, bucağında dolaşın artık ve yiyin mabudunuzun rızkından ve dönüp gideceğiniz yer, gene onun tapısıdır.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "Kudreti ve emri, gökte bulunan, yüce olan mabudun, sizi yerle beraber batırmayacağından emin misiniz? O vakit görürsün ki o sakin yeryüzü, çalkanıp durmada, titreyip kıvranmada.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "Yoksa kudreti ve emri; gökte bulunan, yüce olan mabudun, size taşlar yağdıran bir rüzgar yollamayacağından emin misiniz? Derken yakında bilirsiniz nasılmış benim korkutmam.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "Ve andolsun ki onlardan öncekiler de yalanlamışlardı, derken nasıl da gelip çattı azabım.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "Görmezler mi üstlerinde uçan kuşları? Kanatlarını açmada ve kapamada onlar, onları gökte, ancak rahman tutmada, şüphe yok ki o, her şeyi görür.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "Yoksa sizi rahmandan kurtaracak ordunuz mu var? Kafirler, ancak bir aldanışa dalmışlar.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "Yoksa kimdir o ki mabudunuz, rızkınızı kısarsa sizi rızıklandıracak? Hayır, onları, azgınlık içinde, gerçekten tamamıyla uzak bir halde inat edip durmadalar.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "Artık yüzüstü sürünerek giden mi daha ziyade doğru yolu bulur, yoksa doğru yolda dümdüz giden mi?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "O, öyle bir mabuttur ki sizi meydana getirmiştir ve sizin için kulak ve gözler ve gönüller halketmiştir, ne de az şükredersiniz.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "De ki: O, öylesine bir mabuttur ki sizi yaratmıştır yeryüzünde ve gene de tapısında toplanacaksınız.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "Ve derler ki: Bu vait, ne vakit yerine gelecek doğru söylüyorsanız.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "De ki: Bilgi, ancak Allah katındadır ve ben, ancak apaçık bir korkutucuyum.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "Azabın yaklaştığını gördüler mi kafir olanların yüzleri kararır ve işte denir, bu, isteyip durduğunuz şey.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "De ki: Haber verin bana, Allah beni ve benimle beraber olanları helak etse, yahut da bize acısa bile kim kurtaRabilir kafirleri elemli azaptan?",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "De ki: Odur rahman, ona inandık ve ona dayandık; artık yakında bilirsiniz, kimdir apaçık sapıklıkta.",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "De ki: Haber verin bana, suyunuz, tamamıyla batıp çekiliverse artık kimdir size bir akarsu pınarı peydahlayacak?",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.golpinarli",
+      "language": "tr",
+      "name": "Abdulbakî Gölpınarlı",
+      "englishName": "Abdulbaki Golpinarli",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
