@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6099,
+        "text": "Inã rantsuwa da Attinu da Azzaitũn.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6100,
+        "text": "Da Dũr Sĩnĩna.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6101,
+        "text": "Da wannan gari amintacce.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6102,
+        "text": "Lalle ne, Mun halitta mutum a cikin mafi kyawon tsayuwa.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6103,
+        "text": "Sa'an nan, Muka mayar da shi mafi ƙasƙantar masu rauni",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6104,
+        "text": "Face waɗanda suka yi imani, kuma suka aikata ayyukan ƙwarai, saboda haka suna da sakamako wanda bã ya yankewa.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6105,
+        "text": "To, bãyan haka mẽ ya sanya ka ka ƙaryata sakamako (wanda za a yi a bãyan Tãshin ¡iyãma)?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6106,
+        "text": "Ashe Allah bã Shi ne Mafi mãsu hukunci kyãwon hukunci ba?",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ha.gumi",
+      "language": "ha",
+      "name": "Gumi",
+      "englishName": "Abubakar Mahmoud Gumi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

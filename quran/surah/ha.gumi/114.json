@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6231,
+        "text": "Ka ce \"Ina nẽman tsari ga Ubangijin mutãne.\"",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6232,
+        "text": "\"Mamallakin mutane.\"",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6233,
+        "text": "\"Abin bautãwar mutãne.\"",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6234,
+        "text": "\"Daga sharrin mai sanya wasuwãsi, mai ɓoyewa.\"",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6235,
+        "text": "\"Wanda ke sanya wasuwãsi a cikin ƙirãzan mutane.\"",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6236,
+        "text": "\"Daga aljannu da mutane.\"",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ha.gumi",
+      "language": "ha",
+      "name": "Gumi",
+      "englishName": "Abubakar Mahmoud Gumi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
