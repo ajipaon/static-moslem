@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Say (O Muhammad SAW): \"It has been revealed to me that a group (from three to ten in number) of jinns listened (to this Quran). They said: 'Verily! We have heard a wonderful Recital (this Quran)!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "'It guides to the Right Path, and we have believed therein, and we shall never join (in worship) anything with our Lord (Allah).",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "'And exalted be the Majesty of our Lord, He has taken neither a wife, nor a son (or offspring or children).",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "'And that the foolish among us [i.e. Iblis (Satan) or the polytheists amongst the jinns] used to utter against Allah that which was wrong and not right.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "'And verily, we thought that men and jinns would not utter a lie against Allah.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "'And verily, there were men among mankind who took shelter with the masculine among the jinns, but they (jinns) increased them (mankind) in sin and disbelief.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "'And they thought as you thought, that Allah will not send any Messenger (to mankind or jinns).",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "'And we have sought to reach the heaven; but found it filled with stern guards and flaming fires.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "'And verily, we used to sit there in stations, to (steal) a hearing, but any who listens now will find a flaming fire watching him in ambush.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "'And we know not whether evil is intended for those on earth, or whether their Lord intends for them a Right Path.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "'There are among us some that are righteous, and some the contrary; we are groups each having a different way (religious sect, etc.).",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "'And we think that we cannot escape (from the punishment of) Allah in the earth, nor can we escape (from the punishment) by flight.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "'And indeed when we heard the Guidance (this Quran), we believed therein (Islamic Monotheism), and whosoever believes in his Lord shall have no fear, either of a decrease in the reward of his good deeds or an increase in punishment for his sins.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "'And of us some are Muslims (who have submitted to Allah, after listening to this Quran), and of us some are Al-Qasitun (disbelievers those who have deviated from the Right Path)'. And whosoever has embraced Islam (i.e. has become a Muslim by submitting to Allah), then such have sought the Right Path.\"",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "And as for the Qasitun (disbelievers who deviated from the Right Path), they shall be firewood for Hell,",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "If they (non-Muslims) had believed in Allah, and went on the Right Way (i.e. Islam) We should surely have bestowed on them water (rain) in abundance.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "That We might try them thereby. And whosoever turns away from the Reminder of his Lord (i.e. this Quran, and practice not its laws and orders), He will cause him to enter in a severe torment (i.e. Hell).",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "And the mosques are for Allah (Alone), so invoke not anyone along with Allah.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "(It has been revealed to me that) When the slave of Allah (Muhammad SAW) stood up invoking (his Lord Allah) in prayer to Him they (the jinns) just made round him a dense crowd as if sticking one over the other (in order to listen to the Prophet's recitation).",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Say (O Muhammad SAW): \"I invoke only my Lord (Allah Alone), and I associate none as partners along with Him.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Say: \"It is not in my power to cause you harm, or to bring you to the Right Path.\"",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Say (O Muhammad SAW): \"None can protect me from Allah's punishment (if I were to disobey Him), nor should I find refuge except in Him.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "\"(Mine is) but conveyance (of the truth) from Allah and His Messages (of Islamic Monotheism), and whosoever disobeys Allah and His Messenger, then verily, for him is the Fire of Hell, he shall dwell therein forever.\"",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Till, when they see that which they are promised, then they will know who it is that is weaker concerning helpers and less important concerning numbers.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Say (O Muhammad SAW): \"I know not whether (the punishment) which you are promised is near or whether my Lord will appoint for it a distant term.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "\"(He Alone) the All-Knower of the Gha'ib (unseen), and He reveals to none His Gha'ib (unseen).\"",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "Except to a Messenger (from mankind) whom He has chosen (He informs him of unseen as much as He likes), and then He makes a band of watching guards (angels) to march before him and behind him.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "[He (Allah) protects them (the Messengers)], till He sees that they (the Messengers) have conveyed the Messages of their Lord (Allah). And He (Allah) surrounds all that which is with them, and He (Allah) keeps count of all things (i.e. He knows the exact number of everything).",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.hilali",
+      "language": "en",
+      "name": "Hilali & Khan",
+      "englishName": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
