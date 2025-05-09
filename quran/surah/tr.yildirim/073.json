@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "Ey örtüsüne bürünen Resulüm!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Geceleyin kalk da, az bir kısmı hariç geceyi ibadetle geçir. [32,16; 17,79; 76,26]",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "Duruma göre gecenin yarısında, veya bundan biraz daha azında veya fazlasında ibadet etmen de yeterlidir. Kur'ân’ı tertîl ile, düşünerek oku.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "Duruma göre gecenin yarısında, veya bundan biraz daha azında veya fazlasında ibadet etmen de yeterlidir. Kur'ân’ı tertîl ile, düşünerek oku.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Biz sana pek ağır bir söz vahyedeceğiz.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "Muhakkak ki geceleyin kalkıp ibadet etmek daha tesirlidir ve Kur'ân okuyuşu bakımından daha düzgün, daha sağlam bir tilavet sağlar.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "Halbuki gündüz seni meşgul edecek yığınla iş vardır.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Rabbinin yüce adını zikret, fânilere bel bağlamaktan kurtul ve bütün gönlünle yalnız O'na yönel.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "O doğunun da batının da Rabbidir. O'ndan başka İlah yoktur. O halde sen de yalnız O’nun himayesine sığın, yalnız O’na güven.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Onların söylediklerine karşı sabret, onlardan güzel bir tavırla uzak dur!",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "Nimet ve devlet içinde yüzen, hak dini yalan sayanları, sen Bana bırak ve onlara biraz mühlet ver.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "Muhakkak ki Bizim nezdimizde bukağılar, alevli ateşler, dikenli, boğazı tırmalayan yiyecekler ve gâyet acı azap var.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "Muhakkak ki Bizim nezdimizde bukağılar, alevli ateşler, dikenli, boğazı tırmalayan yiyecekler ve gâyet acı azap var.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "Gün gelir; yer, dağlar şiddetle sarsılır ve dağlar dağılan kum yığınları haline gelir.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Bakın (ey Mekkeliler, ey bütün insanlar) Biz vaktiyle Firavun'a bir elçi gönderdiğimiz gibi size de hakkınızda şahitlik edecek bir elçi gönderdik.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Firavun o Resule isyan etti. Biz de onu şiddetle cezaya çarptırdık.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Kâfirliğinizde devam ederseniz, dehşetinden çocukları birden ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabilirsiniz?",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "O günün dehşetinden gök bile çatlar. Allah'ın vâdi mutlaka gerçekleşir.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Bu, bir öğüt ve uyarıdır. Artık isteyen, Rabbine varan yolu tutar. [76,29]",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Senin Rabbin, gecenin bazen üçte ikisine yakın bir kısmını, bazen yarısını, bazen üçte birini ibadetle geçirdiğini, senin yanında yer alan müminlerden bir cemaatin da böyle yaptığını elbette biliyor. Gece ve gündüzü yaratıp sürelerini belirleyen Allah'tır. O sizin bu gece ibadetini gözetemeyeceğinizi bildiği için, lütuf ve merhametiyle size yeniden bakıp muaf tuttu. Artık Kur’ân’dan kolayınıza gelen miktarı okuyun. Allah bilmektedir ki aranızda hastalananlar olacaktır. Kimileri Allah’ın lütfundan nasiplerini aramak için yol tepecek, dünyanın çeşitli yerlerinde dolaşacaklardır. Bazıları Allah yolunda muharebe için sefere çıkacaklardır. Haydi artık Kur’ân’dan, kolayınıza gelen miktarı okuyun. Namazı hakkıyla ifa edin, zekâtı verin ve bir de Allah’a güzel ödünç takdim edin! Unutmayın ki kendi iyiliğiniz için âhirete hazırlık olarak her ne gönderirseniz mutlaka onu Allah’ın nezdinde bulursunuz. Hem daha üstün ve daha hayırlı, mükâfatı kat kat artmış olarak! Allah’tan af dileyin. Muhakkak ki Allah gafurdur, rahîmdir (affı, merhamet ve ihsanı boldur). [2,245]",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.yildirim",
+      "language": "tr",
+      "name": "Suat Yıldırım",
+      "englishName": "Suat Yildirim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

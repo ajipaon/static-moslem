@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Biz Nûh'u kendi milletine peygamber olarak gönderip:“Gayet acı bir azap başlarına gelip çatmadan önce halkını uyar!” dedik.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "O da: “Ey benim milletim! Ben size gönderilen kesin bir uyarıcıyım. Şöyle ki: Yalnız Allah'a ibadet edin, O’na karşı gelmekten sakının ve bana itaat edin ki: Sizin günahlarınızı affetsin ve sizi belirli bir vakte, yani ölüm anına kadar azap çektirmeksizin hayatta bıraksın.Çünkü Allah’ın takdir ettiği vâde gelince, asla ertelenmez. Keşke bunu bir bilseniz!",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "O da: “Ey benim milletim! Ben size gönderilen kesin bir uyarıcıyım. Şöyle ki: Yalnız Allah'a ibadet edin, O’na karşı gelmekten sakının ve bana itaat edin ki: Sizin günahlarınızı affetsin ve sizi belirli bir vakte, yani ölüm anına kadar azap çektirmeksizin hayatta bıraksın.Çünkü Allah’ın takdir ettiği vâde gelince, asla ertelenmez. Keşke bunu bir bilseniz!",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "O da: “Ey benim milletim! Ben size gönderilen kesin bir uyarıcıyım. Şöyle ki: Yalnız Allah'a ibadet edin, O’na karşı gelmekten sakının ve bana itaat edin ki: Sizin günahlarınızı affetsin ve sizi belirli bir vakte, yani ölüm anına kadar azap çektirmeksizin hayatta bıraksın.Çünkü Allah’ın takdir ettiği vâde gelince, asla ertelenmez. Keşke bunu bir bilseniz!",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "“Ya Rabbî, dedi Nûh, ben milletimi gece gündüz dine dâvet ettim. Ama benim dâvetim, onların sadece daha çok uzaklaşmalarına yol açtı.”",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "“Ya Rabbî, dedi Nûh, ben milletimi gece gündüz dine dâvet ettim. Ama benim dâvetim, onların sadece daha çok uzaklaşmalarına yol açtı.”",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "Her ne zaman, onları bağışlaman için çağırdıysam, onlar parmaklarıyla kulaklarını tıkadılar. Esvaplarıyla örtündüler, direttiler ve çok kibirlendiler.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "Ben onları bu sefer yüksek sesle dâvet etmeye başladım.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "Daha sonra onları gâh açıkça çağırdım, gâh iyice gizli bir dâvet yönelttim, her türlü yolu denedim.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "Dedim ki onlara: “Rabbinizden af dileyiniz. Zira o gafurdur.”",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "Mağfiret dileyin ki üzerinize bol bol yağmur indirsin.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "“Size mal ve evlad ihsan buyursun, size bahçeler, ırmaklar, su kanalları nasib etsin.”",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "“Neden acaba siz, sizi tavırdan tavıra yaratan Allah'ın büyüklüğünü kabul etmiyorsunuz?”",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "“Neden acaba siz, sizi tavırdan tavıra yaratan Allah'ın büyüklüğünü kabul etmiyorsunuz?”",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "Görmez misiniz ki Allah yedi kat göğü tam birbiri ile uyum içinde yarattı?",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "Gökte Ay'ı bir nûr, Güneş’i ise lâmba yaptı. [10,5]",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "Allah sizi yerden nebat bitirircesine bitirip yetiştirdi.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "Sonra sizi tekrar oraya gönderip, yine sizi oradan çıkaracaktır.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "Allah yeri size bir yaygı yaptı ki onun geniş yollarında yürüyesiniz.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "Allah yeri size bir yaygı yaptı ki onun geniş yollarında yürüyesiniz.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Nûh: “Ya Rabbî, dedi, Sen de biliyorsun ki onlar bana isyan ettiler; servet ve evlat çokluğunun kendi ziyanını artırdığı kimselere uydular.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "Büyük hîle ve tuzaklar kurdular.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "“Sakın tanrılarınızdan vazgeçmeyin, Ved, Suva, Yegûs, Yeûk ve Nesr'i, bunlardan hiçbirini bırakmayın!” dediler.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "Böylece onlar birçok insanı şaşırttılar. Mademki öyle yaptılar, Sen de bu zalimlerin şaşkınlığını artır ya Rabbî!”",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Hasılı, birçok suçları sebebiyle suda boğuldular ve cehenneme tıkıldılar! Allah'a karşı, kendilerine yardım edecek bir tek yardımcı bile bulamadılar.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "Nûh: “Ya Rabbî, dedi, yeryüzünde dolaşan bir tek kâfir bile bırakma!”",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "“Zira bırakırsan onlar Senin kullarını, Senin yolundan saptırırlar,ve sadece kendileri gibi kâfir, ahlâksız çocuklar dünyaya getirip yetiştirirler.”",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "“Ya Rabbî, beni, anamı, babamı ve evime mümin olarak girenleri, erkek ve kadın bütün müminleri affeyle.O zalimleri ise, daha da beter eyle, daha da perişan eyle!”",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.yildirim",
+      "language": "tr",
+      "name": "Suat Yıldırım",
+      "englishName": "Suat Yildirim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
