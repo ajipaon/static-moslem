@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "Lies im Namen deines Herrn, Der erschuf.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "Er erschuf den Menschen aus einem Blutklumpen.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "Lies; denn dein Herr ist Allgütig.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "Der mit dem Schreibrohr lehrt",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "lehrt den Menschen, was er nicht wußte.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "Keineswegs! Wahrlich, der Mensch übt Gewalttätigkeit",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "weil er sich im Reichtum sieht.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "Wahrlich, zu deinem Herrn ist die Heimkehr.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "Hast du den gesehen, der da verwehrt",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "(Unserem) Diener, daß er betet?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "Hast du gesehen, ob er auf dem rechten Weg ist",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "oder zur Gerechtigkeit auffordert?",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "Hast du (den) gesehen, der ungläubig ist und sich abwendet?",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "Weiß er nicht, daß Allah (ihn) sieht?",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "Keineswegs! Wenn er nicht (davon) abläßt, werden Wir ihn gewiß ergreifen bei der Stirnlocke",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "der lügenden, sündigen Stirnlocke",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "er mag dann seine Mitverschworenen anrufen.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "Wir werden die Höllenwächter herbeirufen",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "gehorche ihm doch nicht und wirf dich in Anbetung nieder und nahe dich (Allah).",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "de.aburida",
+      "language": "de",
+      "name": "Abu Rida",
+      "englishName": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

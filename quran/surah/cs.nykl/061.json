@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "Chvály pěje Bohu, cožkoliv na nebi jest i na zemi: a on mocný jest a moudrý.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "Vy, kteříž jste uvěřili, proč říkáte to, co neděláte?",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "Velice protiví se Bohu, že říkáte to, co neděláte.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "Bůh zajisté miluje ty, kdož bojují na stezce jeho v ŠIKU BITEVNÍM, jako by byli stavbou pevnou.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "(Vzpomeň), když řekl Mojžíš lidu svému: „Lide můj, proč zarmucujete mne, když víte, že jsem poslem božím k vám?“ A když pochybili, dal Bůh pochybiti srdcím jejich: neb Bůh nevede (cestou pravou) lid pohoršení páchající.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "A (vzpomeň), když řekl Ježíš, syn Mariin: „Synové Israele, jáť zajisté jsem poslem božím k vám, potvrzujícím, což přede mnou dáno bylo vám ze Zákona a zvěstujícím vám příchod onoho proroka, jenž přijde po mně, jehož jméno bude Ahmed.“ A když předvedl jim jasné důkazy, řekli: „Totoť jest kouzelnictví zjevné.“",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "A kdo nepravostnějším jest toho, jenž vymýšlí o Bohu lež, když volán jest k Islámu? Bůh pak nevede (pravou cestou) lid nepravostný.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "Rádi by chtěli sfouknouti světlo beží ústy svými, však Bůh dokonalým učiní světlo své, i kdyby protivno to bylo nevěrícím.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "On jest to, který poslal proroka svého s (dobrým) Vedením a náboženstvím pravým, aby vyvýšil je nad náboženství veškerá, i kdyby protivno to bylo mnohobožcům.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "Vy, kteříž jste uvěřili, chcete, abych ukázal vám obchod, jenž zachrání vás od trestu bolestného?",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "(Když) věříte v Boha a proroka jeho, a bojujete na stezce boží statky svými i osobami svými: to bude nejlepším pro vás, kdybyste jen věděli.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "(Bůh) odpustí vám viny vaše a uvede vás v zahrady, pod nimiž řeky tekou — a v obydlí krásná v zahradách Edenu: to blaženost bude velká!",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "A jiného (něco), co rádi budete míti: pomoc od Boha a vítězství blízké. Radostnou oznamuj pak zvěst (tuto) věrícím!",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "Vy, kteříž jste uvěřili, buďte pomocníky Boha, jakož řekl Ježíš, syn Mariin, učedníkům svým: „Kdož jsou pomocníky mými ve věci bozí?“ Řekli učedníci: „My pomocníky jsme božími.“ I uvěřila část synů Israele a odepřela víru část jejich: a pomohli jsme těm kdož uvěřili, proti nepřátelům jejich a stali se vítěznými.",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.nykl",
+      "language": "cs",
+      "name": "Nykl",
+      "englishName": "A. R. Nykl",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

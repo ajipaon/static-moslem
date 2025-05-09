@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Nezačali ti, kdož neuvěřili z lidu, obdrževšího Knihu a z mnohobožců, rozštěpovati se ve víře, až když přišlo jim ZNAMENÍ JASNÉ:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "posel od Boha, čtoucí listy (knihy) očištěné,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "na nichž písmo jestli pravé;",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "a nerozdělili se v různé strany ti, jimž dána byla Kniha, až poté, když bylo přišlo jim znamení jasné.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "A přece není nakazováno jim, leda aby uctívali Boha, upřímnými jsouce mu ve víře pravé; a aby zachovali modlitbu a dávali povinnou almužnu: totoť pak náboženství pravé.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Zajisté pak ti, kdož neuvěřili z lidu, obdrževšího Knihu, z mnohobožců, uvrženi budou v oheň pekelný, v němž přebývati budou věčně: tito nejhoršími jsou ze všech stvoření!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Zajisté pak ti, kdož uvěřili a konali dobré skutky: tito nejlepšími. jsou ze všech stvoření!",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Odměna jich jest u Pána jejich: zahrady Edenu, pod nimiž řeky tekou, v nichž přebývati budou věčně věkův; nalezlť Bůh zalíbení v nich a oni nalezli zalíbení v něm. Toto bude pro toho, kdož bojí se Pána svého!",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.nykl",
+      "language": "cs",
+      "name": "Nykl",
+      "englishName": "A. R. Nykl",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

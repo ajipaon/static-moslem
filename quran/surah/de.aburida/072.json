@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Sprich: \"Es wurde mir offenbart, daß eine Schar der Ginn zuhörte und dann sagte: \"Wahrlich, wir haben einen wunderbaren Quran gehört",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "der zur Rechtschaffenheit leitet; so haben wir an ihn geglaubt, und wir werden unserem Herrn nie jemanden zur Seite stellen.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Und (wir haben gehört,) daß unser Herr - Erhaben ist Er - Sich weder Gattin noch Sohn genommen hat",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "und daß die Toren unter uns abscheuliche Lügen über Allah zu äußern pflegten.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "Und wir hatten angenommen, daß weder Menschen noch Ginn je eine Lüge über Allah sprechen würden",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "und daß freilich einige Leute von den Menschen bei einigen Leuten der Ginn Schutz zu suchen pflegten, so daß sie letztere in ihrer Schlechtigkeit bestärkten",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "und daß sie freilich dachten, ebenso wie ihr denkt, Allah würde nie einen (Propheten) erwecken.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "Und wir suchten den Himmel, doch wir fanden ihn mit starken Wächtern und (schießenden) Sternschnuppen erfüllt.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "Und wir pflegten auf einigen seiner Sitze zu sitzen, um zu lauschen. Wer aber jetzt lauscht, der findet einen schießenden Stern für sich auf der Lauer.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Und wir wissen nicht, ob (etwas) Böses für diejenigen beabsichtigt ist, die auf Erden sind, oder ob ihnen der Herr (etwas) Gutes zukommen lassen will.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Und manche unter uns sind solche, die rechtschaffen (handeln), und manche unter uns sind weit davon entfernt; wir sind Sekten, die verschiedene Wege gehen.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Und wir wissen, daß wir auf keine Weise Allah auf Erden zuschanden machen können, noch können wir Ihm durch Flucht entrinnen.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Und als wir aber von der Rechtleitung vernahmen, da glaubten wir an sie. Und der, der an seinen Herrn glaubt, fürchtet weder Einbuße noch Unrecht.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Und manche unter uns sind Gottergebene, und manche unter uns sind vom rechten Weg abgewichen.\"\" Und die sich ergeben haben diese haben den rechten Weg gefunden.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Diejenigen, die aber vom rechten Wege abweichen, werden Brennstoff der Gahannam sein.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Wenn sie aber den (rechten) Weg einhalten, dann werden Wir ihnen reichlich Wasser zu trinken geben",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "um sie dadurch zu prüfen. Wer sich dann von der Ermahnung seines Herrn abwendet - Er wird ihn in eine zunehmende Strafe stoßen.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Und wahrlich, die Moscheen sind Allahs; so ruft niemanden neben Allah an.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Und als der Diener Allahs aufstand, um zu Ihm zu beten, da umdrängten sie ihn, so daß sie sich fast erdrückten.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Sprich: \"lch rufe einzig meinen Herrn an, und ich stelle Ihm niemanden zur Seite.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Sprich: \"lch habe nicht die Macht, euch Schaden oder Nutzen zuzufügen.\"",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Sprich: \"Wahrlich, keiner kann mich vor Allah beschützen, noch kann ich eine Zuflucht außer bei Ihm finden.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "(lch habe) nur die Übermittlung (der Offenbarung) von Allah und Seine Botschaften (auszurichten)\" Und für diejenigen, die sich Allah und Seinem Gesandten widersetzen, ist das Feuer der Hölle bestimmt; darin werden sie auf ewig bleiben.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Wenn sie dann das sehen werden, das ihnen angedroht wird, so werden sie erfahren, wer schwächer an Helfern und geringer an Zahl ist.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Sprich: \"lch weiß nicht, ob das euch Angedrohte nahe ist, oder ob mein Herr eine lange Frist dafür angesetzt hat.\"",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Er ist der Kenner des Verborgenen - Er enthüllt keinem Seine Kenntnis vom Verborgenen",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "außer allein dem, den Er unter Seinen Gesandten erwählt hat. Und dann läßt Er vor ihm und hinter ihm eine Schutzwache",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "damit Er gewährleistet sieht, daß sie (Seine Gesandten) die Botschaften ihres Herrn verkündet haben. Und Er umfaßt alles, was bei ihnen ist, und Er zeichnet alle Dinge ganz genau auf.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.aburida",
+      "language": "de",
+      "name": "Abu Rida",
+      "englishName": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

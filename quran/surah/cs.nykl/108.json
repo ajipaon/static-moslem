@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6205,
+        "text": "Zajistéť dali jsme ti KAUTSAR:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6206,
+        "text": "pročež modli se k Pánu svému a obětní čiň mu dar.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6207,
+        "text": "Zajisté kdož nenávidí tě, bude abtar.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.nykl",
+      "language": "cs",
+      "name": "Nykl",
+      "englishName": "A. R. Nykl",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

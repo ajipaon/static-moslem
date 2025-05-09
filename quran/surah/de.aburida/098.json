@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Diejenigen, die ungläubig sind unter dem Volk der Schrift und die Götzendiener können (von ihrem Irrtum) nichtbefreit werden, bis der deutliche Beweis zu ihnen kommt",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "ein Gesandter von Allah, der (ihnen) reinerhaltene (Quran-) Abschnitte verliest",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "in denen geradlinigeVorschriften enthalten sind.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Und die, denen die Schrift gegeben wurde, waren nicht eher gespalten, alsbis der deutliche Beweis zu ihnen gekommen war.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Und doch war ihnen nichts anderes befohlen worden, als Allah treu in lauterem Glauben zu dienen und das Gebet zu verrichten und die Zakah zu entrichten. Und das ist die Religion der Geradlinigkeit.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Wahrlich, jene, die ungläubig sind unter dem Volk der Schrift und die Götzendiener werden im Feuer der Gahannam sein; ewig werden sie darin bleiben; diese sind die schlechtesten der Geschöpfe.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Wahrlich, diejenigen aber, die glauben und gute Werke tun, sind die besten der Geschöpfe.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Ihr Lohn bei ihrem Herrn sind die Gärten von Eden, durcheilt von Bächen; ewig und immerdar werden sie darin verweilen. Allah ist mit ihnen wohlzufrieden und sie sind wohlzufrieden mit Ihm. Dies ist für den, der seinen Herrn fürchtet.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.aburida",
+      "language": "de",
+      "name": "Abu Rida",
+      "englishName": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

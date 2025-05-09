@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Alif Lam Mim.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Die Offenbarung des Buches stammt ohne Zweifel vom Herrn der Welten.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Oder sagen sie: \"Er hat es erdichtet?\" Nein, es ist die Wahrheit von deinem Herrn, auf daß du ein Volk warnest, zu dem vor dir kein Warner gekommen ist, damit sie dem rechten Weg folgen mögen.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Allah ist es, Der die Himmel und die Erde und alles, was zwischen beiden ist, in sechs Tagen erschuf; dann wandte Er Sich Seinem Reich majestätisch zu. Ihr habt außer Ihm weder einen wahren Freund noch einen Fürsprecher. Wollt ihr euch denn nicht ermahnen lassen?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "Er verwaltet die An gelegenheiten von Himmel und Erde, (und) dann werden sie wieder zu Ihm emporsteigen in einem Tage, dessen Länge nach eurer Zeitrechnung tausend Jahre beträgt.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Er ist der Kenner des Verborgenen und des Sichtbaren, der Allmächtige, der Barmherzige",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "Der alles gut gemacht hat, was Er erschuf. Und Er begann die Schöpfung des Menschen aus Ton.",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Hierauf machte Er seine Nachkommenschaft aus einer nichtbeachtenswerten Flüssigkeit.",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Dann formte Er ihn und hauchte ihm von Seinem Geist ein. Und Er hat euch Gehör und Augenlicht und Herzen gegeben. Doch euer Dank ist recht gering.",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "Und sie sagen: \"Wie? Wenn wir in der Erde verschwunden sind, dann sollen wir in einer neuen Schöpfung sein?\" Nein, sie sind hinsichtlich der Begegnung mit ihrem Herrn ungläubig.",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Sprich: \"Der Engel des Todes, der über euch eingesetzt wurde wird euch abberufen; dann werdet ihr zu eurem Herrn zurückgebracht.\"",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "Könntest du nur sehen, wie die Schuldigen ihre Köpfe vor ihrem Herrn hängen lassen werden: \"Unser Herr, nun haben wir gesehen und gehört, so sende uns zurück, auf daß wir Gutes tun mögen; denn nun haben wir Gewißheit.\"",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "Und hätten Wir gewollt, hätten Wir jedem seinen Weg gezeigt; jedoch Mein Wort soll geschehen: \"Füllen will Ich Gahannam mit den Ginn und mit den Menschen allzumal.\"",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "So kostet (die Strafe); denn ihr vergaßt das Eintreffen dieses euren Tages. (Auch) Wir haben euch vergessen. Kostet denn die Strafe der Ewigkeit um dessentwillen, was ihr getan habt.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Nur jene glauben an Unsere Zeichen, die sich, wenn sie an sie gemahnt werden, niederwerfen und das Lob ihres Herrn preisen; und sie sind nicht hochmütig.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Ihre Seiten halten sich fern von (ihren) Betten; sie rufen ihren Herrn in Furcht und Hoffnung an und spenden von dem, was Wir ihnen gegeben haben.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Doch niemand weiß, welche Augenweide für sie als Lohn für ihre Taten verborgen ist.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Ist wohl jener, der gläubig ist, dem gleich, der frevelt? Sie sind nicht gleich.",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "Jene aber, die glauben und gute Werke tun, werden Gärten der Geborgenheit haben als einen Wohnsitz für das, was sie getan haben.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "Jene aber, die ungehorsam sind - ihre Herberge wird das Feuer sein. Sooft sie daraus entfliehen wollen, werden sie wieder dahin zurückgetrieben, und es wird zu ihnen gesprochen: \"Kostet nun die Strafe des Feuers, die ihr zu leugnen pflegtet!\"",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "Und wahrlich, Wir werden sie vor der größeren Strafe von der diesseitigen Strafe kosten lassen, damit sie sich vielleicht doch noch bekehren.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "Und wer ist ungerechter als jener, der an die Zeichen seines Herrn gemahnt wird und sich dann doch von ihnen abwendet? Wahrlich, Wir werden Uns an den Sündern rächen.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Und wahrlich, Wir gaben Moses das Buch - zweifle deshalb nicht daran, daß auch du es bekommst -, und Wir machten es zu einer Führung für die Kinder Israels.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "Und Wir erweckten Führer aus ihrer Mitte, die (das Volk) nach Unserem Gebot leiteten, weil sie geduldig waren und fest an Unsere Zeichen glaubten.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Wahrlich, dein Herr ist es, Der zwischen ihnen am Tage der Auferstehung über das richten wird, worüber sie uneinig waren.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Ist ihnen nicht klar, wie viele Geschlechter Wir schon vor ihnen vernichtet haben, in deren Wohnstätten sie nun wandeln? Hierin liegen wahrlich Zeichen. Wollen sie also nicht hören?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Haben sie denn nicht gesehen, daß Wir das Wasser auf das dürre Land treiben und dadurch Gewächs hervorbringen, an dem ihr Vieh und auch sie selber sich laben? Wollen sie also nicht sehen?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "Und sie sagen: \"Wann wird dieser Sieg kommen, wenn ihr die Wahrheit redet?\"",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Sprich: \"Am Tage des Sieges wird den Ungläubigen ihr Glaube nichts nutzen, noch werden sie Aufschub erlangen.\"",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "So wende dich denn von ihnen ab und warte; auch sie warten.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.aburida",
+      "language": "de",
+      "name": "Abu Rida",
+      "englishName": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
