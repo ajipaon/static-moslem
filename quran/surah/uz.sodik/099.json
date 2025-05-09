@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "Вақтики, ер ўзига хос зилзилага тушса.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "Ва ер ўз юкларини отиб чиқарса.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "Ва инсон, унга нима бўлди?!, деса.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "Ўша кунда у(ер) ўз хабарини айтадир.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "Сенинг Роббинг унга ваҳий юборганини.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "Ўша кунда одамлар гуруҳ-гуруҳ бўлиб, амалларини кўриш учун жойларидан қўзғаладир.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "Бас, ким зарра оғирлигида яхшилик қилса ҳам кўрадир.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "Ва ким зарра оғирлигида ёмонлик қилса ҳам кўрадир. (Яхшиликнинг ҳам, ёмонликнинг ҳам катта-кичиги бўлмайди. Ҳаммасининг ҳисоб-китоби бўлади, қиёматда жавоб бериш керак. Ҳар доим яхшиликни қилиб, агар у кўзга кўринмас зарра миқдорида бўлса ҳам ёмонликдан қочиш керак.)",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "uz.sodik",
+      "language": "uz",
+      "name": "Мухаммад Содик",
+      "englishName": "Muhammad Sodik Muhammad Yusuf",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

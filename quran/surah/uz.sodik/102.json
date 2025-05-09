@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "Кимники кўп сизни машғул қилди.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "То қабрларни зиёрат қилгунингизча",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "Йўқ! Сизлар тезда биласизлар.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "Яна йўқ! Сизлар тезда биласизлар.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "Йўқ! Агар сизлар аниқ илм ила билганингизда эди.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "Албатта, жаҳаннамни кўрасизлар.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "Ва яна, албатта, уни ишонч кўзи билан кўрасизлар.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "Сўнгра ўша кунда, албатта, берилган неъматлардан сўраласизлар. (Яъни, қиёматда ҳар бир неъматни нимага, қандоқ сарф қилганингиз ҳақида сўралади. Ҳа, каттаю кичик ҳар бир неъмат ҳақида сўраласиз. Ҳар бир неъматга шукр қилдингизми, йўқми - сўраласиз. Аллоҳ таоло сизга берган молу дунё неъматини нимага сарфладингиз, ҳалолгами ҳаромга, Аллоҳни рози қиладиган йўлгами, ғазабини қўзғатадиган йўлгами ҳамма-ҳаммаси ҳақида сўраласиз.)",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "uz.sodik",
+      "language": "uz",
+      "name": "Мухаммад Содик",
+      "englishName": "Muhammad Sodik Muhammad Yusuf",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
