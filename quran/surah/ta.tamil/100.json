@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "மூச்சுத்திணற விரைந்து ஓடுபவற்றின் (குதிரைகள்) மீது சத்தியமாக-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "பின்னர், (குளம்பை) அடித்து நெருப்புப் பறக்கச் செய்பவற்றின் மீதும்,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "பின்னர், அதிகாலையில் விரைந்து (எதிரிகள் மீது) பாய்ந்து செல்பவற்றின் மீதும்-",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "மேலும், அதனால் புழுதியைக் கிளப்புகின்றவற்றின் மீதும்,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "அப்பால் (பகைப்படையின்) மத்தியில் கூட்டமாக நுழைந்து செல்பவற்றின் மீதும் சத்தியமாக-",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "நிச்சயமாக, மனிதன் தன் இறைவனுக்கு நன்றி கெட்டவனாக இருக்கின்றான்.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "அன்றியும், நிச்சயமாக அவனே இதற்குச் சாட்சியாகவும் இருக்கின்றான்.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "இன்னும், நிச்சயமாக அவன் பொருளை நேசிப்பதில் அளவு கடந்தே இருக்கின்றான்.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "அவன் அறிந்து கொள்ளவில்லையா? கப்றுகளிலிருந்து, அவற்றிலிருப்பவை எழுப்பப்படும் போது-",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "மேலும், இதயங்களில் உள்ளவை வெளியாக்கப்படும் போது-",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "நிச்சயமாக, அவர்களுடைய இறைவன் அவர்களைப்பற்றி, அந்நாளில் நன்கறிந்தவன்.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ta.tamil",
+      "language": "ta",
+      "name": "ஜான் டிரஸ்ட்",
+      "englishName": "Jan Turst Foundation",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

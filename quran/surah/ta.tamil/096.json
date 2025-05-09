@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "(யாவற்றையும்) படைத்த உம்முடைய இறைவனின் திருநாமத்தைக் கொண்டு ஓதுவீராக.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "'அலக்' என்ற நிலையிலிருந்து மனிதனை படைத்தான்.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "ஓதுவீராக: உம் இறைவன் மாபெரும் கொடையாளி.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "அவனே எழுது கோலைக் கொண்டு கற்றுக் கொடுத்தான்.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "மனிதனுக்கு அவன் அறியாதவற்றையெல்லாம் கற்றுக் கொடுத்தான்.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "எனினும் நிச்சயமாக மனிதன் வரம்பு மீறுகிறான்.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "அவன் தன்னை (இறைவனிடமிருந்து) தேவையற்றவன் என்று காணும் போது,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "நிச்சயமாக அவன் மீளுதல் உம்முடைய இறைவன்பாலே இருக்கிறது.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "தடை செய்கிறானே (அவனை) நீர் பார்த்தீரா?",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "ஓர் அடியாரை - அவர் தொழும்போது,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "நீர் பார்த்தீரா? அவர் நேர்வழியில் இருந்து கொண்டும்,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "அல்லது அவர் பயபக்தியைக் கொண்டு ஏவியவாறு இருந்தும்,",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "அவரை அவன் பொய்யாக்கி, முகத்தைத் திருப்பிக் கொண்டான் என்பதை நிர் பார்த்தீரா,",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "நிச்சயமாக அல்லாஹ் (அவனைப்) பார்க்கிறான் என்பதை அவன் அறியவில்லையா?",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "அப்படியல்ல: அவன் விலகிக் கொள்ளவில்லையானால், நிச்சயமாக நாம் (அவனுடைய) முன்னெற்றி ரோமத்தைப் பிடித்து அவனை இழுப்போம்.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "தவறிழைத்து பொய்யுரைக்கும் முன்னெற்றி ரோமத்தை,",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "ஆகவே, அவன் தன் சபையோரை அழைக்கட்டும்.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "நாமும் நரகக் காவலாளிகளை அழைப்போம்.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "(அவன் கூறுவது போலல்ல) அவனுக்கு நீர் வழிபடாதீர்; (உம் இறைவனுக்கு) ஸுஜூது செய்து (வணங்கி அவனை) நெருங்குவீராக.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "ta.tamil",
+      "language": "ta",
+      "name": "ஜான் டிரஸ்ட்",
+      "englishName": "Jan Turst Foundation",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

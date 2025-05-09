@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "செல்வத்தைப் பெருக்கும் ஆசை உங்களை (அல்லாஹ்வை விட்டும்) பராக்காக்கி விட்டது-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "நீங்கள் கப்றுகளைச் சந்திக்கும் வரை.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "அவ்வாறில்லை, விரைவில் (அதன் பலனை) நீங்கள் அறிந்து கொள்வீர்கள்.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "பின்னர் அவ்வாறல்ல, விரைவில் (அதன் பலனை) நீங்கள் அறிந்து கொள்வீர்கள்.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "அவ்வாறல்ல - மெய்யான அறிவைக் கொண்டறிந்திருப்பீர்களானால் (அந்த ஆசை உங்களைப் பராக்காக்காது).",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "நிச்சயமாக (அவ்வாசையால்) நீங்கள் நரகத்தைப் பார்ப்பீர்கள்.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "பின்னும், நீங்கள் அதை உறுதியாகக் கண்ணால் பார்ப்பீர்கள்.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "பின்னர் அந்நாளில் (இம்மையில் உங்களுக்கு அளிக்கப்பட்டிருந்த) அருட் கொடைகளைப் பற்றி நிச்சயமாக நீங்கள் கேட்கப்படுவீர்கள்.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ta.tamil",
+      "language": "ta",
+      "name": "ஜான் டிரஸ்ட்",
+      "englishName": "Jan Turst Foundation",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
