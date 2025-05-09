@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Неверные из тех, кто получил Писанье, И многобожники Не отошли бы (от своих учений) До той поры, пока к ним не пришло Открытое свидетельство (Господне) -",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Посланник от Аллаха, читающий им Свитки В их праведности и чистоте,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "В которых с ясностью даны Установления Господни.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "И не делились меж собою люди Книги, А (разделение пришло), Когда явилось Ясное Знаменье.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "И было им повелено уверовать (в Аллаха) И в поклонении Аллаху искренность блюсти, Быть верным в правоверии своем, И по часам творить молитву, И править милостыню для очищенья. Это - религия (Господней) правоты И Истина пути, (указанного Богом).",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Неверные из тех, кто получил Писанье, И многобожники Гореть навечно будут в адовом огне, - Поистине, они - сквернейшие из всех созданий!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Те ж, кто уверовал в Аллаха И праведные действия вершит, - Прекраснейшие из созданий (Бога)!",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Господнею наградой им - Эдемские сады, Потоками речными омовенны, Где пребывать навечно им. И там они - к довольствию Аллаха, И к их довольствию - Аллах; Все это - лишь для тех, Кто гнева Господа страшится.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ru.porokhova",
+      "language": "ru",
+      "name": "Порохова",
+      "englishName": "V. Porokhova",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "بيشڪ اسان نوح کي سندس قوم ڏانھن موڪليو ته پنھنجي قوم کي انھن وٽ ڏکوئيندڙ عذاب جي پھچڻ کان اڳ ۾ ڊيڄار.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "چيائين ته اي منھنجي قوم بيشڪ آءٌ اوھان لاءِ پڌرو ڊيڄاريندڙ آھيان.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "ته الله جي عبادت ڪريو ۽ کانئس ڊڄو ۽ منھنجو چيو مڃيو.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "ته اوھان جا گناھ اوھان کي بخشي ۽ اوھان کي ٺھرايل وقت تائين ڍر ڏئي، بيشڪ الله جو ٺھرايل وقت ايندو (تڏھن) ان کي ڍر نه ڏبي، جيڪڏھن ڄاڻندا آھيو.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "(نوح) چيو ته اي منھنجا پالڻھار بيشڪ آءٌ پنھنجي قوم کي رات ۽ ڏينھن سڏيندو رھيس.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "پوءِ منھنجي سڏڻ سندن حق ۾ ڀڄڻ کانسواءِ (ٻيو) ڪي نه وڌايو.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "۽ بيشڪ مون جڏھن به انھن کي سڏيو ته تون انھن کي بخشين (تڏھن) پنھنجيون آڱريون پنھنجن ڪَنن ۾ وڌائون ۽ پنھنجا ڪپڙا پاڻ تي ويڙھيائون ۽ (ڪُفر تي) قائم رھيا ۽ تمام گھڻو ھٺ ڪيائون.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "وري بيشڪ مون اُنھن کي ڏاڍيان سڏيو.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "وري بيشڪ مون انھن کي ظاھر ظھور چيو ۽ انھن کي ڳجھي طرح (به) چيم.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "پوءِ چيم ته پنھنجي پالڻھار کان بخشش گھرو، ڇوته اُھو بخشڻھار آھي.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "ته گھڻو وسندڙ مينھن اوھان تي لڳولڳ وسائي.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "۽ اوھان کي مال ۽ پٽ گھڻا ڏئي ۽ اوھان کي باغ ڏئي ۽ اوھان کي نَھرون بڻائي ڏي.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "اوھان کي ڇا (ٿيو) آھي جو الله جي وڏائي جو ويساھ نه ٿا رکو.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "حالانڪ اوھان کي قسمن قسمن ۾ بڻايائين.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "نه ڏسندا آھيو ڇا ته الله ڪيئن ستن آسمانن کي طبقا طبقا بڻايو.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "۽ انھن ۾ چنڊ کي روشن ڪيائين ۽ سج کي (چمڪندڙ) ڏيئو ڪيائين.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "۽ الله اوھان کي زمين منجھان ھڪڙي ڄمائڻ طرح ڄمايو.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "وري اوھان کي زمين ۾ موٽائي نيندو ۽ وري اوھان کي پوري طرح ٻاھر ڪڍندو.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "۽ الله اوھان لاءِ زمين کي وڇاڻو بڻايو.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "ته اُن ۾ ويڪرين واٽن سان ھلو.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "نوح چيو ته اي منھنجا پالڻھار بيشڪ انھن منھنجو چيو نه مڃيو ۽ اُنھن جي پويان لڳا جن جي حق ۾ سندن مال ۽ سندن اولاد ڇيئي کانسواءِ (ٻيو) ڪي نه وڌايو.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "۽ انھن تمام وڏو فريب پکيڙيو.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "۽ چيائون ته پنھنجن بُتن کي ڪڏھن نه ڇڏيو ۽ نڪي وَد ۽ نڪي سُوَاع ۽ نڪي يَغُوث ۽ يَعُوق ۽ نَسۡر کي ڇڏيو.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "۽ بيشڪ گھڻن کي گمراھ ڪيائون، ۽ (اي الله) ظالمن کي گمراھيءَ کانسواءِ (ٻيو) ڪي وڌيڪ نه ڏي.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "انھن کي سندن گناھن جي سبب ڪري ٻوڙيو ويو وري انھن کي باھ ۾ داخل ڪيو ويو، پوءِ الله کانسواءِ (ٻيو) ڪو پاڻ لاءِ مددگار نه لڌائون.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "۽ نُوح چيو ته اي منھنجا پالڻھار ڪافرن مان ڪو زمين تي رھندڙ نه ڇڏ.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "بيشڪ تون جيڪڏھن انھن کي ڇڏيندين ته تنھنجن ٻانھن کي گمراھ ڪندا ۽ اُھي بدڪار مُنڪر کانسواءِ (ٻيو) نه ڄڻيندا.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "اي منھنجا پالڻھار مون کي ۽ منھنجي ماءُ پيءُ کي بخش ۽ جيڪو منھنجي گھر ۾ مؤمن ٿي اچي تنھن کي ۽ سڀني مؤمنن ۽ مؤمنياڻين کي (بخش)، ۽ ظالمن کي ھلاڪيءَ کانسواءِ (ٻيو) ڪي وڌيڪ نه ڏي.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "sd.amroti",
+      "language": "sd",
+      "name": "امروٽي",
+      "englishName": "Taj Mehmood Amroti",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
