@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Lo que está en los cielos y en la tierra glorifica a Alá, el Rey, el Santísimo, el Poderoso, el Sabio.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "Él es quien ha mandado a los gentiles un Enviado salido de ellos, que les recita Sus aleyas, les purifica y les enseña la Escritura y la Sabiduría. Antes estaban, evidentemente, extraviados.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "Y a otros de ellos, que no se les han incorporado aún. Es el Poderoso, el Sabio.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Ése es el favor de Alá, que dispensa a quien Él quiere. Alá es el Dueño del favor inmenso.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Aquéllos a quienes se había confiado la Tora pero no la observaron son semejantes a un asno que lleva libros. ¡Qué mal ejemplo da la gente que desmiente los signos de Alá! Alá no dirige al pueblo impío.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Di: «¡Judíos! Si pretendéis ser los amigos de Alá, con exclusión de otras gentes, entonces, ¡desead la muerte, si sois consecuentes!»",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Pero nunca la desean por lo que sus manos han cometido. Alá conoce bien a los impíos.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Di: «La muerte, de la que huís, os saldrá al encuentro. Luego, se os devolverá al Conocedor de lo oculto y de lo patente y ya os informará Él de lo que hacíais».",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "¡Creyentes! Cuando se llame el viernes a la azalá, ¡corred a recordar a Alá y dejad el comercio! Es mejor para vosotros. Si supierais...",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Terminada la azalá, ¡id a vuestras cosas, buscad el favor de Alá! ¡Recordad mucho a Alá! Quizás, así, prosperéis.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Cuando ven un negocio o una distracción, escapan allá y te dejan plantado. Di: «Lo que Alá tiene es mejor que la distracción y el negocio. Alá es el Mejor de los proveedores».",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "es.cortes",
+      "language": "es",
+      "name": "Cortes",
+      "englishName": "Julio Cortes",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
