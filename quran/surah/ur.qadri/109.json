@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "آپ فرما دیجئے: اے کافرو!،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "میں ان (بتوں) کی عبادت نہیں کرتا جنہیں تم پوجتے ہو،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "اور نہ تم اس (رب) کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "اور نہ (ہی) میں (آئندہ کبھی) ان کی عبادت کرنے والا ہوں جن (بتوں) کی تم پرستش کرتے ہو،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "اور نہ (ہی) تم اس کی عبادت کرنے والے ہو جس (رب) کی میں عبادت کرتا ہوں،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "(سو) تمہارا دین تمہارے لئے اور میرا دین میرے لئے ہے،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

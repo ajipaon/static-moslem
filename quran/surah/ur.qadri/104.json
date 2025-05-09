@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "ہر اس شخص کے لئے ہلاکت ہے جو (روبرو) طعنہ زنی کرنے والا ہے (اور پسِ پشت) عیب جوئی کرنے والا ہے،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "(خرابی و تباہی ہے اس شخص کے لئے) جس نے مال جمع کیا اور اسے گن گن کر رکھتا ہے،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "وہ یہ گمان کرتا ہے کہ اس کی دولت اسے ہمیشہ زندہ رکھے گی،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "ہرگز نہیں! وہ ضرور حطمہ (یعنی چورا چورا کر دینے والی آگ) میں پھینک دیا جائے گا،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "اور آپ کیا سمجھے ہیں کہ حطمہ (چورا چورا کر دینے والی آگ) کیا ہے،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "(یہ) اﷲ کی بھڑکائی ہوئی آگ ہے،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "جو دلوں پر (اپنی اذیت کے ساتھ) چڑھ جائے گی،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "بیشک وہ (آگ) ان لوگوں پر ہر طرف سے بند کر دی جائے گی،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "(بھڑکتے شعلوں کے) لمبے لمبے ستونوں میں (اور ان لوگوں کے لئے کوئی راہِ فرار نہ رہے گی)،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

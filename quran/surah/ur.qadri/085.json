@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "برجوں (یعنی کہکشاؤں) والے آسمان کی قَسم،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "اور اس دن کی قَسم جس کا وعدہ کیا گیا ہے،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "جو (اس دن) حاضر ہوگا اس کی قَسم اور جو کچھ حاضر کیا جائے گا اس کی قَسم،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "خندقوں والے (لوگ) ہلاک کر دیے گئے،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "(یعنی) اس بھڑکتی آگ (والے) جو بڑے ایندھن سے (جلائی گئی) تھی،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "جب وہ اس کے کناروں پر بیٹھے تھے،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "اور وہ خود گواہ ہیں جو کچھ وہ اہلِ ایمان کے ساتھ کر رہے تھے (یعنی انہیں آگ میں پھینک پھینک کر جلا رہے تھے)،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "اور انہیں ان (مومنوں) کی طرف سے اور کچھ (بھی) ناگوار نہ تھا سوائے اس کے کہ وہ اللہ پر ایمان لے آئے تھے جو غالب (اور) لائقِ حمد و ثنا ہے،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "جس کے لئے آسمانوں اور زمین کی (ساری) بادشاہت ہے، اور اللہ ہر چیز پر گواہ ہے،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "بیشک جن لوگوں نے مومن مردوں اور مومن عورتوں کو اذیت دی پھر توبہ (بھی) نہ کی تو ان کے لئے عذابِ جہنم ہے اور ان کے لئے (بالخصوص) آگ میں جلنے کا عذاب ہے،",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "بیشک جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کے لئے جنتیں ہیں جن کے نیچے سے نہریں جاری ہیں، یہی بڑی کامیابی ہے،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "بیشک آپ کے رب کی پکڑ بہت سخت ہے،",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "بیشک وہی پہلی بار پیدا فرماتا ہے اور وہی دوبارہ پیدا فرمائے گا،",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "اور وہ بڑا بخشنے والا بہت محبت فرمانے والا ہے،",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "مالکِ عرش (یعنی پوری کائنات کے تختِ اقتدار کا مالک) بڑی شان والا ہے،",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "وہ جو بھی ارادہ فرماتا ہے (اسے) خوب کر دینے والا ہے،",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "کیا آپ کے پاس لشکروں کی خبر پہنچی ہے،",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "فرعون اور ثمود (کے لشکروں) کے،",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "بلکہ ایسے کافر (ہمیشہ حق کو) جھٹلانے میں (ہی کوشاں رہتے) ہیں،",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "اور اللہ اُن کے گرد و پیش سے (انہیں) گھیرے ہوئے ہے،",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "بلکہ یہ بڑی عظمت والا قرآن ہے،",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "(جو) لوحِ محفوظ میں (لکھا ہوا) ہے،",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

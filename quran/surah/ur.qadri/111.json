@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "ابولہب کے دونوں ہاتھ ٹوٹ جائیں اور وہ تباہ ہو جائے (اس نے ہمارے حبیب پر ہاتھ اٹھانے کی کوشش کی ہے)،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "اسے اس کے (موروثی) مال نے کچھ فائدہ نہ پہنچایا اور نہ ہی اس کی کمائی نے،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "عنقریب وہ شعلوں والی آگ میں جا پڑے گا،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "اور اس کی (خبیث) عورت (بھی) جو (کانٹے دار) لکڑیوں کا بوجھ (سر پر) اٹھائے پھرتی ہے، (اور ہمارے حبیب کے تلووں کو زخمی کرنے کے لئے رات کو ان کی راہوں میں بچھا دیتی ہے)،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "اس کی گردن میں کھجور کی چھال کا (وہی) رسّہ ہوگا (جس سے کانٹوں کا گٹھا باندھتی ہے)،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

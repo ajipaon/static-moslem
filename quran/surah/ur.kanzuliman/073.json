@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "اے جھرمٹ مارنے والے",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "رات میں قیام فرما سوا کچھ رات کے",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "آدھی رات یا اس سے کچھ تم کرو،",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "یا اس پر کچھ بڑھاؤ اور قرآن خوب ٹھہر ٹھہر کر پڑھو",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "بیشک عنقریب ہم تم پر ایک بھاری بات ڈالیں گے",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "بیشک رات کا اٹھنا وہ زیادہ دباؤ ڈالتا ہے اور بات خوب سیدھی نکلتی ہے",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "بیشک دن میں تو تم کو بہت سے کام ہیں",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "اور اپنے رب کا نام یاد کرو اور سب سے ٹوٹ کر اسی کے ہو رہو",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "وہ پورب کا رب اور پچھم کا رب اس کے سوا کوئی معبود نہیں تو تم اسی کو اپنا کارساز بناؤ",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "اور کافروں کی باتوں پر صبر فرماؤ اور انہیں اچھی طرح چھوڑ دو",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "اور مجھ پر چھوڑو ان جھٹلانے والے مالداروں کو اور انہیں تھوڑی مہلت دو",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "بیشک ہمارے پاس بھاری بیڑیاں ہیں اور بھڑکتی آگ،",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "اور گلے میں پھنستا کھانا اور دردناک عذاب",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "جس دن تھرتھرائیں گے زمین اور پہاڑ اور پہاڑ ہوجائیں گے ریتے کا ٹیلہ بہتا ہوا،",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "بیشک ہم نے تمہاری طرف ایک رسول بھیجے کہ تم پر حاضر ناظر ہیں جیسے ہم نے فرعون کی طرف رسول بھیجے",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "تو فرعون نے اس رسول کا حکم نہ مانا تو ہم نے اسے سخت گرفت سے پکڑا،",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "پھر کیسے بچو گے اگر کفر کرو اس دن جو بچوں کو بوڑھا کردے گا",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "آسمان اس کے صدمے سے پھٹ جائے گا، اللہ کا وعدہ ہوکر رہنا،",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "بیشک یہ نصیحت ہے، تو جو چاہے اپنے رب کی طرف راہ لے",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "بیشک تمہارا رب جانتا ہے کہ تم قیام کرتے ہو کبھی دو تہائی رات کے قریب، کبھی آدمی رات، کبھی تہائی اور ایک جماعت تمہارے ساتھ والی اور اللہ رات اور دن کا اندازہ فرماتا ہے، اسے معلوم ہے کہ اے مسلمانو! تم سے رات کا شمار نہ ہوسکے گا تو اس نے اپنی مہر سے تم پر رجوع فرمائی اب قرآن میں سے جتنا تم پر آسان ہو اتنا پڑھو اسے معلوم ہے کہ عنقریب کچھ تم میں سے بیمار ہوں گے اور کچھ زمین میں سفر کریں گے اللہ کا فضل تلاش کرنے اور کچھ اللہ کی راہ میں لڑتے ہوں گے تو جتنا قرآن میسر ہو پڑھو اور نماز قائم رکھو اور زکوٰة دو اور اللہ کو اچھا قرض دو اور اپنے لیے جو بھلائی آگے بھیجو گے اسے اللہ کے پاس بہتر اور بڑے ثواب کی پاؤ گے، اور اللہ سے بخشش مانگو، بیشک اللہ بخشنے والا مہربان ہے،",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.kanzuliman",
+      "language": "ur",
+      "name": "احمد رضا خان",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

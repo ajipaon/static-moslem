@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "بے شک ہم نے نوح (علیہ السلام) کو ان کی قوم کی طرف بھیجا کہ آپ اپنی قوم کو ڈرائیں قبل اس کے کہ اُنہیں دردناک عذاب آپہنچے،",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "اُنہوں نے کہا: اے میری قوم! بے شک میں تمہیں واضح ڈر سنانے والا ہوں،",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "کہ تم اﷲ کی عبادت کرو اور اُس سے ڈرو اور میری اِطاعت کرو،",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "وہ تمہارے گناہ بخش دے گا اور تمہیں مقررہ مدت تک مہلت عطا کرے گا، بے شک اﷲ کی (مقرر کردہ) مدت جب آجائے تو مہلت نہیں دی جاتی، کاش! تم جانتے ہوتے،",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "نوح (علیہ السلام) نے عرض کیا: اے میرے رب! بے شک میں اپنی قوم کو رات دن بلاتا رہا،",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "لیکن میری دعوت نے ان کے لئے سوائے بھاگنے کے کچھ زیادہ نہیں کیا،",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "اور میں نے جب (بھی) اُنہیں (ایمان کی طرف) بلایا تاکہ تو انہیں بخش دے تو انہوں نے اپنی انگلیاں اپنے کانوں میں دے لیں اور اپنے اوپر اپنے کپڑے لپیٹ لئے اور (کفر پر) ہٹ دھرمی کی اور شدید تکبر کیا،",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "پھر میں نے انہیں بلند آواز سے دعوت دی،",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "پھر میں نے انہیں اِعلانیہ (بھی) سمجھایا اور انہیں پوشیدہ رازدارانہ طور پر (بھی) سمجھایا،",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "پھر میں نے کہا کہ تم اپنے رب سے بخشش طلب کرو، بے شک وہ بڑا بخشنے والا ہے،",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "وہ تم پر بڑی زوردار بارش بھیجے گا،",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "اور تمہاری مدد اَموال اور اولاد کے ذریعے فرمائے گا اور تمہارے لئے باغات اُگائے گا اور تمہارے لئے نہریں جاری کر دے گا،",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "تمہیں کیا ہو گیا ہے کہ تم اﷲ کی عظمت کا اِعتقاد اور معرفت نہیں رکھتے،",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "حالانکہ اس نے تمہیں طرح طرح کی حالتوں سے پیدا فرمایا،",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "کیا تم نے نہیں دیکھا کہ اﷲ نے کس طرح سات (یا متعدّد) آسمانی کرّے باہمی مطابقت کے ساتھ (طبق در طبق) پیدا فرمائے،",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "اور اس نے ان میں چاند کو روشن کیا اور اس نے سورج کو چراغ (یعنی روشنی اور حرارت کا منبع) بنایا،",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "اور اﷲ نے تمہیں زمین سے سبزے کی مانند اُگایا٭، ٭ اَرضی زندگی میں پودوں کی طرح حیاتِ اِنسانی کی اِبتداء اور نشو و نما بھی کیمیائی اور حیاتیاتی مراحل سے گزرتے ہوئے تدریجاً ہوئی، اِسی لئے اِسے اَنبَتَکُم مِّنَ الاَرضِ نَبَاتًا کے بلیغ اِستعارہ کے ذریعے بیان کیا گیا ہے۔",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "پھر تم کو اسی (زمین) میں لوٹا دے گا اور (پھر) تم کو (اسی سے دوبارہ) باہر نکالے گا،",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "اور اﷲ نے تمہارے لئے زمین کو فرش بنا دیا،",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "تاکہ تم اس کے کشادہ راستوں میں چلو پھرو،",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "نوح (علیہ السلام)نے عرض کیا: اے میرے رب! انہوں نے میری نافرمانی کی اور اُس (سرکش رؤساء کے طبقے) کی پیروی کرتے رہے جس کے مال و دولت اور اولاد نے انہیں سوائے نقصان کے اور کچھ نہیں بڑھایا،",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "اور (عوام کو گمراہی میں رکھنے کے لئے) وہ بڑی بڑی چالیں چلتے رہے،",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "اور کہتے رہے کہ تم اپنے معبودوں کو مت چھوڑنا اور وَدّ اور سُوَاع اور یَغُوث اور یَعُوق اور نَسر (نامی بتوں) کو (بھی) ہرگز نہ چھوڑنا،",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "اور واقعی انہوں نے بہت لوگوں کو گمراہ کیا، سو (اے میرے رب!) تو (بھی ان) ظالموں کو سوائے گمراہی کے (کسی اور چیز میں) نہ بڑھا،",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "(بالآخر) وہ اپنے گناہوں کے سبب غرق کر دئیے گئے، پھر آگ میں ڈال دئیے گئے، سو وہ اپنے لئے اﷲ کے مقابل کسی کو مددگار نہ پا سکے،",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "اور نوح (علیہ السلام) نے عرض کیا: اے میرے رب! زمین پر کافروں میں سے کوئی بسنے والا باقی نہ چھوڑ،",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "بے شک اگر تو اُنہیں (زندہ) چھوڑے گا تو وہ تیرے بندوں کو گمراہ کرتے رہیں گے، اور وہ بدکار (اور) سخت کافر اولاد کے سوا کسی کو جنم نہیں دیں گے،",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "اے میرے رب! مجھے بخش دے اور میرے والدین کو اور ہر اس شخص کو جو مومن ہو کر میرے گھر میں داخل ہوا اور (جملہ) مومن مردوں کو اور مومن عورتوں کو، اور ظالموں کے لئے سوائے ہلاکت کے کچھ (بھی) زیادہ نہ فرما،",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

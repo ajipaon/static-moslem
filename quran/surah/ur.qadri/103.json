@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "زمانہ کی قَسم (جس کی گردش انسانی حالات پر گواہ ہے)۔ (یا- نمازِ عصر کی قَسم (کہ وہ سب نمازوں کا وسط ہے)۔ (یا- وقتِ عصر کی قَسم (جب دن بھر چمکنے والا سورج خود ڈوبنے کا منظر پیش کرتا ہے)۔ (یا- زمانۂ بعثتِ مصطفیٰ (صلی اللہ علیہ وآلہ وسلم) کی قَسم (جو سارے زمانوں کا ماحصل اور مقصود ہے)،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "بیشک انسان خسارے میں ہے (کہ وہ عمرِ عزیز گنوا رہا ہے)،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "سوائے ان لوگوں کے جو ایمان لے آئے اور نیک عمل کرتے رہے اور (معاشرے میں) ایک دوسرے کو حق کی تلقین کرتے رہے اور (تبلیغِ حق کے نتیجے میں پیش آمدہ مصائب و آلام میں) باہم صبر کی تاکید کرتے رہے،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "طاہر القادری",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
