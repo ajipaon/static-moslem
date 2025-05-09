@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6080,
+        "text": "چاشگاھ ۋاقتى بىلەن قەسەمكى،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "قاراڭغۇلۇقى (ئەتراپنى قاپلىغان) چاغدىكى كېچە بىلەن قەسەمكى،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "(ئى مۇھەممەد!) پەرۋەردىگارىڭ سېنى تاشلىۋەتكىنىمۇ يوق، يامان كۆرۈپ قالغىنىمۇ يوق",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "ساڭا ئاخىرەت ئەلۋەتتە دۇنيادىن ياخشىدۇر،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "پەرۋەردىگارىڭ ساڭا (ئاخىرەتتە ساۋاب، ھۆرمەت ۋە شاپائەت قاتارلىقلارنى) ئاتا قىلىدۇ، سەن مەمنۇن بولىسەن",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "ئۇ سېنى يېتىم بىلىپ پاناھ بەرمىدىمۇ؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "قايمۇققان بىلىپ ھىدايەت قىلمىدىمۇ؟",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "سېنى يوقسىز بىلىپ (كىشىلەردىن) بىھاجەت قىلمىدىمۇ؟",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "يېتىمنى خارلىما",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "سائىلغا قوپاللىق قىلما",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "پەرۋەردىگارىڭنىڭ (ساڭا بەرگەن) نېمىتىنى (كىشىلەرگە) سۆزلەپ بەرگىن (چۈنكى نېمەتنى سۆزلەپ بەرگەنلىك نېمەتكە شۈكۈر قىلغانلىق بولىدۇ)",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

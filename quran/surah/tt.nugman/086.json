@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "Күк белән һәм Тарыйк белән ант итәм.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "Ул Тарыйкның нинди икәнен сиңа нәрсә белдерде?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "Ул Тарыйк раушән ялтыраучы йолдыздыр.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "Юктыр һичбер кеше, мәгәр һәрбер кеше янында аның барча эшен язучы фәрештә бардыр.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "Адәм баласы үзенә карасын нәрсәдән халык кылынды?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "Халык кылынды ятакка коелган судан.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "Ул су чыгадыр ирнең арка сөякләре арасыннан вә хатынның күкрәк сөякләре арасыннан.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "Ул – Аллаһ үлгән кешене тергезергә, әлбәттә, кадирдер.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "Яшерен эшләр ачылган көндә,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "кешенең Аллаһ ґәзабыннан качарга куәте булмас һәм ярдәмчесе дә булмас.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "Яңгыр иясе булган күк илә.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "Вә үләннәр иясе булган җир белән ант итәм.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "Тәхкыйк ул Коръән сүзе хакны батылдан аеручы хак сүздер.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "Ул – Коръән уен вә батыл сүз түгелдер.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "Тәхкыйк ул кәферләр Коръән сүзләрен юкка чыгарырга хәйлә төзиләр.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "Вә аларны ґәзаб кылу өчен Мин чын хәйлә төзимен.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "Кәферләргә вакыт бир, азганлыкларында йөрсеннәр аларга бик аз гына вакыт бит!",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "Кураеш кабиләсенең өлфәтләнүенә ґәҗәбләнегез.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "Аларның җәй һәм кыш көннәрендә сәүдә белән сәфәрдә йөрүләрендә өлфәтләнүләренә ґәҗәбләнегез! (Кураеш җәй бер мәртәбә, кыш бер мәртәбә Шамга йә Йәмәнгә сәфәр итәләр иде, сәфәрләре Аллаһ ярдәме илә уңышлы булып Мәккә халкын ризык белән тәэмин итеп торалар иде).",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "Алар иман китереп ошбу Кәгъбәнең Раббысы булган Аллаһга гыйбадәт кылсыннар һәм Аның биргән нигъмәтләренә шөкер итсеннәр.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "Ул – Аллаһ аларны ачлыктан коткарып тук кылды, һәм аларны һәртөрле куркынычлардан имин кылды.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

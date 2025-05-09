@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "Сезне ахирәт өчен кирәк булган гамәлләрдән гафил кылды, алдады, мәхрүм итте, дөнья малын күбәйтү белән мактанышуларыгыз.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "Хәттә үлеп кабергә кергәнегезгә хәтле алдануыгызны, дәвам иттердегез.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "Юк, алданмагыз, әле дөньяга алданып тыныч кына яшәсәгез дә, тиздән белерсез алданганыгызны!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "Янә әйтәмен, әле тыныч кына йөрсәгез дә мәңгегә алданганыгызны тиздән белерсез!",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "Юк алданмагыз, әгәр дөньяга алданып ахирәттән мәхрүм калуның иң зур алдану икәнен чын белү белән белсәгез, әлбәттә, дөньяга һич тә алданмаган булыр идегез.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "Сез, әлбәттә, җәһәннәмне күрерсез.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "Соңрак аны якыннан ачык күрерсез.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "Соңра сезне ахирәт гамәленнән мәхрүм иткән дөнья нигъмәтләреннән соралырсыз. Бит Аллаһ сезгә гакыл фикерне һәм күз, колак, телне һәм аяк-кулны дөньяда яшәр өчен генә түгел, бәлки ахирәткә хәзерләнер өчен биргән иде, шулай ук дөнья байлыгын да ахирәткә хәзерләнү өчен кулланырга биргән иде.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

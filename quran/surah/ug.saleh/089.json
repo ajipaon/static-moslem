@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "سۈبھى بىلەن، (زۇلھەججىنىڭ دەسلەپكى) ئون كېچىسى، بىلەن قۇربانلىق كۈنى بىلەن، قەسەمكى، (كاپىرلارغا ئازاب قىلىمىز)",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "سۈبھى بىلەن، (زۇلھەججىنىڭ دەسلەپكى) ئون كېچىسى، بىلەن قۇربانلىق كۈنى بىلەن، قەسەمكى، (كاپىرلارغا ئازاب قىلىمىز)",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "سۈبھى بىلەن، (زۇلھەججىنىڭ دەسلەپكى) ئون كېچىسى، بىلەن قۇربانلىق كۈنى بىلەن، قەسەمكى، (كاپىرلارغا ئازاب قىلىمىز)",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "سۈبھى بىلەن، (زۇلھەججىنىڭ دەسلەپكى) ئون كېچىسى، بىلەن قۇربانلىق كۈنى بىلەن، قەسەمكى، (كاپىرلارغا ئازاب قىلىمىز)",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "ئەقىل ئىگىسىگە بۇنىڭدا (يەنى يۇقىرىقى نەرسىلەردە قانائەتلىنەرلىك) قەسەم بارمۇ؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "پەرۋەردىگارىڭنىڭ ئاد - كۈچلۈك ئىرەمنى قانداق جازالىغانلىقىنى كۆرمىدىڭمۇ؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "پەرۋەردىگارىڭنىڭ ئاد - كۈچلۈك ئىرەمنى قانداق جازالىغانلىقىنى كۆرمىدىڭمۇ؟",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "بۇنداق ئادەملەر باشقا شەھەرلەردە يارىتىلمىغان ئىدى",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "شۇنىڭدەك ۋادىقورادا تاشلارنى كېسىپ (ئۆيلەرنى بىنا قىلغان) سەمۇدنى اﷲ قانداق جازالىدى",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "شۇنىڭدەك قۇزۇقلار ئىگىسى پىرئەۋننى قانداق جازالىدى",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "ئۇلار شەھەرلەردە (زۇلۇم قىلىشتا) ھەددىدىن ئاشتى",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "ئۇ يەرلەردە بۇزغۇنچىلىقنى كۆپ قىلدى",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "پەرۋەردىگارىڭ ئۇلارغا قاتتىق ئازابنى نازىل قىلدى",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "پەرۋەردىگارىڭ (بەندىلەرنى) ئەلۋەتتە كۆزىتىپ تۇرغۇچىدۇر",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "پەرۋەردىگارى ئىنساننى سىناپ ئەزىز قىلسا ۋە ئۇنىڭغا نېمەت بەرسە، ئۇ پەرۋەردىگارىم مېنى ئەزىز قىلدى» دەيدۇ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "پەرۋەردىگارى ئىنساننى سىناپ رىزقنى تار قىلسا، ئۇ: «پەرۋەردىگارىم مېنى خار قىلدى» دەيدۇ",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "ھەرگىز ئۇنداق ئەمەس، سىلەر يېتىمنى ھۆرمەت قىلمايسىلەر",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "بىر - بىرىڭلارنى مىسكىنگە ئاش، نان بېرىشكە تەرغىب قىلمايسىلەر",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "مىراسنى (ھالال–ھارام دېمەستىن) ھە دەپ يەيسىلەر",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "مالنى (ھېرىسلىق بىلەن) ناھايىتى دوست تۇتىسىلەر",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "(ئى غاپىللار!) بۇنىڭدىن يېنىڭلار، زېمىن ئارقىمۇئارقا تەۋرىتىلگەن چاغدا",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "پەرۋەردىگارىڭ كەلگەن ۋە پەرىشتىلەر سەپ - سەپ بولۇپ كەلگەن چاغدا",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "(گۇناھكارلارنى كۆرۈش ئۈچۈن) جەھەننەم كەلتۈرۈلگەن چاغدا، شۇ كۈندە ئىنسان (يەنى كاپىر) (دۇنيادىكى قىلمىشلىرىنى) ئەسلەيدۇ، (بۇ چاغدا) ئەسلىگەننىڭ ئۇنىڭغا نېمە پايدىسى بولسۇن",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "ئۇ ئېيتىدۇكى: «كاشكى مەن (دۇنيادىكى) ھايات ۋاقتىمدا ياخشى ئىشلارنى قىلغان بولسامچۇ!»",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "شۇ كۈندە ھەر ئەھەدى (اﷲ قا ئاسىيلىق قىلغانلارنى) اﷲ جازالىغاندەك جازالىمايدۇ",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "ھەمدە ھېچ ئەھەدى اﷲ باغلىغاندەك باغلىمايدۇ",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "ئى ئارام تاپقۇچى جان!",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "سەن پەرۋەردىگارىڭدىن مەمنۇن، پەرۋەردىگارىڭ سەندىن رازى بولغان ھالدا، ئۇنىڭ دەرگاھىغا قايتقىن",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "سەن مېنىڭ (ياخشى) قاتارىغا قوشۇلغىن",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "مېنىڭ جەننىتىمگە كىرگىن",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

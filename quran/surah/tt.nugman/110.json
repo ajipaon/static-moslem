@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "Әгәр Ислам диненә вә мөселманнарга Аллаһудан ярдәм килсә вә шәһәрләр хосусан Мәккә шәһәре кебек мөселманнар кулына үтсә,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "шул вакытта күрерсең кешеләрне, төркем-төркем булып Аллаһ дине Исламга керерләр.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "Раббың булган Аллаһуны һәр кимчелектән пакь дип белеп һәм мактап тәсбих әйт, намаз укы һәм Аңардан ярлыкауны телә, сора! Дөреслектә Ул тәүбәне кабул итеп гөнаһларны гафу кылучыдыр.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

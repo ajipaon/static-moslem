@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "Кайчан кояшның нуры китәрелсә, чорналса (караңгылык белән).",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "Вә йолдызлар җиргә коелсалар (метеоритлар).",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "Вә таулар урыннарыннан кузгалсалар.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "Вә ун айлык буаз дөяләр игътибарсыз калдырылсалар.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "Вә кыр хайваннары бер урынга җыелсалар.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "Вә дәрьяләр бер урынга түгелсәләр.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "Вә яхшы кешеләр яхшыларга һәм яман кешеләр яманнарга кушылсалар.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "Вә тере хәлдә күмелгән кыз балалар соралсалар. (Җаһилият вакытында ґәрәбләр кыз балаларын тәрбияләргә авырсынып яки аларны ят кешегә кияүгә биреп җибәрү хурлык дип, тере хәлдә күмәләр иде.)",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "Ни сәбәпле үтерелдең дип, нинди гөнаһы бар иде, нигә үтердегез дип.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "Вә гамәл дәфтәрен хисаб өчен таратылса.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "Вә күк урыныннан китәрелсә.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "Вә җәһәннәм каты кыздырылса.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "Вә җәннәт якын китерелсә.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "Шул вакытта һәркем үзенең хәзерләгән яхшы, вә яман эшләрен белер.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "Ант итәмен кире кайтучылар белән.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "Вә яшерен йөрүчеләр илә. Ягъни китеп-килеп, күренеп һәм күренмичә йөрүче йолдызлар белән ант итәм.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "Вә төн белән ант итәм, һәркайчан килсә ул төн.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "Вә таң белән ант итәмен, һәркайчан ачылса.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "Шиксез, ул Коръән хөрмәтле Җәбраилнең Аллаһудан алып килгән сүзедер.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "Ул Җәбраил олугъ куәт иясе вә хөрмәтедер, ґәреш иясе Аллаһ хозурында.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "Ул Җәбраилгә башка фәрештәләр итагать итәләр, соңра ул ышанычлы хыянәттән пакьдер.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "Вә сезнең юлдашыгыз Мухәммәд г-м дивана түгел һәм үзлегеннән сүз сөйләүче дә түгел.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "Тәхкыйк ул Җәбраилне күрде югары ачык күктә.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "Ул Мухәммәд г-м кешеләргә мәгълүм булмаган ахирәт хәлләреннән Коръән белән хәбәр бирүдә саран түгелдер.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "Ул Коръән Аллаһу хозурыннан таш белән сөрелгән шайтан сүзе түгелдер.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "Коръәнне куеп кая барасыз? Аллаһ китабын ташлап Аллаһ җәннәтенә ничек барасыз?",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "Ул Коръән барча галәм халыкларына вәгазьдер, кирәк эшләрне исләренә төшерүчедер вә кешеләргә иманны, динне, һидәятне һәм тәрбияне кәсеп итә торган иң туры юлдыр.",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "Сезләрдән туры юлга күнелергә теләге булган кешеләргә вәгазь һәм туры юлдыр.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "Юк туры юлга күнелүне тели алмассыз, мәгәр барча галәмнәрне тәрбия итүче Аллаһу тәгалә теләсә генә.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

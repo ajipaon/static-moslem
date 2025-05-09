@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "Үкенеч вә һәлакәтлектер һәрбер сүз йөртүче гайбәтчегә.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "Ул гайбәтче нинди юл белән булса да мал җыйды вә ул малны тиешле урынына бирмичә, саранлык белән яшереп саклады.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "Тәхкыйк ул гайбәтче саран, малы аны дөньяда мәңге калдырыр дип уйлыйдыр.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "Юк, үз башыңа бәла булган малына таянмасын, ул әлбәттә, җәһәннәм утына ыргытылыр.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "Сиңа ул хөтамәне нәрсә белдерде?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "Ул Аллаһуның кыздырылган утыдыр.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "Ул ут йөрәккә төшәр, эчке әгъзаларны да көйдерер.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "Тәхкыйк, ул ут аларга ишекләре бикләнеп мәхкәм (нык) кылынгандыр.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "Уттан булган озын баганалар белән.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

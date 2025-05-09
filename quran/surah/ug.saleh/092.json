@@ -1,0 +1,254 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 92,
+    "name": "سُورَةُ اللَّيۡلِ",
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 21,
+    "ayahs": [
+      {
+        "number": 6059,
+        "text": "قاراڭغۇلۇقى ئالەمنى قاپلىغان كېچە بىلەن قەسەمكى،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6060,
+        "text": "يورۇغان چاغدىكى كۈندۈز بىلەن قەسەمكى،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6061,
+        "text": "ئەر - ئايالنى ياراتقان زات اﷲ بىلەن قەسەمكى،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6062,
+        "text": "سىلەرنىڭ ئەمەلىڭلار شەك - شۈبھىسىز خىلمۇخىلدۇر",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6063,
+        "text": "(پۇل - مېلىنى اﷲ نىڭ رازىلىقى ئۈچۈن) سەرپ قىلغان، تەقۋادارلىق قىلغان، (كەلىمە تەۋھىدنى) تەستىق قىلغان ئادەمگە كەلسەك",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6064,
+        "text": "(پۇل - مېلىنى اﷲ نىڭ رازىلىقى ئۈچۈن) سەرپ قىلغان، تەقۋادارلىق قىلغان، (كەلىمە تەۋھىدنى) تەستىق قىلغان ئادەمگە كەلسەك،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6065,
+        "text": "ئۇنىڭغا بىز ياخشى يولنى مۇيەسسەر قىلىپ بېرىمىز",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6066,
+        "text": "بېخىللىق قىلىپ (اﷲ نىڭ ساۋابىدىن) ئۆزىنى بىھاجەت ھېسابلىغان، كەلىمە تەۋھىدنى ئىنكار قىلغان ئادەمگە كەلسەك",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6067,
+        "text": "بېخىللىق قىلىپ (اﷲ نىڭ ساۋابىدىن) ئۆزىنى بىھاجەت ھېسابلىغان، كەلىمە تەۋھىدنى ئىنكار قىلغان ئادەمگە كەلسەك،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6068,
+        "text": "بىز ئۇنىڭغا يامان يولنى مۇيەسسەر قىلىپ بېرىمىز",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6069,
+        "text": "ئۇ (دوزاخقا) تاشلانغان چاغدا، ئۇنىڭ مېلى ھېچ نەرسىگە ئەسقاتمايدۇ",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6070,
+        "text": "توغرا يولنى كۆرسىتىشكە شەك - شۈبھىسىز بىز مەسئۇلمىز",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6071,
+        "text": "دۇنيا ۋە ئاخىرەت شەك - شۈبھىسىز بىزنىڭ ئىلكىمىزدىدۇر",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6072,
+        "text": "سىلەرنى لاۋۇلداپ تۇرغان ئوتتىن ئاگاھلاندۇردۇم",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6073,
+        "text": "ئۇنىڭغا پەقەت (ھەقنى) ئىنكار قىلغان، (ئىماندىن) يۈز ئۆرۈگەن ئادەملا كىرىدۇ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6074,
+        "text": "ئۇنىڭغا پەقەت (ھەقنى) ئىنكار قىلغان، (ئىماندىن) يۈز ئۆرۈگەن ئادەملا كىرىدۇ",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6075,
+        "text": "پاكلىنىش ئۈچۈن مال - مۈلكىنى (ياخشىلىق يوللىرىغا) سەرپ قىلىدىغان ئادەم ئۇنىڭدىن (يەنى ئوتتىن) يىراق قىلىنىدۇ",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6076,
+        "text": "پاكلىنىش ئۈچۈن مال - مۈلكىنى (ياخشىلىق يوللىرىغا) سەرپ قىلىدىغان ئادەم ئۇنىڭدىن (يەنى ئوتتىن) يىراق قىلىنىدۇ",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6077,
+        "text": "ئۇنىڭ قىلغان ياخشىلىقى بىراۋنىڭ ياخشىلىقىنى ياندۇرۇش ئۈچۈن ئەمەس، پەقەت ئۇلۇغ پەرۋەردىگارىنىڭ رازىلىقى ئۈچۈندۇر",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6078,
+        "text": "ئۇنىڭ قىلغان ياخشىلىقى بىراۋنىڭ ياخشىلىقىنى ياندۇرۇش ئۈچۈن ئەمەس، پەقەت ئۇلۇغ پەرۋەردىگارىنىڭ رازىلىقى ئۈچۈندۇر",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6079,
+        "text": "ئۇ (يەنى ئېھسان قىلغۇچى ئادەم) (پەرۋەردىگارىنىڭ بەرگەن مۇكاپاتىدىن) چوقۇم رازى بولىدۇ",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

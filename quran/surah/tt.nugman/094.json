@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "Әйә Мухәммәд г-м синең күкрәгеңне ачмадыкмы һәм иман, хикмәт белән күңелеңне йомшак кылмадыкмы.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "Вә синнән авыр йөкне төшердек түгелме.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "Ул авырлык аркаларыңны авырттыра иде түгелме.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "Һәм синең исемеңне кешеләр арасында мактаулы зекер белән дәрәҗәгә күтәрдек түгелме?",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "Дөреслектә файдалы булган җиңеллек авырлыктан соң",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "Дөреслектә авырлыктан соң гына файдалы җиңеллек табыла.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "Бер хәерле эштән бушансаң, икенче хәерле эшне эшләргә тырыш.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "Һәм Раббыңның рәхмәтенә кызык, Раббыңа таба ашык, һәм һәрвакыт Ул риза булачак хәерле эшләр белән мәшгуль бул!",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

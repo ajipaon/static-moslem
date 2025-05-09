@@ -1,0 +1,254 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 92,
+    "name": "سُورَةُ اللَّيۡلِ",
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 21,
+    "ayahs": [
+      {
+        "number": 6059,
+        "text": "Төн белән ант итәм, һәркайчан караңгылыгы белән капласа.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6060,
+        "text": "Вә көндез белән ант итәм, һәркайчан яктырса.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6061,
+        "text": "Вә ирне һәм хатынны халык кылган Аллаһ белән ант итәм.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6062,
+        "text": "Тәхкыйк сезнең эшләрегез вә гамәлләрегез, төрлечә-төрлечәдер.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6063,
+        "text": "Әмма бер кеше Аллаһ күрсәткән урыннарга садакалар бирсә һәм Аллаһудан куркып гөнаһлардан сакланса.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6064,
+        "text": "Һәм Аллаһуның берлеген, Исламның хаклыгын вә Коръәннең һәм пәйгамбәрнең хаклыгын тәсъдыйк кылса.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6065,
+        "text": "Аңа җиңеллек вә рәхәтлек урыны булган җәннәткә алып керүче гамәлләрне мүйәссәр кылырбыз.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6066,
+        "text": "Вә әмма бер кеше саранлык кылса, вә үзен Аллаһуга вә ахирәт нигъмәтләренә мохтаҗсыз санаса, кирәксенмәсә.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6067,
+        "text": "Вә Аллаһуның берлеген һәм Коръәннең вә пәйгамбәрнең хаклыгын инкяр кылса.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6068,
+        "text": "Бик тиз Без аңа авырлык вә ґәзаб урыны булган җәһәннәмгә алып керә торган бозык эшләрне, батыл гамәлләрне мүйәссәр кылырбыз.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6069,
+        "text": "Җәһәннәмгә егылып һәлак булганда аңа малы файда бирмәс.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6070,
+        "text": "Тәхкыйк Безгә туры юлны бәян кылмак тиешледер.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6071,
+        "text": "Әлбәттә, дөнья һәм ахирәт байлыгы фәкать Безнекедер. Шулай булгач, икесен дә Аллаһудан сорарга тиешле.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6072,
+        "text": "Ий кешеләр, Мин сезне куркыттым ялкынланган ут белән.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6073,
+        "text": "Ул утка кермәс мәгәр бәхетсез явыз кеше генә керер.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6074,
+        "text": "Ул явыз, Коръәнне вә пәйгамбәрне ялганга тотты һәм Аллаһуга итагать итүдән баш тартты.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6075,
+        "text": "Аллаһудан куркып гөнаһтан сакланучы тәкъва кеше, ул уттан ягада, читтә булыр.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6076,
+        "text": "Ул тәкъва кеше малын Аллаһ күрсәткән урыннарга бирер, гөнаһтан пакьләнмәк нияте белән.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6077,
+        "text": "Бит Аллаһ хозурыңда һичкемгә сәваб вә нигъмәт юк.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6078,
+        "text": "Мәгәр сәваб вә нигъмәтләр бирелер, ахирәт өчен кыла торган гамәлләрен фәкать Аллаһ ризалыгы өчен генә һәм Аллаһ кушканча гына кылган тәкъва кешегә.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6079,
+        "text": "Вә андый кеше тиздән Аллаһ биргән җәннәт нигъмәтләреннән разый булыр.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

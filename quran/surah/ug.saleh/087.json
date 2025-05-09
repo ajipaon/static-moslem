@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "ھەممىدىن ئۈستۈن پەرۋەردىگارىڭنىڭ نامىنى پاك ئېتىقاد قىلغىن",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "ئۇ (پۈتۈن مەخلۇقاتنى) ياراتتى، (ئۇلارنى) بېجىرىم (يەنى چىرايلىق ۋە مۇناسىپ شەكىلدە) قىلدى",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "مەخلۇقاتقا پايدىلىق ئىشلارنى (تەقدىر قىلدى، ئۇلارغا پايدىلىنىش يوللىرىنى) كۆرسەتتى",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "ئوت - چۆپلەرنى ئۆستۈرۈپ بەردى",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "ئاندىن ئۇلارنى قارامتۇل قۇرۇق ئوت - خەسكە ئايلاندۇردى",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "(ئى مۇھەممەد!) ساڭا (قۇرئاننى) ئوقۇتىمىز، اﷲ (نەسخى) قىلماقچى بولغان نەرسىدىن باشقىنى ئۇنتۇمايسەن. اﷲ (بەندىلەرنىڭ) ئاشكارا ۋە يوشۇرۇن (سۆز - ھەرىكەتلىرىنى) بىلىپ تۇرىدۇ",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "(ئى مۇھەممەد!) ساڭا (قۇرئاننى) ئوقۇتىمىز، اﷲ (نەسخى) قىلماقچى بولغان نەرسىدىن باشقىنى ئۇنتۇمايسەن. اﷲ (بەندىلەرنىڭ) ئاشكارا ۋە يوشۇرۇن (سۆز - ھەرىكەتلىرىنى) بىلىپ تۇرىدۇ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "سېنى بىز ئاسان يولغا (يەنى ئىسلام شەرىئىتىگە) مۇۋەپپەق قىلىمىز",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "ۋەز - نەسىھەت پايدىلىق بولىدىغان بولسا، (كىشىلەرگە قۇرئان بىلەن) ۋەز - نەسىھەت قىلغىن",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "اﷲ تىن (قورققان) ئادەم ۋەز - نەسىھەتنى قوبۇل قىلىدۇ",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "ئەڭ شەقى ئادەم ۋەز - نەسىھەتتىن قاچىدۇ",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "ئۇ كاتتا ئوتقا (يەنى دوزاخقا) كىرىدۇ",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "ئاندىن ئۇ ئوتتا ئۆلمەيدۇ ۋە (ئوبدان) ياشىمايدۇ",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "(كۇفرىدىن ۋە گۇناھتىن) پاك بولغان ئادەم مەقسىتىگە يەتتى",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "ئۇ پەرۋەردىگارىنىڭ نامىنى ياد ئەتتى، ئاندىن ناماز ئوقۇدى",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "سىلەر دۇنيا تىرىكچىلىكىنى ئارتۇق كۆرىسىلەر",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "ئاخىرەت ياخشىدۇر ۋە باقىيدۇر",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "بۇ (يەنى بۇ سۈرىدىكى ۋەزلەر) شەك - شۈبھىسىز بۇرۇنقى كىتابلاردا - ئىبراھىم ۋە مۇسالارنىڭ كىتابلىرىدا باردۇر",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "بۇ (يەنى بۇ سۈرىدىكى ۋەزلەر) شەك - شۈبھىسىز بۇرۇنقى كىتابلاردا - ئىبراھىم ۋە مۇسالارنىڭ كىتابلىرىدا باردۇر",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

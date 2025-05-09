@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "Ий Мухәммәд г-м әйт: \"Ий сез кәферләр, иман китермәгән кешеләр!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "Сез гыйбадәт кыла торган сынымнарга мин гыйбадәт кылмыймын.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "Һәм сез дә мин гыйбадәт кыла торган Аллаһуга гыйбадәт кылмыйсыз.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "Вә мин сезнең гыйбадәт кыла торган сынымнарыгызга гыйбадәт кылучы түгелмен.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "Вә сез мин гыйбадәт кыла торган Аллаһуга гыйбадәт кылучы түгелсез.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "Сезнең батыл ялган динегез үзегезгә булсын, вә минем хак динем үзебезгә булсын!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

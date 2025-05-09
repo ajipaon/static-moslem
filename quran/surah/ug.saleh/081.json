@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "كۈننىڭ نۇرى ئۆچكەن چاغدا،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "يۇلتۇزلار تۆكۈلگەن چاغدا،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "تاغلار گۇمران بولغان چاغدا،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "بوغاز تۆگىلەر تاشلىۋېتىلگەن چاغدا،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "ياۋايى ھايۋانلار توپلانغان چاغدا،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "دېڭىزلار ئوت بولۇپ لاۋۇلدىغان چاغدا،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "جانلار (ئۆز قاياشلىرىغا) قوشۇلغان چاغدا،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "تىرىك كۆمۈۋېتىلگەن قىزدىن سەن قايسى گۇناھ بىلەن ئۆلتۈرۈلدۈڭ؟ دەپ سورالغان چاغدا،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "تىرىك كۆمۈۋېتىلگەن قىزدىن سەن قايسى گۇناھ بىلەن ئۆلتۈرۈلدۈڭ؟ دەپ سورالغان چاغدا،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "نامە - ئەماللار ئېچىلغان چاغدا،",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "ئاسمان ئېچىپ تاشلانغان چاغدا،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "دوزاخ قىزىتىلغان چاغدا،",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "جەننەت (تەقۋادارلارغا) يېقىنلاشتۇرۇلغان چاغدا،",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "ھەر ئادەم ئۆزىنىڭ قىلغان (ياخشى - يامان) ئىشلىرىنى بىلىدۇ",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "كۈندۈزى يوشۇرۇنغۇچى يۇلتۇزلار بىلەن، پاتىدىغان ۋاقتىدا يوشۇرۇنىدىغان يۇلتۇزلار بىلەن قەسەم قىلىمەن",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "كۈندۈزى يوشۇرۇنغۇچى يۇلتۇزلار بىلەن، پاتىدىغان ۋاقتىدا يوشۇرۇنىدىغان يۇلتۇزلار بىلەن قەسەم قىلىمەن،",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "قاراڭغۇلۇققا چۆمگەن كېچە بىلەن قەسەم قىلىمەن،",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "يورۇشقا باشلىغان سۈبھى بىلەن قەسەم قىلىمەن",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "قۇرئان ھەقىقەتەن (اﷲ نىڭ) ئىززەتلىك بىر ئەلچى (ئارقىلىق نازىل قىلىنغان) سۆزىدۇر",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "ئۇ (ئەلچى) كۈچلۈكتۇر، اﷲ نىڭ دەرگاھىدا مەرتىۋىلىكتۇر",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "پەرىشتىلەر ئۇنىڭغا ئىتائەت قىلغۇچىدۇر. بۇ يەردە (يەنى ئاسماندا) ئۇ ئىشەنچلىكتۇر",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "سىلەرنىڭ ھەمراھىڭلار (يەنى مۇھەممەد ئەلەيھىسسالام) مەجنۇن ئەمەستۇر",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "ئۇ (يەنى مۇھەممەد ئەلەيھىسسالام) جىبرىئىلنى ھەقىقەتەن روشەن ئۇپۇقنىڭ شەرقىدە كۆردى",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "ئۇ (يەنى مۇھەممەد ئەلەيھىسسالام) (غەيبنى) تەبلىغ قىلىشتا بېخىل ئەمەستۇر",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "ئۇ (يەنى قۇرئان) قوغلاندى شەيتاننىڭ سۆزى ئەمەستۇر",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "قەيەرگە بارىسىلەر؟",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "ئۇ (يەنى قۇرئان) پۈتۈن ئەھلى جاھانغا نەسىھەتتۇر",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "سىلەرنىڭ ئاراڭلاردىن (دىن بارىسىدا) راۋۇرۇس بولۇشنى خالايدىغانلارغا (قۇرئان) نەسىھەتتۇر",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "پەقەت ئالەملەرنىڭ پەرۋەردىگارى اﷲ خالىغاندىلا، ئاندىن سىلەر خالايسىلەر (يەنى اﷲ خالىمىغۇچە سىلەرنىڭ خالىغىنىڭلارنىڭ ھېچ پايدىسى يوق)",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

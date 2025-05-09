@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "Аллаһ юлында сугыш өчен сулуларын тавышландырып чабкучы атлар илә ант итәм.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "Дагалары белән таштан ут чыгарып чабкучы атлар илә ант итәм.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "Таң вакытында Аллаһ юлында сугыш өчен ашыгып чабкучы атлар белән ант итәм.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "Ул атлар каты чабулары белән тузан күтәрерләр.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "Вә бу атлы гаскәр Исламга һәм мөселманнарга зарар итүче кәфер кавеме арасына таң вакытында барып керделәр, аларны туздырмак өчен.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "Тәхкыйк кеше үзенең Раббысына вә Аның нигъмәтләренә көфран нигъмәт кылучыдыр, ягъни иман китермичә, Ислам динен кабул итмичә, үзен-үзе һәлак итүчедер.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "Тәхкыйк имансыз кеше үзенең имансызлыгына Аллаһуга каршы кылган эшләре белән гуаһдыр.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "Вә тәхкыйк Аллаһудан курыкмаган кеше малны артык сөйгәнлеге өчен малга бик каты сарандыр.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "Әйә адәм баласы белмиме белерлек, гакылы бар түгелме – кабердәге үлекләр терелеп чыкканда һәм,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "күкрәктәге игътикад, уй-фикерләр ачылганда.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "Ул көндә Раббылары аларның кылган эшләреннән хәбәрдар икәнен?",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

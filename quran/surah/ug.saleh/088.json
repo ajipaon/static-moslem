@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "(ئى مۇھەممەد!) ساڭا ھەقىقەتەن قىيامەتنىڭ خەۋىرى كەلدى",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "بۇ كۈندە نۇرغۇن ئادەملەر خار بولغۇچىدۇر",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "ئۇلار دۇنيادا گۇناھ قىلغۇچىلاردۇر، (ئاخىرەتتە) جاپا تارتقۇچىلاردۇر",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "ئۇلار ھارارىتى قاتتىق دوزاخقا كىرىدۇ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "(سۇلىرى) قايناپ تۇرغان بۇلاقتىن سۇغىرىلىدۇ",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "ئۇلار ئۈچۈن زەرىدىن (يەنى بەتبۇي، ئاچچىق تىكەندىن) باشقا يېمەكلىك بولمايدۇ",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "زەرى كىشىنى سەمرىتمەيدۇ، ئاچلىقنى پەسەيتمەيدۇ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "بۇ كۈندە نۇرغۇن كىشىلەر باركى، ئۇلار نېمەت بىلەن خۇشالدۇر",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "بۇ دۇنيادا قىلغان (سەئيى ئەمەللىرىدىن) مەمنۇندۇر",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "ئۇلار ئالىي جەننەتتىدۇر",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "ئۇ يەردە يامان سۆز ئاڭلىمايدۇ",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "ئۇ يەردە بۇلاقلار ئېقىپ تۇرىدۇ",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت - رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت - رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت - رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت - رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "ئۇلار قارىمامدۇكى، تۆگىلەر قانداق يارىتىلدى،",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "ئاسمان قانداق ئېگىز قىلىندى،",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "تاغلار قانداق تۇرغۇزۇلدى،",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "زېمىن قانداق يېيىتىلدى",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "سەن (ئۇلارغا) ۋەز - نەسىھەت قىلغىن، سەن پەقەت (ئۇلارغا) ۋەز - نەسىھەت قىلغۇچىسەن",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "سەن ئۇلارغا مۇسەللەت (يەنى ئۇلارنى ئىمانغا مەجبۇرلىغۇچى) ئەمەسسەن",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "لېكىن كىمكى (ۋەز - نەسىھەتتىن) يۈز ئۆرۈپ (اﷲ نى) ئىنكار قىلىدىكەن،",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "اﷲ ئۇنى قاتتىق ئازابلايدۇ",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "ئۇلار (ئۆلگەندىن كېيىن) ھەقىقەتەن بىزنىڭ دەرگاھىمىزغا قايتىدۇ",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "ئاندىن ئۇلاردىن ھېساب ئېلىشقا بىز مەسئۇلمىز",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

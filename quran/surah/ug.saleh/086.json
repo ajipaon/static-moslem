@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "ئاسمان بىلەن، تارىق (يەنى كېچىدە ئاشكارا بولغۇچى يۇلتۇز) بىلەن قەسەم قىلىمەن",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "تارىقنىڭ نېمىلىكىنى بىلەمسەن؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "ئۇ يورۇق يۇلتۇزدۇر",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "ھەر بىر ئادەم بىلەن (شۇ ئادەمنى) ساقلىغۇچى (پەرىشتە) بار",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "ئىنسان نېمىدىن يارىتىلغانلىقىغا قارىسۇن",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "ئۇ ئېتىلىپ چىققۇچى مەنىدىن يارىتىلدى",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "ئۇ مەنى ئۇمۇرتقا بىلەن قوۋۇرغا سۆڭىكىنىڭ ئارىسىدىن چىقىدۇ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "شەك - شۈبھىسىزكى، اﷲ ئۇنى ئەسلىگە كەلتۈرۈشكە (يەنى تىرىلدۈرۈشكە قادىردۇر",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "سىرلار ئاشكارا قىلىنىدىغان كۈندە (يەنى قىيامەتتە)،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "ئۇنىڭدىن (يەنى ئىنساندىن) (ئازابنى دەپئى قىلىدىغان ھېچ كۈچ ۋە ياردەمچى يوقتۇر",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "يامغۇرلۇق بۇلۇت بىلەن قەسەمكى،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "يېرىلىپ (گىياھلارنى ئۈندۈرۈپ بېرىدىغان) زېمىن بىلەن قەسەمكى،",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "قۇرئان شەك - شۈبھىسىز (ھەق بىلەن باتىلنى ئايرىغۇچى) سۆزدۇر،",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "ئۇ چاقچاق ئەمەستۇر",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "ئۇلار (يەنى مۇشرىكلار) (قۇرئاننى يوققا چىقىرىش ئۈچۈن) ھەقىقەتەن ھىيلە - مىكىر ئىشلىتىدۇ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "مەن ئۇلارنىڭ ھىيلە - مىكرىگە تاقابىل تۇرىمەن",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "(ئى مۇھەممەد!) كاپىرلارنىڭ ھالاك بولۇشىغا ئالدىرىمىغىن، ئۇلارغا ئازراق مۆھلەت بەرگىن (ئۇزاققا قالماي ئۇلارغا قانداق قىلغانلىقىمنى كۆرىسەن)",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "قۇياش ۋە ئۇنىڭ نۇرى بىلەن قەسەمكى،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "قۇياشقا ئەگەشكەن چاغدىكى ئاي بىلەن قەسەمكى،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "قۇياشنى ئاشكارا قىلغان كۈندۈز بىلەن قەسەمكى،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "قۇياشنى يوشۇرغان چاغدىكى كېچە بىلەن قەسەمكى،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "ئاسمان بىلەن ۋە ئۇنى بىنا قىلغان زات بىلەن قەسەمكى،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "زېمىن بىلەن ۋە ئۇنى بىنا قىلغان زات بىلەن قەسەمكى،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "روھ بىلەن ۋە ئۇنى چىرايلىق قىلىپ ياراتقان، ئۇنىڭغا ياخشى - يامانلىقنى بىلدۈرگەن زات بىلەن قەسەمكى،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "روھ بىلەن ۋە ئۇنى چىرايلىق قىلىپ ياراتقان، ئۇنىڭغا ياخشى - يامانلىقنى بىلدۈرگەن زات بىلەن قەسەمكى،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "روھىنى پاك قىلغان ئادەم چوقۇم مۇرادىغا يېتىدۇ",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "نەپسىنى (كۇفرى ۋە پىسقى - فۇجۇر بىلەن) كەمسىتكەن ئادەم چوقۇم نائۈمىد بولىدۇ",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "سەمۇد ھەددىدىن ئاشقانلىقى ئۈچۈن (پەيغەمبەرنى) ئىنكار قىلدى",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "ئەينى زاماندا سەمۇدنىڭ ئەڭ بەتبەخت ئادىمى (مۆجىزە بولۇپ كەلگەن تۆگىنى) ئۆلتۈرۈشكە ئالدىرىدى",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "ئۇلارغا اﷲ نىڭ پەيغەمبىرى (يەنى سالىھ ئەلەيھىسسالام): «اﷲ نىڭ تۆگىسىگە چېقىلماڭلار، ئۇنى سۇ ئىچىشتىن توسماڭلار» دېدى",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "ئۇلار پەيغەمبەرنى (يەنى سالىھ ئەلەيھىسسالامنى) يالغانچى قىلدى، تۆگىنى ئۆلتۈردى، گۇناھى تۈپەيلىدىن اﷲ ئۇلارنى تەلتۆكۈس ھالاك قىلدى، ئومۇميۈزلۈك ھالاك قىلدى",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "اﷲ ئۇنىڭ (يەنى ئۇلارنى ھالاك قىلغانلىقنىڭ) ئاقىۋىتىدىن قورقمايدۇ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

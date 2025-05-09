@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "Таң белән.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "Вә ун төн белән ант итәм, ун төннән мырад зәл хиҗҗә аеның әүвәлге ун төннәредер, яки рамадан аеның ахыргы ун төннәредер.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "Корбан көне һам ґәрәфа көне белән яки мәхлук һәм халык белән ант итәмен.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "Вә төн белән ант итәм, һәркайчан ул төн үтеп китсә.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "Бу зекер ителгән нәрсәләрдә гакыл ияләре өчен чын ант бар түгелме?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "Әйә күрмисеңме Раббың Гад кавемен ни кылды, ягъни һәлак кылмадымы?",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "Гад кавеменең бабалары озын баганалар кеби озын вә куәтле кавем иделәр.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "Алар кеби эре кешеләр шәһәрләрдә халык ителмәделәр, шулай булса да Аллаһ ґәзабына каршы тора алмадылар – һәммәсе һәлак булдылар.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "Вә Сәмуд кавемен ни кылды, алар вади дигән җирдә ташны кисеп бөек өйләр бина кылдылар.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "Вә Фиргаунгә ни кылды, кадаклар иясе ул Фиргаун, ягъни хатыны Асияне Аллаһуга иман китергән өчен кадаклар белән ґәзаблап үтерде.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "Ул Гад, Сәмуд вә Фиргаун шәһәрләрдә алар явызлыкны күп кылдылар.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "Вә, фәсәд золым эшләрне күп эшләделәр.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "Раббың аларга койды ґәзаб камчысын.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "Тәхкыйк синең Раббың фәсәд кылучы залимнәрне күзәтүче һәм аларны тотучыдыр.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "Әмма адәм баласы Раббысы аны дөнья байлыгы илә мүбтәлә кылса һәм дөнья эшләрендә кешеләр арасында хөрмәтле итсә, ул мине Аллаһ хөрмәтләде, дип, дөнья байлыгы белән генә үзен Аллаһуның дусты саныйдыр.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "Вә әмма Раббысы аның ризыгың кылып, ярлылык белән мүбтәлә итсә, ул Раббым мине хур итте, диядер.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "Юк кешенең Аллаһ каршында хөрмәте дөнья байлыгы белән түгел, бәлки чын иман, хак дин һәм изге гамәлләр беләндер. Хур булуы да ярлылык белән түгел, бәлки имансыз, динсез булу белән һәм нәфескә ияреп азгынлык кылу беләндер. Бәлки сез ятимнәрне хөрмәтләмисез.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "Бай булсагыз фәкыйрьләрне ашатырга, аларга мал бирергә кызыкмыйсыз һәм башкаларны да кызыктырмыйсыз.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "Һәм мирас малын, ягъни үлгән кешедән калган мал – тол хатын вә ятимнәр хакыдыр, сез шул малның хәрам икәнен тикшермәстән ашый бирәсез.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "Вә дөнья малын бик нык сөю белән сөясез.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "Юк, шәригатьне бозмагыз, мирас малын ашамагыз, әгәр җир каты тетрәү белән тетрәсә.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "Вә Раббыңның әмере килсә, вә фәрештәләр саф-саф булып килеп бассалар.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "Вә ул көндә җәһәннәм китерелсә, менә шул көндә адәм баласының исенә төшер, алданганын белер, вәгазьләнергә бик теләр, ләкин эш узган булыр, кайда инде аңа хәзер искәрү, уяну файда бирсен?",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "Эш узганнан соң адәм баласы әйтер: \"Әй миңа үкенеч кәшки дөньяда чагымда дини гыйлем өйрәнеп ахирәтем өчен изге гамәлләр кылган булсамчы\", – дип.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "Ул көндә Аллаһуның ґәзабы илә һичкем ґәзаб кыла алмас, мәгәр Аллаһ әмере белән ґәзаб фәрештәләре ґәзаб кылырлар.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "Дәхи чылбыр богаулар белән һичкем бәйләмәс, мәгәр Аллаһ әмере белән бәйләрләр.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "Тик Аллаһуга вә расүлгә итагать итеп гөнаһлардан сакланучы вә изге гамәлләр генә кылучы изге нәфес яхшы мөселманның рухына:",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "\"Синең дөньяда өлешең бетте һәм бурычың үтәлде инде, Аллаһудан разый булганың хәлдә һәм Аллаһ синнән разый булган хәлдә Раббыңа кайткыл!",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "Минем изге бәндәләрем арасына кергел.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "Һәм Минем җәннәтемә мәңгегә кергел!\" – диелер",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

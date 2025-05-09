@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "Әгәр җир үзенең селкенүе илә селкендерелсә.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "Вә җир үзенең эчендәге үлекләрне, йөкләрне, хәзинәләрне чыгарса.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "Һәм кеше әйтсә: \"Ни булды бу җиргә\", – дип.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "Шул көндә җир үзенең өстендә эшләнгән эшләрдән хәбәр бирер.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "Тәхкыйк җирнең сөйләмәге Раббыңның аңа сөйлә, дип әйтүе беләндер.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "Ул көндә кешеләр каберләреннән кубарылып хисап җиренә гамәлләренә күрә төрле фиркаләргә бүленеп барырлар, дөньяда кылган гамәлләренең җәзасын күрмәк өчен.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "Берәү тузан бөртеге хәтле генә яхшылык кылган булса, аның җәзасын күрер.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "Вә берәү тузан бөртеге хәтле гөнаһ эшләсә, аның җәзасын күрер.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

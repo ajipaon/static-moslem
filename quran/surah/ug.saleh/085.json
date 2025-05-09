@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "بۇرۇجلارنىڭ ئىگىسى بولغان ئاسمان بىلەن، قىيامەت كۈنى بىلەن، جۈمە كۈنى بىلەن، ھارپا كۈنى بىلەن قەسەمكى",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "بۇرۇجلارنىڭ ئىگىسى بولغان ئاسمان بىلەن، قىيامەت كۈنى بىلەن، جۈمە كۈنى بىلەن، ھارپا كۈنى بىلەن قەسەمكى",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "بۇرۇجلارنىڭ ئىگىسى بولغان ئاسمان بىلەن، قىيامەت كۈنى بىلەن، جۈمە كۈنى بىلەن، ھارپا كۈنى بىلەن قەسەمكى،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "ئورەكلەرنىڭ ئىگىلىرىگە لەنەت بولسۇن",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "ئۇ ئورەكلەر لاۋۇلداپ تۇرغان ئوتلار بىلەن تولدۇرۇلغان ئىدى",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "ئەينى ۋاقىتتا ئۇلار ئورەكلەر ئۈستىدە ئولتۇرۇپ ئۆزلىرىنىڭ مۆمىنلەرگە قىلىۋاتقان ئىشلىرىنى كۆرۈپ تۇراتتى",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "ئەينى ۋاقىتتا ئۇلار ئورەكلەر ئۈستىدە ئولتۇرۇپ ئۆزلىرىنىڭ مۆمىنلەرگە قىلىۋاتقان ئىشلىرىنى كۆرۈپ تۇراتتى،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "ئۇلار مۆمىنلەرنى پەقەت غالىب، مەدھىيىگە لايىق اﷲ قا ئىمان ئېيتقانلىقلىرى ئۈچۈنلا يامان كۆردى. ئاسمانلارنىڭ ۋە زېمىننىڭ پادىشاھلىقى اﷲ قا خاستۇر. اﷲ ھەممە نەرسىنى كۆرۈپ تۇرغۇچىدۇر،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "ئۇلار مۆمىنلەرنى پەقەت غالىب، مەدھىيىگە لايىق اﷲ قا ئىمان ئېيتقانلىقلىرى ئۈچۈنلا يامان كۆردى. ئاسمانلارنىڭ ۋە زېمىننىڭ پادىشاھلىقى اﷲ قا خاستۇر. اﷲ ھەممە نەرسىنى كۆرۈپ تۇرغۇچىدۇر",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "مۆمىن ئەر ۋە مۆمىن ئاياللارغا زىيانكەشلىك قىلغاندىن كېيىن كۇفرىدىن قايتمىغانلار، شۈبھىسىزكى، جەھەننەمنىڭ ئازابىغا دۇچار بولىدۇ، ئۇلارغا ئوت بىلەن ئازاب قىلىنىدۇ",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار، شۈبھىسىزكى، ئاستىدىن ئۆستەڭلار ئېقىپ تۇرىدىغان جەننەتلەرگە سازاۋەر بولىدۇ. بۇ چوڭ بەختتۇر",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "پەرۋەردىگارىڭنىڭ جازاسى شەك - شۈبھىسىز قاتتىقتۇر",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "اﷲ (خالايىقنى) ھەقىقەتەن يوقتىن بار قىلىدۇ (يەنى ئۆلگەندىن كېيىن ئۇلارنى) تىرىلدۈرىدۇ",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "اﷲ (مۆمىن بەندىلەرنىڭ گۇناھىنى) مەغپىرەت قىلغۇچىدۇر. (ئۇلارنى) دوست تۇتقۇچىدۇر،",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "ئەرشنىڭ ئىگىسىدۇر، ناھايىتى ئۇلۇغدۇر،",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "خالىغىنىنى قىلغۇچىدۇر",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "(ئى مۇھەممەد!) سەن لەشكەرلەرنىڭ - پىرئەۋن ۋە سەمۇدنىڭ قىسسىسىدىن خەۋەر تاپتىڭمۇ؟",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "(ئى مۇھەممەد!) سەن لەشكەرلەرنىڭ - پىرئەۋن ۋە سەمۇدنىڭ قىسسىسىدىن خەۋەر تاپتىڭمۇ؟",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "(قۇرەيش مۇشرىكلىرى ئاشۇ كاپىرلارغا نازىل بولغان ئازابتىن ئىبرەت ئالماي) داۋاملىق ئىنكار قىلىشىۋاتىدۇ",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "اﷲ كاپىرلارنىڭ ئەتراپىنى قورشاپ تۇرغۇچىدۇر",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "بەلكى (ئۇلار ئىنكار قىلغان نەرسە) لەۋھۇلمەھپۇزدا ساقلانغان ئۇلۇغ قۇرئاندۇر",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "بەلكى (ئۇلار ئىنكار قىلغان نەرسە) لەۋھۇلمەھپۇزدا ساقلانغان ئۇلۇغ قۇرئاندۇر",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "محمد صالح",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 84,
+    "name": "سُورَةُ الانشِقَاقِ",
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Splitting Open",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 25,
+    "ayahs": [
+      {
+        "number": 5885,
+        "text": "Әгәр күк ярылса.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5886,
+        "text": "Вә әгәр ул җиргә Раббысының сүзе ишеттерелсә һәм итагать иттерелсә ул күккә – Аллаһ хөкеменә итагать итү тиешле ителде.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5887,
+        "text": "Вә әгәр җир сузылып тигезләнсә.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5888,
+        "text": "Вә җир эчендәге барча нәрсәне чыгарып бушанса.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5889,
+        "text": "Әгәр Раббысының сүзен җиргә ишеттерелсә – Аллаһ хөкеменә итагать итү аңа тиешле ителде.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5890,
+        "text": "Ий адәм баласы, тәхкыйк син Раббыңа юлыгу өчен гамәлеңдә, ягъни күбрәк гөнаһ эшләрдә тырышу илә тырышасың, ягъни синең кылган һәр эшең Аллаһуга күрсәтер өчендер, кыямәт көнендә гамәлләреңә очырарсың.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5891,
+        "text": "Әмма гамәл дәфтәре уң тарафтан бирелгән кеше.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5892,
+        "text": "Тиздән ул кеше җиңел хисаб белән хисаб ителер.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5893,
+        "text": "Ул җәннәттәге әһеленә шатланып барыр.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5894,
+        "text": "Вә әмма гамәл дәфтәре арка тарафыннан бирелгән кеше,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5895,
+        "text": "тиздән үзенә һәлакәтлекне чакырыр.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5896,
+        "text": "Вә сәкар тәмугына кереп ґәзаб кылыныр.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5897,
+        "text": "Тәхкыйк ул кеше дөньяда вакытта әһле арасында Аллаһудан курыкмау сәбәпле шат иде.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5898,
+        "text": "Тәхкыйк ул үлгәч терелмәм вә кабердән чыкмам, дип уйлады.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5899,
+        "text": "Ләкин эш ул уйлаганча түгел, әлбәттә, терелеп Аллаһ хөкеменә кайтыр, шиксез аның Раббысы аны һәмишә күрүче булды.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5900,
+        "text": "Күктәге шәфәкъ белән ант итәмен.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5901,
+        "text": "Дәхи, төн белән вә төнлә эшләнә торган эшләр белән.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5902,
+        "text": "Дәхи тулып түгәрәкләнүче ай белән.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5903,
+        "text": "Әлбәттә, бу хәлдән икенче хәлгә күчәрсез! Ягъни үләрсез, аннары терелерсез, аннары хөкем ителеп тиешле җәзаны алырсыз.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5904,
+        "text": "Ни булды аларга иман китермиләр.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5905,
+        "text": "Әгәр аларга Коръән укылса, Аллаһудан куркып сәҗдә кылмаслар, Аллаһ әмерләрен ишеткәннән соң аны үтәмәсләр.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": {
+          "id": 14,
+          "recommended": true,
+          "obligatory": false
+        }
+      },
+      {
+        "number": 5906,
+        "text": "Бәлки имансыз кешеләр Коръәнне ялганга тоталар.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5907,
+        "text": "Аллаһ аларның күңелләрендә сакланган нәрсәне белүчедер.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5908,
+        "text": "Аларга сөенеч бир бик каты рәнҗеткүче ґәзаб белән.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5909,
+        "text": "Мәгәр иман китереп изге гамәлләр кылган кешеләргә мәңге бетмәс-төкәнмәс нигъмәтләрдер.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
