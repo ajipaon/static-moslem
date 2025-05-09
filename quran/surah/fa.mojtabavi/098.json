@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "كسانى از اهل كتاب- جهودان و ترسايان- و مشركان كه [اكنون به اسلام‌] كافر شدند، [از آيين خود] جدا نمى‌شدند- باز نمى‌ايستادند- تا آن حجت روشن- پيامبر",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "فرستاده‌اى از خداى كه نامه‌هايى پاك- پاره‌هايى از قرآن- را بر آنان مى‌خواند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "كه در آنها نوشته‌هايى است راست و درست.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "و كسانى كه به آنها كتاب داده شده- جهودان و ترسايان- پراكنده نشدند- اختلاف نكردند- مگر پس از آنكه ايشان را حجت روشن- پيامبر و قرآن- آمد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "و آنان را جز اين نفرموده بودند كه خداى را بپرستند در حالى كه دين را ويژه او كنند و حق‌گراى باشند و نماز را برپا دارند و زكات بدهند، و اين است آيين [آن نوشته‌هاى‌] راست و استوار- يا: اين است دين راست و استوار-.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "همانا كافران اهل كتاب و مشركان در آتش دوزخ جاويدانند، اينانند بدترين آفريدگان.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "همانا كسانى كه ايمان آوردند و كارهاى نيك و شايسته كردند، ايشانند بهترين آفريدگان.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "پاداش ايشان نزد پروردگارشان بهشتهايى پاينده است كه از زير آنها جويها روان است، در آنجا هميشه جاودانه باشند خداى از آنان خشنود است و آنان از خدا خشنودند اين [پاداش‌] براى كسى است كه از پروردگار خود بترسد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "مجتبوی",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

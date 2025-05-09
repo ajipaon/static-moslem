@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "بزرگا كسى كه فرمانروايى به دست اوست و او بر هر كارى تواناست‌",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "كسى كه مرگ و زندگى را آفريد تا شما را بيازمايد كه كداميك نيكو كردارتريد، و او پيروزمند آمرزگار است‌",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "كسى كه هفت آسمان را توبرتو آفريد، در آفرينش خداوند رحمان، هيچ گونه نابسامانى نمى‌بينى، باز چشم بگردان آيا هيچ رخنه‌اى مى‌بينى؟",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "سپس دوباره چشم بگردان، چشمت خسته و مانده باز مى‌گردد",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "و به راستى آسمان دنيا را به چراغهاى [ستارگان‌] آراستيم و آنها را رماننده شياطين گردانديم و براى آنان عذاب آتش افروخته، آماده ساختيم‌",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "و براى كسانى كه به پروردگارشان كفرورزيدند عذاب جهنم [آماده‌] است، و چه بد سرانجامى است‌",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "چون در آنجا افكنده شوند، نعره آن را مى‌شنوند، و آن بر مى‌جوشد",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "نزديك است كه از خشم پاره پاره گردد، هرگاه كه گروهى در آن افكنده شوند، نگهبانانش از ايشان پرسند آيا هشداردهنده‌اى نزد شما نيامد؟",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "گويند چرا، هشداردهنده‌اى نزد ما آمد، آنگاه [او را] تكذيب كرديم و گفتيم خداوند چيزى فرو نفرستاده است، شما جز در گمراهى بزرگ نيستيد",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "و گويند اگر [سخنان آنان را] به سمع قبول مى‌شنيديم يا تعقل مى‌كرديم، از زمره دوزخيان نبوديم‌",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "و بدين‌سان به گناهشان اعتراف مى‌كنند، لعنت باد دوزخيان را",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "بى‌گمان كسانى كه به نهان از پروردگارشان مى‌هراسند، براى آنان آمرزش و پاداشى بزرگ است‌",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "و سخنتان را چه پوشيده داريد چه آشكار، او به راز دلها داناست‌",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "آيا كسى كه آفريده است، علم ندارد؟ و اوست باريك‌بين آگاه‌",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "اوست كسى كه زمين را براى شما رام گردانيد، پس در گوشه و كنار آن رهسپار شويد و از روزى او بخوريد، و رستاخيز به امر [و در پيشگاه‌] اوست‌",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "آيا از آن كه در آسمان است ايمنيد كه شما را در زمين فرو برد، در حالتى كه آن ناگاه مى‌جنبد؟",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "يا از آن كه در آسمان است ايمنيد كه بر شما شن‌بادى بفرستد، زودا كه بدانيد هشدار من چگونه است‌",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "و به راستى كه پيشينيان آنان تكذيب پيشه كردند پس [بنگر كه‌] عقوبت من چگونه بود",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "آيا به پرندگان بر فراز سرشان ننگريسته‌اند، كه بال گشاده‌اند و فرو بندند [آن را]، هيچ كس جز خداوند رحمان آنها را نگه نمى‌دارد، كه او به هر چيزى بيناست‌",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "يا كيست آنكه سپاه شماست كه شما را در برابر خداى رحمان يارى دهد؟ كافران جز در [توهم و] فريب خوردگى نيستند",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "يا كيست آنكه اگر [خداوند] روزى‌اش را باز گيرد، شما را روزى دهد؟، حق اين است كه در گردنكشى و رميدگى پاى مى‌فشرند",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "آيا كسى كه به رو در افتاده نگونسار مى‌رود، رهيافته‌تر است، يا كسى كه استوار بر راه راست ره مى‌سپارد؟",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "بگو او كسى است كه شما را پديد آورده است و براى شما گوش [ها] و چشم [ها] و قلب [ها] آفريده است، چه اندكمايه سپاس مى‌گزاريد",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "بگو او كسى است كه شما را در زمين پديد آورد، و به نزد او محشور مى‌شويد",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "و مى‌گويند اگر راست مى‌گوييد، پس كى اين وعده فرا مى‌رسد؟",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "بگو آگاهى از آن فقط نزد خداوند است، و من فقط هشداردهنده‌اى آشكارم‌",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "و چون آن را نزديك بينند، چهره‌هاى كافران اندوهگين شود، و [به آنان‌] گفته شود، اين همان است كه [در دنيا از ما به شتاب‌] مى‌طلبيديد",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "بگو ملاحظه كنيد، اگر خداوند مرا و همراهانم را نابود كند، يا بر ما رحمت آورد، پس كيست كه كافران را از عذابى دردناك پناه دهد؟",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "بگو او خداوند رحمان است، كه به او ايمان آورده‌ايم و بر او توكل كرده‌ايم، زودا بدانيد كه چه كسى در گمراهى آشكار است‌",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "بگو ملاحظه كنيد، اگر آب شما در زمين فرو رود [و ناپديد گردد] چه كسى براى شما آب روان مى‌آورد؟",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.khorramshahi",
+      "language": "fa",
+      "name": "خرمشاهی",
+      "englishName": "Baha'oddin Khorramshahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "الم [الف لام ميم‌]",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "كتابى است فرو فرستاده و شك در آن نيست [كه‌] از سوى پروردگار جهان است‌",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "يا گويند كه آن را برساخته است، نه بلكه حق است و از سوى پروردگار توست تا قومى را كه [پيامبرى‌] هشداردهنده پيش از تو به سراغشان نيامده بود، بيم‌دهى، باشد كه به راه آيند",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "خداوند كسى است كه آسمان و زمين و مابين آنها را در شش روز آفريد، سپس بر عرش استيلاء يافت، شما را جز او سرور و شفيعى نيست، آيا پند نمى‌گيريد",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "از آسمان كار و بار زمين را تدبير مى‌كند، سپس [اعمال مردمان‌] در روزى كه اندازه‌اش هزار سال است از آنچه شما مى‌شماريد، به سوى او بالا مى‌رود",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "اوست كه داناى نهان و آشكارا [و] پيروزمند مهربان است‌",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "و [همان‌] كسى كه هرچيز را كه آفريد نيكو آفريد، و آفرينش انسان [/آدم‌] را از گل آغاز كرد",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "سپس نسل او را از چكيده آب بى‌مقدار پديد آورد",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "سپس او را استوار كرد و در او از روح خويش دميد و براى شما گوش [ها] و چشمان و دلها آفريد، چه اندك سپاس مى‌گزاريد",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "و گويند آيا چون در [خاك‌] زمين ناپديد شديم، آيا آفرينش تازه‌اى خواهيم يافت؟ بلكه ايشان لقاى پروردگارشان را منكرند",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "بگو فرشته مرگ كه بر شما گماشته شده است، روح شما را مى‌گيرد، سپس به سوى پروردگارتان بازگردانده مى‌شويد",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "و چون گناهكاران را نزد پروردگارشان سرافكنده بينى [گويند] پروردگارا چشم بينا و گوش شنوا يافتيم پس ما را بازگردان كه كارى شايسته پيشه كنيم، ما [ديگر] اهل يقينيم‌",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "و اگر خواهيم به هر انسانى هدايتش را ارزانى مى‌داريم، ولى وعده من تحقق يافته است كه جهنم را از جن و انس، همگان، آكنده سازم‌",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "پس به خاطر آنكه ديدار اين روزتان را فراموش كرديد [عذاب را] بچشيد ما نيز \"فراموشتان\" كرده‌ايم و عذاب جاويدان را به خاطر كار و كردار پيشينتان بچشيد",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "به آيات ما فقط كسانى ايمان آورند كه چون آنها را فرايادشان آرند، به سجده درافتند و پروردگارشان را شاكرانه تسبيح گويند و تكبرنورزند",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "پهلوهايشان از بسترها جدا شود [و به نيايش شبانه برخيزند و] پروردگارشان را با بيم و اميد بخوانند و از آنچه روزيشان كرده‌ايم ببخشند",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "آرى هيچ كسى نداند كه چه بسيار مايه روشنى چشمها براى آنان نهفته است، كه جزاى كار و كردار پيشينشان است‌",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "آيا كسى كه مؤمن است همانند كسى است كه فاسق است؟ [هرگز] برابر نيستند",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "اما كسانى كه ايمان آورده‌اند و كارهاى شايسته كرده‌اند، جنةالماوى دارند كه به خاطر كار و كردار پيشينشان پيشكش [آنان‌] است‌",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "و اما كسانى كه سرپيچى كرده‌اند سرا و سرانجامشان آتش دوزخ است، هرگاه كه خواهند از آن بيرون روند، به آن بازگردانده شوند، و به ايشان گفته شود، عذاب آتشى را كه منكرش بوديد، بچشيد",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "و به ايشان عذاب كوچكتر را غير از عذاب بزرگتر، مى‌چشانيم باشد كه بازگردند",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "و كيست ستمكارتر از كسى كه به آيات پروردگارش پند داده شود، سپس از آن رو بگرداند، ما از گناهكاران انتقام مى‌گيريم‌",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "و به راستى به موسى كتاب آسمانى بخشيديم، پس در لقاى او شك نداشته باش، و آن را رهنمود بنى‌اسرائيل گردانديم‌",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "و از ايشان چون شكيبايى ورزيدند و به آيات ما ايقان يافتند، پيشوايانى برگماشتيم كه به فرمان ما هدايت مى‌كردند",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "بى‌گمان پروردگارت در ميان آنان در روز قيامت در آنچه در آن اختلاف داشتند، داورى خواهد كرد",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "آيا براى ايشان روشن نشده است كه پيش از آنان چه بسيار نسلهايى را نابود كرديم كه [اينان‌] بر خانه و كاشانه‌هايشان مى‌گذرند، بى‌گمان در اين مايه‌هاى عبرت است، آيا [به گوش دل‌] نمى‌شنوند؟",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "آيا نينديشيده‌اند كه ما آب [ابرهاى بارانى‌] را به سوى سرزمين سترون مى‌رانيم و بدان كشتزارى برمى‌آوريم كه چارپايانشان و خودشان از آن مى‌خورند، آيا [به چشم بصيرت‌] نمى‌نگرند؟",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "و گويند اگر راست مى‌گوييد اين داورى كى خواهد بود؟",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "بگو روز داورى كافران را ايمانشان سود ندهد و به آنان مهلت ندهند",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "پس از آنان روى بگردان و منتظر باش كه آنان نيز منتظرند",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.khorramshahi",
+      "language": "fa",
+      "name": "خرمشاهی",
+      "englishName": "Baha'oddin Khorramshahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
