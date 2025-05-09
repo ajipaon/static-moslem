@@ -5,7 +5,7 @@ import json
 # Folder dasar
 base_folder = "quran/surah"
 os.makedirs(base_folder, exist_ok=True)
-MAX_REQUEST_EVERY_ACTION = 10
+MAX_REQUEST_EVERY_ACTION = 200
 
 # Step 1: Ambil daftar edisi
 edition_url = "http://api.alquran.cloud/v1/edition"
