@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 58,
+    "name": "سُورَةُ المُجَادلَةِ",
+    "englishName": "Al-Mujaadila",
+    "englishNameTranslation": "The Pleading Woman",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5105,
+        "text": "Qad sami'al laahu qawlal latee tujaadiluka fee zawjihaa wa tashtakeee ilal laahi wallaahu yasma'u tahaawurakumaa; innal laaha samee'um baseer",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5106,
+        "text": "Allazeena yuzaahiroona minkum min nisaaa'ihim maa hunnaa ummahaatihim in ummahaatuhum illal laaa'ee waladnahum; wa innaahum la yaqooloona munkaram minal qawli wa zooraa; wa innal laaha la'afuwwun ghafoor",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5107,
+        "text": "Wallazeena yuzaahiroona min nisaaa'ihim summa ya'oodoona limaa qaaloo fatabreeru raqabatim min qabli any-yatamaaassaa; zaalikum too'azoona bih; wallaahu bimaa ta'maloona khabeer",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5108,
+        "text": "Famal lam yajid fa siyaamu shahraini mutataabi'ayni min qabli any-yatamaaassaa famal lam yastati' fa-it'aamu sitteena miskeena; zaalika litu'minoo billaahi wa rasoolih'wa tilka hudoodul laah; wa lilkaafireena 'azaabun aleem",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5109,
+        "text": "Innal lazeena yuhaaaddoonal laaha wa Rasoolahoo kubitoo kamaa kubital lazeena min qablihim; wa qad anzalnaaa aayaatim baiyinaat; wa lilkaa fireena 'azaabum muheen",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5110,
+        "text": "Yawma yab'asuhumul laahu jamee'an fayunabbi'uhum bimaa 'amiloo; ahsaahul laahu wa nasooh; wallaahu 'alaa kulli shai'in shaheed",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 542,
+        "ruku": 476,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5111,
+        "text": "Alam tara annal laaha ya'lamu maa fis samaawaati wa maa fil ardi maa yakoonu min najwaa salaasatin illaa Huwa raabi'uhum wa laa khamsatin illaa huwa saadisuhum wa laaa adnaa min zaalika wa laaa aksara illaa huwa ma'ahum ayna, maa kaanoo summa yunabbi'uhum bimaa 'amiloo yawmal qiyaamah; innal laaha bikulli shai'in aleem",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 543,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5112,
+        "text": "Alam tara ilal lazeena nuhoo 'anin najwaa summa ya'oodoona limaa nuhoo 'anhu wa yatanaajawna bil ismi wal'udwaani wa ma'siyatir rasooli wa izaa jaaa'ooka haiyawka bimaa lam yuhai yika bihil laahu wa yaqooloona fee anfusihim law laa yu'azzibunal laahu bimaa naqool; hasbuhum jahannnamu yaslawnahaa fabi'sal maseer",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 543,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5113,
+        "text": "Yaaa ayyuhal lazeena aamanoo izaa tanaajaytum falaa tatanaajaw bil ismi wal 'udwaani wa ma'siyatir rasooli wa tanaajaw bil birri wattaqwaa wattaqul laahal lazeee ilaihi tuhsharoon",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 543,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5114,
+        "text": "Innaman najwaa minash shaitaani liyahzunal lazeena aamanoo wa laisa bidaaarrihim shai'an illaa bi-iznil laah; wa 'alal laahi falyatawakkalil mu'minoon",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 543,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5115,
+        "text": "Yaaa ayyuhal lazeena aamanoo izaa qeela lakum tafassahoo fil majaalisi fafsahoo yafsahil laahu lakum wa izaa qeelan shuzoo fanshuzoo yarfa'il laahul lazeena aamanoo minkum wallazeena ootul 'ilma darajaat; wallaahu bimaa ta'maloona khabeer",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 543,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5116,
+        "text": "Yaaa ayyuhal lazeena aamanooo izaa naajitumur Rasoola faqaddimoo baina yadai najwaakum sadaqah; zaalika khairul lakum wa athar; fa il lam tajidoo fa innal laaha ghafoorur Raheem",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5117,
+        "text": "'A-ashfaqtum an tuqaddimoo baina yadai najwaakum sadaqaat; fa-iz lam taf'aloo wa taabal laahu 'alaikum fa aqeemus Salaata wa aatuz Zakaata wa atee'ul laaha wa rasoolah; wallaahu khabeerum bimaa ta'maloon",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 477,
+        "hizbQuarter": 217,
+        "sajda": false
+      },
+      {
+        "number": 5118,
+        "text": "Alam tara ilal lazeena tawallaw qawman ghadibal laahu 'alaihim maa hum minkum wa laa minhum wa yahlifoona 'alal kazibi wa hum ya'lamoon",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5119,
+        "text": "A'addal laahu lahum 'azaaban shadeedan innahum saaa'a maa kaanoo ya'maloon",
+        "numberInSurah": 15,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5120,
+        "text": "Ittakhazooo aymaanahum junnatan fasaddoo 'an sabeelil laahi falahum 'azaabum muheen",
+        "numberInSurah": 16,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5121,
+        "text": "Lan tughniya 'anhum amwaaluhum wa laaa awladuhum minal laahi shai'aa; ulaaa 'ika As haabun Naari hum feehaa khaalidoon",
+        "numberInSurah": 17,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5122,
+        "text": "Yawma yab'asuhumul laahujamee'an fa yahlifoona lahoo kamaa yahlifoona lakum wa yahsaboona annahum 'alaa shai'; alaaa innahum humul kaaziboon",
+        "numberInSurah": 18,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5123,
+        "text": "Istahwaza 'alaihimush shaitaanu fa ansaahum zikral laah; ulaaa'ika hizbush shaitaaan; alaaa innaa hizbash shaitaani humul khaasiroon",
+        "numberInSurah": 19,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5124,
+        "text": "Innal lazeena yuhaaaddoonal laaha wa Rasoolahooo ulaaa'ika fil azalleen",
+        "numberInSurah": 20,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5125,
+        "text": "Katabal laahu la aghlibanna ana wa Rusulee; innal laaha qawiyyun 'Azeez",
+        "numberInSurah": 21,
+        "juz": 28,
+        "manzil": 7,
+        "page": 544,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5126,
+        "text": "Laa tajidu qawmany yu'minoona billaahi wal yawmil aakhiri yuwaaaddoona man haaaddal laaha wa Rasoolahoo wa law kaanooo aabaaa'ahum aw abnaaa'ahum aw ikhwaa nahum aw 'asheeratahum; ulaaa'ika kataba fee quloobihi mul eemaana wa ayyadahum biroohimminhu wa yudkhilu hum jannatin tajree min tahtihal anhaaru khaalideena feehaa; radiyal laahu 'anhum wa radoo 'anh; ulaaa 'ika hizbul laah; alaaa inna hizbal laahi humul muflihoon",
+        "numberInSurah": 22,
+        "juz": 28,
+        "manzil": 7,
+        "page": 545,
+        "ruku": 478,
+        "hizbQuarter": 218,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.transliteration",
+      "language": "en",
+      "name": "Transliteration",
+      "englishName": "English Transliteration",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  }
+}

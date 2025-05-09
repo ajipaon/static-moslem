@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Yusabbihu lilaahi maa fis samaawaati wa maa fil ardil Malikil Quddoosil 'Azeezil Hakeem",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "Huwal lazee ba'asa fil ummiyyeena Rasoolam min hum yatloo 'alaihim aayaatihee wa yuzakkeehim wa yu'allimuhumul Kitaaba wal Hikmata wa in kaano min qablu lafee dalaalim mubeen",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "Wa aakhareena minhum lammaa yalhaqoo bihim wa huwal 'azeezul hakeem",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Zaalika fadlul laahi yu'teehi many-yashaaa; wallaahu zul fadil 'azeem",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Masalul lazeena hum milut tawraata summa lam yahmiloonhaa kamasalil himaari yah milu asfaaraa; bi'sa masalul qawmil lazeena kaazzaboo bi aayaatil laah; wallaahu laa yahdil qawmazzaalimeen",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Qul yaaa ayyuhal lazeena haadoo in za'amtum annakum awliyaaa'u lilaahi min doonin naasi fatamannawul mawta in kuntum saadiqeen",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Wa laa yatamannaw nahooo abadam bimaa qaddamat aydeehim; wallaahu 'aleemum bix zaalimeen",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Qul innal mawtal lazee tafirroona minhu fa innahoo mulaaqeekum summa turaddoona ilaa 'Aalimil Ghaibi wash shahaadati fa yunabbi'ukum bimaa kuntum ta'maloon",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "Yaaa ayyuhal lazeena aamanoo izaa noodiya lis-Salaati miny yawmil Jumu'ati fas'aw ilaa zikril laahi wa zarul bai'; zaalikum khayrul lakum in kuntum ta'lamoon",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Fa-izaa qudiyatis Salaatu fantashiroo fil ardi wabtaghoo min fadlil laahi wazkurul laaha kaseeral la'allakum tuflihoon",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Wa izaa ra'aw tijaaratan aw lahwanin faddooo ilaihaa wa tarakooka qaaa'imaa; qul maa 'indal laahi khairum minal lahwi wa minat tijaarah; wallaahu khayrur raaziqeen",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.transliteration",
+      "language": "en",
+      "name": "Transliteration",
+      "englishName": "English Transliteration",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  }
+}
