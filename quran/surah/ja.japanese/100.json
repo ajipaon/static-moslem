@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "吐く息荒く進撃する（馬）において（誓う）。",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "蹄に火花を散らし，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "暁に急襲して，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "砂塵を巻き上げ，",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "（敵の）軍勢の真っ只中に突入する時。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "本当に人間は，自分の主に対し恩知らずである。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "それに就き，かれは誠に証人であり，",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "また富を愛することに熱中する。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "かれは墓の中のものが発き出される時のことを知らないのか。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "また胸の中にあるものが，暴露されるのを。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "本当に主は，その日，かれらに就いて凡て知っておられる。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

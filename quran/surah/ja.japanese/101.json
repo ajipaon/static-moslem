@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "恐れ戦く日（最後の審判）",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "恐れ戦く日とは何か。",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "恐れ戦く日が，何であるかをあなたに理解させるものは何か。",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "（それは）人間が飛散する蛾のようになる日。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "また山々が，梳かれた羊毛のようになる（日である）。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "それで，かれの秤が（善行で）重い者は，",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "幸福で満ち足りて暮らすであろう。",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "だが秤の軽い者は，",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "奈落が，かれの里であろう。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "それが何であるかを，あなたに理解させるものは何か。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "（それは）焦熱（地獄）の火。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

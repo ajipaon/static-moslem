@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6099,
+        "text": "無花果とオリーブにおいて，",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6100,
+        "text": "シナイ山において，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6101,
+        "text": "また平安なこの町において（誓う）。",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6102,
+        "text": "本当にわれは，人間を最も美しい姿に創った。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6103,
+        "text": "それからわれは，かれを最も低く下げた。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6104,
+        "text": "信仰して善行に動しむ者は別である。かれらに対しては果てしない報奨があろう。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6105,
+        "text": "なぜそれでも，おまえは宗教（真実）を否定するのか。",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6106,
+        "text": "アッラーは，最も優れた審判者ではないか。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

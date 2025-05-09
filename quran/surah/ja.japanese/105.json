@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "あなたの主が，象の仲間に，どう対処なされたか，知らなかったのか。",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "かれは，かれらの計略を壊滅させられたではないか。",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "かれらの上に群れなす数多の鳥を遣わされ，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "焼き土の礫を投げ付けさせて，",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "食い荒らされた藁屑のようになされた。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

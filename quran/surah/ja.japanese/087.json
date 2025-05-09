@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "至高の御方，あなたの主の御名を讃えなさい。",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "かれは創造し，整え調和させる御方，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "またかれは，法を定めて導き，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "牧野を現わされる御方。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "それから，浅黒く枯れた刈株になされる。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "われは，あなたに読誦させるようにした。それであなたは忘れないであろう。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "アッラーの御望みがない限りは。本当にかれは，表われたものと隠れたものを知っておられる。",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "われはあなたに（道を）平坦で，安易にするであろう。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "だから訓戒しなさい。訓戒は（聞く者に）役立つ。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "訓戒は，主を畏れる者に受け入れられよう。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "だが最も不幸な者は，それを避けるであろう。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "かれは巨大な炎で焼かれよう。",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "その中で，死にも，生きもしない。",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "だが自ら清めた者は必ず栄え，",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "かれの主の御名を唱念し，礼拝を守る。",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "いや，あなたがたは現世の生活の方を好む。",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "来世がもっと優れ，またもっと永遠なものであるのに。",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "これは本当に，昔の啓典にあり，",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "イブラーヒームやムーサーの啓典にもある。",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

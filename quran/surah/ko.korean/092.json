@@ -1,0 +1,254 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 92,
+    "name": "سُورَةُ اللَّيۡلِ",
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 21,
+    "ayahs": [
+      {
+        "number": 6059,
+        "text": "어두워지는 밤을 두고 맹세하사",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6060,
+        "text": "빛을 비추이는 낮을 두고 맹 세하며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6061,
+        "text": "남녀를 창조하신 주님을 두고 맹세하나니",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6062,
+        "text": "실로 너희들의 행위는 여러가 지라",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6063,
+        "text": "자선을 베풀고 두려워 하며",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6064,
+        "text": "진리를 증언하는 자를 위해",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6065,
+        "text": "하나님은 그가 축복으로 가는 길을 쉽게 하여 주시노라",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6066,
+        "text": "그러나 인색하고 자기자신이 충만하다고 생각하며",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6067,
+        "text": "진리를 거역하는자",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6068,
+        "text": "하나님은 그가 불행으로 가 는 길을 쉽게 하리니",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6069,
+        "text": "그가 지옥으로 향할 때는 그 의 재산이 그를 유익하게 못하니라",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6070,
+        "text": "인도하는 것은 하나님의 일 이라",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6071,
+        "text": "내세와 현세도 그분께 있노라",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6072,
+        "text": "그러므로 내가 너희에게 격 렬하게 타오르는 불지옥을 경고하 나니",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6073,
+        "text": "가장 불행한 자들만이 그곳 에 이르게 되니라",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6074,
+        "text": "그는 바로 진리를 거역하고 외면하는 자라",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6075,
+        "text": "그러나 하나님께 헌신하는 자는 그곳으로부터 제외 되거늘",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6076,
+        "text": "이들은 그들의 재산을 바치 며 스스로를 순결케 하사",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6077,
+        "text": "그가 베푼 은혜에 대한 보상을 그의 마음속에 갖지 아니하고",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6078,
+        "text": "오직 가장 위에 계시는 주님 을 기쁘게 하고자 하는 소망을 가 진 자들로",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6079,
+        "text": "이들은 곧 완전한 기쁨을 누 리게 되리라",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "われは，あなたの胸を広げなかったか。",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "あなたから重荷を降したではないか。",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "それは，あなたの背中を押し付けていた。",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "またわれは，あなたの名声を高めたではないか。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "本当に困難と共に，安楽はあり，",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "本当に困難と共に，安楽はある。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "それで（当面の務めから）楽になったら，更に労苦して，",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "（只一筋に）あなたの主に傾倒するがいい。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

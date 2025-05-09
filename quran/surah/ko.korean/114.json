@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6231,
+        "text": "일러가로되 인류의 주님께 보호를 구하고",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6232,
+        "text": "인류의 왕이며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6233,
+        "text": "인류의 신에게",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6234,
+        "text": "인간의 흉중에 도사리는 사탄 와 재앙을",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6235,
+        "text": "인간의 가슴속에서 유혹하는 사탄의 유혹을",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6236,
+        "text": "영마와 인간의 유혹으로부터 보호를 구하나이다",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

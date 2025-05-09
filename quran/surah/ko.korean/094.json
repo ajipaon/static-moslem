@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "하나님이 그대의 마음을 펼치사 [1])",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "그대의 무거운 짐을 덜어 주었으며 [1])",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "그대의 등에 있는 그 점은 무거운 것이었노라",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "하나님이 그대의 위치를 높이 두었으며",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "고난이 있으되 구원을 받을 것이라 [1])",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "실로 고난이 있으되 구원을 받을 것이라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "그러므로 쉬지 말고 노력하며",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "주님께 강구하라",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

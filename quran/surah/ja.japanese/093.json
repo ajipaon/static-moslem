@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6080,
+        "text": "朝（の輝き）において，",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "静寂な夜において（誓う）。",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "主は，あなたを見捨てられず，憎まれた訳でもない。",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "本当に来世（将来）は，あなたにとって現世（現在）より，もっと良いのである。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "やがて主はあなたの満足するものを御授けになる。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "かれは孤児のあなたを見付けられ，庇護なされたではないか。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "かれはさ迷っていたあなたを見付けて，導きを与え。",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "また貧しいあなたを見付けて，裕福になされたではないか。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "だから孤児を虐げてはならない。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "請う者を揆ね付けてはならない。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "あなたの主の恩恵を宣べ伝えるがいい。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

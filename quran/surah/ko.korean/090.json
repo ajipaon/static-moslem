@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "이 도읍을 두고 맹세하사",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "그대는 이 도읍의 자유로운 거주인이라",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "선조와 자손을 두고 맹세하사",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "실로 하나님은 인간으로 하여금 노력과 시련속에서 살도록 창 조하였나니",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "어느 누구도 불신자를 제압할 수 없다고 생각 하느뇨",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "실로 나는 많은 재산을 탕진 하였습니다 라고 불신자는 말할 것이라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "어느 누구도 그를 지켜보지 아니한다고 불신자는 생각하느뇨",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "하나님이 그에게 두 눈을 주 지 아니 했더뇨",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "하나의 혀와 두 입술을 주지 아니 했더뇨",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "하나님은 그에게 두 길을 설명하였노라",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "그는 힘든 길에서 수고하려 아니 하느뇨",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "그 힘든 길이 무엇인지 무엇이 그대에게 설명하여 주리요",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "그것은 노예를 해방시켜 주 는 일이요",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "배고픈 자에게 음식을 베푸 는 것이며",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "친척의 고아들과",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "먼지 투성이가 된 가난한 자들에게 자선을 베푸는 것이라",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "그런 후 믿음으로 서로가 서로에게 인내하고 서로가 서로에게 사랑을 베푸는 것으로",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "이들만이 우편에 있는 동료 들이라",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "그러나 하나님의 말씀을 거역하는 자들은 좌편에 있는 동료 들로",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "그들 위에는 닫혀진 불지옥 만이 있을 뿐이라",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

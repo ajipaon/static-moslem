@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "아부라합의 손이 멸망하고 파멸 할 것이며",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "그의 재물과 그가 얻은 것이 그에게 유익하지 못하니",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "그는 곧 타오르는 볼지옥에 이르게 될 것이라",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "그의 아내는 연료를 운반할 것이요",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "그녀의 목에는 단단히 꼬인 동아줄이 감기리라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

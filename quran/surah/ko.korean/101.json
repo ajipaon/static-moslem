@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "부활의 날",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "부활의 날이 무엇이뇨",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "부활의 날이 무엇인지 무엇이그대에게 설명하리요",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "그날은 인간이 나방처럼 흩어지는 날이며",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "산들은 가지런한 양털처럼 되는 날로",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "그날 그의 선행이 무거운 자 는",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "안락한 삶을 영위할 것이나",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "그의 선행이 가벼운 자는",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "불지옥의 함정에 있게 되리라",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "불지옥의 함정이 무엇인지 무엇이 그대에게 설명하려 주리요",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "그것은 격렬하게 타오르는 불지옥이라",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

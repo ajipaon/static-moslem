@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "자비로우시고 자애로우신 하나님의 이름으로",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "온 우주의 주님이신 하나님께찬미를 드리나이다",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "그분은 자애로우시고 자비로 우시며",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "심판의 날을 주관하시도다",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "우리는 당신만을 경배하오며 당신에게만 구원을 비노니",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "저희들을 올바른 길로 인도하여 주시옵소서",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "그 길은 당신께서 축복을 내리신 길이며 노여움을 받은 자나방황하는 자들이 걷지않는 가장 올바른 길이옵니다",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

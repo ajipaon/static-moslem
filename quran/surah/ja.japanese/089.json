@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "暁において，",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "10夜において，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "偶数と奇数において，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "去り行く夜において（誓う）。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "本当にこの中には，分別ある者への誓いがあるではないか。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "あなたはアッラーが，如何にアード（の民）を処分されたかを考えないのか，",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "円柱の並び立つイラム（の都）のことを，",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "これに類するものは，その国において造られたことはなかったではないか。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "また谷間の岩に彫り込んだサムード（の民）や，",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "杭のぬしフィルアゥン（のことを考えないのか）。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "これらは（凡て），その国において法を越えた者たちで，",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "その地に邪悪を増長させた。",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "それであなたの主は，懲罰の鞭をかれらに浴びせかけられた。",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "本当にあなたの主は監視の塔におられる。",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "さて人間は主が御試みのため，寛大にされ恵みを授けられると，かれは，「主は，わたしに寛大であられます。」と言う。",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "だがかれを試み，御恵みを減らされる時は，「主はわたしを，軽視なさいます。」と言う。",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "断じていけない。いや，あなたがたは孤児を大切にしない。",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "また貧者を養うために，互いに励まさない。",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "しかも遺産を取り上げ，強欲を欲しい尽にする。",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "またあなたがたは，法外な愛で財産を愛する。",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "断じていけない。大地が粉々に砕かれる時，",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "主は，列また列の天使（を従え），来臨なされる。",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "また地獄は，その日（目の当たりに）運ばれ，その日人間は反省するであろう。だが反省したとて，どうしてかれのためになろうか。",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "かれは，「ああ，わたしの（将来の）生命のために，（善行を）貯えていたならば。」と言う。",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "それでその日，誰もなし得ない程の懲罰を加えられ，",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "また誰も拘束し得ない程に束縛なされる。",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "（善行を積んだ魂に言われるであろう。）おお，安心，大悟している魂よ，",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "あなたの主に返れ，歓喜し御満悦にあずかって。",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "あなたは，わがしもべの中に入れ。",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "あなたは，わが楽園に入れ。",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

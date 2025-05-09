@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "새벽의 여명기를 두고 맹세하사",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "열흘 동안의 밤을 두고 맹세 하며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "짝수와 홀수를 두고 맹세하며",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "사라지는 밤을 두고 맹세하니",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "실로 그 안에는 이해하는 자 들을 위한 예증이 있노라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "주님께서 아드 백성에 행한 이야기와",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "높은 빌딩을 소유한 이람의 백성에 관한 얘기를 아느뇨",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "그와 같은 힘센 백성이 대지 위에서 창조된 적이 없었노라",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "산의 바위로 계곡에 집을 세 운 사무드 백성의 이야기와",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "강한 군대를 가진 오만한 파라오의 이야기를 아느뇨",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "실로 이들 모두는 도읍에서 죄악을 낳고",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "그곳에서 해악을 더해만 갔 으니",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "주님께서 그들 위에 여러가 지의 응벌을 내렸노라",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "실로 그대 주님은 항상 감시하고 계시니라",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "주님께서 인간을 시험삼아 명예와 은혜를 베풀면 이것은 주 께서 내게 영광을 주시었노라 하 더라",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "그분께서 일용할 양식을 감 소하실 때면 주께서 나를 처량하 게 만드시도다 말하고 있으나",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "그렇지 아니함이라 너희는 고아들에게 은혜를 베풀지 아니했으며",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "가난한 자들에게 음식을 제공함에 서로가 서로에게 격려하지아니하며",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "오히려 너희는 욕심을 내어그들의 유산을 삼키고",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "오만하게 재물만을 사랑하였노라",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "그러나 대지가 산산조각이 되고",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "주님이 임하시고 그분의 천 사들이 줄지어 나을 때",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "그날은 지옥이 나타나니라 그날 인간은 그의 업적을 상기하 나 그의 회고가 어떻게 그를 유 익하게 하겠느뇨",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "그때야 인간은 내 미래의 생을 위하여 선행을 \\xC2g어야 \\xC2g는데 라고 한탄하여 말하나",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "그날은 어느 누구도 가할 수없는 하나님의 응벌만이 있을 것 이라",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "어느 누구도 할 수 없는 그 분의 속박이 있으리라",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "의로운 영혼들에게는 영혼들 아 너희는 완전한 휴식과 기쁨속 에 있으리라 라는 말씀과",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "기뻐하고 즐거워하며 주님께 로 돌아가",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "나와 함께 하는 자들 가운데들어와",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "나의 천국으로 들라는 말씀 이 있을 것이라",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

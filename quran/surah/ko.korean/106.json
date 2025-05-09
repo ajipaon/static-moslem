@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "꾸레이쉬 족의 보호를 위하여",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "대상으로 하여금 겨울과 여름에 안전하게 여행케 하였노라",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "그러므로 이 집의 주님을 그 들로 하여금 경배토록 하라",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "그분은 그들을 기아로부터 배불려 주셨고 공포로부터 안전케 하여 주셨노라",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

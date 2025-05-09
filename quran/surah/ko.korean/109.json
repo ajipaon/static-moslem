@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "불신자들에게 일러 가로되",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "너희가 숭배하는 것을 내가 숭배하지 아니하며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "내가 경배하는 분을 너희가 경배하지 아니하고",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "너희가 숭배했던 것들을 내가숭배하지 아니할 것이며",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "내가 경배한 그분을 너희가 경배하지 않을 것이니",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "너희에게는 너희의 종교가 있고 나에게는 나의 종교가 있을 뿐이라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "태양이 은폐되어 그의 빛이 사라지고",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "별들이 빛을 잃고 떨어지며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "산들이 신기루처럼 사라지고",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "새끼를 밴지 열달이 된 암낙 타가 보호받지 못하고 버려지며",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "야생동물이 떼지어 모이고",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "바다가 물이 불어 넘쳐흐르며",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "영혼들이 유사하게 분리되고",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "여아가 산채로 매장되어 질문 을 받으니",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "어떤 죄악으로 그녀가 살해되 었느뇨",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "기록부들이 펼쳐지고",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "하늘이 그의 베일을 벗을 때",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "타오르는 불지옥이 열을 세 차게 발산하며",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "천국이 의로운 자들에게 가 까이 오고",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "그때 모든 영혼은 그가 행한것들을 알게 되니라",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "실로 내가 지는 별들을 두고맹세하사",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "나타나고 지는 별들을 두고 맹세하며",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "어둠을 맞이하는 밤을 두고 맹세하며",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "빛을 맞이하는 아침을 두고 맹세하나니",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "실로 이것은 고귀한 사도가 전한 말씀이라",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "그는 하나님 권좌 앞에 줄 지어 서 있는 강한자로",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "순종하고 믿음직하노라",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "그럼으로 너희의 동반자는 미친자가 아니며",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "그는 청명한 지평선에 있는 그를 보았으되",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "그가 보이지 않는 영역에 대한 지식을 인색하게 보류하고 있 는 것이 아니며",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "이것은 저주받은 사탄의 말 이 아니매",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "너희는 어디로 가려하느뇨",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "실로 이것은 만인을 위한 메 세지이며",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "너희 가운데 그 진리를 원하 는 자 그것을 따르도록 하려 함이 라",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "그러나 만유의 주님이신 주 님의 뜻이 없이는 너희는 아무 것 도 할 수 없노라",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

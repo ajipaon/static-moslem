@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "주님께서 코끼리의 무리를 어떻게 하셨는지 그 소식이 이르지 아니 했느뇨",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "그들의 음모를 파멸시켜 버리 지 아니 했더뇨",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "하나님은 그들에게 새떼를 보 내어",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "모래와 흙으로 된 돌맹이들을 던지셨나니",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "그들은 다 갉아 먹어버린 마 른 잎과도 같았더라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "축적한 것들이 너희를 벗어나게 하리니",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "너희가 무덤으로 갈 때 까지 오만하려 하느뇨",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "그러나 너희는 곧 알게 되리 라",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "실로 너희는 곧 알게 되리라",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "너희가 분명한 지식을 갖고 있다면 너희는 알게 되리니",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "너희는 지옥의 불을 볼 것이 라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "실로 너희는 분명히 눈으로서 목격할 것이라",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "그런 후 너희는 너희가 탐닉 했던 향락에 관하여 힐문을 받을 것이라",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

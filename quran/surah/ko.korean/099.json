@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "대지가 심하게 진동을 하며",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "대지가 그속에 있는 것들을 밀어내도다",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "인간은 비탄하고 고함치며 어 찌된 일이뇨",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "그날 대지는 그의 소식을 얘기하리니",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "실로 주님은 그에 관해 계시하였노라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "그날 사람들은 여기 저기 무덤에서 떼지어 나와 그들의 업적들을보이노라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "티끌만한 선이라도 실천한 자 는 그것이 복이 됨을 알 것이며",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "티끌만한 악이라도 저지른 자 는 그것이 악이 됨을 알리라",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

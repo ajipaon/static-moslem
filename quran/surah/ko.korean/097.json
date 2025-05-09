@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "선실로 하나님은 거룩한 밤에이 계시를 내리나니",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "거죽한 밤이 무엇인지 무엇이 그대에게 설명하여 주리요",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "거룩한 이 밤은 천개월보다 더 훌륭한 밤으로",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "이 밤에 천사들과 가브리엘 천사가 주님의 명령을 받아 강림 하여",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "아침 동녘까지 머무르며 평안 하소서 라고 인사하더라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6099,
+        "text": "무화과와 올리브를 두고 맹세하사",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6100,
+        "text": "시나이 산을 두고 맹세하며",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6101,
+        "text": "안전한 이 도읍을 두고 맹세 하나니",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6102,
+        "text": "하나님은 인간을 제일 아름다 운 형상으로 빛으신 후",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6103,
+        "text": "그의 위치를 가장 낮게 하였 노라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6104,
+        "text": "그러나 믿음으로 선을 행하는 의로운 자들은 제외되어 그들에게 는 끊임없는 보상이 있노라",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6105,
+        "text": "다가올 심판의 날에 관하여 그대를 부정하는 이유는 무엇이뇨",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6106,
+        "text": "가장 훌륭한 심판자는 하나님 이 아니더뇨",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

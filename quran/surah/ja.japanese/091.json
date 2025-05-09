@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "太陽とその輝きにおいて，",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "それに従う月において，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "（太陽を）輝き現わす昼において，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "それを覆う夜において，",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "天と，それを打ち建てた御方において，",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "大地と，それを広げた御方において，",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "魂と，それを釣合い秩序付けた御方において，",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "邪悪と信心に就いて，それ（魂）に示唆した御方において（誓う）。",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "本当にそれ（魂）を清める者は成功し，",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "それを汚す者は滅びる。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "サムード（の民）は，その法外な行いによって（預言者を）嘘付き呼ばわりした。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "かれらの中の最も邪悪の者が（不信心のため）立ち上がった時，",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "アッラーの使徒（サーリフ）はかれらに，「アッラーの雌骼駝である。それに水を飲ませなさい。」と言った。",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "だがかれらは，かれを嘘付き者と呼び，その膝の腱を切っ（て不具にし）た。それで主は，その罪のためにかれらを滅ぼし，平らげられた。",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "かれは，その結果を顧慮されない。",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "われはこの町において誓う。",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "あなたはこの町の（居住権を持つ）住民である。",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "生む者と生まれる者にかけて（誓う）。",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "本当にわれは，人間を労苦するように創った。",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "かれ（人間）は，何ものも，自分を左右する者はないと考えるのか。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "かれは，「わたしは大変な財産を費した。」と言う。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "かれは，誰もかれを見ていないと考えるのか。",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "われは，かれのために両目を創ったではないか，",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "また一つの舌と二つの唇を。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "更に二つの道をかれに示した（ではないか）。",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "だがかれは，険しい道を取ろうとはしない。",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "険しい道が何であるかを，あなたに理解させるものは何か。",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "（それは）奴隷を解放し，",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "または飢餓の日には食物を出して，",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "近い縁者の孤児を，",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "または酷く哀れな貧者を（養うこと）。",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "それから信仰する者になって忍耐のために励ましあい，互いに親切，温情を尽しあう（ことである）。",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "これらは右手の仲間である。",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "だがわが印を拒否する者，かれらは左手の仲間である。",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "かれらの上には，業火が覆い被さるであろう。",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

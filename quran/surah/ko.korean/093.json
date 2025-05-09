@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6080,
+        "text": "아침을 두고 맹세하고",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "어둠이 짙어지는 밤을 두고 맹세하사",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "주님께서 그대를 버리지 아니했으며 미워하지도 않으시니라",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "실로 그대에게는 내세가 현세보다 나으리니",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "주님께서 그대에게 은혜를 베풀것이매 그대는 이로하여 기뻐하리라",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "그분은 고아인 그대를 발견하여 그대를 보호하지 아니 했더뇨",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "그분은 방황하는 그대를 발견하여 그대를 인도하지 아니 했더 뇨",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "그분은 가난했던 그대를 부유하게 하여 주지 아니 했더뇨",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "그러므로 고아들을 거칠게 대하지말며",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "구하는 자에게 거절하지 말고",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "그리고 주님의 은혜를 이야기 하라",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
