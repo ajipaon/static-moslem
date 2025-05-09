@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Alif. Lam. Mim.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Objava Knjige je - nema sumnje u to - od Gospodara svjetova.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Zar govore: \"Izmislio ju je?\" Naprotiv, ona je Istina od Gospodara tvog, da opominješ narod kojem nije došao nikakav opominjač prije tebe, da bi se oni uputili.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Allah je Taj koji je stvorio nebesa i Zemlju i ono što je između njih u šest dana, zatim se postavio na Arš. Nemate vi mimo Njega nikakva zaštitnika, niti posrednika. Pa zar se nećete poučiti?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "Upravlja stvar od neba ka Zemlji, zatim se uspinje Njemu u danu čija je mjera hiljadu godina od onog šta računate.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "To je Znalac nevidljivog i vidljivog, Moćni, Milosrdni,",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "Koji je uljepšao svaku stvar, stvorio je i počeo stvaranje čovjeka od ilovače;",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Zatim je načinio potomstvo njegovo od ekstrakta tekućine prezrene,",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Potom ga uredio i udahnuo u njega od Duha Svog; i načinio vam sluh i vidove i srca. Malo što zahvaljujete!",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "I govore: \"Zar ćemo kad se izgubimo u zemlji, uistinu mi biti u stvaranju novom?\" Naprotiv, oni su u susret Gospodara svog nevjernici!",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Reci: \"Uzeće vas melek smrti koji vam je određen, zatim ćete Gospodaru svome biti vraćeni.\"",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "A da vidiš kad prestupnici objese glave svoje kod Gospodara svog: \"Gospodaru naš! Vidjeli smo i čuli, zato nas povrati: radićemo dobro. Uistinu, mi smo uvjereni.\"",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "A kad bismo htjeli, dali bismo sigurno svakoj duši uputu njenu, ali, obistinila se Riječ od Mene: \"Sigurno ću napuniti Džehennem džinnima i ljudima zajedno.\"",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "Zato kušajte što ste zaboravili na susret ovog dana svog. Uistinu, Mi smo vas zaboravili; i iskusite kaznu vječnosti zbog onog šta ste radili.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Jedino u Naše znakove vjeruju oni koji - kad se opomenu njima, padaju na sedždu i slave sa hvalom Gospodara svog, a oni se ne ohole.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Lišavaju se bokovi njihovi postelja, zazivaju Gospodara svog iz straha i nade, i od onog čim smo ih opskrbili, udjeljuju.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Pa ne zna duša šta je za njih skriveno od osvježenja očiju, plaća za ono šta su radili.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Pa zar je ko je vjernik, kao onaj ko je grješnik? Nisu isti!",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "Što se tiče onih koji vjeruju i čine dobra djela, ta imaće oni bašče skloništem. Ugošćenje za ono šta su radili.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "A što se tiče onih koji su griješili, pa sklonište njihovo biće vatra. Kad god zažele da izađu iz nje, biće vraćeni u nju, i biće im rečeno: \"Iskusite kaznu vatrom, onu koju ste poricali.\"",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "I sigurno ćemo dati da oni kušaju kaznu manju, pred kaznu veću, da bi se oni povratili.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "A ko je nepravedniji od onog ko se opomene ajetima Gospodara svog, potom se od njih odvrati? Uistinu! Mi smo prestupnicima Osvetnici.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "I doista, dali smo Musau Knjigu. Zato ne budi u sumnji o susretu njegovom, i učinili je Uputom sinovima Israilovim.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "I učinili smo od njih imame: upućivali su po naredbi Našoj, pošto su bili strpljivi i u ajete Naše uvjereni.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Uistinu, Gospodar tvoj - On će presuditi među njima na Dan kijameta o onom u čemu su se razilazili.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Zar ih ne upućuje (to) koliko smo prije njih uništili naraštaja - hodaju po nastambama njihovim? Uistinu! U tome su znaci! Pa zar neće oslušnuti?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Zar ne vide da Mi tjeramo vodu ka zemlji jalovoj, pa izvodimo njome usjev - jedu od njega, stoka njihova i duše njihove? Pa zar neće osmotriti?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "I govore: \"Kad će ova pobjeda, ako ste istiniti?\"",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Reci: \"Na Dan pobjede neće koristiti onima koji nisu vjerovali, vjerovanje njihovo, niti će im se odgoditi.",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Zato se okreni od njih i iščekuj, uistinu, oni su čekaoci.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "bs.mlivo",
+      "language": "bs",
+      "name": "Mlivo",
+      "englishName": "Mustafa Mlivo",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
