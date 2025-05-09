@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "[[94 ~ ALAM-NASYRAH (KELAPANGAN DADA) Pendahuluan: Makkiyyah, 8 ayat ~ Surat ini memaparkan bahwa Allah Swt. telah melapangkan dan menjadikan hati Nabi- Nya, Muhammad saw., sebagai tempat turunnya berbagai rahasia dan ilmu pengetahuan. Disebutkan pula bahwa Allah juga telah menghilangkan beban menyampaikan dakwah yang terasa berat dari punggungnya, dan bahwa Allah menggandeng nama Muhammad dengan nama-Nya dalam kalimat syahadat yang menjadi dasar akidah dan syiar-syiar agama. Ayat-ayat selanjutnya, dalam surat ini, mengemukakan salah satu sunnatullâh yaitu bahwa kemudahan akan selalu menyertai kesulitan. Kemudian mengajak Rasulullah untuk berusaha mengerjakan kebaikan lain setiap kali selesai mengerjakan suatu kebaikan, juga untuk menjadikan Tuhan sebagai tujuannya. Karena memang Dialah Tuhan Yang Mahakuasa untuk menolongnya.]] Kami telah melapangkan dadamu dengan petunjuk dan keimanan yang ada di dalamnya.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "Dan Kami, dengan menolong dan memudahkan urusanmu, telah meringankan beban-beban dakwah yang memberatkan punggungmu.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "Yang memberatkan punggungmu.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "Dan Kami telah muliakan namamu, lalu menjadikan namamu selalu tersebut oleh setiap orang yang beriman berdampingan dengan nama Kami.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "Itu adalah sebagian nikmat Kami padamu. Maka yakinlah dengan kasih sayang Kami, karena sesungguhnya kesulitan itu selalu disertai dengan banyak kemudahan.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "Sesungguhnya dalam setiap kesulitan terdapat kemudahan yang banyak pula.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "Maka, apabila kamu telah selesai dalam urusan dakwah dan jihad, lakukanlah ibadah dengan sungguh- sungguh. Lakukanlah ibadah sampai dirimu merasa lelah.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "Dan hendaknya hanya kepada Tuhanmulah kamu menghadap dan mengadukan segala permasalahan dan kebutuhanmu.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "id.muntakhab",
+      "language": "id",
+      "name": "Quraish Shihab",
+      "englishName": "Muhammad Quraish Shihab et al.",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

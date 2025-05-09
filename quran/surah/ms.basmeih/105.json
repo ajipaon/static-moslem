@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "Dan Ia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan, -",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras, -",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "Lalu Ia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ms.basmeih",
+      "language": "ms",
+      "name": "Basmeih",
+      "englishName": "Abdullah Muhammad Basmeih",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

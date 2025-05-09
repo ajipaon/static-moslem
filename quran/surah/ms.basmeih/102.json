@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "Kamu telah dilalaikan (daripada mengerjakan amal bakti) oleh perbuatan berlumba-lumba untuk mendapat dengan sebanyak-banyaknya (harta benda, anak-pinak pangkat dan pengaruh), -",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "Sehingga kamu masuk kubur.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "Jangan sekali-kali (bersikap demikian)! Kamu akan mengetahui kelak (akibatnya yang buruk semasa hendak mati)!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "Sekali lagi (diingatkan): jangan sekali-kali (kamu bersikap demikian)! Kamu akan mengetahui kelak akibatnya yang buruk pada hari kiamat)!",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "Demi sesungguhnya! Kalaulah kamu mengetahui - (apa yang kamu akan hadapi) - dengan pengetahuan yang yakin, (tentulah kamu akan mengerjakan perkara-perkara yang menjadi bekalan kamu untuk hari akhirat).",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "(Ingatlah) demi sesungguhnya! - Kamu akan melihat neraka yang marak menjulang.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "Selepas itu - demi sesungguhnya! - kamu (wahai orang-orang yang derhaka) akan melihatnya dengan penglihatan yang yakin (semasa kamu dilemparkan ke dalamnya)!",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "Selain dari itu, sesungguhnya kamu akan ditanya pada hari itu, tentang segala nikmat (yang kamu telah menikmatinya)!",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ms.basmeih",
+      "language": "ms",
+      "name": "Basmeih",
+      "englishName": "Abdullah Muhammad Basmeih",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

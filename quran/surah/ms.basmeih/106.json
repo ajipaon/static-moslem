@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "Kerana kebiasaan aman tenteram kaum Quraisy (penduduk Makkah)",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "(laitu) kebiasaan aman tenteram perjalanan mereka (menjalankan perniagaan) pada musim sejuk (ke negeri Yaman), dan pada musim panas (ke negeri Syam),",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "Maka hendaklah mereka menyembah Tuhan yang menguasai rumah (Kaabah) ini,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "Tuhan yang memberi mereka penghidupan: menyelamatkan mereka dari kelaparan, dan mengamankan mereka dari ketakutan.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ms.basmeih",
+      "language": "ms",
+      "name": "Basmeih",
+      "englishName": "Abdullah Muhammad Basmeih",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

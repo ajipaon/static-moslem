@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "[[81 ~ AT-TAKWIR (PERISTIWA PENGGULUNGAN MATAHARI) Pendahuluan: Makkiyyah, 29 ayat ~ Surat al-Takwîr ini berisi gambaran tentang peristiwa pada saat dan setelah hari kiamat, kekuasaan Allah, penegasan kedudukan dan fungsi al-Qur'ân, dan sanggahan atas tuduhan-tuduhan yang tidak benar atas al-Qur'ân. Bagian lain surat ini berisikan pembelaan atas diri Nabi Muhammad dari tuduhan gila, ancaman bagi orang-orang yang larut dalam kesesatan, perintah bagi kaum yang mau beristikamah untuk belajar dari al-Qur'ân dan perintah untuk mengembalikan setiap urusan pada Allah Swt.]] Bila matahari telah dilipat dan tidak lagi bersinar.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "Bila bintang gemintang telah kehilangan cahaya.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "Bila gunung-gunung digerakkan dari tempatnya,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "Bila makhluk yang mengandung kehilangan sesuatu yang dikandungnya.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "Bila binatang-binatang liar dikeluarkan dari sarangnya untuk dikumpulkan dalam keadaan abai karena suasana panik yang sangat dahsyat.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "Bila samudra berubah menjadi lautan api.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "Bila roh telah disatukan kembali dengan jasadnya.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "Bila anak-anak perempuan yang dikubur hidup-hidup ditanya--sebagai tindakan perkenan untuk diri mereka sekaligus sebagai hujatan bagi orang yang memendam mereka, \"Dosa apa yang membuat kalian dibunuh?\" Padahal, jelas anak-anak perempuan itu tidak punya kesalahan apa-apa.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "Bila anak-anak perempuan yang dikubur hidup-hidup ditanya--sebagai tindakan perkenan untuk diri mereka sekaligus sebagai hujatan bagi orang yang memendam mereka, \"Dosa apa yang membuat kalian dibunuh?\" Padahal, jelas anak-anak perempuan itu tidak punya kesalahan apa-apa.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "Bila lembaran-lembaran catatan perbuatan manusia ditampakkan saat hari perhitungan.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "Bila langit tidak lagi berada di tempatnya,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "Bila api neraka telah dinyalakan dengan dahsyat,",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "Bila surga telah didekatkan.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "Bila semua peristiwa itu telah terjadi, setiap manusia akan menyadari kebaikan dan dosa yang pernah mereka lakukan.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "Aku bersumpah dengan setegasnya, demi bintang yang mulai menampakkan diri saat terbit, dengan cahayanya yang redup.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "Yang beredar dan yang berlindung saat terbenam bak kijang yang berlindung di persembunyiannya.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "Demi malam yang semakin menipis kepekatannya menjelang pagi,",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "Demi pagi ketika cahayanya mulai tampak dan anginnya mulai bertiup.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "Al-Qur'ân itu benar-benar ucapan utusan Allah yang mulia.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "Yang diberi kekuatan dalam menjalankan setiap tugas, yang berkedudukan tinggi di sisi Allah, Sang Pemilik Arasy.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "Yang ditaati di alam malaikat, yang jujur dalam menyampaikan wahyu.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "Muhammad, yang kalian kenal dan kalian ketahui kecerdasan akalnya, bukanlah orang gila.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "Aku bersumpah, bahwa Muhammad telah melihat sendiri Jibril di sebuah ufuk yang menampakkan segala yang mungkin terlihat.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "Muhammad bukan orang yang kikir dalam menyampaikan wahyu, yang ceroboh dalam menyampaikan dan mengajarkan wahyu",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "Wahyu yang turun kepadanya bukanlah perkataan setan yang terlaknat, yang dijauhkan dari rahmat Allah Swt.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "Adakah jalan lain yang lebih lurus dari jalan yang tengah kalian lalui?",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "Kitab suci al-Qur'ân ini tidak lain hanyalah sebuah peringatan dan bahan pelajaran bagi penghuni alam.",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "Bagi orang yang berkeinginan meniti jalan lurus dan mencari kebenaran",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "Dan tidak satu pun keinginan kalian bakal terwujud, kecuali jika Allah telah menghendakinya.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "id.muntakhab",
+      "language": "id",
+      "name": "Quraish Shihab",
+      "englishName": "Muhammad Quraish Shihab et al.",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
