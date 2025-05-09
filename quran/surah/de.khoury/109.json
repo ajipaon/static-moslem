@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "Sprich: O ihr Ungläubigen,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "Ich verehre nicht, was ihr verehrt,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "Auch ihr verehrt nicht, was ich verehre.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "Weder ich werde verehren, was ihr verehrt habt,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "Noch werdet ihr verehren, was ich verehre.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "Ihr habt eure Religion, und ich habe meine Religion.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.khoury",
+      "language": "de",
+      "name": "Khoury",
+      "englishName": "Adel Theodor Khoury",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

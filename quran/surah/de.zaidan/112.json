@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "Sag: \"ER ist ALLAH, einzig.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "ALLAH ist As-samad.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "Nie zeugte ER und nie wurde ER gezeugt,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "und nie ist Ihm jemand ebenbürtig.\"",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "Bei dem Himmel und dem At-tariq,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "und was weißt du, was At-tariq ist?!",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "Es ist der strahlende/hohe Stern.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "Über jede Seele gibt es zweifelsohne einen Bewahrenden.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "So soll der Mensch schauen, woraus er erschaffen wurde.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "Er wurde aus ergossener Flüssigkeit erschaffen,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "die von zwischen Rückgrat und Rippen herauskommt.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "Gewiß, ER ist zu seinem Zurückbringen doch fähig,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "an dem Tag, wenn das Innerste geprüft wird,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "dann gibt es für ihn weder Kraft, noch Beistehenden.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "Bei dem Himmel mit Wiederkehr,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "und bei der Erde mit Zerreißen!",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "Gewiß, er ist doch ein richtendes Wort,",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "und er ist keine Unernsthaftigkeit.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "Gewiß, sie planen List",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "und ICH entgegne ihre List,",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "so gewähre den Kafir Aufschub, gewähre ihnen kurzen Aufschub!",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

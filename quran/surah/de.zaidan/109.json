@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "Sag: \"Ihr Kafir!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "Ich diene nicht dem, was ihr dient,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "und ihr seid nicht Diener Dessen, Dem ich diene.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "Und ich bin nicht Diener Dessen, was ihr gedient habt,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "und ihr seid nicht Diener Dessen, Dem ich diene.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "Euch ist euer Din und mir ist mein Din.\"",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

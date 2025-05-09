@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Gewiß, WIR entsandten Nuh zu seinen Leuten: \"Warne deine Leute, bevor zu ihnen eine qualvolle Peinigung kommt.\"",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "Er sagte: \"Meine Leute! Gewiß, ich bin für euch ein deutlicher Warner.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "Dient ALLAH und handelt Taqwa gemäß Ihm gegenüber und gehorcht mir!",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "ER vergibt euch von euren Verfehlungen und gewährt euch Aufschub bis zu einer festgesetzten Frist. Gewiß, wenn ALLAHs Frist anbricht, wird nicht mehr vorgeschoben, würdet ihr doch nur wissen.\"",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "Er sagte: \"Mein HERR! Gewiß, ich machte Da'wa unter meinen Leuten nachts und tagsüber.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "Doch meine Da'wa stärkte sie nur noch im Entweichen.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "Und immer wieder, wenn ich ihnen Da'wa machte, damit DU ihnen vergibst, steckten sie ihre Finger in ihre Ohren, umhüllten sich mit ihrer Kleidung, beharrten auf (der Verfehlung) und erhoben sich in ziemlicher Arroganz.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "Dann machte ich doch ihnen Da'wa öffentlich,",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "dann legte ich es ihnen offen und teilte es ihnen aber auch heimlich mit.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "Dann sagte ich: \"Bittet euren HERRN um Vergebung! Gewiß, ER ist immer allvergebend,",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "ER läßt den Himmel über euch reichlich regnen,",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "versorgt euch mit Vermögensgütern und Kindern, läßt Dschannat für euch wachsen und läßt Flüsse für euch fließen.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "Wieso interessiert ihr euch nicht dafür, ALLAH zu würdigen,",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "wo ER euch bereits doch in Phasen erschuf?",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "Nahmt ihr etwa nicht wahr, wie ALLAH sieben übereinander geschichtete Himmel erschuf?",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "Und ER machte den Mond in ihnen als Licht und die Sonne als Leuchte.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "Und ALLAH ließ euch von der Erde wirklich hervorbringen,",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "dann bringt ER euch in sie zurück und ER bringt euch dann wirklich heraus.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "Und ALLAH machte euch die Erde wie das Entfaltete,",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "damit ihr auf ihr weite Straßen baut.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Nuh sagte: \"Mein HERR! Gewiß, sie widersetzten sich mir und folgten demjenigen, dessen Vermögen und Kinder ihn nur am Verlust mehrten.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "Und sie planten eine äußerst argwöhnische List,",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "und sagten: \"Verlasst eure Götter nie, auch verlasst weder Wadd, noch Suwa', noch Yaghuth, Ya'uq und Nasr!\"",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "Und bereits verleiteten sie viele. Und DU mehrst die Unrecht- Begehenden nur am Irregehen.\"",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Wegen ihrer Verfehlungen wurden sie ertränkt, dann in ein Feuer hineingebracht, dann fanden sie für sich anstelle von ALLAH keine Beistehende.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "Und Nuh sagte: \"Mein HERR! Lasse auf der Erde von den Kafir niemanden.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "Gewiß, wenn DU sie läßt, verleiten sie Deine Diener und zeugen nichts außer einem äußerst kufr-betreibenden die Verfehlungen öffentlich Begehenden.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "Mein HERR! Vergib mir, meinen Eltern, jedem, der mein Haus als Mumin betritt, den Mumin-Männern und den Mumin-Frauen. Und mehre die Unrecht-Begehenden nicht außer an Vernichtung.\"",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

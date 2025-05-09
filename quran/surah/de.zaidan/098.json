@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Diejenigen von den Schriftbesitzern, die Kufr betrieben haben, und die Muschrik werden nicht loslassen, bis zu ihnen die Deutlichkeit kommt,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "ein Gesandter von ALLAH, der gereinigte Schriften vorträgt,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "in denen wertvolle Kapitel sind.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Und diejenigen, denen die Schrift zuteil wurde, wurden nicht uneins außer, nachdem zu ihnen die Deutlichkeit gekommen war.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Und ihnen wurde nicht geboten außer, daß sie ALLAH dienen - aufrichtig im Din Ihm gegenüber als Hanif - das rituelle Gebet ordnungsgemäß verrichten und die Zakat entrichten. Und dies ist der Din der Geradlinigkeit.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Gewiß, diejenigen von den Schriftbesitzern, die Kufr betrieben haben, und die Muschrik sind im Feuer von Dschahannam, sie sind darin ewig. Diese sind die Schlimmsten der Geschöpfe.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Gewiß, diejenigen, die den Iman verinnerlicht und gottgefällig Gutes getan haben, diese sind die Besten der Geschöpfe.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Ihre Belohnung bei ihrem HERRN ist 'Adn-Dschannat, die von Flüssen durchflossen sind, darin sind sie ewig, für immer. ALLAH fand Gefallen an ihnen und sie sind zufrieden mit Ihm. Dies ist für denjenigen, der seinen HERRN Ehrfurcht erweist.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

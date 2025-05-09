@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "Vernichtung sei Abu-lahab, Vernichtung sei ihm!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "Nicht nützte ihm sein Vermögen und nicht das, was er erwarb.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "Er wird in ein Feuer mit Flammen hineingeworfen",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "sowie seine Ehefrau, die Trägerin des Holzes,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "um ihren Hals ist ein Seil aus Palmenbast.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
