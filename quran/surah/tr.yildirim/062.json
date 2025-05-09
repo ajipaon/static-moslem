@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Göklerde ne var, yerde ne varsa hepsi melik (kâinatın gerçek hükümdarı), kuddûs (çok yüce, her noksandan münezzeh) azîz ve hakîm olan Allah'ı tesbih ve tenzih eder.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "O, ümmîler arasından, kendilerinden olan bir elçi gönderdi. Bu elçi onlara Allah'ın âyetlerini okur, onları arındırır, onlara kitabı ve hikmeti öğretir. Halbuki daha önce belli ve kesin bir sapıklık içinde idiler.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "Bu Peygamber, henüz kendilerine katılmamış bulunan diğer insanlara da gönderilmiştir. O gerçekten azîzdir, hakîmdir (üstün kudret, tam hüküm ve hikmet sahibidir). [17,44; 3,20; 43,44; 26,214; 7,158; 6,19]",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Bu, Allah'ın lütfu olup onu dilediğine verir. Allah büyük lütuf ve ihsan sahibidir.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Tevratın mesajını ulaştırma ve onu uygulama yükümlülüğünü kabul ettikleri halde, sonra bu yükümlülüğü yerine getirmeyenler, tıpkı ciltlerle kitap taşıyan merkebe benzer. Allah'ın âyetlerini yalan sayan kimselerin düştükleri durum ne fecî! Allah böylesi zalim gürûhu hidâyet etmez, emellerine ulaştırmaz. [7,179]",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "De ki: “Ey kendilerine Yahudi diyenler! İnsanlar arasında yalnız kendinizin Allah'ın dostları olduğunu iddia ettiğinize göre, bu iddianızda tutarlı iseniz, haydi hemen ölmeyi temenni edin de bir an önce O’na kavuşun. [2,94-96]",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Ama onlar bizzat yaptıkları zulümler sebebiyle asla ölümü temenni etmezler. Allah o zalimleri pek iyi bilir.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "De ki: “Sizin kaçtığınız o ölüm var ya, o mutlaka sizi karşılayacaktır. Sonra da görünmeyen ve görünen ne varsa hepsini bilen Allah'ın huzuruna götürüleceksiniz, O da sizin yaptıklarınızı tek tek bildirecek (ve ondan ötürü karşılığını verecektir). [4,78]",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "Ey iman edenler! Cuma namazına ezan ile çağırıldığınız zaman derhal Allah'ı zikretmeye (hutbe ve namaza) gidin, alışverişi bırakın. Eğer bilirseniz, bu sizin için çok hayırlıdır. [17,19]",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Namaz tamamlanınca yeryüzüne yayılın, işinize gücünüze gidin, Allah'ın lütfundan nasibinizi arayın. Felaha ermenizi ümid ederek Allah’ı çok zikrediniz.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Onlar bir ticaret veya bir eğlence görünce oraya doğru sökün edip, seni hutbe verirken ayakta bırakıverdiler. De ki: Allah'ın nezdinde âhirette olan nasip, buradaki eğlenceden ve ticaretten elbette daha hayırlıdır. Allah rızık verenlerin en hayırlısıdır. {KM, Matta 6,26}",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.yildirim",
+      "language": "tr",
+      "name": "Suat Yıldırım",
+      "englishName": "Suat Yildirim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

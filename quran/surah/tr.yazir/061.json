@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "Göklerdekilerin ve yerdekilerin hepsi Allah'ı tesbih eder. O, üstündür, hikmet sahibidir.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "Ey iman edenler! Yapmayacağınız şeyi niçin söylüyorsunuz?",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "Yapmayacağınızı söylemeniz, Allah yanında şiddetli bir buğza sebeb olur.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "Allah, kendi yolunda kenetlenmiş bir duvar gibi saf bağlayarak savaşanları sever.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "Bir zaman Musa, kavmine: \"Ey kavmim! Benim, Allah'ın size gönderdiği elçisi olduğumu bildiğiniz halde niçin beni incitiyorsunuz?\" demişti. Onlar eğrilince, Allah da kalblerini eğriltti. Allah fasıkları doğru yola iletmez.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "Meryem oğlu İsa da: \"Ey İsrailoğulları! ben size Allah'ın elçisiyim. benden önce gelen Tevrat'ı doğrulayıcı ve benden sonra gelecek Ahmed adında bir peygamberi müjdeleyici olarak (geldim).\" demişti. Fakat onlara apaçık delillerle gelince \"Bu, apaçık bir büyüdür.\" dediler.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "İslâm'a davet olunduğu halde Allah üzerine yalan uydurandan daha zalim kim olabilir? Allah zalim toplumu doğru yola iletmez.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "Ağızlarıyla Allah'ın nurunu söndürmek istiyorlar. Halbuki kâfirler hoş görmese de Allah nurunu tamamlayacaktır.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "O, Resulünü hidayet ve hak dinle gönderdi ki, müşrikler istemese de onu, bütün dinlerin üstüne çıkarsın.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "Ey İman edenler! Sizi acı bir azabdan kurtaracak ticareti size göstereyim mi?",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "Allah'a ve Resulüne inanırsınız, mallarınızla ve canlarınızla Allah yolunda savaşırsınız. Eğer bilirseniz sizin için en iyisi budur.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "(Eğer böyle yaparsanız Allah) sizin günahlarınızı bağışlar ve sizi altlarından ırmaklar akan cennetlere, Adn cennetlerinde hoş yerlere koyar. İşte büyük kurtuluş budur.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "Seveceğiniz bir şey daha var: Allah'tan yardım ve yakın bir fetih.. Müminleri müjdele.",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "Ey inananlar, Allah'ın yardımcıları olun. Nitekim Meryem oğlu İsa da havarilere: \"Allah'a (giden yolda) benim yardımcılarım kimdir?\" demişti. Havariler: \"Allah (yolun)un yardımcıları biziz.\" dediler. İsrail oğullarından bir zümre inandı, bir zümre inkar etti. Biz de inananları, düşmanlarına karşı destekledik, onlar üstün geldiler.",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.yazir",
+      "language": "tr",
+      "name": "Elmalılı Hamdi Yazır",
+      "englishName": "Elmalili Hamdi Yazir",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

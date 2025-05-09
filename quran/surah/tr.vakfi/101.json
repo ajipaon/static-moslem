@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "Kapı çalan!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "Nedir o kapı çalan?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "O kapı çalanın ne olduğunu bilir misin?",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "İnsanların, ateşin etrafını sarmış pervaneler gibi olur,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "Dağların da atılmış renkli yüne dönüştüğü gündür (o Karia!)",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "O gün kimin tartılan ameli ağır gelirse.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "İşte o, hoşnut edici bir yaşayış içinde olur.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "Ameli yeğni olana gelince.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "İşte onun anası (yeri, yurdu) Haviye'dir.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "Nedir o (Haviye) bilir misin?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "Kızgın ateş!",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.vakfi",
+      "language": "tr",
+      "name": "Diyanet Vakfı",
+      "englishName": "Diyanet Vakfi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
