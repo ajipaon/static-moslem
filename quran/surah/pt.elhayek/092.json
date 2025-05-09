@@ -1,0 +1,254 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 92,
+    "name": "سُورَةُ اللَّيۡلِ",
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 21,
+    "ayahs": [
+      {
+        "number": 6059,
+        "text": "Pela noite, quando cobre (a luz),",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6060,
+        "text": "Pelo dia, quando resplandece,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6061,
+        "text": "Por Quem criou o masculino e o feminino,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6062,
+        "text": "Que os vossos esforços são diferentes (quanto às metas a atingir).",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6063,
+        "text": "Porém, àquele que dá (em caridade e é temente a Deus,",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6064,
+        "text": "E crê no melhor,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6065,
+        "text": "Facilitaremos o caminho do conforto.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6066,
+        "text": "Porém, àquele que mesquinhar e se considerar suficiente,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6067,
+        "text": "E negar o melhor,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6068,
+        "text": "Facilitaremos o caminho da adversidade.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6069,
+        "text": "E de nada lhe valerão os seus bens, quando ele cair no abismo.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6070,
+        "text": "Sabei que a Nós incumbe a orientação,",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6071,
+        "text": "Assim como também são Nossos o fim e o começo.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6072,
+        "text": "Por isso, vos tenho admoestado com o fogo voraz,",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6073,
+        "text": "Em que não entrará senão o mais desventurado,",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6074,
+        "text": "Que desmentir (a verdade) e desdenhar.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6075,
+        "text": "Contudo, livrar-se-á dele o mais temente a Deus,",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6076,
+        "text": "Que aplica os seus bens, com o fito de purificá-los,",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6077,
+        "text": "E não faz favores a ninguém com o fito de ser recompensado,",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6078,
+        "text": "Senão com o intuito de ver o Rosto do seu Senhor, o Altíssimo;",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6079,
+        "text": "A logo alcançará (completa) satisfação.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "Binecuvântat fie Cel ce are în mâna Sa împărăţia, Cel ce asupra tuturor are putere,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "Cel ce a creat viaţa şi moartea ca să dovedească care dintre voi este mai bun la faptă. El este Puternic, Iertător.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "Binecuvântat fie Cel ce a creat cele şapte ceruri puse unele asupra altora! Nu vei vedea în creaţia Milostivului nici o nepotrivire. Întoarce-ţi privirea! Zăreşti pe undeva vreun cusur?",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "Roteşte-ţi apoi privirea încă de două ori! Şi privirea ţi se va întoarce obosită, slăbită.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "Noi am împodobit cerul cel mai apropiat cu lumini pe care le-am făcut ca să-i lovim pe diavolii cărora le-am pregătit şi osânda Iadului.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "Cei care L-au tăgăduit pe Domnul lor vor avea parte de osânda Gheenei. Ce rea devenire!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "Când vor fi aruncaţi acolo, vor auzi un răget, iar Gheena va clocoti",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "gata să se sfarme de furie. De fiece dată când o ceată îi este aruncată, păzitorii săi vor întreba: “Nu vi s-a predicat şi vouă?”",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "Ei vor spune: “Ba da, cineva a venit să ne predice, însă noi l-am hulit zicându-i: ‘Dumnezeu n-a pogorât nimic, iar voi sunteţi într-o adâncă rătăcire.’”",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "Ei vor spune: “Dacă noi am fi ascultat ori dacă am fi înţeles, nu am fi fost acum printre soţii Focului.”",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "Ei şi-au recunoscut păcatul. Să piară soţii Focului!",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "Cei care s-au temut de Domnul lor întru Taină vor avea iertare şi mare răsplată.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "Fie că vă tăinuiţi vorbele, fie că le spuneţi tare, El cunoaşte lăuntrul inimilor voastre.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "Nu cunoaşte El ceea ce a creat, El, Pătrunzătorul, Cunoscătorul?",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "El a făcut pământul supus vouă. Străbateţi marile sale întinderi şi mâncaţi din dăruirea Lui. Către El va fi Învierea.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "Credeţi oare că Cel ce este în Cer nu poate face pământul să vă înghită? Iată-l cum se zgâlţâie!",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "Credeţi oare că Cel ce este în Cer nu poate dezlănţui asupra voastră o furtună de pietre? Atunci veţi şti ce a însemnat predica Mea!",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "Cei dinaintea lor au hulit. Şi cum a fost mustrarea Mea!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "Ei nu văd păsările deasupra lor cum îşi întind şi îşi strâng aripile? Numai Milostivul le ţine acolo. El este Atotvăzător.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "Cel ce are o oştire pentru voi, vă poate ajuta în locul Milostivului? Tăgăduitorii sunt în amăgire.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "Cine v-ar putea hrăni, dacă Dumnezeu şi-ar lua darurile înapoi? Ei se încăpăţânează însă în obrăznicie şi ură.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "Cel care merge cu capul în jos este mai bine călăuzit decât cel care merge pe Calea cea Dreaptă cu capul sus?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "Spune: “El este Cel ce a făcut să vă naşteţi. El v-a dat auzul, văzul şi inimile.” Voi sunteţi însă atât de puţin recunoscători!",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "Spune: “El este Cel ce v-a împrăştiat pe pământ şi la El veţi fi iarăşi strânşi.”",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "Ei vor spune: “Când se va împlini această făgăduială, dacă spuneţi adevărul?”",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "Spune: “Ştiinţa nu este decât la Dumnezeu. Eu nu sunt decât un predicator cu vorba limpede!”",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "Când cei care tăgăduiesc o vor vedea de aproape, chipurile li se vor schimonosi. Li se va spune: “Aceasta este ceea ce aţi chemat!”",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "Spune: “Ce credeţi? Fie că Dumnezeu mă va nimici pe mine şi pe cei dimpreună cu mine, fie că se va milostivi de noi, însă cine îi va apăra pe tăgăduitori de osânda dureroasă?”",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "Spune: “El este Milostivul! Noi credem în El. Lui ne încredinţăm.” Veţi şti atunci cine este într-o rătăcire făţişă!",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "Spune: “Ce credeţi? Dacă apa voastră se va scurge în pământ peste noapte cine vă va mai da apă de izvor?”",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

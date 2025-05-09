@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "Vai clevetitorului — bârfitorului",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "care strânge averi şi le numără!",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "El crede că averile îi vor da nemurirea!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "Ba nu! El va fi azvârlit în Al-Hutamah!",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "Şi cum vei şti tu oare ce este Al-Hutamah?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "Este focul aprins al lui Dumnezeu,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "ce scrutează sufletele,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "boltindu-se asupra lor",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "pe trâmbe înalte.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

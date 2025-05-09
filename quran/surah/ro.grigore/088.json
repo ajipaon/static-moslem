@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "A venit la tine spusa despre cea care învăluie?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "În Ziua aceea, chipuri care se umilesc,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "care se trudesc şi se sleiesc,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "vor fi aruncate într-un foc dogoritor.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "Se vor adăpa la un izvor clocotit",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "şi vor avea drept ospăţ mărăcini",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "care nici nu-i vor îngrăşa, însă nici foamea nu le-o va astâmpăra.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "În Ziua aceea, chipuri voioase,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "de zelul lor mulţumite,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "vor fi într-o Grădină înaltă",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "unde nu vor auzi nici o vorbă deşartă.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "Acolo va fi un izvor curgător;",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "paturi înălţate,",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "pocale aranjate,",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "perne rânduite,",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "covoare aşternute.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "Oare ei nu privesc la cămile cum au fost create?",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "Şi nici la cer cum a fost ridicat?",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "Şi nici la munţi cum au fost înălţaţi?",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "Şi nici la pământ cum a fost întins?",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "Adu-le aminte, căci asupra ta stă aducerea aminte,",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "însă asupra lor nu ai nici o putere.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "Celui care întoarce spatele şi tăgăduieşte,",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "Dumnezeu îi va da osânda cea mare.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "La Noi este întoarcerea lor,",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "şi asupra Noastră stă judecata lor.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

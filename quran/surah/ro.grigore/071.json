@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Noi l-am trimis pe Noe poporului său: “Previne-ţi poporul înainte să-i vină o dureroasă osândă!”",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "El spuse: “O, popor al meu! Eu vouă vă sunt predicator limpede la vorbă.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "Închinaţi-vă lui Dumnezeu! Temeţi-vă de El! Daţi-i ascultare!",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "El vă iartă vouă din păcatele voastre şi vă dă vouă un răgaz până la un anumit soroc. Când va veni însă sorocul lui Dumnezeu, nimic nu-l va întârzia. O, dacă aţi şti!”",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "El spuse: “Domnul meu! Eu mi-am chemat poporul noapte şi zi,",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "însă chemarea mea mai mult i-a pus pe fugă.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "De fiece dată când i-am chemat ca Tu să le ierţi lor, ei şi-au băgat degetele în urechi, s-au înfăşurat în veşmintele lor şi s-au înverşunat arătându-se plini de mândrie.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "I-am chemat răspicat.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "Le-am spus pe faţă şi în taină.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "Le-am spus: “Cereţi-i iertare Domnului vostru, căci El este Iertător.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "El vă va trimite vouă, din cer, multă ploaie.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "El vă va spori averile şi numărul fiilor şi vă va da grădini şi râuri.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "De ce nu aşteptaţi de la Dumnezeu ceva vrednic de El.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "El este Cel ce v-a creat rând pe rând.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "N-aţi văzut cum Dumnezeu a creat cele şapte ceruri aşezate unul asupra celuilalt?",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "Şi a făcut luna în ele precum o lumină şi soarele precum un opaiţ.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "Dumnezeu v-a făcut să răsăriţi din pământ precum ierburile,",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "apoi vă va înapoia în el ca să vă scoată deodată.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "Dumnezeu v-a făcut vouă pământul covor",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "ca voi să-l străbateţi pe drumuri largi.”",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Noe spuse: “Domnul meu! Ei nu m-au ascultat şi l-au urmat pe cel ale cărui bogăţii şi fii nu fac decât să-i apropie pierzania.”",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "Ei au viclenit şi au spus:",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "“Nu-i părăsiţi niciodată pe dumnezeii voştri! Nu-i părăsiţi pe Wadd, şi nici pe Suwa’, şi nici pe Yaghut, şi nici pe Ya’uq, şi nici pe Nasr!”",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "Aceştia au rătăcit mulţi oameni. Tu nu faci decât să măreşti rătăcirea celor nedrepţi.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Ei au fost înecaţi şi aruncaţi în Foc pentru păcatele lor şi nu aflară nici un ajutor afară de Dumnezeu.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "Noe spuse: “Domnul meu! Nu lăsa pe pământ nici un locuitor dintre tăgăduitori.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "Dacă îi laşi, ei îi vor rătăci pe robii Tăi şi nu vor zămisli decât desfrânaţi mult-tăgăduitori.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "Domnul meu! Iartă-mi mie şi părinţilor mei, precum şi celui ce intră, credincios, în casa mea, credincioşilor şi credincioaselor. Sporeşte doar prăpădul celor nedrepţi!”",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

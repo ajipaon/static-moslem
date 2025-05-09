@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "Pe cei ce galopează sforăitori,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "cei ce scapără scântei,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "cei ce se năpustesc odată cu zorii,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "cei ce stârnesc colbul,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "cei ce pătrund în mijlocul gloatei!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "Da, omul este nerecunoscător faţă de Domnul său:",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "Şi el însuşi mărturiseşte aceasta,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "însă aprigă-i este dragostea pentru bunul lumesc.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "Nu ştie el oare că atunci când mormintele-şi vor arunca afară lăuntrurile,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "iar ceea ce este în piepturi va fi scos la iveală,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "în Ziua aceea, Domnul lor, va avea deplina lor ştiinţă?",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

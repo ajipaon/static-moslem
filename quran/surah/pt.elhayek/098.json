@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Os incrédulos, entre os adeptos do Livro, bem como os idólatras, não desistiriam da sua religião, a não ser quando lhes chegasse a Evidência:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Um Mensageiro de Deus, que lhes recitasse páginas purificadas,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "Que contivessem escrituras corretas.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Os adeptos do Livro não se dividiram, senão depois de lhes ter chegado a Evidência,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "E lhes foi ordenado que adorassem sinceramente a Deus, fossem monoteístas, observassem a oração e pagassem o zakat; esta é a verdadeira religião.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Em verdade, os incrédulos, entre os adeptos do Livro, bem como os idólatras, entrarão no fogo infernal, onde permanecerão eternamente. Estas são as piores das criaturas!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Por outra, os fiéis, que praticam o bem, são as melhores criaturas,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Cuja recompensa está em seu Senhor: Jardins do Éden, abaixo dos quais correm os rios, onde morarão eternamente. Deus se comprazerá com eles e eles se comprazerão n'Ele. Isto acontecerá com quem teme o seu Senhor.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

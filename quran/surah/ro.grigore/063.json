@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "Când făţarnicii vor veni la tine, îţi vor spune: Noi mărturisim că tu eşti trimisul lui Dumnezeu!” Dumnezeu ştie că tu eşti trimisul Său., precum Dumnezeu mărturiseşte şi că făţarnicii sunt mincinoşi.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "Ei şi-au luat jurămintele drept pavăză şi s-au îndepărtat de la calea lui Dumnezeu. Rău au făcut ceea ce-au făcut!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "Aceasta, căci ei întâi au crezut, apoi au tăgăduit. Inimile le-au fost pecetluite, încât nu mai pricep nimic.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Când îi vezi, chipurile lor îţi plac. Când vorbesc, le asculţi vorba. Ei sunt asemenea unor grinzi împodobite! Ei socot că orice strigăt este asupra lor. Ei sunt vrăjmaşii voştri. Bagă de seamă la ei! Dumnezeu să-i dea morţii! Ei sunt de-a-ndoaselea!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "Când li se spune: “Veniţi! Trimisul lui Dumnezeu va cere iertarea pentru voi”, îşi vor întoarce capul şi îi vei vedea îndepărtându-se trufaşi.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Nu le pasă dacă tu ceri iertarea pentru ei ori dacă nu ceri iertarea pentru ei! Dumnezeu nu le va ierta lor, căci Dumnezeu nu călăuzeşte poporul desfrânat.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Ei sunt cei care spun: “Nu cheltuiţi nimic pentru cei din preajma trimisului lui Dumnezeu până când nu-l părăsesc.” Comorile cerurilor şi ale pământului sunt ale lui Dumnezeu, însă cei făţarnici nu înţeleg.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "Ei spun: “Dacă ne vom întoarce iar la Medina, cel puternic îl va alunga din cetate pe cel slab.” Puterea este a lui Dumnezeu, a trimisului Său şi a credincioşilor, însă cei făţarnici nu ştiu.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "O, voi cei ce credeţi! Averile şi pruncii voştri să nu vă îndepărteze de la amintirea lui Dumnezeu! Cei care fac astfel, sunt cei pierduţi.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Daţi milostenie din ceea ce Noi v-am înzestrat, înainte ca moartea să vină la vreunul dintre voi, iar el să spună: “Domnul meu! Dacă mi-ai fi dat încă un răgaz, până la un soroc apropiat, aş fi dat milostenie şi aş fi fost drept.”",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "Dumnezeu nu va da nimănui nici un răgaz când îi va veni sorocul. Dumnezeu este Cunoscător a ceea ce faceţi.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

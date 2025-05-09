@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "Pela era,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "Que o homem está na perdição,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "Salvo os fiéis, que praticam o bem, aconselham-se na verdade e recomendam-se, uns aos outros, a paciência e a perseverança!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

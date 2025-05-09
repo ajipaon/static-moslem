@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Cei dintre oamenii Cărţii care tăgăduiesc, precum şi închinătorii la idoli, nu se vor răsfira până ce nu le va veni dovada desluşită:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "un trimis de la Dumnezeu care recită din suluri prea-curate",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "cu scrieri nestemate.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Celor cărora le-a fost dată Cartea nu s-au despărţit decât după ce le-a venit dovada.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Nu li s-a poruncit decât să se închine lui Dumnezeu, curaţi Lui în credinţă, precum credincioşii dintâi, să-şi facă rugăciunea şi să dea milostenie. Aceasta este Legea cea Dreaptă.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Cei dintre oamenii Cărtii care tăgăduiesc, precum şi închinătorii la idoli, în focul Gheenei vor veşnici, căci ei sunt tot ce este mai rău pe lume.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Cei care cred şi săvârşesc fapte bune, ei sunt tot ce este mai bun pe lume.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Ei vor avea, drept răsplată, de la Domnul lor, grădinile Edenului pe sub care curg râuri, unde vor veşnici. Dumnezeu este mulţumit de ei, iar ei sunt mulţumiţi de El. Aşa va fi pentru cel care se teme de Domnul său.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

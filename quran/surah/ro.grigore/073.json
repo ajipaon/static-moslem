@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O, tu cel înfăşurat în mantie!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Scoală-te noaptea, însă nu puţin,",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "jumătate din ea ori mai scade puţin",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "ori mai adaugă şi psalmodiază Coranul!",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Noi îţi vom da un cuvânt cumpănitor:",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "începutul nopţii este mai puternic la adâncit şi mai drept la rostit,",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "căci peste zi ai trudă lungă.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Aminteşte Numele Domnului tău şi Lui dăruieşte-te întru totul.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "El este Domnul Răsăritului şi al Asfinţitului. Nu este dumnezeu afară de El. Ţie ia-ţi-L oblăduitor!",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Rabdă când îi auzi ceea ce spun şi cuviincios îndepărtează-te de ei.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "Lasă-Mă pe Mine cu cei care hulesc, cu cei care trăiesc în îndestulare, şi mai dă-le un scurt răgaz!",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "Noi avem fiare şi iad,",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "şi mâncare înecătoare şi osândă dureroasă",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "pentru ziua când pământul şi munţii se vor zgudui, când munţii vor fi asemena unei dune răvăşite.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Noi v-am trimis vouă un profet care este martor a ceea ce sunteţi, aşa cum am trimis un profet şi la Faraon.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Faraon nu i-a dat ascultare profetului şi Noi, atunci, l-am luat cu o grea lovitură.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Cum vă veţi apăra, dacă aţi fost tăgăduitori, de ziua care până şi pe prunci îi va încărunţi?",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "Cerul se va despica atunci, iar făgăduiala se va împlini.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Aceasta este o amintire! Cel care vrea poate apuca către Domnul său pe o cale!",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Domnul tău ştie că tu şi mulţi dimpreună cu tine vă sculaţi pentru rugăciune, aproape două treimi ori o jumătate ori o treime din noapte. Dumnezeu a dat măsura nopţii şi a zilei. El ştie că voi nu ţineţi socoteală de aceasta, însă vă primeşte căinţa. Citiţi tot ce puteţi din Coran! El ştie că unii dintre voi sunt bolnavi, că alţii străbat pământul în căutarea harului lui Dumnezeu, iar alţii luptă pe calea lui Dumnezeu. Citiţi tot ce puteţi din Coran! Faceţi-vă rugăciunea, daţi milostenie şi daţi-I lui Dumnezeu un frumos împrumut. Binele pe care vi-l faceţi voi înşivă înainte, îl veţi afla la Dumnezeu drept cea mai bună şi mai mare răsplată. Cereţi iertare lui Dumnezeu! Dumnezeu este Iertător, Milostiv!",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
