@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "(Ya Peyğəmbər!) De: “Pənah aparıram sübhün Rəbbinə!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "Yaratdıqlarının (insanların, cinlərin, vəhşi heyvanların) şərindən;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "Zülmətə bürünməkdə olan gecənin (və ya: batan ayın, ziyası sönən ulduzların) şərindən;",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "(Ovsun oxuyub) düyünlərə üfürən (yaxud: cadu edib iplərə düyün vuran) qadınların şərindən;",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "Və bir də paxıllığı tutanda paxılın şərindən!”",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "az.mammadaliyev",
+      "language": "az",
+      "name": "Məmmədəliyev & Bünyadov",
+      "englishName": "Vasim Mammadaliyev and Ziya Bunyadov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "De: “Mənə vəhy olundu ki, cinlərdən bir dəstə Quranı dinlədikdən sonra öz tayfalarına qayıdıb dedilər: “Həqiqətən, biz heyrətamiz bir Quran dinlədik!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "O, doğru yola yönəldir. Biz ona inandıq və bundan sonra əsla kimsəni Rəbbimizə şərik qoşmayacağıq.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Doğrudan da, Rəbbimizin əzəməti çox yüksəkdir. O, nə zövcə, nə də övlad sahibi olmamışdır.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "Bizim səfehimiz İblis Allaha qarşı hədsiz yalanlar danışır.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "Biz zənnə qapılaraq düşünürdük ki, insanlar da, cinlər də Allaha iftira atmazlar.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "Həqiqətən, insanlardan bəziləri cinlərin bəzilərinə sığınırdılar. Bu isə onların azğınlığını artırırdı.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "Onlar da siz zənn etdiyiniz kimi, elə düşünürdülər ki, Allah ölənləri diriltməyəcəkdir.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "Biz səmaya qalxdıqda onun sərt gözətçilər və yandırıb-yaxan alovlarla dolu olduğunun şahidi olduq.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "Biz əvvəllər gizlicə qulaq asmaq üçün göyün bəzi sahələrində oturardıq. Amma kim bunu indi etmək istəsə, o, pusquda gözləyən yandırıcı alova rast gələr.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Biz bilmirik, bununla yerdəkilərə pislik etmək qəsd edilmişdir, yoxsa Rəbbi onları doğru yola yönəltmək istəmişdir?",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Əlbəttə, aramızda xeyirxah əməl sahibləri də, onlar kimi olmayanlar da var. Biz ayrı-ayrı yollar tutmuşuq.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Biz yəqin etdik ki, yer üzündə Allahdan yaxa qurtara bilmərik. Göyə qaçmalı olsaq da Onun əzabından yayına bilməyəcəyik.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Biz doğru yolu göstərən rəhbəri eşitdiyimiz zaman ona iman gətirdik. Rəbbinə iman gətirən, nə savabının azalmasından, nə də haqsızlığa uğramaqdan qorxmaz.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Sözsüz ki, bizlərdən müsəlmanlar da var, doğru yoldan sapanlar da. Müsəlman olan şəxslər doğru yol tutanlardır.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Doğru yoldan sapanlar Cəhənnəm üçün odun olacaqlar”.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Əgər onlar o yolda sabit qalsaydılar, Biz onlara bol-bol su verərdik.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "Belə edərdik ki, bununla onları sınayaq. Kim öz Rəbbinin zikrindən üz döndərərsə, O, həmin şəxsi şiddətli bir əzaba məruz qoyar.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Şübhəsiz ki, məscidlər Allahındır. Allahdan başqa heç kəsə dua etməyin!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Allahın qulu qalxıb Allaha dua etdikdə cinlər az qala onun dövrəsində bir-birinə keçib çəpər yaradırdılar.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "De: “Mən yalnız öz Rəbbimə dua edirəm və kimisə Ona şərik qoşmuram!”",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "De: “Mən sizə nə ziyan verməyə, nə də sizi doğru yola yönəltməyə qadir deyiləm!”",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "De: “Həqiqətən, məni Allahdan kimsə xilas edə bilməz və mən Ondan başqa bir pənah yeri tapa bilmərəm!",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "Mənim əlimdən gələn ancaq Allahı və Onun göndərdiklərini təbliğ etməkdir. Kim Allaha və Onun Elçisinə asi olarsa, onun üçün içərisində əbədi qalacaqları Cəhənnəm odu hazırlanmışdır”.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Onlar özlərinə vəd olunmuş əzabı gördükləri zaman kimin köməkçisinin daha zəif və sayca daha az olduğunu biləcəklər.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "De: “Mən sizə vəd olunmuş əzabın yaxın olduğunu və yaxud Rəbbimin onun üçün uzun bir müddət təyin etmiş olduğunu bilmirəm.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "O, qeybi Biləndir və Öz qeybini heç kəsə açmaz;",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "razı qaldığı elçidən başqa. Həqiqətən, Allah onların önündə və arxasında gözətçilər qoyur ki,",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "hər kəs onların, Rəbbinin göndərdiklərini necə təbliğ etdiyini bilsin. Allah onların nə etdiklərini nəzarəti altında saxlayır və hər şeyi ayrı-ayrılıqda hesaba alır”.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "az.musayev",
+      "language": "az",
+      "name": "Musayev",
+      "englishName": "Alikhan Musayev",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

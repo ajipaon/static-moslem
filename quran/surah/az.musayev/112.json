@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "De: “O Allah Təkdir!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "Allah Möhtac deyildir.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "O, nə doğub, nə doğulub,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "Onun bənzəri də yoxdur”.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "az.musayev",
+      "language": "az",
+      "name": "Musayev",
+      "englishName": "Alikhan Musayev",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

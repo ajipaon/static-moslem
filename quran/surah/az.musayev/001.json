@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "Mərhəmətli və Rəhmli Allahın adı ilə!",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "Həmd olsun aləmlərin Rəbbi Allaha,",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "Mərhəmətli və Rəhmliyə,",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "Haqq-hesab gününün Hökmdarına!",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "Biz yalnız Sənə ibadət edir və yalnız Səndən kömək diləyirik.",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "Bizi doğru yola yönəlt –",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "nemət bəxş etdiyin şəxslərin yoluna, qəzəbə uğramışların və azmışların yoluna yox!",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "az.musayev",
+      "language": "az",
+      "name": "Musayev",
+      "englishName": "Alikhan Musayev",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
