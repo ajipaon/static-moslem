@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "จงกล่าวเถิด มุฮัมมัด ข้าพระองค์ขอความคุ้มครองต่อพระเจ้าแห่งรุ่งอรุณ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "ให้พ้นจากความชั่วร้ายที่พระองค์ได้ทรงบันดาลขึ้น",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "และจากความชั่วร้ายแห่งความมืดของเวลากลางคืนเมื่อมันแผ่คลุม",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "และจากความชั่วร้ายของบรรดาผู้เสกเป่าในปมเงื่อน",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "และจากความชั่วร้ายของผู้อิจฉาเมื่อเขาอิจฉา",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "th.thai",
+      "language": "th",
+      "name": "ภาษาไทย",
+      "englishName": "King Fahad Quran Complex",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

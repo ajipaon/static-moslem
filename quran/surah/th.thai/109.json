@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "จงกล่าวเถิด มุฮัมมัดว่า โอ้บรรดาผู้ปฏิเสธศรัทธาเอ๋ย",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "ฉันจะไม่เคารพภักดีสิ่งที่พวกท่านเคารพภักดีอยู่",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "และพวกท่านก็ไม่ใช่เป็นผู้เคารพภักดีพระเจ้าที่ฉันเคารพภักดี",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "และฉันก็มิใช่เป็นผู้เคารพภักดีสิ่งที่พวกท่านเคารพภักดี",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "และพวกท่านก็มิใช่เป็นผู้เคารพภักดีพระเจ้าที่ฉันเคารพภักดี",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "สำหรับพวกท่านก็คือศาสนาของพวกท่าน และสำหรับฉันก็คือศาสนาของฉัน",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "th.thai",
+      "language": "th",
+      "name": "ภาษาไทย",
+      "englishName": "King Fahad Quran Complex",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

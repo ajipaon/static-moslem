@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "เพื่อให้ความคุ้นเคยแก่ชาวกุเรช",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "เพื่อให้ความคุ้นเคยแก่พวกเขาในการเดินทางในฤดูหนาว (ไปเยเมน) และฤดูร้อน (ไปชาม)",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "ดังนั้น จงให้พวกเขาเคารพภักดีพระเจ้าแห่งบ้านหลังนี้เถิด (คืออัลกะอฺบะฮฺ)",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "ผู้ทรงให้อาหารแก่พวกเขาให้พ้นจากความหิว และทรงให้ความปลอดภัยแก่พวกเขาให้พ้นจากความหวาดกลัว",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "th.thai",
+      "language": "th",
+      "name": "ภาษาไทย",
+      "englishName": "King Fahad Quran Complex",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

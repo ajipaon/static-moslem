@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 49,
+    "name": "سُورَةُ الحُجُرَاتِ",
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 18,
+    "ayahs": [
+      {
+        "number": 4613,
+        "text": "Ey inananlar, Allah'ın ve Elçisinin önüne geçmeyin. Allah'tan korkun. Şüphesiz Allah, işitendir, bilendir.",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4614,
+        "text": "Ey inananlar, seslerinizi, Peygamberin sesinin üstüne çıkarmayın, birbirinizle yüksek sesle konuştuğunuz gibi, onunla da öyle yüksek sesle konuşmayın; yoksa siz farkında olmadan amelleriniz boşa gider.",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4615,
+        "text": "Allah'ın Elçisinin huzurunda seslerini kısanlar, öyle kimselerdir ki Allah, onların kalblerini, takva için imtihan etmiş(onların takvaya ehil olduklarını anlamış)tır. Onlar için mağfiret ve büyük bir mükafat vardır.",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4616,
+        "text": "Odaların arkasından sana bağıranların çoğu, düşüncesiz kimselerdir.",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4617,
+        "text": "Onlar, sen kendilerinin yanına çıkıncaya kadar bekleselerdi, elbette kendileri için daha iyi olurdu. Allah bağışlayandır, esirgeyendir.",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4618,
+        "text": "Ey inananlar, size fasık (yoldan çıkmış) bir adam bir haber getirirse onun doğruluğunu araştırın. Yoksa bilmeyerek bir topluluğa karşı kötülük edersiniz de sonra yaptığınıza pişman olursunuz.",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4619,
+        "text": "Bilin ki, Allah'ın Elçisi içinizdedir. Şayet o, birçok işte size uysaydı, sıkıntıya düşerdiniz. Fakat Allah size imanı sevdirdi ve onu sizin kalblerinizde süsledi ve size küfrü, fıskı ve isyanı çirkin gösterdi. İşte doğru yolda olanlar bunlardır.",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4620,
+        "text": "(Bu) Allah'ın bir lutuf ve ni'metidir. Allah bilendir, hakimdir.",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4621,
+        "text": "Eğer inananlardan iki grup vuruşurlarsa onların arasını düzeltin; şayet biri ötekine saldırırsa Allah'ın buyruğuna dönünceye kadar saldıran tarafla vuruşun. (Allah'ın buyruğuna) Dönerse artık adaletle onların arasını düzeltin ve daima adil olun. Çünkü Allah, adalet yapanları sever.",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4622,
+        "text": "Muhakkak mü'minler kardeştirler. Kardeşlerinizin arasını düzeltin ve Allah'tan korkun ki size rahmet edilsin.",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4623,
+        "text": "Ey inananlar, bir topluluk, başka bir toplulukla alay etmesin. Belki (alay ettikleri kimseler), kendilerinden iyidirler. Kadınlar da başka kadınlarla alay etmesinler. Belki onlar, kendilerinden iyidirler. Birbirinizde kusur aramayın; birbirinizi kötü lakaplarla çağırmayın. İnandıktan sonra fısk adı, ne kötü bir şeydir! Kim tevbe etmezse, işte onlar, zalimdirler.",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4624,
+        "text": "Ey inananlar, zandan çok sakının. Zira zannın bir kısmı günahtır. Birbirinizin gizli şeylerini araştırmayın; biriniz diğerinizi arkasından çekiştirmesin. Biriniz, ölmüş kardeşinin etini yemeği sever mi? İşte bundan iğrendiniz. O halde Allah'tan korkun, şüphesiz Allah, tevbeyi çok kabul eden, çok esirgeyendir.",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4625,
+        "text": "Ey insanlar, biz sizi bir erkek ve bir kadından yarattık ve birbirinizi tanımanız için sizi milletlere ve kabilelere ayırdık. Allah yanında en üstün olanınız, (günahlardan) en çok korunanınızdır. Allah bilendir, haber alandır.",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4626,
+        "text": "Göçebe Araplar: \"İnandık\" dediler. De ki: \"İnanmadınız, fakat 'İslam olduk' deyin. Henüz iman kalblerinize girmedi. Eğer Allah'a ve Elçisine ita'at ederseniz (Allah), yaptığınız güzel işlerden hiçbirinin sevabını size eksik vermez. Allah çok bağışlayan, çok esirgeyendir.\"",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4627,
+        "text": "Mü'minler onlardır ki Allah'a ve Elçisine inandılar, sonra şüphe etmediler; Allah yolunda mallarıyle, canlarıyle cihadettiler. İşte (iman sözlerinde) doğru olanlar onlardır.",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4628,
+        "text": "De ki: \"Siz mi Allah'a din(darlığ)ınızı öğreteceksiniz? Allah, göklerde ve yerde olanları bilir. Allah, her şeyi bilendir.\"",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4629,
+        "text": "İslam olmalarını senin başına kakıyorlar. De ki: \"Müslüman olmanızı benim başıma kakmayın. Tersine, eğer gerçekten inanmışsanız, sizi imana ilettiği için Allah, sizin başınıza kaksa yeridir.\"",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4630,
+        "text": "Şüphesiz Allah, göklerin ve yerin gizlisini bilir. Allah yaptıklarınızı görmektedir.",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.ates",
+      "language": "tr",
+      "name": "Süleyman Ateş",
+      "englishName": "Suleyman Ates",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
