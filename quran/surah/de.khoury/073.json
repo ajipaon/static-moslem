@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "Der du dich eingehüllt hast,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Steh auf (zum Gebet) die ganze Nacht, bis auf einen kleinen Teil,",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "Die halbe Nacht, oder verringere sie um einen kleinen Teil,",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "Oder füge etwas hinzu. Und trage den Koran Abschnitt für Abschnitt vor.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Wir werden dir Worte auferlegen, die schwer zu tragen sind.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "Das Aufstehen in der Nacht hinterläßt einen stärkeren Eindruck und läßt eher die rechten Worte finden.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "Du wirst am Tag lange beansprucht.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Und so gedenke des Namens deines Herrn und widme dich Ihm allein.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "(Er ist) der Herr des Ostens und des Westens. Es gibt keinen Gott außer Ihm. So nimm Ihn dir zum Sachwalter.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Und ertrage mit Geduld, was sie sagen. Und entferne dich auf schöne Weise von ihnen.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "Laß Mich in Ruhe mit denen, die (die Botschaft) für Lüge erklären und die ein angenehmes Leben haben. Und gewähre ihnen noch eine kurze Frist.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "Bei Uns stehen schwere Fesseln und eine Hölle bereit,",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "Und auch eine Speise, die im Hals steckenbleibt, und eine schmerzhafte Pein,",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "Am Tag, da die Erde und die Berge beben und die Berge (wie) ein zerrinnender Sandhaufen sein werden.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Wir haben zu euch einen Gesandten als Zeugen über euch geschickt, so wie Wir zu Pharao einen Gesandten geschickt haben.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Pharao war aber ungehorsam gegen den Gesandten. Da ergriffen Wir ihn mit einem harten Griff.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Wie wollt ihr, wenn ihr ungläubig seid, euch vor einem Tag hüten, der die Kinder zu Greisen werden läßt?",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "Der Himmel wird sich an ihm spalten. Seine Drohung wird ausgeführt.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Dies ist nur eine Erinnerung. Wer nun will, schlägt einen Weg zu seinem Herrn ein.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Dein Herr weiß, daß du (zum Gebet) aufstehst beinahe zwei Drittel der Nacht oder die Hälfte oder ein Drittel davon, und ebenso eine Gruppe von denen, die mit dir sind. Und Gott bestimmt das Maß der Nacht und des Tages. Er weiß, daß ihr es nicht (selbst) würdet erfassen können. Da wandte Er sich euch zu. So verlest aus dem Koran, was leicht (zu bewältigen) ist. Er weiß, daß es unter euch Kranke geben würde, und andere, die im Land umherwandern im Streben nach der Huld Gottes, und (wieder) andere, die auf dem Weg Gottes kämpfen. Verlest also daraus, was leicht (zu bewältigen) ist, und verrichtet das Gebet und entrichtet die Abgabe und leiht Gott ein schönes Darlehen. Und was ihr für euch selbst an Gutem vorausschickt, das werdet ihr bei Gott vorfinden als noch besser und großartiger belohnt. Und bittet Gott um Vergebung. Gott ist ja voller Vergebung und barmherzig.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.khoury",
+      "language": "de",
+      "name": "Khoury",
+      "englishName": "Adel Theodor Khoury",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

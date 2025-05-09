@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Sprich: Mir ist offenbart worden, daß eine Schar Djinn zuhörte. Sie sagten: «Wir haben einen erstaunlichen Koran gehört,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "Der zum rechten Wandel leitet. So haben wir an ihn geglaubt. Und wir werden unserem Herrn niemanden beigesellen.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Und erhaben ist die Majestät unseres Herrn. Er hat sich weder eine Gefährtin noch ein Kind genommen.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "Und der Tor unter uns pflegte gegen Gott etwas Abwegiges zu sagen.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "Und wir meinten, daß weder die Menschen noch die Djinn gegen Gott eine Lüge sagen würden.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "Und einige Männer unter den Menschen suchten Zuflucht bei einigen Männern unter den Djinn und mehrten somit bei ihnen ihre Gewalttätigkeit.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "Und sie meinten, wie ihr ja meint, daß Gott niemanden auferwecken würde.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "Und wir haben den Himmel abgesucht und festgestellt, daß er mit starken Wächtern und Sternschnuppen voll ist.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "Und wir pflegten uns an verschiedenen Stellen von ihm zu setzen, um zu lauschen. Wer aber jetzt horcht, der findet, daß eine Sternschnuppe auf ihn lauert.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Und wir wissen nicht, ob für die Bewohner der Erde Böses vorgesehen ist, oder ob ihr Herr vorhat, sie zum rechten Wandel zu führen.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Und unter uns gibt es Rechtschaffene; und unter uns gibt es solche, die es nicht sind. Wir folgten getrennten Wegen.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Und wir meinen, daß wir auf der Erde Gottes Willen nicht vereiteln können, und daß wir ihn nicht durch Flucht vereiteln können.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Und als wir die Rechtleitung hörten, glaubten wir an sie. Wer an seinen Herrn glaubt, der befürchtet keinen Lohnabzug und keine Gewaltanwendung.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Und unter uns gibt es solche, die gottergeben sind; und unter uns gibt es solche, die dem Falschen zuneigen. Diejenigen nun, die gottergeben sind, bemühen sich um den rechten Wandel.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Diejenigen aber, die dem Falschen zuneigen, werden Brennholz für die Hölle sein.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Und würden sie den rechten Weg einschlagen, würden Wir ihnen reichlich Wasser zu trinken geben,",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "Um sie dadurch der Versuchung auszusetzen. Und wer sich von der Ermahnung seines Herrn abwendet, den wird Er in eine überwältigende Pein eingehen lassen.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Und die Anbetungsstätten gehören Gott; so ruft neben Gott niemanden an.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Und als der Diener Gottes aufstand, um Ihn anzurufen, hätten sie ihn im Gedränge fast erdrückt.»",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Sprich: Ich rufe meinen Herrn an, und ich geselle Ihm niemanden bei.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Sprich: Ich verfüge für euch weder über Schaden noch über die rechte Unterweisung.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Sprich: Niemand kann mich gegen Gott schützen, und ich kann außer bei Ihm keinen Ort finden, wohin ich mich begeben könnte.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "Ich habe nur etwas auszurichten von Gott und seinen Botschaften. Und für diejenigen, die gegen Gott und seinen Gesandten ungehorsam sind, ist das Feuer der Hölle bestimmt; darin werden sie auf immer ewig weilen.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Wenn sie dann sehen, was ihnen angedroht ist, werden sie wissen, wer die schwächeren Helfer und die geringere Zahl hat.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Sprich: Ich weiß nicht, ob das, was euch angedroht ist, nahe ist, oder ob mein Herr ihm noch eine Frist setzt,",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "(Er), der über das Unsichtbare Bescheid weiß und niemandem über das, was bei Ihm verborgen ist, Auskunft gibt,",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "Außer dem Gesandten, der Ihm genehm ist; dann läßt Er vor ihm und hinter ihm Wächter gehen, die ihn belauern,",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "Um festzustellen, ob sie die Botschaften ihres Herrn ausgerichtet haben. Er umfaßt, was bei ihnen ist, und Er erfaßt die Zahl aller Dinge.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "de.khoury",
+      "language": "de",
+      "name": "Khoury",
+      "englishName": "Adel Theodor Khoury",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
