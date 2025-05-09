@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "NO ES [concebible] que quienes se empeñan en negar la verdad –[ya sean] de los seguidores de una revelación anterior o de quienes atribuyen divinidad a algo junto con Dios --sean abandonados jamás [por Él] antes de que les haya llegado la evidencia [concluyente] de la verdad:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "un enviado de Dios, que [les] transmita revelaciones puras,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "en las que hay ordenanzas de probada solidez y claridad.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Pero aquellos a quienes se dio la revelación con anterioridad rompieron su unidad [en la fe] después de haberles llegado esa evidencia de la verdad.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Y sin embargo, no se les ordenó sino que adoraran a Dios, sinceros en su fe en Él solo, apartándose de todo lo falso; y que fueran constantes en la oración, y gastaran en limosnas: pues esta es una ley moral de probada solidez y claridad.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "En verdad, los que [contra toda evidencia] se empeñan en negar la verdad --[ya sean] de los seguidores de una revelación anterior o de los que atribuyen divinidad a algo junto con Dios—estarán en el fuego del infierno, en donde morarán: ésos son lo peor de todas las criaturas.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "[Y,] en verdad, los que han llegado a creer y hacen buenas obras—ésos, precisamente, son lo mejor de todas las criaturas.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Su recompensa [les aguarda] junto a su Sustentador: jardines de felicidad perpetua por los que corren arroyos, en los que morarán más allá del cómputo del tiempo; Dios está complacido con ellos, y ellos están complacidos de Él: ¡todo esto aguarda a quien teme a su Sustentador!",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "es.asad",
+      "language": "es",
+      "name": "Asad",
+      "englishName": "Muhammad Asad - Abdurrasak Pérez",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
