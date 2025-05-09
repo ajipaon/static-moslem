@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "بسم الله الرحمن الرحيم يسبح لله ما في السماوات وما في الأرض الملك القدوس العزيز الحكيم",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "هو الذي بعث في الأميين رسولا منهم يتلو عليهم آياته ويزكيهم ويعلمهم الكتاب والحكمة وإن كانوا من قبل لفي ضلال مبين",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "وآخرين منهم لما يلحقوا بهم ۚ وهو العزيز الحكيم",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "ذلك فضل الله يؤتيه من يشاء ۚ والله ذو الفضل العظيم",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "مثل الذين حملوا التوراة ثم لم يحملوها كمثل الحمار يحمل أسفارا ۚ بئس مثل القوم الذين كذبوا بآيات الله ۚ والله لا يهدي القوم الظالمين",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "قل يا أيها الذين هادوا إن زعمتم أنكم أولياء لله من دون الناس فتمنوا الموت إن كنتم صادقين",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "ولا يتمنونه أبدا بما قدمت أيديهم ۚ والله عليم بالظالمين",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "قل إن الموت الذي تفرون منه فإنه ملاقيكم ۖ ثم تردون إلى عالم الغيب والشهادة فينبئكم بما كنتم تعملون",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "يا أيها الذين آمنوا إذا نودي للصلاة من يوم الجمعة فاسعوا إلى ذكر الله وذروا البيع ۚ ذلكم خير لكم إن كنتم تعلمون",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "فإذا قضيت الصلاة فانتشروا في الأرض وابتغوا من فضل الله واذكروا الله كثيرا لعلكم تفلحون",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "وإذا رأوا تجارة أو لهوا انفضوا إليها وتركوك قائما ۚ قل ما عند الله خير من اللهو ومن التجارة ۚ والله خير الرازقين",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-simple-clean",
+      "language": "ar",
+      "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-clean)",
+      "englishName": "Simple Clean",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

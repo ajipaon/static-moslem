@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 64,
+    "name": "سُورَةُ التَّغَابُنِ",
+    "englishName": "At-Taghaabun",
+    "englishNameTranslation": "Mutual Disillusion",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 18,
+    "ayahs": [
+      {
+        "number": 5200,
+        "text": "بسم الله الرحمن الرحيم يسبح لله ما في السماوات وما في الأرض ۖ له الملك وله الحمد ۖ وهو على كل شيء قدير",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5201,
+        "text": "هو الذي خلقكم فمنكم كافر ومنكم مؤمن ۚ والله بما تعملون بصير",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5202,
+        "text": "خلق السماوات والأرض بالحق وصوركم فأحسن صوركم ۖ وإليه المصير",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5203,
+        "text": "يعلم ما في السماوات والأرض ويعلم ما تسرون وما تعلنون ۚ والله عليم بذات الصدور",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5204,
+        "text": "ألم يأتكم نبأ الذين كفروا من قبل فذاقوا وبال أمرهم ولهم عذاب أليم",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5205,
+        "text": "ذلك بأنه كانت تأتيهم رسلهم بالبينات فقالوا أبشر يهدوننا فكفروا وتولوا ۚ واستغنى الله ۚ والله غني حميد",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5206,
+        "text": "زعم الذين كفروا أن لن يبعثوا ۚ قل بلى وربي لتبعثن ثم لتنبؤن بما عملتم ۚ وذلك على الله يسير",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5207,
+        "text": "فآمنوا بالله ورسوله والنور الذي أنزلنا ۚ والله بما تعملون خبير",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5208,
+        "text": "يوم يجمعكم ليوم الجمع ۖ ذلك يوم التغابن ۗ ومن يؤمن بالله ويعمل صالحا يكفر عنه سيئاته ويدخله جنات تجري من تحتها الأنهار خالدين فيها أبدا ۚ ذلك الفوز العظيم",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 556,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5209,
+        "text": "والذين كفروا وكذبوا بآياتنا أولئك أصحاب النار خالدين فيها ۖ وبئس المصير",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 490,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5210,
+        "text": "ما أصاب من مصيبة إلا بإذن الله ۗ ومن يؤمن بالله يهد قلبه ۚ والله بكل شيء عليم",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5211,
+        "text": "وأطيعوا الله وأطيعوا الرسول ۚ فإن توليتم فإنما على رسولنا البلاغ المبين",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5212,
+        "text": "الله لا إله إلا هو ۚ وعلى الله فليتوكل المؤمنون",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5213,
+        "text": "يا أيها الذين آمنوا إن من أزواجكم وأولادكم عدوا لكم فاحذروهم ۚ وإن تعفوا وتصفحوا وتغفروا فإن الله غفور رحيم",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5214,
+        "text": "إنما أموالكم وأولادكم فتنة ۚ والله عنده أجر عظيم",
+        "numberInSurah": 15,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5215,
+        "text": "فاتقوا الله ما استطعتم واسمعوا وأطيعوا وأنفقوا خيرا لأنفسكم ۗ ومن يوق شح نفسه فأولئك هم المفلحون",
+        "numberInSurah": 16,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5216,
+        "text": "إن تقرضوا الله قرضا حسنا يضاعفه لكم ويغفر لكم ۚ والله شكور حليم",
+        "numberInSurah": 17,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5217,
+        "text": "عالم الغيب والشهادة العزيز الحكيم",
+        "numberInSurah": 18,
+        "juz": 28,
+        "manzil": 7,
+        "page": 557,
+        "ruku": 491,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-simple-clean",
+      "language": "ar",
+      "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-clean)",
+      "englishName": "Simple Clean",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

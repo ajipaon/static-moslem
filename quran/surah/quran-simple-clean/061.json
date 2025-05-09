@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "بسم الله الرحمن الرحيم سبح لله ما في السماوات وما في الأرض ۖ وهو العزيز الحكيم",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "يا أيها الذين آمنوا لم تقولون ما لا تفعلون",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "كبر مقتا عند الله أن تقولوا ما لا تفعلون",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "إن الله يحب الذين يقاتلون في سبيله صفا كأنهم بنيان مرصوص",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "وإذ قال موسى لقومه يا قوم لم تؤذونني وقد تعلمون أني رسول الله إليكم ۖ فلما زاغوا أزاغ الله قلوبهم ۚ والله لا يهدي القوم الفاسقين",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "وإذ قال عيسى ابن مريم يا بني إسرائيل إني رسول الله إليكم مصدقا لما بين يدي من التوراة ومبشرا برسول يأتي من بعدي اسمه أحمد ۖ فلما جاءهم بالبينات قالوا هذا سحر مبين",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "ومن أظلم ممن افترى على الله الكذب وهو يدعى إلى الإسلام ۚ والله لا يهدي القوم الظالمين",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "يريدون ليطفئوا نور الله بأفواههم والله متم نوره ولو كره الكافرون",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "هو الذي أرسل رسوله بالهدى ودين الحق ليظهره على الدين كله ولو كره المشركون",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "تؤمنون بالله ورسوله وتجاهدون في سبيل الله بأموالكم وأنفسكم ۚ ذلكم خير لكم إن كنتم تعلمون",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "يغفر لكم ذنوبكم ويدخلكم جنات تجري من تحتها الأنهار ومساكن طيبة في جنات عدن ۚ ذلك الفوز العظيم",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "وأخرى تحبونها ۖ نصر من الله وفتح قريب ۗ وبشر المؤمنين",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "يا أيها الذين آمنوا كونوا أنصار الله كما قال عيسى ابن مريم للحواريين من أنصاري إلى الله ۖ قال الحواريون نحن أنصار الله ۖ فآمنت طائفة من بني إسرائيل وكفرت طائفة ۖ فأيدنا الذين آمنوا على عدوهم فأصبحوا ظاهرين",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-simple-clean",
+      "language": "ar",
+      "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-clean)",
+      "englishName": "Simple Clean",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
