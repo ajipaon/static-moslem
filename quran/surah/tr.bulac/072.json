@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "De ki: \"Bana gerçekten şu vahyolundu: Cinlerden bir grup dinleyip de şöyle demişler: -Doğrusu biz, (büyük) hayranlık uyandıran bir Kur'an dinledik\"",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "\"O (Kur'an), 'gerçeğe ve doğruya' yöneltip-iletiyor. Bu yüzden ona iman ettik. Bundan böyle Rabbimiz'e hiç kimseyi ortak koşmayacağız.\"",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Elbette, Rabbimiz'in şanı Yücedir. O, ne bir eş edinmiştir, ne de bir çocuk.\"",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "\"Doğrusu şu: Bizim beyinsizlerimiz, Allah'a karşı 'bir sürü saçma şeyler' söylemişler.\"",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "\"Oysa biz, insanların ve cinlerin Allah'a karşı asla yalan söylemeyeceklerini sanmıştık.\"",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "\"Bir de şu gerçek var: İnsanlardan bazı adamlar, cinlerden bazı adamlara sığınırlardı. Öyle ki, onların azgınlıklarını arttırırlardı.\"",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "\"Ve onlar, sizin de sandığınız gibi Allah'ın hiç kimseyi kesin olarak diriltmeyeceğini sanmışlardı.\"",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "\"Doğrusu biz göğü yokladık; fakat onu güçlü koruyucular ve şihablarla kaplı (doldurulmuş) bulduk.\"",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "\"Oysa gerçekte biz, dinlemek için onun oturma yerlerinde otururduk. Ama şimdi kim dinleyecek olsa, (hemen) kendisini izleyen bir şihab bulur.\"",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "\"Doğrusu bilmiyoruz; yeryüzünde olanlara bir kötülük mü istendi, yoksa Rableri kendileri için (doğruya iletici) bir hayır mı diledi?\"",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "\"Gerçek şu ki, bizden salih olanlar vardır ve bunun dışında (ya da aşağısında) olanlar da. Biz türlü türlü yolların fırkaları olmuşuz.\"",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "\"Biz şüphesiz, Allah'ı yeryüzünde asla aciz bırakamıyacağımızı, kaçmak suretiyle de O’nu hiçbir şekilde aciz bırakamıyacağımızı anladık.\"",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "\"Elbette biz, o yol gösterici (Kur'an'ı) işitince, ona iman ettik. Artık kim Rabbine iman ederse, o ne (ecrinin) eksileceğinden korkar ve ne de haksızlığa uğrayacağından.\"",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "\"Ve elbette bizden Müslüman olanlar da var, zulmedenler de. İşte (Allah'a) teslim olanlar, artık onlar 'gerçeği ve doğruyu' araştırıp-bulanlardır.\"",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Zulmedenler ise, onlar da cehennem için odun olmuşlardır.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Eğer onlar (insanlar ve cinler), yol üzerinde 'dosdoğru bir istikamet tuttursalardı', mutlaka Biz onlara bol miktarda su içirir (tükenmez bir rızık ve nimet verir)dik.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "Ki, kendilerini bununla denemek için. Kim Rabbinin zikrinden yüz çevirirse, (Allah), onu 'gittikçe şiddeti artan' bir azaba sürükler.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Şüphesiz mescidler, (yalnızca) Allah'a aittir. Öyleyse, Allah ile beraber başka hiçbir şeye (ve kimseye) kulluk etmeyin (dua etmeyin, tapmayın).",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Şu bir gerçek ki, Allah'ın kulu (olan Muhammed,) O'na dua (ibadet ve kulluk) için kalktığında, onlar (müşrikler,) neredeyse çevresinde keçeleşeceklerdi.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "De ki: \"Ben gerçekten, yalnızca Rabbime dua ediyorum ve O'na hiç kimseyi (ve hiçbir şeyi) ortak koşmuyorum.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "De ki: \"Doğrusu ben, sizin için ne bir zarar, ne de bir yarar (irşad) sağlayabilirim.\"",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "De ki: \"Muhakkak beni Allah'tan (gelebilecek bir azaba karşı) hiç kimse asla kurtaramaz ve O'nun dışında asla bir sığınak da bulamam.\"",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "\"(Benim görevim,) Yalnızca Allah'tan olanı ve O'nun gönderdiklerini tebliğ etmektir. Kim Allah'a ve O'nun elçisine isyan ederse, içinde ebedi kalıcılar olmak üzere onun için cehennem ateşi vardır.\"",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Sonunda onlar, kendilerine vadedileni gördükleri zaman, yardımcı olmak bakımından kim daha zayıfmış ve sayı bakımından kim daha azmış artık öğrenmiş olacaklardır.\"",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "De ki: \"Bilmiyorum, size vadedilen (kıyamet ve azap) yakın mı, yoksa Rabbim onun için uzun bir süre mi koymuştur?\"",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "O, gaybı bilendir. Kendi gaybını (görülmez bilgi hazinesini) kimseye açık tutmaz (ona muttali kılmaz.)",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "Ancak elçileri (peygamberleri) içinde razı olduğu (seçtikleri kimseler) başka. Çünkü O, bunun önüne ve arkasına izleyici (gözetleyici)ler dizer.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "Öyle ki onların, Rablerinden gelen risaleti (insanlara gönderilenleri) tebliğ ettiklerini bilsin. (Allah,) onların nezdinde olanları sarıp-kuşatmış ve herşeyi sayı olarak da sayıp-tespit etmiştir.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "name": "Alİ Bulaç",
+      "englishName": "Alİ Bulaç",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

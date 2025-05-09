@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "سُورَةُ الطَّلَاقِ",
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5218,
+        "text": "Ey Peygamber! Kadınları boşayacağınızda, onları, iddetlerini gözeterek boşayın ve iddeti sayın; Rabbiniz olan Allah'tan sakının; onları, apaçık bir hayasızlık yapmaları hali bir yana evlerinden çıkarmayın, onlar da çıkmasınlar. Bunlar, Allah'ın sınırlarıdır. Allah'ın sınırlarını kim aşarsa, şüphesiz, kendine yazık etmiş olur. Bilmezsin, olur ki, Allah bunun ardından bir hal meydana getirir.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5219,
+        "text": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe inanan kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5220,
+        "text": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe inanan kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5221,
+        "text": "Kadınlarınızdan ay hali görmekten kesilenler ile henüz ay hali görmemiş olanların iddetleri hususunda şüpheye düşerseniz, bilin ki, onların iddet beklemesi üç aydır; gebe olanların iddeti, doğurmaları ile tamamlanır. Allah, buyruğuna karşı gelmekten sakınan kimseye işinde kolaylık verir.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5222,
+        "text": "Bu, Allah'ın size indirmiş olduğu buyruğudur. Kim Allah'ın buyruğuna karşı gelmekten sakınırsa, O, onun kötülüklerini örter, ecrini büyültür.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5223,
+        "text": "Boşadığınız, fakat iddeti dolmamış kadınları gücünüz nispetinde, kendi oturduğunuz yerde oturtun. Onları sıkıntıya sokmak için zarar vermeye kalkışmayın. Eğer hamile iseler, doğurmalarına kadar nafakalarını verin. Çocuğu sizin için emzirirlerse, onlara ücretlerini ödeyin; aranızda uygun bir şekilde anlaşın; eğer güçlükle karşılaşırsanız çocuğu başka bir kadın emzirebilir.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5224,
+        "text": "Varlıklı olan kimse, nafakayı varlığına göre versin; rızkı ancak kendisine yetecek kadar verilmiş olan kimse, Allah'ın kendisine verdiğinden versin; Allah kimseye, verdiği rızkı aşan bir yük yüklemez. Allah, güçlükten sonra kolaylık verir.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5225,
+        "text": "Rablerinin ve O'nun peygamberlerinin buyruğundan çıkan nice kasabalar halkını Biz, çetin bir hesaba çekmiş, onları, görülmedik bir azaba uğratmışızdır.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5226,
+        "text": "Onlar, işlerinin karşılığını tattılar; işlerinin sonu hüsran oldu.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5227,
+        "text": "Allah onlara çetin bir azap hazırlamıştır. Ey inanmış olan akıl sahipleri! Allah'tan sakının; Allah size Kuran'ı indirmiştir.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5228,
+        "text": "İnanıp yararlı işler işleyenleri karanlıklardan aydınlığa çıkarmak üzere, size Allah'ın apaçık ayetlerini okuyan bir Peygamber göndermiştir. Kim Allah'a inanır ve yararlı iş işlerse, Allah onu, içinde temelli ve sonsuz kalınacak, içlerinden ırmaklarakan cennetlere koyar. Allah ona gerçekten güzel rızık vermiştir.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5229,
+        "text": "Yedi göğü ve yerden de bir o kadarını yaratan Allah'tır, Allah'ın herşeye Kadir olduğunu ve Allah'ın ilminin herşeyi kuşattığını bilmeniz için Allah'ın buyruğu bunlar arasında iner durur.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.diyanet",
+      "language": "tr",
+      "name": "Diyanet İşleri",
+      "englishName": "Diyanet Isleri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

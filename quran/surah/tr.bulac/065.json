@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "سُورَةُ الطَّلَاقِ",
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5218,
+        "text": "Ey Peygamber, kadınları boşadığınız zaman, iddetleri süresinde (temizlendiklerinde) boşayın ve iddeti sayın. Rabbiniz Allah'tan korkun. Onları evlerinden çıkarmayın, onlar da çıkmasınlar; ancak açık 'çirkin bir hayasızlık' göstermeleri durumu başka. Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını çiğnerse, gerçekte o, kendi nefsine zulmetmiş olur. Sen bilmezsin; olabilir ki Allah, bunun arkasından bir iş (durum) oluşturur.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5219,
+        "text": "Sonra (üç iddet bekleme) sürelerine ulaştıkları zaman, artık onları maruf (bilinen güzel bir tarz) üzere tutun, ya da maruf üzere onlardan ayrılın. İçinizden adalet sahibi iki kişiyi de şahid tutun. Şahidliği Allah için dosdoğru yerine getirin. İşte bununla, Allah'a ve ahiret gününe iman edenlere öğüt verilir. Kim Allah'tan korkup-sakınırsa, (Allah) ona bir çıkış yolu gösterir;",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5220,
+        "text": "Ve onu hesaba katmadığı bir yönden rızıklandırır. Kim de Allah'a tevekkül ederse, O, ona yeter. Elbette Allah, Kendi emrini yerine getirip-gerçekleştirendir. Allah, herşey için bir ölçü kılmıştır.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5221,
+        "text": "Kadınlarınızdan artık adetten kesilmiş olanlarla henüz adet görmemiş bulunanların iddet (bekleme süre)leri, -eğer şüpheye düşecek olursanız (bilin ki)- üç aydır. Hamile kadınların bekleme-süresi ise, yüklerini bırakmaları (ile biter). Kim Allah'tan korkup-sakınırsa (Allah) ona işinde bir kolaylık gösterir.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5222,
+        "text": "Bu, Allah'ın size indirdiği emridir. Kim Allah'tan korkup-sakınırsa, Allah, kötülüklerini örter ve onun ecrini büyütür.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5223,
+        "text": "(Boşadığınız) Kadınları, gücünüz oranında oturmakta olduğunuz yerin bir yanında oturtun, onlara 'darlık ve sıkıntıya düşürmek amacıyla' zarar vermeyin. Eğer onlar hamile iseler, yüklerini bırakıncaya (doğumlarını yapıncaya) kadar onlara nafaka verin. Şayet sizler için (çocuğu) emzirirlerse, onlara ücretlerini ödeyin. (Durum ve ilişkilerinizi) Kendi aranızda maruf (güzellikle ve İslam'a uygun bir tarz) üzere görüşüp-konuşun. Eğer güçlük içine girerseniz, bu durumda (çocuğu) onun (babası) için bir başkası emzirebilir.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5224,
+        "text": "Geniş-imkanları olan, nafakayı geniş imkanlarına göre versin. Rızkı kısıtlı tutulan da, artık Allah'ın kendisine verdiği kadarıyla versin. Allah, hiçbir nefse ona verdiğinden başkasıyla yükümlülük koymaz. Allah, bir güçlüğün ardından bir kolaylığı kılıp-verecektir.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5225,
+        "text": "Ülkelerden niceleri vardır ki, Rablerinin ve O'nun elçilerinin emrine karşı gelip azmışlar, böylece Biz de onları çetin bir hesaba çekmişiz ve onları benzeri görülmedik bir azapla azaplandırmışız.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5226,
+        "text": "Artık o (ülkelerin halkı), yaptığı kötülüğü taddı ve işinin sonucu bir hüsran oldu.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5227,
+        "text": "Allah, onlar için şiddetli bir azap hazırlamıştır; öyleyse ey iman eden temiz akıl sahipleri, Allah'tan korkun. Doğrusu Allah, size bir zikir (uyaran, hatırlatan ve öğüt veren Kur'an) indirmiştir.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5228,
+        "text": "İman edip salih amellerde bulunanları karanlıklardan nura çıkarması için Allah'ın apaçık ayetlerini size okuyan bir elçi de (gönderdik). Kim iman edip salih bir amelde bulunursa, (Allah) onu içinde süresiz kalıcılar olmak üzere altından ırmaklar akan cennetlere sokar. Allah, gerçekten ona ne güzel bir rızık vermiştir.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5229,
+        "text": "Allah, yedi göğü ve yerden de onların benzerini yarattı. Emir, bunların arasında durmadan iner; sizin gerçekten Allah'ın herşeye güç yetirdiğini ve gerçekten Allah'ın ilmiyle herşeyi kuşattığını bilmeniz, öğrenmeniz için.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "name": "Alİ Bulaç",
+      "englishName": "Alİ Bulaç",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

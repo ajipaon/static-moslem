@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Göklerde olanlar ve yerde bulunanlar, hükümran, çok kutsal, güçlü ve Hakim olan Allah'ı tesbih ederler.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir Peygamber gönderen O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "Onlardan başkalarına da -ki henüz onlara katılmamışlardır- Kitap ve hikmeti öğretmek üzere, Peygamberi gönderen Allah'tır. O, güçlüdür, Hakim'dir.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Kendilerine Tevrat öğretildiği halde, onun gereğini yapmayanların durumu, sırtına kitap yüklenmiş merkebin durumu gibidir. Allah'ın ayetlerini yalanlayan kimselerin durumu ne kötüdür! Allah zalimleri doğru yola eriştirmez.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "De ki: \"Ey Yahudiler! Bütün insanlar bir yana, yalnız kendinizin Allah'ın dostları olduğunuzu iddia ediyorsanız ve bunda samimi iseniz, ölümü dilesenize!\"",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Yaptıklarından ötürü, ölümü asla dileyemezler. Allah, zalimleri bilendir.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "De ki: \"Doğrusu kendisinden kaçtığınız ölüm mutlaka karşınıza çıkacaktır; sonra; görüleni de görülmeyeni de bilen Allah'a döndürüleceksiniz, O size işlediklerinizi haber verecektir.\"",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "Ey inananlar! Cuma günü namaz için ezan okunduğu zaman Allah'ı anmaya koşun; alım satımı bırakın; bilseniz, bu sizin için daha iyidir.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Namaz bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Onlar bir kazanç veya bir eğlence gördüklerinde, seni ayakta bırakarak oraya yöneldiler. De ki: \"Allah katında olan, eğlenceden de kazançtan da hayırlıdır. Allah, rızık verenlerin en iyisidir.\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.diyanet",
+      "language": "tr",
+      "name": "Diyanet İşleri",
+      "englishName": "Diyanet Isleri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

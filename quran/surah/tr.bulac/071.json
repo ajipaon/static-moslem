@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Şüphesiz, Biz Nuh'u; \"Kavmini, onlara acı bir azap gelmeden evvel uyar\" diye kendi kavmine (peygamber olarak) gönderdik.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "O da dedi ki: \"Ey Kavmim, gerçek şu ki, ben size (gönderilmiş) apaçık bir uyarıcıyım.\"",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "\"Allah'a kulluk edin, O'ndan korkun ve bana itaat edin.\"",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "\"Ki günahlarınızı bağışlasın ve sizi adı konulmuş bir ecele kadar ertelesin. Elbette Allah'ın eceli geldiği zaman, o ertelenmez. Bir bilmiş olsaydınız.\"",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "Dedi ki: \"Rabbim, gerçekten kavmimi gece ve gündüz davet edip-durdum.\"",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "\"Fakat davet etmem, bir kaçıştan başkasını arttırmadı.\"",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "\"Doğrusu ben, onları bağışlaman için her davet edişimde, onlar parmaklarını kulaklarına tıkadılar, örtülerini başlarına çektiler ve büyüklük tasladıkça büyüklük gösterip-direttiler.'",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "\"Sonra onları açıktan açığa davet ettim.\"",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "\"Daha sonra (davamı) onlara açıkça ilan ettim ve kendilerine gizli gizli yollarla yanaşmak istedim.\"",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "\"Bundan böyle\" dedim. \"Rabbinizden mağfiret isteyin; çünkü gerçekten O, çok bağışlayandır.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "\"(Öyle yapın ki,) Üzerinize gökten sağanak (bol miktarda yağmur) yağdırsın.\"",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "\"Size mallar ve çocuklarla yardımda bulunsun. Size (ürün yüklü) bağlar-bahçeler versin, ırmaklar da versin.\"",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "\"Size ne oluyor ki, Allah'tan bir vakarı ummuyorsunuz?\"",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "\"Oysa O, sizi gerçekten tavır tavır yaratmıştır.\"",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "\"Görmüyor musunuz; Allah, yedi göğü birbirleriyle bir uyum (mutabakat) içinde yaratmıştır?\"",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "\"Ve ayı bunlar içinde bir nur kılmış, güneşi de (aydınlatıcı ve yakıcı) bir kandil yapmıştır.\"",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "\"Allah, sizi yerden bir bitki (gibi) bitirdi.\"",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "\"Sonra sizi yine oraya geri çevirecek ve sizi (diriltici) bir çıkarışla diriltip-çıkaracaktır.\"",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "\"Allah, yeri sizin için bir yaygı kıldı.\"",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "\"Öyle ki, onun içinde geniş yollarında gezip-dolaşırsınız, diye.\"",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Nuh: \"Rabbim, gerçekten onlar bana isyan ettiler; mal ve çocukları kendisine ziyandan başka bir şeyi artırmayan kimselere uydular.\"",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "\"Ve büyük büyük hileli-düzenler kurdular.\"",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "\"Ve dediler ki: Kendi ilahlarınızı bırakmayın; bırakmayın ne Vedd'i, ne Suva'ı, ne Yeğus'u, ne Ye'uk'u ve ne de Nesr'i.\"",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "\"Böylece onlar, çoğu kimseyi şaşırtıp-saptırdılar. Sen de o zalimlere sapıklıktan başkasını arttırma.\"",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Bunlar, hataları dolayısıyla suda boğuldular, sonra ateşe sokuldular. O zaman da Allah'ın dışında hiçbir yardımcı bulamadılar.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "Nuh \"Rabbim, yeryüzünde kafirlerden yurt edinen hiç kimseyi bırakma.\" dedi.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "\"Çünkü Sen onları bırakacak olursan, Senin kullarını şaşırtıp-saptırırlar ve onlar, kötülükten sınırı aşan (facir'den) kafirden başkasını doğurmazlar.\"",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "\"Rabbim, beni, annemi, babamı, mü'min olarak evime gireni, iman eden erkekleri ve iman eden kadınları bağışla. Zalimlere yıkımdan başkasını arttırma.\"",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "name": "Alİ Bulaç",
+      "englishName": "Alİ Bulaç",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "İkiyüzlüler sana gelince: \"Senin şüphesiz Allah'ın Peygamberi olduğuna şehadet ederiz\" derler. Allah, senin kendisinin peygamberi olduğunu bilir; bunun yanında Allah, ikiyüzlülerin yalancı olduklarını da bilir.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "Onlar, yeminlerini kalkan edinerek Allah'ın yolundan alıkoyarlar. İşledikleri işler gerçekten ne kötüdür!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "Bu, önce inanıp sonra inkar etmiş olmalarındandır. Bu yüzden kalbleri mühürlenmiştir; artık anlamazlar.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Onlara baktığın zaman cüsseleri hoşuna gider; konuşurlarsa sözlerini dinlersin; tıpkı, sıralanmış kof kütük gibidirler; her çığlığı kendi aleyhlerine sayarlar; onlar düşmandır, onlardan çekin; Allah canlarını alsın, nasıl da aldatılıp döndürülüyorlar.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "Onlara: \"Gelin de Allah'ın Peygamberi sizin için mağfiret dilesin\" dendiği zaman, başlarını çevirirler; büyüklük taslayarak yüz çevirdiklerini görürsün.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Onlar için, bağışlanma dilesen de dilemesen de birdir; Allah onları bağışlamayacaktır. Doğrusu Allah, yoldan çıkmış milleti doğru yola eriştirmez.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Bunlar: \"Allah'ın Peygamberinin yanında bulunanlara bir şey vermeyin de dağılıp gitsinler\" diyen kimselerdir. Oysa göklerin ve yerin hazineleri Allah'ındır, ama ikiyüzlüler bu gerçeği anlamazlar.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "\"Eğer bu savaşdan Medine'ye dönersek, şerefli kimseler alçakları and olsun ki, oradan çıkaracaktır\" diyorlardı. Oysa, şeref Allah'ın, Peygamberinin ve inananlarındır, ama ikiyüzlüler bu gerçeği bilmezler.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "Ey inananlar! Sizi, mallarınız ve çocuklarınız Allah'ı anmaktan alıkoymasın; böyle olanlar hüsrana uğrayanlardır.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Birine ölüm gelip de: \"Rabbim! Beni yakın bir süreye kadar ertelesen de, sadaka versem, iyilerden olsam\" diyeceği zaman gelmezden önce, size verdiğimiz rızıklardan sarfedin.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "Bir canın eceli gelip çatınca, Allah onu asla geri bırakmaz; Allah, işlediklerinizden haberdardır.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.diyanet",
+      "language": "tr",
+      "name": "Diyanet İşleri",
+      "englishName": "Diyanet Isleri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
