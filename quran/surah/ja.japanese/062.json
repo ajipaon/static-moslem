@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "天にあり地にある凡てのものは，アッラーを讃える。（かれは）至高の王者，神聖にして偉力ならびなく英明であられる。",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "かれこそは文盲の者の間に，かれらの中から使徒を遺わし，印を読み聞かせてかれらを清め，啓典と英知を教えられた方である。本当にかれらは，以前は明らかに邪道にあった。",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "まだ来ていない（預盲者以降の）人びとにも教えを授けられる。かれは偉力ならびなく英明であられる。",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "これがアッラーの恩恵である。かれの御心に適う者にこれを与える。アッラーは偉大な恩恵の主であられる。",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "律法（守護）の責任を負わされて，その後それを果たさない者を譬えれば，書物を運ぶロバのようなものである。アッラーの印を嘘であるとする者も同様で，哀れむべきである。本当にアッラーは悪い行いの者を御導きになられない。",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "言ってやるがいい。「ユダヤ教を信奉する者よ，あなたがたがもし外の人びと以上に，アッラーの御気に入りであると言いはり，それがあくまでも真実であると確心するならば（天国に入れるはずだから今すぐ）死を請い願いなさい。」",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "だがかれらは，その手で今まで犯した（行いの）ため，決して死を請い願わないであろう。本当にアッラーは不義を行う者を熟知なされる。",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "言ってやるがいい。「あなたがたが逃れようとする死は，必ずあなたがたを襲うのである。それから幽玄界と現象界を知っておられる御方に送り返され，かれはあなたがたに自分の所業を告げ知らせる。」",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "あなたがた信仰する者よ，合同礼拝の日の礼拝の呼びかけが唱えられたならば，アッラーを念じることに急ぎ，商売から離れなさい。もしあなたがたが分っているならば，それがあなたがたのために最も善い。",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "礼拝が終ったならば，あなたがたは方々に散り，アッラーの恩恵を求めて，アッラーを讃えて多く唱念しなさい。必ずあなたがたは栄えるであろう。",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "しかしかれらは，うまい儲けや遊びごとを見かけると，（礼拝のために）立ち上っているあなたを等閑にして，そちらに駆け出す始末。言ってやるがいい。「アッラーの御許（の恩恵）は，遊戯や取引よりも優る。アッラーは，最善の給与者であられる」。",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

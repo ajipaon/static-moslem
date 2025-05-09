@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O tu l'avvolto [nelle tue vesti],",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "veglia una parte della notte,",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "la metà, oppure meno,",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "oppure poco più. E recita il Corano lentamente, distintamente.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Faremo scendere su di te parole gravi.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "In verità la preghiera della notte è la più efficace e la più propizia:",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "durante il giorno hai occupazioni impegnative.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Menziona il Nome del tuo Signore e consacrati totalmente a Lui.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "Il Signore dell'Oriente e dell'Occidente: non c'è dio all'infuori di Lui. Prendi Lui come Protettore.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Sopporta con pazienza quello che dicono e allontanati dignitosamente.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "LasciaMi con coloro che tacciano di menzogna, che vivono nell'agiatezza e concedi loro un po' di tempo.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "Invero presso di Noi ci sono catene e la Fornace",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "e cibo che soffoca e doloroso castigo,",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "nel Giorno in cui la terra e le montagne tremeranno e in cui le montagne diventeranno come dune di sabbia fina.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "In verità inviammo a voi un Messaggero, affinché testimoniasse contro di voi, così come inviammo un Messaggero a Faraone.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Ma Faraone disobbedì al Messaggero.Lo afferrammo allora con stretta severa.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Come vi difenderete, voi che già non credeste nel Giorno che trasformerà i bambini in vecchi canuti",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "[nel Giorno in cui] si spaccherà il cielo? La promessa [di Allah] si realizzerà.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "In verità questo è un Monito. Chi vuole, intraprenda dunque la via che conduce al suo Signore.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "In verità il tuo Signore sa che stai ritto [in preghiera] per quasi due terzi della notte, o la metà, o un terzo e che lo stesso [fanno] una parte di coloro che sono con te. Allah ha stabilito la notte e il giorno. Egli già sapeva che non avreste potuto passare tutta la notte in preghiera ed è stato indulgente verso di voi. Recitate dunque, del Corano, quello che vi sarà agevole. Egli già sapeva che ci sarebbero stati tra voi i malati ed altri che avrebbero viaggiato sulla terra in cerca della grazia di Allah ed altri ancora che avrebbero lottato per la Sua causa. Recitatene dunque quello che vi sarà agevole. Assolvete all'orazione e versate la decima e fate ad Allah un prestito bello. Tutto il bene che avrete compiuto, lo ritroverete presso Allah, migliore e maggiore ricompensa. Implorate il perdono di Allah. In verità Allah è perdonatore, misericordioso.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "it.piccardo",
+      "language": "it",
+      "name": "Piccardo",
+      "englishName": "Hamza Roberto Piccardo",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

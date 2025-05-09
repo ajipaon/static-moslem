@@ -1,0 +1,302 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 84,
+    "name": "سُورَةُ الانشِقَاقِ",
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Splitting Open",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 25,
+    "ayahs": [
+      {
+        "number": 5885,
+        "text": "天が裂け割れて，",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5886,
+        "text": "その主（の命）を聞き，従う時，",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5887,
+        "text": "大地が延べ広げられ，",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5888,
+        "text": "その中のものを吐き出して空になり，",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5889,
+        "text": "その主（の御命令）を聞き，従う時。",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5890,
+        "text": "おお人間よ，本当にあなたは，主の御許へと労苦して努力する者。かれに会うことになるのである。",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5891,
+        "text": "その時右手にその書冊を渡される者に就いては，",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5892,
+        "text": "かれの計算は直ぐ容易に精算され，",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5893,
+        "text": "かれらは喜んで，自分の人々の許に帰るであろう。",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5894,
+        "text": "だが背後に書冊を渡される者に就いては，",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5895,
+        "text": "直に死を求めて叫ぶのだが，",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5896,
+        "text": "燃える炎で焼かれよう。",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5897,
+        "text": "本当にかれは，自分の人々の中で歓楽していた。",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5898,
+        "text": "かれは，本当に（主の許に）帰ることなどないであろうと思っていた。",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5899,
+        "text": "いや，主はいつもかれを見通しておられる。",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5900,
+        "text": "わたしは，落日の夕映えによって誓う。",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5901,
+        "text": "夜と，それに帰り集うものにおいて，",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5902,
+        "text": "また満ちたる月にかけて（誓う）。",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5903,
+        "text": "あなたがたは，必ず一層から他層に登るであろう。",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5904,
+        "text": "それでも，かれらが信じないのはどうした訳か。",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5905,
+        "text": "クルアーンが，かれらに読唱されると，かれらはサジダしようとはしない。〔サジダ〕",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": {
+          "id": 14,
+          "recommended": true,
+          "obligatory": false
+        }
+      },
+      {
+        "number": 5906,
+        "text": "いや，信じない者は，（それを）嘘であると言う。",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5907,
+        "text": "だがアッラーは，かれらの胸に隠すことを熟知なされる。",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5908,
+        "text": "それであなたは，痛烈な懲罰をかれらに伝えなさい。",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5909,
+        "text": "だが信仰して善行に勤しむ者は別である。かれらには絶えることのない報奨があろう。",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

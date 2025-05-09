@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "Quando vengono a te, gli ipocriti dicono: “Attestiamo che sei veramente il Messaggero di Allah”, ma Allah attesta che tu sei il Suo Messaggero e attesta Allah, che gli ipocriti sono bugiardi.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "Si fanno scudo dei loro giuramenti e hanno allontanato altri dalla via di Allah. Quant'è perverso quello che fanno!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "E questo perché prima credettero, poi divennero increduli. Sul loro cuore fu quindi posto un suggello, affinché non capissero.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Quando li vedi, sei ammirato dalla loro prestanza; se parlano, ascolti le loro parole. Sono come tronchi appoggiati. Credono che ogni grido sia contro di loro. Sono essi il nemico. Stai in guardia. Li annienti Allah! Quanto si sono traviati!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "E quando si dice loro: “Venite, il Messaggero di Allah implorerà il perdono per voi”, voltano la testa e li vedi allontanarsi pieni di superbia.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Per loro è la stessa cosa, che tu implori perdono per loro o che non lo implori: Allah non li perdonerà mai. In verità Allah non guida gli empi.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Essi sono coloro che dicono: “Non date nulla a coloro che seguono il Messaggero di Allah, affinché si disperdano”. Appartengono ad Allah i tesori dei cieli e della terra, ma gli ipocriti non lo capiscono.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "Dicono: “Se ritorniamo a Medina, il più potente scaccerà il più debole”. La potenza appartiene ad Allah, al Suo Messaggero e ai credenti, ma gli ipocriti non lo sanno.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "O credenti, non vi distraggano dal ricordo di Allah i vostri beni e i vostri figli. Quelli che faranno ciò saranno i perdenti.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Siate generosi di quello che Noi vi abbiamo concesso, prima che giunga a uno di voi la morte ed egli dica: “Signore, se Tu mi dessi una breve dilazione, farei l'elemosina e sarei fra i devoti”.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "Ma Allah non concede dilazioni a nessuno che sia giunto al termine. Allah è ben informato a proposito di quello che fate.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "it.piccardo",
+      "language": "it",
+      "name": "Piccardo",
+      "englishName": "Hamza Roberto Piccardo",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
