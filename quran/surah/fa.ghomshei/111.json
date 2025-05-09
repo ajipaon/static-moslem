@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "ابو لهب (که دایم در پی آزار و دشمنی پیغمبر بود با تمام اقتدار و دارایی) نابود شد و دو دستش (که سنگ به رسول می‌افکند) قطع گردید.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "مال و ثروتی که اندوخت هیچ به کارش نیامد و از هلاکش نرهانید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "زود باشد که به دوزخ در آتشی شعله‌ور در افتد.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "و نیز همسرش (امّ جمیل خواهر ابو سفیان) که هیزم آتش افروز دوزخ باشد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "در حالی که (با ذلت و خواری) طنابی از لیف خرما به گردن دارد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.ghomshei",
+      "language": "fa",
+      "name": "الهی قمشه‌ای",
+      "englishName": "Mahdi Elahi Ghomshei",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6205,
+        "text": "ما تو را کوثر (یعنی عطای بسیار چون کثرت فرزند) بخشیدیم.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6206,
+        "text": "پس تو هم برای خدایت به نماز (و طاعت) و قربانی (و مناسک حج) بپرداز.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6207,
+        "text": "که محققا دشمن بدگوی تو (عاص بن وائل) مقطوع النسل است (و نسل تو تا قیامت به کثرت و برکت و عزت باقی است).",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.ghomshei",
+      "language": "fa",
+      "name": "الهی قمشه‌ای",
+      "englishName": "Mahdi Elahi Ghomshei",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "بگو: به من وحی شده است که جمعی از جنّ به سخنانم گوش فراداده‌اند، سپس گفته‌اند: «ما قرآن عجیبی شنیده‌ایم...",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "که به راه راست هدایت می‌کند، پس ما به آن ایمان آورده‌ایم و هرگز کسی را شریک پروردگارمان قرارنمی‌دهیم!",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "و اینکه بلند است مقام باعظمت پروردگار ما، و او هرگز برای خود همسر و فرزندی انتخاب نکرده است!",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "و اینکه سفیه ما (ابلیس) درباره خداوند سخنان ناروا می‌گفت!",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "و اینکه ما گمان می‌کردیم که انس و جنّ هرگز بر خدا دروغ نمی‌بندند!",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "و اینکه مردانی از بشر به مردانی از جنّ پناه می‌بردند، و آنها سبب افزایش گمراهی و طغیانشان می‌شدند!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "و اینکه آنها گمان کردند -همان‌گونه که شما گمان می‌کردید- که خداوند هرگز کسی را (به نبوّت) مبعوث نمی‌کند!",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "و اینکه ما آسمان را جستجو کردیم و همه را پر از محافظان قوّی و تیرهای شهاب یافتیم!",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "و اینکه ما پیش از این به استراق سمع در آسمانها می‌نشستیم؛ امّا اکنون هر کس بخواهد استراق سمع کند، شهابی را در کمین خود می‌یابد!",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "و اینکه (با این اوضاع) ما نمی‌دانیم آیا اراده شرّی درباره اهل زمین شده یا پروردگارشان خواسته است آنان را هدایت کند؟!",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "و اینکه در میان ما، افرادی صالح و افرادی غیر صالحند؛ و ما گروه‌های متفاوتی هستیم!",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "و اینکه ما یقین داریم هرگز نمی‌توانیم بر اراده خداوند در زمین غالب شویم و نمی‌توانیم از (پنجه قدرت) او بگریزیم!",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "و اینکه ما هنگامی که هدایت قرآن را شنیدیم به آن ایمان آوردیم؛ و هر کس به پروردگارش ایمان بیاورد، نه از نقصان می‌ترسد و نه از ظلم!",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "و اینکه گروهی از ما مسلمان و گروهی ظالمند؛ هر کس اسلام را اختیار کند راه راست را برگزیده است،",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "و امّا ظالمان آتشگیره و هیزم دوزخند!",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "و اینکه اگر آنها [= جنّ و انس‌] در راه (ایمان) استقامت ورزند، با آب فراوان سیرابشان می‌کنیم!",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "هدف این است که ما آنها را با این نعمت فراوان بیازماییم؛ و هر کس از یاد پروردگارش روی گرداند، او را به عذاب شدید و فزاینده‌ای گرفتار می‌سازد!",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "و اینکه مساجد از آن خداست، پس هیچ کس را با خدا نخوانید!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "و اینکه هنگامی که بنده خدا [= محمّد (ص)] به عبادت برمی‌خاست و او را می‌خواند، گروهی پیرامون او بشدّت ازدحام می‌کردند!»",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "بگو: «من تنها پروردگارم را می‌خوانم و هیچ کس را شریک او قرار نمی‌دهم!»",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "بگو: «من مالک زیان و هدایتی برای شما نیستم!»",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "بگو: «(اگر من نیز بر خلاف فرمانش رفتار کنم) هیچ کس مرا در برابر او حمایت نمی‌کند و پناهگاهی جز او نمی‌یابم؛",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "تنها وظیفه من ابلاغ از سوی خدا و رساندن رسالات اوست؛ و هر کس نافرمانی خدا و رسولش کند، آتش دوزخ از آن اوست و جاودانه در آن می‌مانند!",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "(این کار شکنی کفّار همچنان ادامه می‌یابد) تا آنچه را به آنها وعده داده شده ببینند؛ آنگاه می‌دانند چه کسی یاورش ضعیفتر و جمعیّتش کمتر است!",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "بگو: «من نمی‌دانم آنچه به شما وعده داده شده نزدیک است یا پروردگارم زمانی برای آن قرارمی‌دهد؟!",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "دانای غیب اوست و هیچ کس را بر اسرار غیبش آگاه نمی‌سازد،",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "مگر رسولانی که آنان را برگزیده و مراقبینی از پیش رو و پشت سر برای آنها قرار می‌دهد...",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "تا بداند پیامبرانش رسالتهای پروردگارشان را ابلاغ کرده‌اند؛ و او به آنچه نزد آنهاست احاطه دارد و همه چیز را احصاء کرده است!»",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.makarem",
+      "language": "fa",
+      "name": "مکارم شیرازی",
+      "englishName": "Naser Makarem Shirazi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

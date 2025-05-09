@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6231,
+        "text": "بگو: پناه می‌برم به پروردگار مردم،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6232,
+        "text": "به مالک و حاکم مردم،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6233,
+        "text": "به (خدا و) معبود مردم،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6234,
+        "text": "از شرّ وسوسه‌گر پنهانکار،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6235,
+        "text": "که در درون سینه انسانها وسوسه می‌کند،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6236,
+        "text": "خواه از جنّ باشد یا از انسان!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.makarem",
+      "language": "fa",
+      "name": "مکارم شیرازی",
+      "englishName": "Naser Makarem Shirazi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
