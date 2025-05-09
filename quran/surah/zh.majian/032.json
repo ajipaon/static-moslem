@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "艾列弗，倆目，米目。",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "（這）是從全世界的主降示的經典，其中毫無疑義。",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "他們說：「他捏造它嗎？」不然！它是從你的主降示的真理，以便你警告在你之前沒有任何警告者來臨過的一群民眾，以便他們遵循正道。",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "真主曾在六日內創造天地萬物，然後，升上寶座，除他外，你們沒有任何監護者和說情者。你們怎麼不記念呢？",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "他治理自天至地的事物，然後那事物在一日之內上升到他那裡，那一日的長度，是你們所計算的一千年。",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "那是全知幽明的、萬能的、至慈的主。",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "他精制他所創造的萬物，他最初用泥土創造人。",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "然後用賤水的精華創造他的子孫。",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "然後使他健全，並將他的精神吹在他的身體中，又為你們創造耳目心靈。你們很少感謝。",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "他們說：「我們消失在地下之後，難道我們必定重新受造嗎？」不然！他們不信將與他們的主相會。",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "你說：「奉命主管你們的生命的死神，將使你們死亡，然後你們將被召歸於你們的主。」",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "假若你得見犯罪者在他們的主那裡垂頭喪氣地說：「我們的主啊！我們已經看見了，聽見了，求你讓我們轉回去，我們將做善事，我們確是確信者。」假若你看見這種情狀……。",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "假若我意欲，必以向導賦予每個人，但從我發出的判詞已確定了，我必以精靈和人類一起填滿火獄。",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "你們嘗試吧！因為你們忘記今日的相會，我確已忘記你們了。你們因為自己的行為而嘗試永久的刑罰吧。",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "信仰我的蹟象的，只有那等人：別人以我的蹟象勸戒他們的時候，他們便俯伏叩頭並讚頌他們的那超絕萬物的主，他們不敢妄自尊大，※",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "他們肋不落床，他們以恐懼和希望的心情祈禱他們的主；他們分捨我所賜予他們的。",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "任何人都不知道已為他們貯藏了甚麼慰藉，以報酬他們的行為。",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "信道者與悖逆者一樣嗎？他們是不相等的。",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "至於信道而且行善者，將來得以樂園為歸宿，那是為了報酬他們的行為的。",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "至於悖逆者，他們的歸宿，只是火獄，每當他們要想逃出，都被攔回去。有聲音對他們說：「你們嘗試以前你們所否認的火刑吧！」",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "在最大的刑罰之前，我必使他們嘗試最近的刑罰，以便他們悔悟。",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "有人以主的蹟象勸戒他，而他不肯聽從，這樣的人，誰比他還不義呢？我必然要懲浩犯罪的人。",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "我確已把經典賞賜穆薩，所以你們對於接受經典，不要陷於猶豫中，我曾以那部經典為以色列後裔的向導。",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "我曾以他們中的一部分人為表率，當他們忍受艱難，確信我的蹟象的時候，奉我的命令去引導眾人。",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "復活日，你的主必定判決他們所爭論的是非。",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "難道他們還不曉得嗎？在他們之前，我曾毀滅了許多世代，他們常常經過那些人的故鄉，在那裡確有許多蹟象。他們怎麼不聽從呢？",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "他們還不知道嗎？我把雨水趕到無草的地方，而借它生出他們的牲畜和他們自己所食的莊稼。難道他們看不見嗎？",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "他們說：「這種判決甚麼時候實現呢？如果你們是說實話的。」",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "你說：「不信道者，在判決日，雖信無益，並且不獲得寬待。」",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "你應當避開他們，你應當等待，他們必定是等待的。",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "zh.majian",
+      "language": "zh",
+      "name": "Ma Jian (Traditional)",
+      "englishName": "Ma Jian",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
