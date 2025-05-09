@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Ci, którzy nie wierzą, spośród ludzi Księgi, jak i bałwochwalcy, nie zmienili się, dopóki nie przyszedł do nich jasny dowód:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Posłaniec od Boga, który recytuje oczyszczone karty,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "Zawierające pisma prawdziwe.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Ci, którzy otrzymali Księgę, rozdzielili się dopiero wówczas, kiedy przyszedł do nich jasny dowód.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Zostało im nakazane tylko, aby czcili Boga, wyznając szczerze Jego religię - tak jak hanifowie odprawiali modlitwę i dawali jałmużnę. To jest religia prawdziwa.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Zaprawdę, ci, którzy nie uwierzą, spośród ludzi Księgi i bałwochwalcy, będą w ogniu Gehenny, gdzie będą przebywać na wieki. Oni są najgorsi ze stworzeń!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Zaprawdę, ci, którzy wierzą i którzy czynią dobre dzieła - oni są najlepsi ze stworzeń!",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Nagrodą ich u pana będą Ogrody Edenu, gdzie w dole płyną strumyki. Będą tam przebywać na wieki, nieśmiertelni. Bóg będzie z nich zadowolony i oni będą z Niego zadowoleni. - To będzie dla tych, którzy się obawiają swego Pana.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pl.bielawskiego",
+      "language": "pl",
+      "name": "Bielawskiego",
+      "englishName": "Józefa Bielawskiego",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

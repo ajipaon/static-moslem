@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "Tudo quanto existe nos céus e na terra glorifica Deus, porque Ele é o Poderoso, o Prudentíssimo.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "Ó fiéis, por que dizeis o que não fazeis?",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "É enormemente odioso, perante Deus, dizerdes o que não fazeis.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "Em verdade, Deus aprecia aqueles que combatem, em fileiras, por Sua causa, como se fossem uma sólida muralha.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "Recorda-te (ó Mensageiro) de quando Moisés disse ao seu povo: Ó povo meu, porque me injuriais, quando sabeis que souo mensageiro de Deus, enviado a vós? Porém, quando se desviaram, Deus desviou os seus corações, porque Deus nãoencaminha os depravados.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "E de quando Jesus, filho de Maria, disse: Ó israelitas, em verdade, sou o mensageiro de Deus, enviado a vós, corroborante de tudo quanto a Tora antecipou no tocante às predições, e alvissareiro de um Mensageiro que virá depois demim, cujo nome será Ahmad! Entretanto, quando lhes foram apresentadas as evidências, disseram: Isto é pura magia!",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "Haverá alguém mais iníquo do que quem forja mentiras acerca de Deus, apesar de ter sido convocado ao Islam? Sabei queDeus não encaminha os iníquos.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "Pretendem extinguir a Luz de Deus com as suas (infames) bocas; porém, Deus completará a (revelação de) Sua Luz, embora isso desgoste os incrédulos.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "Foi Ele Quem enviou o Seu Mensageiro, com a orientação e com a verdadeira religião, para fazê-las prevalecer sobretoda a religião, ainda que isso desgoste os idólatras.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "Ó fiéis, quereis que vos indique uma troca que vos livre de um castigo doloroso?",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "É que creiais em Deus e em Seu Mensageiro, e que sacrifiqueis os vossos bens e pessoas pela Sua causa. Isso é omelhor, para vós, se quereis saber.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "Ele vos perdoará os pecados e vos introduzirá em jardins, abaixo dos quais correm os rios, bem como nas prazerosasmoradas do Jardim do Éden. Tal é o magnífico benefício.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "E, ademais, conceder-vos-á outra coisa que anelais, ou seja: o socorro de Deus e o triunfo imediato. (Ó Mensageiro), anuncia aos crentes boas novas!",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "Ó fiéis, sede os auxiliadores de Deus, como disse Jesus, filho de Maria, aos discípulos: Quem são os meus auxiliadores, na causa de Deus? Responderam: Nós somos os auxiliadores de Deus! Acreditou, então, uma parte dos israelitas, e outradesacreditou; então, socorremos os fiéis contra seus inimigos, e eles saíram vitoriosos.",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

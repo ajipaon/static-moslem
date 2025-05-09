@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 49,
+    "name": "سُورَةُ الحُجُرَاتِ",
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 18,
+    "ayahs": [
+      {
+        "number": 4613,
+        "text": "O wy, którzy wierzycie! Nie wysuwajcie się naprzód przed Bogiem i Jego Posłańcem i bójcie się Boga! Zaprawdę, Bóg jest słyszący, widzący!",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4614,
+        "text": "O wy, którzy wierzycie! Nie podnoście waszych głosów ponad głos Proroka! I nie zwracajcie się do niego głosem podniesionym - jak to czynicie między sobą - aby nie stały się daremne wasze uczynki, kiedy nie jesteście świadomi.",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4615,
+        "text": "Zaprawdę, ci, którzy zniżają głos w obecności Posłańca Boga - to są ci, których serca doświadczył Bóg dla bogobojności. Dla nich będzie przebaczenie i nagroda ogromna.",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4616,
+        "text": "Zaprawdę, ci, którzy ciebie wzywają z tyłu komnat, przeważnie tego nie rozumieją.",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4617,
+        "text": "A jeśliby oni byli cierpliwi, aż ty do nich wyjdziesz, to byłoby lepiej dla nich. A Bóg jest przebaczający, litościwy!",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4618,
+        "text": "O wy, którzy wierzycie! Jeśli przyjdzie do was jakiś zły człowiek z wieścią, to starajcie się rozeznać, żebyście nie urazili ludzi nieświadomie i abyście potem nie żałowali tego, co uczyniliście.",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4619,
+        "text": "I wiedzcie, że Posłaniec Boga jest pośród was. Jeśliby on posłuchał was w wielu sprawach, to z pewnością ponieślibyście szkodę. Lecz Bóg dał wam pokochać wiarę i On ozdobił ją w waszych sercach, a uczynił dla was nienawistną niewiarę, zepsucie i nieposłuszeństwo. Tacy - oni idą drogą prawości.",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4620,
+        "text": "To jest łaska Boga i dobrodziejstwo. Bóg jest wszechwiedzący, mądry!",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4621,
+        "text": "Jeśli dwie partie spośród wiernych zwalczają się, to ustanówcie między nimi pokój. A jeśli jedna z nich będzie nadal występować przeciw drugiej, to zwalczajcie tę, która się buntuje, aż zwróci się ku rozkazowi Boga. A jeśli się podda, to ustanówcie między nimi pokój według sprawiedliwości i postępujcie bezstronnie! Zaprawdę, Bóg miłuje ludzi, którzy postępują według słuszności.",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4622,
+        "text": "Wierni są przecież braćmi! Ustanawiajcie więc pokój między waszymi dwoma braćmi i bójcie się Boga! Być może, wy dostąpicie miłosierdzia.",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4623,
+        "text": "O wy, którzy wierzycie! Niech jedni ludzie nie szydzą z drugich; być może, tamci są lepsi od nich. Ani też kobiety - z kobiet; być może, tamte są lepsze od nich. I nie zniesławiajcie siebie samych; i nie obrzucajcie się wyzwiskami. Jakże złe jest słowo \"zepsucie\" - po przyjęciu wiary! A ten, kto się nie nawróci - to ci - oni są niesprawiedliwi.",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4624,
+        "text": "O wy, którzy wierzycie! Unikajcie wielce podejrzeń. Zaprawdę, niektóre podejrzenia są grzechem! Nie szpiegujcie się wzajemnie! Nie obmawiajcie jedni drugich w ich nieobecności! Czy chciałby któryś z was jeść ciało swego brata, kiedy on umarł? Przecież czulibyście wstręt do tego. Bójcie się Boga! Zaprawdę, Bóg jest przebaczający, litościwy!",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4625,
+        "text": "O ludzie! Oto stworzyliśmy was z mężczyzny i kobiety i uczyniliśmy was ludami i plemionami, abyście się wzajemnie znali. Zaprawdę, najbardziej szlachetny spośród was, w obliczu Boga, to najbardziej bogobojny spośród was! Zaprawdę, Bóg jest wszechwiedzący, dobrze świadomy!",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4626,
+        "text": "Powiedzieli Beduini: \"My wierzymy!\" Powiedz: \"Wy nie wierzycie; lecz raczej powiedzcie: 'My poddaliśmy się całkowicie!', - bo wiara nie weszła jeszcze w wasze serca.\" A jeśli wy będziecie posłuszni Bogu i Jego Posłańcowi, to On w niczym nie umniejszy waszych uczynków. Zaprawdę, Bóg jest przebaczający, litościwy!",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4627,
+        "text": "Wiernymi są tylko ci, którzy uwierzyli w Boga i Jego Posłańca - potem nie mieli wątpliwości - i walczyli swoimi majątkami i swoimi osobami na drodze Boga. Tacy - oni są prawdomówni!",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4628,
+        "text": "Powiedz: \"Czyż będziecie pouczać Boga o waszej religii, skoro Bóg wie, co jest w niebiosach i co jest na ziemi? I Bóg o każdej rzeczy jest wszechwiedzący?!\"",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4629,
+        "text": "Oni przedstawiają jako łaskawość dla ciebie to, iż przyjęli islam. Powiedz: \"Nie przedstawiajcie waszego islamu jako łaskawości dla mnie. Przeciwnie, to Bóg obdarzył was łaską, że poprowadził was drogą prostą ku wierze - jeśli wy jesteście prawdomówni!\"",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4630,
+        "text": "Zaprawdę, Bóg zna to, co skryte w niebiosach i na ziemi! I Bóg widzi jasno to, co wy czynicie!",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pl.bielawskiego",
+      "language": "pl",
+      "name": "Bielawskiego",
+      "englishName": "Józefa Bielawskiego",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

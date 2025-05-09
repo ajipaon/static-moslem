@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Alef, Lam, Mim.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Esta é a revelação do Livro indubitável, que emana do Senhor do Universo.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Ou dizem: ele o (Alcorão) tem forjado! Qual! É a verdade do teu Senhor, para que admoestes (com ele) um povo, ao qualantes de ti não chegou admoestador algum, para que se encaminhe.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Foi Deus Quem criou, em seis dias, os céus e a terra, e tudo quanto há entre ambos; logo assumiu o Trono. Não tendes, além d'Ele, protetor, nem intercessor algum. Não meditais?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "Ele rege todos os assuntos, desde o céu até à terra; logo (tudo) ascenderá a Ele, em um dia cuja duração será de mil anos, de vosso cômputo.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Tal é (Deus), Conhecer do cognoscível e do incognoscível, o Poderoso, o Misericordiosíssimo,",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "Que aperfeiçoou tudo o que criou e iniciou a criação do primeiro homem, de barro.",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Então, formou-lhe uma prole da essência de sêmen sutil.",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Depois o modelou; então, alentou-o com Seu Espírito. Dotou a todos vós da audição, da visão e das vísceras. Quão poucoLhe agradeceis!",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "Dizem (os incrédulos): Quando formos consumidos pela terra, seremos, acaso, renovados em uma nova criatura? Qual? Eles negam o comparecimento ante o seu Senhor!",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Dize-lhes: O anjo da morte, que foi designado para vos guardar, recolher-vos-á, e logo retornareis ao vosso Senhor.",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "Ah, se pudesses ver os pecadores, cabisbaixos, ante o seu Senhor! (Exclamarão): Ó Senhor nosso, agora temos olhospara ver e ouvidos para ouvir! Faze-nos retornar ao mundo, que praticaremos o bem, porque agora estamos persuadidos!",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "E se quiséssemos, teríamos iluminado todo o ser, porém, a Minha sentença foi pronunciada; sabei que encherei o infernocom gênios e humanos, todos juntos.",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "(Ser-lhes-á dito): Sofrei, pois, por terdes esquecido o comparecimento neste vosso dia! Em verdade, vos esqueceremos. E sofrei o castigo, por toda a eternidade, pelo que cometestes!",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Somente crêem nos Nossos versículos aqueles que, quando eles lhos são recitados, se prostram em adoração e celebramos louvores de seu Senhor, sem, contudo, se ensoberbecerem.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "São aqueles, cujo corpos não relutam em se afastar dos leitos para invocarem seu Senhor com temor e esperança, e quefazem caridade daquilo com que os agraciamos.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Nenhuma alma caridosa sabe que deleite para os olhos lhe está reservado, em recompensa pelo que fez.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Poderá, acaso, aquiparar-se ao fiel o ímpio? Jamais se equipararão!",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "Quanto aos fiéis, que tiverem praticado o bem, terão por abrigo jardins de aconchego, por tudo quanto fizeram.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "Por outra, os depravados terão por morada o fogo infernal. Cada vez que desejarem sair dali, serão ainda maisarraigados nele, e lhes será dito: Provai o tormento do fogo que desmentistes!",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "Em verdade, infligir-lhes-emos o castigo terreno, antes do castigo supremo, para que se arrependam.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "E haverá alguém mais iníquo do que quem, ao ser exortado com os versículos do seu Senhor, logo os desdenha? Sabeique Nós puniremos os pecadores.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Já havíamos concedido o Livro a Moisés. Não vaciles, pois, quando ele chegar a ti. E destinamo-lo como orientaçãopara os israelitas.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "E designamos líderes dentre eles, os quais encaminham os demais segundo a Nossa ordem, porque perseveraram e sepersuadiram dos Nossos versículos.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Certamente teu Senhor julgará entre eles, no Dia da Ressurreição, quanto àquilo a respeito do quê divergiam",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Acaso, Ele não lhes evidenciou quantas gerações anteriores à deles temos exterminado, apesar de caminharem sobre assuas (antigas) moradas? Certamente, nisto há sinais. Não ouvem, então?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Não reparam em que conduzimos a água à terra erma, fazendo com isso, brotar as semeaduras de que se nutrem eles e oseu gado? Não vêem, acaso?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "E perguntam: Quando chegará essa vitória, se estiverdes certos?",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Responde-lhes: No dia da vitória de nada valerá a fé tardia dos incrédulos, nem serão tolerados.",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Afasta-te, pois deles, e espera, porque eles também não perdem por esperar.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

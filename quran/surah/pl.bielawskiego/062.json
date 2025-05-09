@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Głosi chwałę Boga to, co jest w niebiosach, i to, co jest na ziemi - Króla, Przenajświętszego, Potężnego, Mądrego!",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "To On posłał do ludzi prostych Posłańca wywodzącego się spośród nich, który głosi im Jego znaki, oczyszcza ich i uczy ich Księgi i mądrości;. oni bowiem byli przedtem w błędzie oczywistym.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "I do innych spośród nich, którzy się jeszcze do nich nie przyłączyli. On jest Potężny, Mądry!",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "To jest łaska Boga! On ją daje temu, komu chce. On jest władcą łaski ogromnej.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Ci, którym dano nieść Torę - a oni jej nie ponieśli - są podobni do osła, który niesie księgi. Jakże zły jest przykład tych ludzi, którzy za kłamstwo uznali znaki Boga! A Bóg nie prowadzi drogą prostą ludzi niesprawiedliwych!",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Powiedz: \"O wy, którzy wyznajecie judaizm! Jeśli twierdzicie, że jesteście bliscy Bogu, z wyłączeniem innych ludzi, to życzcie sobie śmierci, jeśli jesteście prawdomówni!\"",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Lecz oni nigdy nie będą jej sobie życzyli z powodu tego, co przygotowały pierwej ich ręce. Bóg zna dobrze ludzi niesprawiedliwych.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Powiedz: \"Zaprawdę, śmierć, od której uciekacie, z pewnością was spotka! Potem zostaniecie sprowadzeni do Tego, który zna, co skryte i jawne. On obwieści wam to, co czyniliście.\"",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "O wy, którzy wierzycie! Kiedy zostanie ogłoszone wezwanie do modlitwy - w Dniu Zgromadzenia śpieszcie gorliwie wspominać Boga i pozostawcie wszelki handel! To będzie dla was lepsze, o, gdybyście mogli to wiedzieć!",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "A kiedy modlitwa zostanie zakończona, to rozejdźcie się po kraju i poszukujcie łaski Boga, i często wspominajcie Boga! Być może, będziecie szczęśliwi!",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Lecz kiedy oni dojrzą jakiś handel lub zabawę, to śpieszą na oślep ku nim i pozostawiają ciebie stojącego. Powiedz: \"To, co jest u Boga, jest lepsze od zabawy i handlu! Bóg jest najlepszy z tych, którzy dają zaopatrzenie!\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "pl.bielawskiego",
+      "language": "pl",
+      "name": "Bielawskiego",
+      "englishName": "Józefa Bielawskiego",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
