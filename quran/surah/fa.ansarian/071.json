@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "ما نوح را به سوی قومش فرستادیم که قوم خود را پیش از آنکه عذابی دردناکبه آنان رسد، بیم ده.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "گفت: ای قوم من! همانا من شما را بیم دهنده ایآشکارم،",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "که خدا را بپرستید و از او پروا کنید و از من اطاعت نمایید،",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "تا خدا گناهانتان را بیامرزد و شما را تا زمانی معین مهلت دهد. اگر آگاهی داشته باشید [توجه خواهید کرد که] بی تردید هنگامی که اجل خدایی فرا رسد، تأخیر نخواهد داشت.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "گفت: پروردگارا! همانا قوم خود را شب و روز [به آیین توحید] دعوت کردم،",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "ولی دعوت من جز بر فرارشان نیفزود،",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "و من هرگاه آنان را دعوت کردم تا آنان را بیامرزی، انگشتان خود را در گوش هایشان کردند و جامه هایشان را به سر کشیدند و بر انکار خود پافشاری ورزیدند و به شدت تکبّر کردند،",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "آن گاه آنان را آشکارا دعوت کردم،",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "سپس آشکار و پنهان آنان را خواندم.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "پس [به آنان] گفتم: از پروردگارتان آمرزش بخواهید که او همواره بسیار آمرزنده است.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "تا بر شما از آسمان باران پی در پی و با برکت فرستد،",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "و شما را با اموال و فرزندان یاری کند، و برایتان باغ ها و نهرها قرار دهد،",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "شما را چه شده که [ربوبیت خدا را نفی کرده و در نتیجه از بندگی اش دست برداشته و] به عظمت و بزرگی خدا امید ندارید؟",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "در حالی که شما را مرحله به مرحله [خاک، نطفه، علقه، مضغه، گوشت، استخوان و...] آفریده است",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "آیا ندانسته اید که خدا هفت آسمان را چگونه بر فراز یکدیگر آفرید؟",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "و ماه را در میان آنها روشنی بخش، و خورشید را چراغ فروزان قرار داد،",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "و خدا شما را از زمین [مانند] گیاهی رویانید،",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "سپس شما را در آن باز می گرداند و باز به صورتی ویژه بیرون می آورد،",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "و خدا زمین را برای شما فرشی گسترده قرار داد،",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "تا از راه ها و جاده های وسیع آن [هر جا که خواستید] بروید؟",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "نوح گفت: پروردگارا! آنان از من نافرمانی کردند و از کسانی [چون سردمداران کفر و متولیان بتخانه] پیروی نمودند که اموال و فرزندانشان جز خسارت و زیانی بر آنان نیفزود!",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "و [این پیشوایان گمراهی، برای گمراه نگاه داشتن این مردم] نیرنگی بزرگ به کار گرفتند،",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "و گفتند: دست از معبودانتان بر ندارید، و هرگز [بت های] وَدّ و سواع و یغوث و یعوق و نسر را رها نکنید؛",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "همانا بسیاری را گمراه کردند. و [پروردگارا!] ستمکاران را جز گمراهی میفزا.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "[همه آنان] به سبب گناهانشان غرق شدند و بی درنگ در آتشی درآورده شدند که [از آن] در برابر خدا برای خود یاورانی نیافتند،",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "و نوح گفت: پروردگارا! هیچ یک از کافران را بر روی زمین باقی مگذار",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "که اگر آنان را باقی گذاری، بندگانت را گمراه می کنند و جز نسلی بدکار و ناسپاس زاد و ولد نمی کنند.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "پروردگارا! مرا و پدر و مادرم را و هر کس که با ایمان به خانه ام درآید و همه مردان و زنان با ایمان را بیامرز، و ستمکاران را جز هلاکت میفزای.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.ansarian",
+      "language": "fa",
+      "name": "انصاریان",
+      "englishName": "Hussain Ansarian",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
