@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "(މުދަލާއި ދަރިން (ގިނަކަމަށް އެކަކުއަނެކަކަށް فخر ވެރިވެ އުޅުން، ތިޔަބައިމީހުން (اللَّه ގެ މަތިން ހަނދުމަނެއްތައި (مشغول ކޮށްފިއެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "ތިޔަބައިމީހުން ކަށްވަޅުތަކަށް ޒިޔާރަތްކޮށްފުމަށް ދާނދެނެވެ. (އެބަހީ: މަރުވެއްޖައުމަށް ދާނދެނެވެ. (",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. ނިކަންހުރެ ތިޔަބައިމީހުންނަށް އެނގޭނެތެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "ދެންވެސް، ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. ނިކަންހުރެ ތިޔަބައިމީހުންނަށް އެނގޭނެތެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. يقين ކަމުގެ އެނގުމުން ތިޔަބައިމީހުންނަށް އެނގޭނަމައެވެ.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "ހަމަކަށަވަރުން، ތިޔަބައިމީހުން ނަރަކަ ދެކޭނެކަން ކަށަވަރެވެ.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "ދެންހަމަ يقين ކަމުގެ ދުށުމުން، ތިޔަބައިމީހުން އެ ނަރަކަ ދެކޭނެކަން ކަށަވަރެވެ.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "ދެން އެދުވަހުން ހަމަކަށަވަރުން (ދުނިޔޭގައި ތިޔަބައިމީހުންނަށް ލިބުނު) نعمة ތަކާމެދު ތިޔަބައިމީހުންނާ سؤال ކުރައްވާނެކަން ކަށަވަރެވެ.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "ފަތިސް ގަންދެއްވަމެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "އަދި ދިހަ ރޭ ގަންދެއްވަމެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "އަދި ހިރިތަކެއްޗާއި، އޮނަހިރި ތަކެތި ގަންދެއްވަމެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "އަދި ރޭގަނޑު ވޭތުވެދާހިނދު، ރޭގަނޑު ގަންދެއްވަމެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "ބުއްދީގެ ވެރިޔަކަށް އެކަންކަމުގައި (ފުދޭވަރުގެ) ހުވަޔެއް ވާކަން ކަށަވަރެވެ.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެ، عاد ބާގައިމީހުންނާމެދު ކަންތައް ކުރެއްވިގޮތް ކަލޭގެފާނަށް އެނގިވަޑައިނުގަންނަވާތޯއެވެ؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "އެއީ ތަނބުތަކުގެ ވެރި، إرم އެވެ ކިއުނު ރަށުގެ أهل ވެރިންނެވެ.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "އެ ބިނާތަކަކީ، ރަށްތަކުގައި އެފަދަ ބިނާތަކެއް ހެދިފައި ނުވާފަދަ ބިނާތަކެކެވެ.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "އަދި ثمود ބާގައިމީހުންނާ މެދުގައިވެސްމެއެވެ. އެއުރެންނީ، ވާދީގައި ހިލަކަނޑައި، ގެދޮރު އަޅައި އުޅުނު މީހުންނެވެ.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "އަދި لشكر ތަކުގެ ވެރި فرعون އާ މެދުގައިވެސްމެއެވެ.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "އެއުރެންނީ، ރަށްތަކުގައި އަނިޔާވެރިކަމުގައި ހައްދުފަހަނަޅައިފައިވާ މީހުންނެވެ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "ފަހެ، އެއުރެން އެ ރަށްތަކުގައި ފަސާދަވެރިކަން ގިނަކުޅައޫއެވެ.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "ފަހެ، ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެ އެއުރެންގެ މައްޗަށް عذاب ގެ ބާވަތްތައް އޮއްސެވިއެވެ.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "ހަމަކަށަވަރުން، ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެ (އެއުރެން ކުރާ ކަންތައް) ބެއްލެވުމުގައި ވޮޑިގެންވާކަން ކަށަވަރެވެ.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "ފަހެ، އިންސާނާ ދަންނާށެވެ! އޭނާގެ ވެރިރަސްކަލާނގެ، އޭނާ امتحان ކުރައްވައި، އަދި އޭނާ މާތްކުރައްވައި، އަދި އޭނާޔަށް نعمة ދެއްވައިފިހިނދު، ފަހެ، އޭނާ ބުނެތެވެ. ތިމަންގެ ވެރިރަސްކަލާނގެ ތިމަން މާތްކުރައްވައިފިއެވެ.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "އަދި ދަންނާށެވެ! އެކަލާނގެ، އެ އިންސާނާ امتحان ކުރައްވައި، އަދި އޭނާގެ رزق ދަތިކުރައްވައިފިހިނދު، ފަހެ، އޭނާ ބުނެތެވެ. ތިމަންގެ ވެރިރަސްކަލާނގެ، ތިމަން ނިކަމެތިކުރައްވައިފިއެވެ.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. އަދި ކިއެއްތަ! ތިޔަބައިމީހުން ޔަތީމުންނަށް މާތްކޮށެއް ނުހިތަމުއެވެ.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "އަދި ތިޔަބައިމީހުން މިސްކީނުންނަށް ކާންދިނުމުގެ މައްޗަށް އެކަކު އަނެކަކަށް ބާރުއަޅައެއް ނޫޅެމުއެވެ.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "އަދި (حرام އެއް حلال އެއް ނުބަލައި) ތިޔަބައިމީހުން، ވާރުތަ މުދާ ގިނަގިނައިން ކައިއުޅެމުއެވެ.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "އަދި ތިޔަބައިމީހުން ގަދަވެގެންވާ ލޯތްބަކުން، މުދަލަށް ލޯބިކުރަމުއެވެ.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. ފުނޑުފުނޑުވެ، ބިންގަނޑު ކުނޑިކުނޑިވެގެން ދާހިނދެވެ.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "އަދި ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެ އަމުރުފުޅު އެހިނދު އަންނާނެތެވެ. އަދި ملائكة ން ސަފުސަފަށް ވަޑައިގަންނަވާނެތެވެ.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "އަދި އެދުވަހުން ނަރަކަ ގެންނަވާނެތެވެ. އެދުވަހުން އިންސާނާ ހަނދުމަކުރާނެތެވެ. އެ ހަނދާންކުރުމުން އޭނާޔަށް ފައިދާއެއްކުރާނީ ކޮންފަދައަކުން ހެއްޔެވެ؟",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "އެދުވަހުން އޭނާ ބުނާނެތެވެ. އޭ ސަހަރޯއެވެ! ތިމަންގެ آخرة ގެ حياة އަށްޓަކައި (ހެޔޮ) عمل އެއް އިސްކުޅަނަމަ، ކިހާރަނގަޅުވީސް ހެއްޔެވެ؟",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "ފަހެ، އެދުވަހުން އެކަލާނގެ އޭނާޔަށް ދެއްވާފަދަ عذاب އެއް އެހެން އެކަކަށްވެސް ނުދެވޭނެތެވެ.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "އަދި އެކަލާނގެ، އޭނާ ހައްޔަރުކުރައްވާ ފަދައިން، އެހެން އެކަކަށްވެސް ހައްޔަރެއް ނުކުރެވޭނެތެވެ.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "އޭ ހިތްހަމަޖެހިގެންވާ ފުރާނަޔާއެވެ!",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "ރުހިގެންހުރެ، ރުހުން ލިބިގެންވާ حال، ތިބާގެ ވެރިރަސްކަލާނގެ حضرة އަށް އެނބުރިދާށެވެ!",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "ފަހެ، ތިމަންރަސްކަލާނގެ އަޅުންގެ ތެރެޔަށް ވަންނާށެވެ!",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "އަދި ތިމަންރަސްކަލާނގެ ސުވަރުގެޔަށް ވަންނާށެވެ!",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "ކަލޭގެފާނު ވިދާޅުވާށެވެ! އެއީ އެއްކައުވަންތަ اللَّه އެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "اللَّه އީ، އެންމެހާ ތަކެތި އެކަލާނގެއަށް ބޭނުންތެރިވެގެންވާ، އަދި އެއްވެސް އެއްޗަކަށް، އެކަލާނގެ ބޭނުންވެވޮޑިގެންނުވާ ރަސްކަލާނގެއެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "އެކަލާނގެއަކަށް އެއްވެސް އެއްޗެއް އުފަންވެގެނެއް ނުވެތެވެ. އަދި އެއްވެސް އެއްޗަކަށް އެކަލާނގެ އުފަންވެވޮޑިގެނެއް ނުމެވޭމެއެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "އަދި އެކަލާގެއާ އެއްފަދަވެގެންވާ، ހަމައެކަކުވެސް ނުވެތެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

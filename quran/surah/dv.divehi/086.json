@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "އުޑާއި، އަދި ރޭގަނޑަށް ފާޅުކަންބޮޑު ތަރި ގަންދެއްވަމެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "އަދި ރޭގަނޑަށް ފާޅުކަންބޮޑު ތަރިޔަކީ، ކޮންއެއްޗެއްކަން ކަލޭގެފާނަށް އަންގައިދިނީ ކޮންއެއްޗެއްތޯއެވެ؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "އެއީ އަނދިރިކަން ތޮރުފައިލާ، އަލިކަންގަދަ ތަރިއެެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "އެއްވެސް نفس އެއް، އެ نفس އެއްގެ މައްޗަށް ރައްކާތެރިވާނޭ ملائكة އަކު ނެތިއެއް ނުވެއެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "ފަހެ، އިންސާނާ، އޭނާ ހައްދަވާފައިވަނީ ކޮންއެއްޗަކުންކަން ބަލައިފާ ހުށިކަމެވެ!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "ފަހެ، އިންސާނާ، އޭނާ ހައްދަވާފައިވަނީ ކޮންއެއްޗަކުންކަން ބަލައިފާ ހުށިކަމެވެ!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "އޭނާ ހައްދަވާފައިވަނީ، މައިކަށްޓާއި، މޭމަތީގެ ކަށިތަކާ ދެމެދުން ނުކުންނަ، ގަދަޔަށް އޮހޮރިގެންދާ ފެނަކުންނެވެ.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "ހަމަކަށަވަރުން، އެކަލާނގެއީ، އެ އިންސާނާ އަލުން ދިރުމަކަށް ފޮނުއްވުމުގެ މައްޗަށް ކުޅަދުންވަންތަ ރަސްކަލާނގެކަން ކަށަވަރެވެ.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "ހިތްތަކުގައިވާ ސިއްރުތައް ފާޅުކުރައްވައި، امتحان ކުރައްވާ ދުވަހެވެ.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "ފަހެ، އޭނާޔަށް އެއްވެސް ބާރެއް، އަދި نصر ދޭނޭ މީހަކުވެސް ނުވެއެވެ.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "ވާރޭވެއްސާ އުޑު ގަންދެއްވަމެވެ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "އަދި ގަސްފަޅާ ބިން ގަންދެއްވަމެވެ.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "ހަމަކަށަވަރުން، އެ قرآن އަކީ، حق އާއި، باطل ވަކިކުރާ ތެދުބަސްފުޅެއްކަން ކަށަވަރެވެ.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "އަދި ކުޅޭކުޅޭ އެއްޗެއްކަމުގައި އެ قرآن ނުވެއެވެ.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "ހަމަކަށަވަރުން، އެއުރެން (ކަލޭގެފާނާ ދެކޮޅަށް) މަކަރުވެރި ރޭވުމެއް ރާވަތެވެ.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "އަދި ތިމަންރަސްކަލާނގެވެސް ރޭއްވެވުމެއް ރާއްވަވަމެވެ.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "ފަހެ، كافر ންނަށް ކަލޭގެފާނު مهلة އެއް ދެއްވާށެވެ! ކުޑަހިނދުކޮޅަކަށް އެއުރެންނަށް ލަސްކޮށްލައްވާށެވެ!",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

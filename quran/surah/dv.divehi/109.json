@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "ކަލޭގެފާނު ވިދާޅުވާށެވެ! އޭ كافر ންނޭވެ!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "ތިޔަބައިމީހުން އަޅުކަންކުރާ ތަކެއްޗަކަށް، ތިމަންކަލޭގެފާނު އަޅުކަމެއް ނުކުރައްވަމެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "އަދި ތިމަންކަލޭގެފާނު އަޅުކަންކުރައްވާ حق ވަންތަ اللَّه އަށް އަޅުކަންކުރާ ބަޔަކު ކަމުގައިވެސް ތިޔަބައިމީހުން ނުވަމުއެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "އަދި ތިޔަބައިމީހުން އަޅުކަންކުޅަ ތަކެއްޗަށް އަޅުކަންކުރާ މީހަކު ކަމުގައި ތިމަންކަލޭގެފާނު ނުވަމެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "އަދި ތިމަންކަލޭގެފާނު އަޅުކަންކުރައްވާ حق ވަންތަ اللَّه އަށް އަޅުކަންކުރާ ބަޔަކު ކަމުގައިވެސް ތިޔަބައިމީހުން ނުވަމުއެވެ.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "ތިޔަބައިމީހުންނަށް ތިޔަބައިމީހުންގެ دين އެވެ. އަދި ތިމަންކަލޭގެފާނަށް ތިމަންކަލޭގެފާނުގެ دين އެވެ.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

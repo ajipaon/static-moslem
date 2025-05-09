@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "ALL THAT IS in the heavens and the earth sings the praises of God the King, the Holy, Omnipotent, the Wise.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "It is He who raised among the gentiles an apostle from amongst them, who recites His revelations to them, reforms them and teaches them the Scripture and the Law, for before him they were clearly in error.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "And for others among them who have not joined them yet. He is all-mighty and all-wise.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "This is the bounty of God, He gives whosoever He please. God is master of great bounty.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "The likeness of those who were charged with (the law of) the Torah which they did not observe, is that of a donkey who carries a load of books (oblivious of what they contain). How wretched the semblance of the people who deny the words of God! God does not show an unjust people the way.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Say: \"O you Jews, if you claim that you are the favourites of God apart from all men, then wish for death, if you speak the truth.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "But they will never wish for death because of what they had done in the past, and God knows the sinners well.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Tell them: \"Death from which you run, will surely come to you. You will then be sent back to Him who knows the unknown and the known, who will tell you what you used to do.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "O you who believe, when the call to prayer is made on the day of congregation, hasten to remember God, putting aside your business. This is better for you if you can understand.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "And when the service of prayer is over spread out in the land, and look for the bounty of God. and remember God a great deal that you may prosper.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Yet when they see some buying and selling, or some sport, they go for it, leaving you standing. Tell them: \"What is with God is better than your sport and commerce. And God is the best of providers.\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.ahmedali",
+      "language": "en",
+      "name": "Ahmed Ali",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

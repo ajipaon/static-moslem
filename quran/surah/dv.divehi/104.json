@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "غيبة ބުނެ، ފުރައްސާރަކޮށް، ވައްތަރުޖައްސާ ކޮންމެ މީހަކަށް، ގެއްލުމާއި ހަލާކުހުށްޓެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "އެމީހާއީ، މުދާ އެއްކޮށް، އެ ގުނައިލަ ގުނައިލައިހުރި މީހާއެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "ހަމަކަށަވަރުން، އޭނާގެ މުދާ އޭނާ ދަމަހައްޓާނެކަމަށް އޭނާ ހީކުރެތެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "ހަމަހިލާ އެހެންނަކުން ނުވާނެއެވެ. ފުނޑުފުޑުކޮށްލަނިވި ނަރަކަޔަށް އޭނާ އެއްލައިލައްވާނެކަން ކަށަވަރެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "އަދި، ފުނޑުފުނޑުކޮށްލަނިވި ނަރަކަޔަކީ، ކޮންއެއްޗެއްކަން، ކަލޭގެފާނަށް އަންގައިދިނީ ކޮންއެއްޗެއްތޯއެވެ؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "(އެއީ) اللَّه ގެ އަނދައަނދާ ހުންނަ ނަރަކަޔެވެ.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "އެއީ ހިތްތަކަށް އޭގެ ހޫނާއި، ވޭން ފޯރުވަނިވި ނަރަކަޔެވެ.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "ހަމަކަށަވަރުން، އެ ނަރަކަވާނީ، އެއުރެންނާއެކު، ތަޅުލައްވާފައެވެ.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": ") އެއުރެންވާހުށީ) ދިގުވެގެންވާ ތަނބުތަކެއްގައި ބަންނަވާފައެވެ.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

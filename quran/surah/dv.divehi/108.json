@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6205,
+        "text": "ހަމަކަށަވަރުން، ތިމަންރަސްކަލާނގެ ގިނަގިނަވެގެންވާ ހެޔޮކަން (އޭގެތެރޭގައި كوثر އޭ ކިޔުނު އާރުވެސް) ކަލޭގެފާނަށް ދެއްވީމެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6206,
+        "text": "ފަހެ، ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެއަށް ކަލޭގެފާނު ނަމާދު ކުރައްވާށެވެ! އަދި قربان ކުރައްވާށެވެ!",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6207,
+        "text": "ހަމަކަށަވަރުން، ކަލޭގެފާނު ކޯފާއިސްކުރައްވާ މީހާ އެއީ، ހުރިހާ ހެޔޮކަމަކުން ކެނޑިގެންވާ މީހާއެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

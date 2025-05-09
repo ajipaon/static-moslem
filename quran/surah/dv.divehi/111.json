@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "أبولهب ގެ ދެއަތް ގެއްލި ހަލާކުވެދާށިއެވެ! (އެބަހީ: أبولهب އަށް ހަލާކު ހުށްޓެވެ.) އަދި އޭނާ ގެއްލި ހަލާކުވެއްޖެއެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "އޭނާގެ މުދަލާއި، އޭނާ ހޯދާފައިވާ ތަކެތި އޭނާޔަކަށް (އެއްވެސް ކަމެއް) ފުއްދައެއް ނުދިނެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "ހުޅުގަނޑުގެ ވެރި ނަރަކަޔަށް، ނިކަންހުރެ އޭނާ ވަންނާނެތެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "އަދި ދަރު އުފުލަމުން ހިނގާ (އެބަހީ: ދެބައޮޑުވަމުންހިނގާ) އޭނާގެ އަނބިކަނބުލޭގެވެސްމެއެވެ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "ކިފުޅިން އަޅާފައިވާ ވަލެއް، އެކަނބުލޭގެ ކަރުގައިވެއެވެ.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

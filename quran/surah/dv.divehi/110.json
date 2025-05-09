@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "اللَّه ގެ نصر އާއި، فتح އަތުވެއްޖެ ހިނދެވެ.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "އަދި اللَّه ގެ دين އަށް މީސްތަކުން ބައިބަޔަށް ވަންނާތީ، ކަލޭގެފާނު ދެކެވަޑައިގެންފި ހިނދެވެ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "ފަހެ، ކަލޭގެފާނުގެ ވެރިރަސްކަލާނގެއަށް حمد އާއެކު تسبيح ވިދާޅުވާށެވެ! އަދި ފާފަފުއްސެވުން އެދިވަޑައިގެން އެކަލާނގެ حضرة އަށް ދަންނަވާށެވެ! ހަމަކަށަވަރުން، ގިނަގިނައިން توبة قبول ކުރައްވާ ކަލަކުކަމުގައި އެކަލާނގެ ވޮޑިގެންވެއެވެ.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "ދިވެހި",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

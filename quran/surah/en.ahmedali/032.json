@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "ALIF LAM MIM.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "The revelation of this Book free of doubt and involution is from the Lord of all the worlds.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Or do they say he has fabricated it? In fact, it is the truth from your Lord so that you may warn the people to whom no admonisher was sent before you. They may haply come to guidance.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "It is God who created the heavens and the earth and all that lies between them, in six spans, then assumed all authority. You have no protector other than Him, nor any intercessor. Will you not be warned even then?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "He regulates all affairs from high to low, then they rise to perfection step by step in a (heavenly) day whose measure is a thousand years of your reckoning.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Such is (He) the knower of the unknown and the known, the mighty and the merciful,",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "Who made all things He created excellent; and first fashioned man from clay,",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Then made his offspring from the extract of base fluid,",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Then proportioned and breathed into him of His spirit, and gave you the senses of hearing, sight and feeling. And yet how little are the thanks you offer!",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "But they say: \"When we have mingled with the earth, shall we be created anew?\" In fact they deny the meeting with their Lord.",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Say: \"The angel of death appointed over you will take away your soul, then you will be sent back to your Lord.\"",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "If only you could see when the sinners will stand before their Lord, heads hung low, (and say:) \"O Lord, we have seen and heard. So send us back. We shall do the right, for we have come to believe with certainty.\"",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "Had We intended We could have given every soul its guidance; but inevitable is My word that I will fill up Hell with men and jinns together.",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "So now suffer. As you forgot the meeting of this your Day of Doom, so have We forgotten you. Now taste the everlasting punishment for your deeds.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "Only they believe in Our revelations who, when they are reminded, bow in adoration, and give praise to their Lord, and do not become arrogant.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Their backs do not rest on their beds, and they pray to their Lord in fear and hope, and spend of what We have given them (in charity).",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "No soul knows what peace and joy lie hidden from them as reward for what they have done.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Is one who is a believer like one who is a transgressor? No, they are not alike.",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "As for those who believe and do the right, there are gardens for abode as welcome for what they had done.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "As for those who disobey, their abode is Hell. Whensoever they wish to escape from it they would be dragged back into it, and told: \"Taste the torment of the Fire which you used to call a lie.\"",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "But We shall make them taste the affliction of this world before the greater torment, so that they may retract.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "Who is more wicked than he who is reminded of his Lord's revelations yet turns away from them; We will surely requite the sinners.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Verily We gave Moses the Book; so be not in doubt about his having received it; and We made it a guidance for the children of Israel.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "When they persevered and firmly believed Our revelations We appointed learned men among them who guided them by Our command.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Surely your Lord will decide between them about what they were at variance, on the Day of Resurrection.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Did they not find guidance in the many generations We had destroyed before them, over whose dwellings they (now) walk? There were indeed signs in this. Will they even then not listen?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Do they not see that We drive the rain towards a land that is dry, then grow grain from it which their cattle and they themselves eat? Will they not see even then?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "Yet they say: \"When will this decree come, if you speak the truth?\"",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Say: \"Of no use will be the acceptance of belief to unbelievers on the Day of Decision, nor will they be granted respite.",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Therefore turn away from them and wait as they are waiting.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.ahmedali",
+      "language": "en",
+      "name": "Ahmed Ali",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
