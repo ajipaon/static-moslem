@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "Blest be He in whose hand is the dominion, and He is over everything Potent.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "Who hath created death and life that He might prove you, as to which of you is excellent in work. And He is the Mighty, the Forgiver.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "Who hath created seven heavens in storeys. Thou shalt not behold in the Compassionates creation any over-sight; then repeat thy look, beholdest thou any crack?",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "Then repeat thy look twice over, and thy look will return Unto thee dim and It will have become wearied out.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "And assuredly We have bedecked the nearest heaven with lamps, and We have made them missiles for satans: and for them We have gotten ready the torment of the Blaze.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "And for those who disbelieve in their Lord will be the torment of Hell; and a hapless destination!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "When they will be cast thereinto, they will hear thereof a braying even as it balleth up,",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "Well-nigh it bursteth with rage. So oft as a company is cast thereinto, the keepers thereof will ask them: came there not Unto you a warner?",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "They will say: yea! surely there came a warner Unto us, but we belied, and said: God hath not sent down aught, are naught but in a great error.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "And they will say: had we been wont to hearken or to reflect, we had not been among the fellows of the Blaze.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "So they shall confess their sin. Far away they-be, the fellows of the Blaze!",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "Verily those who dread their Lord unseen, theirs shall be forgiveness and a great hire.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "And whather ye keep your discourse secret or publish it, verily He is the Knower of that which is in the breasts.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "Shall not He Who hath created know? And He is the Subtile, the Aware.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "He it is Who hath made the earth Unto you subservient, so go forth in the regions thereof, and eat of His provision. And Unto Him is the Resurrection.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "Are ye secure that He who is in the heaven will not sink the earth with you and then it should quake?",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "Or are ye secure that He Who is in the heaven will not send against you a whirlwind? Anon ye shall know what wise hath been My warning.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "And assuredly those before them belied; then what wise hath been My wrath!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "Behold they not the birds above them, outstretching their wings and they also withdraw them? Naught holdeth them except the Compassionate. Verily He is of everything Beholder.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "Who. is he that can be an army Unto you and succour you, beside the Compassionate! The infidelsjb are but in delusion.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "Who is he that can provide for you, should He withhold His provision? Aye! they persists in perverseness and aversion.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "Is he, then, who goeth about grovelling upon his face better directed, or he who walketh evenly on a straight path?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "Say thou: He it is who hath brought you forth and hath endowed you with hearing and sights and hearts. Little thanks it is ye give!",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "Say thou: He it is Who hath spread you over the earth, and Unto Him ye shall be gathered.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "And they say: when will this promise be fulfilled, if ye say sooth?",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "Say thou: the knowledge is only with Allah, and but a warner manifest.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "But when they will behold it proximating sad will be the countenances of those who disbelieve, and it will be said: this is that which ye have been calling for.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "Say thou: bethink ye if Allah destroy me and those with me; or have mercy on us, who will protect the infidels from a torment afflictive?",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "Say thou: He is the Compassionate; in Him we have believed, and in Him we have put our trust. -And anon ye will know who it is that is in error manifest.",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "Say thou: bethink ye, were your water to be sunk away, who then could bring you water welling-up?",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "name": "Daryabadi",
+      "englishName": "Abdul Majid Daryabadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

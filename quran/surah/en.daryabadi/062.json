@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Whatsoever is in the heavens and whatsoever is in the earth halloweth Allah, the Sovereign, the Holy, the Mighty, the Wise.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "He it is Who hath raised amdist the unlettered ones an apostle from among themselves, rehearsing Unto them His revelations and purifying them and teaching them the Book and Wisdom, though they have been aforetime in error manifest.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "And also others of them who have not yet joined them. And He is the Mighty; the Wise.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "That is the grace of Allah: He vouchsafeth it on whomsoever He will. And Allah is the Owner of mighty Grace.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "The likeness of those who were laden with the Taurat and then they bare it not, is as the likeness of the ass bearing tomes. Hapless is the likeness of the people who belie the signs of Allah. And Allah guideth not a wrong doing people. J",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Say thou: O ye e who are Judaised! if ye imagine at ye are the friends of Allah above mankind, then wish for death if ye be truthful.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "And they will never wish there for, because of that which their hands have sent forward. And Allah is the Knower of he wrong-doers.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Say thou: verily the death which ye flee from! then verily it will meet you and thereafter ye will be brought back Unto the Knower of the unseen and the seen, and He will declare Unto you that which ye have been working.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "O ye who believe! when the call to prayer is made on the day of Friday then repair Unto the remembrance of Allah and leave off bargaining. That is better for you if ye know",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Then, when the prayer is ended, disperse in the land and seek of Allah's grace, and remember Allah much, that haply ye may thrive.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "And when they beheld merchandise or sport, they flocked thereto, and left thee standing. Say thou: that which is with Allah is better than sport and better than merchandise; and Allah is the Best of providers.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "name": "Daryabadi",
+      "englishName": "Abdul Majid Daryabadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

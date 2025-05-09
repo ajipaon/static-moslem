@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "When the heaven shall be cleft,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "And when the stars shall be scattered,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "And when the seas are flowed out,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "And when the graves are ransacked,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "Each soul shall know that which it sent afore and that which it left behind.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "O man! what hath beguiled thee concerning thy Lord, the Bountiful,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "Who created thee, then moulded thee, then proportioned thee?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "In whatsoever form He listed He constructed thee.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "By no means! Aye, ye belie the the Requital.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "Verify there are for you guardians,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "Honourablel scribes.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "They know whatsoever ye do.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "Verily the pious shall be in Delight.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "And verily the ungodly shall be in a Scorch.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "Roasted they shall be therein on the Day of Requital.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "And thence they shall not be allowed to be absent.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "And what shall make thee know whatsoever the Day of Requital is?",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "Again, what shall make thee know whatsoever the Day of Requital is?",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "It is a Day whereon no soul shall own aught of power for any soul; and the command on that Day will be Allah's.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "name": "Daryabadi",
+      "englishName": "Abdul Majid Daryabadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

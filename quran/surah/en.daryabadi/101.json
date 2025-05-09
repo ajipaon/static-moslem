@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "The Striking!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "What is the Striking?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "What shall Make thee know that which the Striking is?",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "A Day whereon mankind shall become as moths scattered,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "And the mountains shall become as wool carded,",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "Then as for him whose balances are heavy,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "He shall be in a lifewell-pleasing.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "And as for him whose balances are light,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "His dwelling shall be the Abyss.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "And what shall make thee know that which she is?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "A Fire vehemently hot!",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "name": "Daryabadi",
+      "englishName": "Abdul Majid Daryabadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
