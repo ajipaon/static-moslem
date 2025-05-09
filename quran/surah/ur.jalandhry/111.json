@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "ابولہب کے ہاتھ ٹوٹیں اور وہ ہلاک ہو",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "نہ تو اس کا مال ہی اس کے کچھ کام آیا اور نہ وہ جو اس نے کمایا",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "وہ جلد بھڑکتی ہوئی آگ میں داخل ہو گا",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "اور اس کی جورو بھی جو ایندھن سر پر اٹھائے پھرتی ہے",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "اس کے گلے میں مونج کی رسّی ہو گی",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.jalandhry",
+      "language": "ur",
+      "name": "جالندہری",
+      "englishName": "Fateh Muhammad Jalandhry",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

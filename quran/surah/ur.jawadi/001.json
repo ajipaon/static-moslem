@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "عظیم اور دائمی رحمتوں والے خدا کے نام سے",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "ساری تعریف اللہ کے لئے ہے جو عالمین کا پالنے والا ہے",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "وہ عظیم اوردائمی رحمتوں والا ہے",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "روزِقیامت کا مالک و مختار ہے",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "پروردگار! ہم تیری ہی عبادت کرتے ہیں ا ور تجھی سے مدد چاہتے ہیں",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "ہمیں سیدھے راستہ کی ہدایت فرماتا رہ",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "جو اُن لوگوں کا راستہ ہے جن پر تو نے نعمتیں نازل کی ہیں ان کا راستہ نہیں جن پر غضب نازل ہوا ہے یا جو بہکے ہوئے ہیں",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.jawadi",
+      "language": "ur",
+      "name": "علامہ جوادی",
+      "englishName": "Syed Zeeshan Haider Jawadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

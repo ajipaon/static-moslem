@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "کیا ان کا داؤں غلط نہیں کیا؟ (گیا)",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "اور ان پر جھلڑ کے جھلڑ جانور بھیجے",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "جو ان پر کھنگر کی پتھریاں پھینکتے تھے",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.jalandhry",
+      "language": "ur",
+      "name": "جالندہری",
+      "englishName": "Fateh Muhammad Jalandhry",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

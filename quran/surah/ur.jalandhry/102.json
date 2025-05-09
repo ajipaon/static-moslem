@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "(لوگو) تم کو (مال کی) بہت سی طلب نے غافل کر دیا",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "یہاں تک کہ تم نے قبریں جا دیکھیں",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "پھر دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "دیکھو اگر تم جانتے (یعنی) علم الیقین (رکھتے تو غفلت نہ کرتے)",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "تم ضرور دوزخ کو دیکھو گے",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "پھر اس کو (ایسا) دیکھو گے (کہ) عین الیقین (آ جائے گا)",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "پھر اس روز تم سے (شکر) نعمت کے بارے میں پرسش ہو گی",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.jalandhry",
+      "language": "ur",
+      "name": "جالندہری",
+      "englishName": "Fateh Muhammad Jalandhry",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
