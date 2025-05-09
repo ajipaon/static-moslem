@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "When the hypocrites come to you, they say, \"We testify that you are the Messenger of God.\" God knows that you are His Messenger. God testifies that they hypocrites are liars.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "They have chosen their oaths as a shield for them to obstruct others from the way of God. How terrible is what they do!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "This is because they accepted the faith and then rejected it. God has sealed their hearts, thus, they do not have any understanding.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Their physical appearance attracts you when you see them and when they speak, you carefully listen to them. In fact, they are like propped up hollow trunks of wood (They are so cowardly) they think that every cry which they hear is against them. They are the enemy, so beware of them. May God condemn them. Where are they turning to, leaving behind the Truth?",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "When they are told, \"Come and let the Prophet of God seek forgiveness for you,\" they shake their heads and you can see them arrogantly turning away.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "It is all the same whether you seek forgiveness for them or not; God will never forgive them. God does not guide the evil-doing people.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "It is they who say, \"Give nothing to those who are around the Messenger of God so that they will desert him.\" To God belongs the treasures of the heavens and the earth, but the hypocrites have no understanding.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "They say, \"When we return to Medina, the honorable ones will certainly drive out the mean ones.\" Honor belongs to God, His Messenger and the believers, but the hypocrites do not know.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "Believers, do not let your wealth and children divert you from remembering God. Wwhoever is diverted will suffer a great loss.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Spend for the cause of God out of what We have given you before death approaches you, and say, \"Lord, would that you would give me respite for a short time so that I could spend for Your cause and become one of those who do good\".",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "God will never grant respite to any soul when its appointed time has come. God is Well-Aware of what you do.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.sarwar",
+      "language": "en",
+      "name": "Sarwar",
+      "englishName": "Muhammad Sarwar",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
