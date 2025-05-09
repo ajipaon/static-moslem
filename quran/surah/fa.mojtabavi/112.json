@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "بگو: حق اين است كه خدا يكتا و يگانه است،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "خدا تنها بى‌نيازى است كه نيازها بدو برند.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "نزاده و زاده نشده است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "و هيچ كس مر او را همتا و همانند نبوده و نباشد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "مجتبوی",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

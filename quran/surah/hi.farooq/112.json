@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "कहो, \"वह अल्लाह यकता है,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "अल्लाह निरपेक्ष (और सर्वाधार) है,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "न वह जनिता है और न जन्य,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "और न कोई उसका समकक्ष है।\"",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "hi.farooq",
+      "language": "hi",
+      "name": "फ़ारूक़ ख़ान & अहमद",
+      "englishName": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "سوگند به عصر- روزگار يا هر عصرى يا وقت نماز عصر يا عصر نبوت يا عصر مهدى",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "كه هر آينه آدمى در زيانكارى است",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "مگر كسانى كه ايمان آوردند و كارهاى نيك و شايسته كردند و يكديگر را به راستى و درستى اندرز دادند و يكديگر را به شكيبايى- و پايدارى- سفارش كردند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "مجتبوی",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

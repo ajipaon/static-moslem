@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "तुम्हें एक-दूसरे के मुक़ाबले में बहुतायत के प्रदर्शन और घमंड ने ग़फ़़लत में डाल रखा है,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "यहाँ तक कि तुम क़ब्रिस्तानों में पहुँच गए",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "कुछ नहीं, तुम शीघ्र ही जान लोगे",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "फिर, कुछ नहीं, तुम्हें शीघ्र ही मालूम हो जाएगा -",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "कुछ नहीं, अगर तुम विश्वसनीय ज्ञान के रूप में जान लो! (तो तुम धन-दौलत के पुजारी न बनो) -",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "अवश्य ही तुम भड़कती आग से दो-चार होगे",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "फिर सुनो, उसे अवश्य देखोगे इस दशा में कि वह यथावत विश्वास होगा",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "फिर निश्चय ही उस दिन तुमसे नेमतों के बारे में पूछा जाएगा",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "hi.farooq",
+      "language": "hi",
+      "name": "फ़ारूक़ ख़ान & अहमद",
+      "englishName": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

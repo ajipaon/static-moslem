@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "آنگاه كه يارى خدا و آن فتح- فتح مكه- فرا رسد",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "و مردمان را ببينى كه گروه گروه در دين خدا در آيند [بدان كه رفتن تو به جهان پاينده نزديك است‌]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "پس پروردگارت را با سپاس و ستايش و به پاكى ياد كن- حمد و تسبيح گوى- و از او آمرزش خواه، كه او توبه‌پذير است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "مجتبوی",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

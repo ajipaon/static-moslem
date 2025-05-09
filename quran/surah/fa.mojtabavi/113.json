@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "بگو: پناه مى‌برم به خداوند سپيده‌دم،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "از شر آنچه آفريده است",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "و از شر شب تاريك آنگاه كه در آيد",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "و از شر زنان دمنده در گره‌ها- زنان جادوگر-",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "و از شر هر بدخواه- حسود- آنگاه كه بدخواهى كند.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "مجتبوی",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

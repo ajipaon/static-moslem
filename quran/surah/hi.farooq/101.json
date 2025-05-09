@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "वह खड़खड़ानेवाली!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "क्या है वह खड़खड़ानेवाली?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "और तुम्हें क्या मालूम कि क्या है वह खड़खड़ानेवाली?",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "जिस दिन लोग बिखरे हुए पतंगों के सदृश हो जाएँगें,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "और पहाड़ के धुन के हुए रंग-बिरंग के ऊन जैसे हो जाएँगे",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "फिर जिस किसी के वज़न भारी होंगे,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "वह मनभाते जीवन में रहेगा",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "और रहा वह व्यक्ति जिसके वज़न हलके होंगे,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "उसकी माँ होगी गहरा खड्ड",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "और तुम्हें क्या मालूम कि वह क्या है?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "आग है दहकती हुई",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "hi.farooq",
+      "language": "hi",
+      "name": "फ़ारूक़ ख़ान & अहमद",
+      "englishName": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
