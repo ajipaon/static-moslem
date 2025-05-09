@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 66,
+    "name": "سُورَةُ التَّحۡرِيمِ",
+    "englishName": "At-Tahrim",
+    "englishNameTranslation": "The Prohibition",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5230,
+        "text": "Ey Peygamber! Eşlerinin rızasını gözeterek Allah'ın sana helal kıldığı şeyi niçin kendine haram ediyorsun? Allah çok bağışlayan, çok esirgeyendir.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5231,
+        "text": "Allah, (gerektiğinde) yeminlerinizi bozmanızı size meşru kılmıştır. Sizin yardımcınız Allah'tır. O, bilendir, hikmet sahibidir.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5232,
+        "text": "Peygamber, eşlerinden birine gizlice bir söz söylemişti. Fakat eşi, o sözü başkalarına haber verip Allah da bunu Peygamber'e açıklayınca, Peygamber bir kısmını bildirmiş, bir kısmından da vazgeçmişti. Peygamber bunu ona haber verince eşi: Bunu sana kim bildirdi? dedi. Peygamber: Bilen, her şeyden haberdar olan Allah bana haber verdi, dedi.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5233,
+        "text": "Eğer ikiniz de Allah'a tevbe ederseniz, (yerinde olur). Çünkü kalpleriniz sapmıştı. Ve eğer Peygamber'e karşı birbirinize arka verirseniz bilesiniz ki onun dostu ve yardımcısı Allah, Cebrail ve müminlerin iyileridir. Bunların ardından melekler de (ona) yardımcıdır.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5234,
+        "text": "Eğer o sizi boşarsa Rabbi ona, sizden daha iyi kendini Allah a veren, inanan, sebatla itaat eden, tevbe eden, ibadef eden, oruç tutan, dul ve bakire eşler verebilir.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5235,
+        "text": "Ey inananlar! Kendinizi ve ailenizi, yakıtı insanlar ve taşlar olan ateşten koruyun. Onun başında, acımasız, güçlü, Allah'ın kendilerine buyurduğuna karşı gelmeyen ve emredildiklerini yapan melekler vardır.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5236,
+        "text": "Ey kafirler! Bugün özür dilemeyin! Siz ancak işlediklerinizin cezasını çekeceksiniz, (denilir).",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5237,
+        "text": "Ey iman edenler! Samimi bir tevbe ile Allah'a dönün. Umulur ki Rabbiniz sizin kötülüklerinizi örter. Peygamberi ve Onunla birlikte iman edenleri utandırmayacağı günde Allah sizi, içlerinden ırmaklar akan cennetlere sokar. Onların önlerinden ve sağlarından (amellerinin) nurları aydınlatıp gider de, \"Ey Rabbimiz! Nurumuzu bizim için tamamla, bizi bağışla; çünkü sen her şeye kadirsin\" derler.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5238,
+        "text": "Ey Peygamber! Kafirlere ve münafıklara karşı cihad et, onlara karşı sert davran. Onların varacağı yer cehennemdir. O gidilecek yer ne de kötüdür!",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5239,
+        "text": "Allah, inkar edenlere, Nuh'un karısı ile Lut'un karısını misal verdi. Bu ikisi, kullarımızdan iki salih kişinin nikahları altında iken onlara hainlik ettiler. Kocaları Allah'tan gelen hiçbir şeyi onlardan savamadı. Onlara: Haydi, ateşe girenlerle beraber siz de girin! denildi.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5240,
+        "text": "Allah, inananlara da Firavun'un karısını misal gösterdi. O: Rabbim! Bana katında, cennette bir ev yap; beni Firavun'dan ve onun (kötü) işinden koru ve beni zalimler topluluğundan kurtar! demişti.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5241,
+        "text": "İffetini korumuş olan, İmran kızı Meryem'i de (Allah örnek gösterdi). Biz, ona ruhumuzdan üfledik ve Rabbinin sözlerini ve kitaplarını tasdik etti. O gönülden itaat edenlerdendi.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.vakfi",
+      "language": "tr",
+      "name": "Diyanet Vakfı",
+      "englishName": "Diyanet Vakfi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

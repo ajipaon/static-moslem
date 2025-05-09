@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "ḳul ûḥiye ileyye ennehü-steme`a neferum mine-lcinni feḳâlû innâ semi`nâ ḳur'ânen `acebâ.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "yehdî ile-rruşdi feâmennâ bih. velen nüşrike birabbinâ eḥadâ.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "veennehû te`âlâ ceddü rabbinâ me-tteḫaẕe ṣâḥibetev velâ veledâ.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "veennehû kâne yeḳûlü sefîhünâ `ale-llâhi şeṭaṭâ.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "veennâ żanennâ el len teḳûle-l'insü velcinnü `ale-llâhi keẕibâ.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "veennehû kâne ricâlüm mine-l'insi ye`ûẕûne biricâlim mine-lcinni fezâdûhüm raheḳâ.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "veennehüm żannû kemâ żanentüm el ley yeb`aŝe-llâhü eḥadâ.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "veennâ lemesne-ssemâe fevecednâhâ müliet ḥarasen şedîdev veşühübâ.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "veennâ künnâ naḳ`udü minhâ meḳâ`ide lissem`. femey yestemi`i-l'âne yecid lehû şihâber raṣadâ.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "veennâ lâ nedrî eşerrun ürîde bimen fi-l'arḍi em erâde bihim rabbühüm raşedâ.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "veennâ minne-ṣṣâliḥûne veminnâ dûne ẕâlik. künnâ ṭarâiḳa ḳidedâ.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "veennâ żanennâ el len nü`cize-llâhe fi-l'arḍi velen nü`cizehû herabâ.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "veennâ lemmâ semi`ne-lhüdâ âmennâ bih. femey yü'mim birabbihî felâ yeḫâfü baḫsev velâ raheḳâ.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "veennâ minne-lmüslimûne veminne-lḳâsiṭûn. femen esleme feülâike teḥarrav raşedâ.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "veemme-lḳâsiṭûne fekânû licehenneme ḥaṭabâ.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "veel levi-steḳâmû `ale-ṭṭarîḳati leesḳaynâhüm mâen gadeḳâ.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "lineftinehüm fîh. vemey yü`riḍ `an ẕikri rabbihî yeslükhü `aẕâben ṣa`adâ.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "veenne-lmesâcide lillâhi felâ ted`û me`a-llâhi eḥadâ.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "veennehû lemmâ ḳâme `abdü-llâhi yed`ûhü kâdû yekûnûne `aleyhi libedâ.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "ḳul innemâ ed`û rabbî velâ üşrikü bihî eḥadâ.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "ḳul innî lâ emlikü leküm ḍarrav velâ raşedâ.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "ḳul innî ley yücîranî mine-llâhi eḥadüv velen ecide min dûnihî mülteḥadâ.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "illâ belâgam mine-llâhi verisâlâtih. vemey ya`ṣi-llâhe verasûlehû feinne lehû nâra cehenneme ḫâlidîne fîhâ ebedâ.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "ḥattâ iẕâ raev mâ yû`adûne feseya`lemûne men aḍ`afü nâṣirav veeḳallü `adedâ.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "ḳul in edrî eḳarîbüm mâ tû`adûne em yec`alü lehû rabbî emedâ.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "`âlimü-lgaybi felâ yużhiru `alâ gaybihî eḥadâ.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "illâ meni-rteḍâ mir rasûlin feinnehû yeslükü mim beyni yedeyhi vemin ḫalfihî raṣadâ.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "liya`leme en ḳad eblegû risâlâti rabbihim veeḥâṭa bimâ ledeyhim veaḥṣâ külle şey'in `adedâ.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.transliteration",
+      "language": "tr",
+      "name": "Çeviriyazı",
+      "englishName": "Muhammet Abay",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  }
+}

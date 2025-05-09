@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "tebârake-lleẕî biyedihi-lmülk. vehüve `alâ külli şey'in ḳadîr.",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "elleẕî ḫaleḳa-lmevte velḥayâte liyeblüveküm eyyüküm aḥsenü `amelâ. vehüve-l`azîzü-lgafûr.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "elleẕî ḫaleḳa seb`a semâvâtin ṭibâḳâ. mâ terâ fî ḫalḳi-rraḥmâni min tefâvüt. ferci`i-lbeṣara hel terâ min füṭûr.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "ŝümme-rci`i-lbeṣara kerrateyni yenḳalib ileyke-lbeṣaru ḫâsiev vehüve ḥasîr.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "veleḳad zeyyenne-ssemâe-ddünyâ bimeṣâbîḥa vece`alnâhâ rucûmel lişşeyâṭîni vea`tednâ lehüm `aẕâbe-sse`îr.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "velilleẕîne keferû birabbihim `aẕâbü cehennem. vebi'se-lmeṣîr.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "iẕâ ülḳû fîhâ semi`û lehâ şehîḳav vehiye tefûr.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "tekâdü temeyyezü mine-lgayż. küllemâ ülḳiye fîhâ fevcün seelehüm ḫazenetühâ elem ye'tiküm neẕîr.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "ḳâlû belâ ḳad câenâ neẕîrun fekeẕẕebnâ veḳulnâ mâ nezzele-llâhü min şey'. in entüm illâ fî ḍalâlin kebîr.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "veḳâlû lev künnâ nesme`u ev na`ḳilü mâ künnâ fî aṣḥâbi-sse`îr.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "fa`terafû biẕembihim. fesuḥḳal liaṣḥâbi-sse`îr.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "inne-lleẕîne yaḫşevne rabbehüm bilgaybi lehüm magfiratüv veecrun kebîr.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "veesirrû ḳavleküm evi-cherû bih. innehû `alîmüm biẕâti-ṣṣudûr.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "elâ ya`lemü men ḫaleḳ. vehüve-lleṭîfü-lḫabîr.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "hüve-lleẕî ce`ale lekümü-l'arḍa ẕelûlen femşû fî menâkibihâ vekülû mir rizḳih. veileyhi-nnüşûr.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "eemintüm men fi-ssemâi ey yaḫsife bikümü-l'arḍa feiẕâ hiye temûr.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "em emintüm men fi-ssemâi ey yürsile `aleyküm ḥâṣibâ. feseta`lemûne keyfe neẕîr.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "veleḳad keẕẕebe-lleẕîne min ḳablihim fekeyfe kâne nekîr.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "evelem yerav ile-ṭṭayri fevḳahüm ṣâffâtiv veyaḳbiḍn. mâ yümsikühünne ille-rraḥmân. innehû bikülli şey'im beṣîr.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "emmen hâẕe-lleẕî hüve cündül leküm yenṣuruküm min dûni-rraḥmân. ini-lkâfirûne illâ fî gurûr.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "emmen hâẕe-lleẕî yerzüḳuküm in emseke rizḳah. bel leccû fî `utüvviv venüfûr.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "efemey yemşî mükibben `alâ vechihî ehdâ emmey yemşî seviyyen `alâ ṣirâṭim müsteḳîm.",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "ḳul hüve-lleẕî enşeeküm vece`ale lekümü-ssem`a vel'ebṣâra vel'ef'ideh. ḳalîlem mâ teşkürûn.",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "ḳul hüve-lleẕî ẕera'eküm fi-l'arḍi veileyhi tuḥşerûn.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "veyeḳûlûne metâ hâẕe-lva`dü in küntüm ṣâdiḳîn.",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "ḳul inneme-l`ilmü `inde-llâh. veinnemâ ene neẕîrum mübîn.",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "felemmâ raevhü zülfeten sîet vucûhü-lleẕîne keferû veḳîle hâẕe-lleẕî küntüm bihî tedde`ûn.",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "ḳul era'eytüm in ehlekeniye-llâhü vemem me`iye ev raḥimenâ femey yücîru-lkâfirîne min `aẕâbin elîm.",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "ḳul hüve-rraḥmânü âmennâ bihî ve`aleyhi tevekkelnâ. feseta`lemûne men hüve fî ḍalâlim mübîn.",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "ḳul era'eytüm in aṣbeḥa mâüküm gavran femey ye'tîküm bimâim me`în.",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "tr.transliteration",
+      "language": "tr",
+      "name": "Çeviriyazı",
+      "englishName": "Muhammet Abay",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  }
+}
