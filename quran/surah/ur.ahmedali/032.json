@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "المۤ",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "اس میں کچھ شک نہیں کہ یہ کتاب جہان کے پالنے والے کی طرف سے نازل ہوئی ہے",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "کیا وہ کہتے ہیں کہ اس نے خود بنائی ہے بلکہ یہ سچی کتاب تیرے رب کی طرف سے ہے تاکہ تو اس قوم کوڈرائے جن کے پاس تجھ سے پہلے کوئی ڈرانے والا نہیں آیا تاکہ وہ راہ پر آئيں",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "الله وہ ہے جس نے آسمانوں اور زمین کو اورجو کچھ ان میں ہے چھ روز میں بنایا پھر عرش پر قائم ہوا تمہارے لیے اس کے سوا نہ کوئی کارساز ہے نہ سفارشی پھر کیا تم نہیں سمجھتے",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "وہ آسمان سے لے کر زمین تک ہر کام کی تدبیر کرتا ہے پھراس دن بھی جس کی مقدار تمہاری گنتی سے ہزار برس ہو گی وہ انتظام اس کی طرف رجوع کرے گا",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "وہی چھپی اور کھلی بات کا جاننے والا زبردست مہربان ہے",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "جس نے جو چیز بنائی خوب بنائی اور انسان کی پیدائش مٹی سے شروع کی",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "پھر اس کی اولاد نچڑے ہوئے حقیر پانی سے بنائی",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "پھراس کے اعضا درست کیے اور اس میں اپنی روح پھونکی اور تمہارے لیے کان اور آنکھیں اور دل بنایا تم بہت تھوڑا شکر کرتے ہو",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "اور کہتے ہیں کہ ہم جب زمین میں نیست و نابود ہو گئے تو کیا پھر نئے سرے سے پیدا ہوں گے بلکہ وہ اپنے رب سے ملنے کے منکر ہیں",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "کہہ دو تمہاری جان موت کا وہ فرشتہ قبض کرے گا جو تم پر مقرر کیا گیا ہے پھر تم اپنے رب کے پاس لوٹائے جاؤ گے",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "اور کبھی تو دیکھے جس وقت منکر اپنے رب کے سامنے سر جھکائے ہوئے ہوں گے اے رب ہمارے ہم نے دیکھ اور سن لیا اب ہمیں پھر بھیج دے کہ اچھے کام کریں ہمیں یقین آ گیا ہے",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "اور اگر ہم چاہتے ہیں تو ہر شخص کو ہدایت پر لے آتے لیکن ہماری بات پوری ہو کر رہی کہ ہم جنوں اور آدمیوں سے جہنم بھر کر رہیں گے",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "تو اب اس کا مزہ چکھو کہ تم اپنے اس دن کے آنے کو بھول گئے تھے ہم نے تمہیں بھلا دیا اور اپنے کیے کے بدلہ میں ہمیشہ کا عذاب چکھو",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "بس ہماری آیتوں پر وہ ایمان لاتے ہیں کہ جب انہیں وہ آیتیں یاد دلائی جاتی ہیں تو وہ سجدہ میں گر پڑتے ہیں اور اپنے رب کی حمد کے ساتھ تسبیح بیان کرتے ہیں اور وہ تکبر نہیں کرتے",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "اپنے بستروں سے اٹھ کر اپنے رب کو خوف اور امید سے پکارتے ہیں اور ہمارے دیئے میں سے کچھ خرچ بھی کرتے ہیں",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "پھر کوئی شخص نہیں جانتا کہ ان کے عمل کے بدلہ میں ان کی آنکھو ں کی کیا ٹھنڈک چھپا رکھی ہے",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "کیا مومن اس کے برابر ہے جو نا فرمان ہو برابر نہیں ہو سکتے",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "سو وہ لوگ جو ایمان لائے اور اچھے کام کیے تو ان کے ان کاموں کے سبب جو وہ کیا کرتے تھے مہمانی میں ہمیشہ رہنے کے باغ ہیں",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "اور جنہوں نے نافرمانی کی ان کا ٹھکانا آگ ہے جب وہاں سے نکلنے کا ارداہ کریں گے تو اس میں پھر لوٹا دیئے جائیں گے اور انہیں کہا جائے گا آگ کا وہ عذاب چکھو جسے تم جھٹلایا کرتے تھے",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "اور ہم انہیں قریب کا عذاب بھی اس بڑے عذاب سے پہلے چکھائیں گے تاکہ وہ باز آ جائیں",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "اوراس سے بڑھ کر کون ظالم ہوگا جسے اس کے رب کی آیتوں سے سمجھایا جائے پھر وہ ان سے منہ موڑے ہمیں تو گنہگاروں سے بدلہ لینا ہے",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "اور البتہ ہم نے موسیٰ کو کتاب دی تھی پھر آپ اس کے ملنے میں شک نہ کریں اور ہم نے ہی اسے بنی اسرائیل کے لیے راہ نما بنایا تھا",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "اور ہم نے ان میں سے پیشوا بنائے تھے جو ہمارے حکم سے رہنمائی کرتے تھے جب انہوں نے صبر کیا تھا اور وہ ہماری آیتوں پر یقین بھی رکھتے تھے",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "بے شک تیرا رب ہی قیامت کے دن ان میں فیصلہ کرے گا جس بات میں وہ اختلاف کرتے تھے",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "کیا انھیں اس سے بھی رہنمائی نہ ہوئی کہ ان سے پہلے ہم نے کتنی جماعتیں ہلاک کر دی ہیں جن کے گھروں میں یہ چلتے پھرتے ہیں بے شک اس میں بڑی نشانیاں ہیں پھر کیا وہ سنتے بھی نہیں",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "کیا وہ نہیں دیکھتے کہ ہم پانی کو خشک زمین کی طرف رواں کر کے ا س سے کھیتی نکالتے ہیں جس سے ان کے چار پائے اوروہ خود بھی کھاتے ہیں پھر کیا وہ دیکھتے نہیں",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "اور کہتے ہیں کہ اگر تم سچے ہو تو یہ فیصلہ کب ہوگا",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "کہہ دو کہ فیصلہ کا دن کافرو ں کو ان کا ایمان لانا نفع نہ دے گا اور نہ ہی انہیں مہلت دی جائے گی",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "سو ان سے کنارہ کر اور انتظار کر وہ بھی انتظار کر رہے ہیں",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.ahmedali",
+      "language": "ur",
+      "name": "احمد علی",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

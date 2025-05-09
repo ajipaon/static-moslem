@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "وہ ذات با برکت ہے جس کے ہاتھ میں سب حکومت ہے اور وہ ہر چیز پر قادر ہے",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "جس نے موت اور زندگی کو پیدا کیا تاکہ تمہیں آزمائيں کہ تم میں کس کے کام اچھے ہیں اور وہ غالب بخشنے والا ہے",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "جس نے سات آسمان اوپر تلے بنائے تو رحمان کی اس صنعت میں کوئی خلل نہ دیکھے گا تو پھر نگاہ دوڑا کیا تجھے کوئی شگاف دکھائی دیتا ہے",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "پھر دوبارہ نگاہ کر تیری طرف نگاہ ناکام لوٹ آئے گی اور وہ تھکی ہوئی ہو گی",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "اور ہم نے دنیا کے آسمان کو چراغوں سے آراستہ کیا ہے اور ہم نے انہیں شیطانوں کو مارنے کے لیے آلہ بنا دیا ہے اور ہم نے ان کے لیے بھڑکتی آگ کا عذاب تیار کر رکھا ہے",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "اور جنہوں نے اپنے رب کا انکار کیا ہے ان کے لیے جہنم کا عذاب ہے اور وہ بہت ہی بری جگہ ہے",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "جب اس میں ڈالے جائیں گے تو اس کے شور کی آواز سنیں گے اور وہ جوش مارتی ہوگی",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "ایسا معلوم ہو گا کہ جوش کی وجہ سے ابھی پھٹ پڑے گی جب اس میں ایک گروہ ڈالا جائے گا تو ان سے دوزخ کے داروغہ پوچھیں گے کیاتمہارے پاس کوئی ڈرانے والا نہیں آیا تھا",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "وہ کہیں گے ہاں بے شک ہمارے پاس ڈرنے والا آیا تھا پر ہم نے جھٹلا دیا اور کہہ دیا کہ الله نے کچھ بھی نازل نہیں کیا تم خود بڑی گمراہی میں پڑے ہوئے ہو",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "اور کہیں گے کہ اگر ہم نے سنا یا سمجھا ہوتا تو ہم دوزخیوں میں نہ ہوتے",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "پھر وہ اپنے گناہ کا اقرار کریں گے سو دوزخيوں پر پھٹکار ہے",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "بے شک جو لوگ اپنے رب سے بن دیکھے ڈرتے ہیں ان کے لیے بخشش اور بڑا اجر ہے",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "اور تم اپنی بات کو چھپاؤ یا ظاہر کرو بے شک وہ سینوں کے بھید خوب جانتا ہے",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "بھلا وہ نہیں جانتا جس نے (سب کو) پیدا کیا وہ بڑا باریک بین خبردار ہے",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "وہی تو ہے جس نے تمہارے لیے زمین کو نرم کر دیا سو تم اس کے راستوں میں چلو پھر اور الله کے رزق میں سے کھاؤ اور اسی کے پاس پھر کر جانا ہے",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "کیا تم اس سے ڈرتے نہیں جو آسمان میں ہے کہ وہ تمہیں زمین میں دھنسا دے پس یکایک وہ لرزنے لگے",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "کیا تم اس سے نڈر ہو گئے ہو جو آسمان میں ہے وہ تم پر پتھر برسا دے پھر تمہیں معلوم ہو جائے گا کہ میرا ڈرانا کیسا ہے",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "اور ان سے پہلے لوگ بھی جھٹلا چکے ہیں پھر ہماری ناراضگی کاکیا نتیجہ ہوا",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "اور کیا انہوں نے اپنے اوپر پرندوں کو پر کھولتے اور سکیڑتے ہوئے نہیں دیکھا جنہیں رحمان کے سوا کوئی نہیں تھام رہا بے شک وہ ہر چیز کو دیکھ رہاہے",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "بھلا وہ تمہارا کون سا لشکر ہے جو رحمنٰ کے مقابلہ میں تمہاری مدد کرے گا کچھ نہیں کافر تو دھوکے میں پڑے ہوئے ہیں",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "بھلا وہ کون ہے جو تم کو روزی دے گا اگر وہ اپنی روزی بند کر لے کچھ نہیں بلکہ وہ سرکشی اور نفرت میں اڑے بیٹھے ہیں",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "پس کیا وہ شخص جو اپنے منہ کے بل اوندھا چلتا ہے وہ زیادہ راہِ راست پر ہے یا وہ جو سیدھے راستے پر سیدھا چلا جاتا ہے",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "کہہ دو اسی نے تم کو پیدا کیا ہے اور تمہارے لیے کان اور آنکھ اور دل بھی بنائے ہیں (مگر) تم بہت ہی کم شکر کرتے ہو",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "کہہ دو اسی نے تمہیں زمین میں پھیلایا ہے اور اسی کے پاس جمع کر کے لائے جاؤ گے",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "اور وہ کہتے ہیں کہ یہ وعدہ کب ہو گا اگر تم سچے ہو",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "کہہ دو اس کی خبر تو الله ہی کو ہے اور میں تو صاف صاف ڈرانے والا ہوں",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "پھر جب وہ اسے قریب دیکھیں گے تو ان کی صورتیں بگڑ جائیں گی جو کافر ہیں اور کہا جائے گا یہ وہی ہے جسے تم دنیا میں مانگا کرتے تھے",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "کہہ دو بھلادیکھو تو سہی اگر الله مجھے اور میرے ساتھ والوں کو ہلاک کرے یا ہم پر رحم کرے پھر وہ کون ہے جو منکروں کو دردناک عذاب سے بچا سکے",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "کہہ دو وہی رحمنٰ ہے ہم اس پر ایمان لائے اور اسی پر ہم نے بھروسہ بھی کررکھا پس عنقریب تم جان لو گے کون صریح گمراہی میں ہے",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "کہہ دو بھلا دیکھو تو سہی اگر تمہارا پانی خشک ہو جائے تو وہ کون ہے جو تمہارے پاس صاف پانی لے آئے گا",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.ahmedali",
+      "language": "ur",
+      "name": "احمد علی",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
