@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "In the Name of Allah, the Merciful, the Most Merciful",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "Praise be to Allah, Lord of the Worlds,",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "the Merciful, the Most Merciful,",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "Owner of the Day of Recompense.",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "You (alone) we worship; and You (alone) we rely for help.",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "Guide us to the Straight Path,",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "the Path of those upon whom You have favored, not those upon whom is the anger, nor the astray. (Amen please answer)",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

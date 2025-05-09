@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "Hath there come unto thee tidings of the Overwhelming?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "On that day (many) faces will be downcast,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "Toiling, weary,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "Scorched by burning fire,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "Drinking from a boiling spring,",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "No food for them save bitter thorn-fruit",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "Which doth not nourish nor release from hunger.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "In that day other faces will be calm,",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "Glad for their effort past,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "In a high Garden",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "Where they hear no idle speech,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "Wherein is a gushing spring,",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "Wherein are couches raised",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "And goblets set at hand",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "And cushions ranged",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "And silken carpets spread.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "Will they not regard the camels, how they are created?",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "And the heaven, how it is raised?",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "And the hills, how they are set up?",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "And the earth, how it is spread?",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "Remind them, for thou art but a remembrancer,",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "Thou art not at all a warder over them.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "But whoso is averse and disbelieveth,",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "Allah will punish him with direst punishment.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "Lo! unto Us is their return",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "And Ours their reckoning.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

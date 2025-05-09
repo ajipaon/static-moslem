@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "Praise the name of thy Lord the Most High,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "Who createth, then disposeth;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "Who measureth, then guideth;",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "Who bringeth forth the pasturage,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "Then turneth it to russet stubble.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "We shall make thee read (O Muhammad) so that thou shalt not forget",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "Save that which Allah willeth. Lo! He knoweth the disclosed and that which still is hidden;",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "And We shall ease thy way unto the state of ease.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "Therefor remind (men), for of use is the reminder.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "He will heed who feareth,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "But the most hapless will flout it,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "He who will be flung to the great Fire",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "Wherein he will neither die nor live.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "He is successful who groweth,",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "And remembereth the name of his Lord, so prayeth,",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "But ye prefer the life of the world",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "Although the Hereafter is better and more lasting.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "Lo! This is in the former scrolls.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "The Books of Abraham and Moses.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

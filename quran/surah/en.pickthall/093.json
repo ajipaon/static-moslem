@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6080,
+        "text": "By the morning hours",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "And by the night when it is stillest,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "Thy Lord hath not forsaken thee nor doth He hate thee,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "And verily the latter portion will be better for thee than the former,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "And verily thy Lord will give unto thee so that thou wilt be content.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "Did He not find thee an orphan and protect (thee)?",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "Did He not find thee wandering and direct (thee)?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "Did He not find thee destitute and enrich (thee)?",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "Therefor the orphan oppress not,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "Therefor the beggar drive not away,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "Therefor of the bounty of thy Lord be thy discourse.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

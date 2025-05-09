@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "By the sun and his brightness,",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "And the moon when she followeth him,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "And the day when it revealeth him,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "And the night when it enshroudeth him,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "And the heaven and Him Who built it,",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "And the earth and Him Who spread it,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "And a soul and Him Who perfected it",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "And inspired it (with conscience of) what is wrong for it and (what is) right for it.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "He is indeed successful who causeth it to grow,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "And he is indeed a failure who stunteth it.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "(The tribe of) Thamud denied (the truth) in their rebellious pride,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "When the basest of them broke forth",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "And the messenger of Allah said: It is the she-camel of Allah, so let her drink!",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings).",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "He dreadeth not the sequel (of events).",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

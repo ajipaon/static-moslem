@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O you (Prophet Muhammad) wrapped,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "rise (to pray) the night except a little;",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "half the night, or a little less",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "or a little more; and with recitation, recite the Koran.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "We are about to cast upon you a weighty Word.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "Indeed, the first part of night is heavier in tread, and more upright in speech.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "You have by day prolonged occupations.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Remember the Name of your Lord and dedicate yourself devoutly to Him.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "He is the Lord of the East and the West; there is no god except Him. Take Him for your Guardian.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "Bear patiently with what they say and with a fine abandonment forsake them.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "Leave to Me those who belie, those who lead a life of pleasure, and bear with them yet a little while.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "We have fetters (for them) and a blazing fire,",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "choking food and a painful punishment.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "On the Day when the earth with all its mountains quake and the mountains become heaps of shifting sand.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Indeed, We have sent to you a Messenger as a witness over you, just as We sent a Messenger to Pharaoh.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Pharaoh disobeyed Our Messenger, so We seized him remorselessly.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "If you disbelieve, how will you guard yourself against the Day that will make children gray haired,",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "on which the heaven will split apart, and His promise is done.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "This is indeed a Reminder. Let whosoever will take the Path to his Lord.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Your Lord knows that you keep vigil nearly two thirds of the night and sometimes half or onethird of it, and a party of those with you. Allah measures thenight and the day. He knows that you cannot count it, and turns to you. Therefore, recite from the Koran as much as is easy (for you); He knows that among youthere are the sick and others traveling the road seeking the bounty of Allah; and others fighting in the Way of Allah. So then, recite from it as much as is easy. Establish your prayers, pay the obligatory charity, and lend Allah a generous loan. Whatever good you shall forward to your souls' account, you surely will find it better with Allah, and a mightier wage. And supplicate for the forgiveness of Allah. Allah is the Forgiving, the Merciful.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

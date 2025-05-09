@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "Perish the hands of AbiLahab, and perish he!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "His wealth will not suffice him, neither what he has gained;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "he shall roast at a Flaming Fire,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "and his wife, laden with firewood",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "shall have a rope of palmfiber around her neck!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

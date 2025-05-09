@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "By the time of the afternoon!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "Surely, the human is in a (state of) loss,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "except those who believe and do good works and charge one another with the truth and charge one another with patience.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

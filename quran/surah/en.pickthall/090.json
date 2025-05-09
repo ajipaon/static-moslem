@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "Nay, I swear by this city -",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "And thou art an indweller of this city -",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "And the begetter and that which he begat,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "We verily have created man in an atmosphere:",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "Thinketh he that none hath power over him?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "And he saith: I have destroyed vast wealth:",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "Thinketh he that none beholdeth him?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "Did We not assign unto him two eyes",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "And a tongue and two lips,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "And guide him to the parting of the mountain ways?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "But he hath not attempted the Ascent -",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "Ah, what will convey unto thee what the Ascent is! -",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "(It is) to free a slave,",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "And to feed in the day of hunger.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "An orphan near of kin,",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "Or some poor wretch in misery,",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "And to be of those who believe and exhort one another to perseverance and exhort one another to pity.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "Their place will be on the right hand.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "But those who disbelieve Our revelations, their place will be on the left hand.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "Fire will be an awning over them.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

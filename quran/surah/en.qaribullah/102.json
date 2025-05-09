@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "The excessive gathering (of increase and boasting) occupied you (from worshipping and obeying)",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "until you visit the graves.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "But no, indeed, you shall soon know.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "Again, no indeed, you shall soon know.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "Indeed, did you know with certain knowledge",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "that you shall surely see Hell?",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "Again, you shall surely see it with the sight of certainty.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "On that Day, you shall be questioned about the pleasures.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

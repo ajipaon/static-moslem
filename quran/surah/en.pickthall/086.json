@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "By the heaven and the Morning Star",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "- Ah, what will tell thee what the Morning Star is!",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "- The piercing Star!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "No human soul but hath a guardian over it.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "So let man consider from what he is created.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "He is created from a gushing fluid",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "That issued from between the loins and ribs.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "Lo! He verily is Able to return him (unto life)",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "On the day when hidden thoughts shall be searched out.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "Then will he have no might nor any helper.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "By the heaven which giveth the returning rain,",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "And the earth which splitteth (with the growth of trees and plants)",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "Lo! this (Qur'an) is a conclusive word,",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "It is no pleasantry.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "Lo! they plot a plot (against thee, O Muhammad)",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "And I plot a plot (against them).",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "So give a respite to the disbelievers. Deal thou gently with them for a while.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
