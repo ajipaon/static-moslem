@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "When the earth is shaken with its appointed tremor.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "And the earth throws out its burdens.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "And man says, “What has happened to it?”",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "On that day earth will narrate its news,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "Because your Lord sent a command to it.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "On that day men will return towards their Lord, in different groups, in order to be shown their deeds.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "So whoever does a good deed equal to the weight of the minutest particle, will see it.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "And whoever does an evil deed equal to the weight of the minutest particle, will see it.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.ahmedraza",
+      "language": "en",
+      "name": "Ahmed Raza Khan",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

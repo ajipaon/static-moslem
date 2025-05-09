@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "When earth is shaken with a mighty shaking",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "and earth brings forth her burdens,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "and Man says., 'What ails her?'",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "upon that day she shall tell her tidings",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "for that her Lord has inspired her.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "Upon that day men shall issue in scatterings to see their works,",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "and whoso has done an atom's weight of good shall see it,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "and whoso has done an atom's weight of evil shall see it.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.arberry",
+      "language": "en",
+      "name": "Arberry",
+      "englishName": "A. J. Arberry",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

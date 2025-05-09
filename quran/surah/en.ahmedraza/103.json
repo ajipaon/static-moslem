@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "By oath of this era of yours (O dear Prophet Mohammed – peace and blessings be upon him).",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "Indeed man is surely in a loss.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "Except those who accepted faith, and did good deeds and urged one another to the truth – and urged one another to have patience.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.ahmedraza",
+      "language": "en",
+      "name": "Ahmed Raza Khan",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

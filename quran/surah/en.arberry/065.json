@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "سُورَةُ الطَّلَاقِ",
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5218,
+        "text": "O Prophet, when you divorce women, divorce them when they have reached their period. Count the period, and fear God your Lord. Do not expel them from their houses, nor let them go forth, except when they commit a flagrant indecency. Those are God's bounds; whosoever trespasses the bounds of God has done wrong to himself. Thou knowest not, perchance after that God will bring something new to pass.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5219,
+        "text": "Then, when they have reached their term, retain them honourably, or part from them honourably. And call in to witness two men of equity from among yourselves; and perform the witnessing to God Himself. By this then is admonished whosoever believes in God and the Last Day. And whosoever fears God, He will appoint for him a way out,",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5220,
+        "text": "and He will provide for him from whence he never reckoned. And whosoever puts his trust in God, He shall suffice him. God attains his purpose. God has appointed a measure for everything.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5221,
+        "text": "As for your women who have despaired of further menstruating, if you are in doubt, their period shall be three months; and those who have not menstruated as yet. And those who are with child, their term is when they bring forth their burden. Whoso fears God, God will appoint for him, of His command, easiness.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5222,
+        "text": "That is God's command, that He has sent down unto you. And whosoever fears God, He will acquit him of his evil deeds, and He will give him a mighty wage.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5223,
+        "text": "Lodge them where you are lodging, according to your means, and do not press them, so as to straiten their circumstances. If they are with child, expend upon them until they bring forth their burden. If they suckle for you, give them their wages, and consult together honourably. If you both make difficulties, another woman shall suckle for him.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5224,
+        "text": "Let the man of plenty expend out of his plenty. As for him whose provision is stinted to him, let him expend of what God has given him. God charges no soul save with what He has given him. God will assuredly appoint, after difficulty, easiness.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5225,
+        "text": "How many a city turned in disdain from the commandment of its Lord and His Messengers; and then We made with it a terrible reckoning and chastised it with a horrible chastisement.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5226,
+        "text": "So it tasted the mischief of its action, and the end of its affair was loss.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5227,
+        "text": "God prepared for them a terrible chastisement. So fear God, O men possessed of minds! Believers, God has sent down to you, for a remembrance,",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5228,
+        "text": "a Messenger reciting to you the signs of God, clear signs, that He may bring forth those who believe and do righteous deeds from the shadows into the light. Whosoever believes in God, and does righteousness, He will admit him to gardens underneath which rivers flow; therein they shall dwell for ever and ever. God has made for him a goodly provision.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5229,
+        "text": "It is God who created seven heavens, and of earth their like, between them the Command descending, that you may know that God is powerful over everything and that God encompasses everything in knowledge.",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.arberry",
+      "language": "en",
+      "name": "Arberry",
+      "englishName": "A. J. Arberry",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

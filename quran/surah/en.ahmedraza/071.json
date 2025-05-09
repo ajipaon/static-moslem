@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Indeed We sent Nooh towards his people saying that, “Warn your people before the painful punishment comes upon them.”",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "He said, “O my people! I am indeed a Herald of clear warnings to you.”",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "“That you must worship Allah and fear Him, and obey me.”",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "“He will forgive you some of your sins, and give you respite up to an appointed term; indeed the promise of Allah cannot be averted when it arrives; if only you knew.”",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "He said, “My Lord! I invited my people night and day.”",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "“So for them, my calling them increased their fleeing away.”",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "“And whenever I called them, so that You may forgive them, they always thrust their fingers into their ears, and covered themselves with their clothes, and remained stubborn and were extremely haughty.”",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "“I then called them openly.”",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "“Then I also told them publicly and also spoke to them softly in private.”",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "“I therefore told them, ‘Seek forgiveness from your Lord; He is indeed Most Forgiving.’",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "‘He will send down abundant rain for you from the sky.’",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "‘And will aid you with wealth and sons, and will create gardens for you and cause rivers to flow for you.’",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "‘What is the matter with you, that you do not desire honour from Allah?’",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "‘Whereas it is He Who created you in different stages?’",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "‘Do you not see how Allah has created the seven heavens atop each other?’",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "‘And in them, has illuminated the moon, and made the sun a lamp?’",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "‘And it is Allah Who made you grow like vegetation from the earth.’",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "‘And He will then take you back to it, and again remove you from it.”",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "‘And it is Allah Who made the earth a bed for you.’",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "‘So that you may tread the wide roads in it.’”",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Prayed Nooh, “O my Lord! They have disobeyed me, and they follow the one whose wealth and children increase nothing for him except ruin.”",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "“And they carried out a very sinister scheme.”",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "“And they said, ‘Do not ever abandon your Gods – and never abandon Wadd, or Suwa – or Yaghuth or Yauq or Nasr.’”",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "“And they have misled a large number; and (I pray that) You increase nothing for the unjust except error.”",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "Because of their sins they were drowned and then put into the fire; so they did not find any supporter for themselves against Allah. (Punishment in the grave is proven by this verse.)",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "And prayed Nooh, “O my Lord! Do not leave any of the disbelievers dwelling in the land.”",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "“Indeed, if You spare them, they will mislead your bondmen – and their descendants, if any, will be none except the wicked, very ungrateful.”",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "“O my Lord! Forgive me, and my parents, and the believers who are in my house, and all other Muslim men and Muslim women; and do not increase anything for the unjust except ruin.”",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.ahmedraza",
+      "language": "en",
+      "name": "Ahmed Raza Khan",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

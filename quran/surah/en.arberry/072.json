@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Say: 'It has been revealed to me that a company of the jinn gave ear, then they said, \"We have indeed heard a Koran wonderful,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "guiding to rectitude. We believe in it, and we will not associate with our Lord anyone.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "He -- exalted be our Lord's majesty! has not taken to Himself either consort or a son.",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "The fool among us spoke against God outrage,",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "and we had thought that men and jinn would never speak against God a lie.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "But there were certain men of mankind who would take refuge with certain men of the jinn, and they increased them in vileness,",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "and they thought, even as you also thought, that God would never raise up anyone.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "And we stretched towards heaven, but we found it filled with terrible guards and meteors.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "We would sit there on seats to hear; but any listening now finds a meteor in wait for him.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "And so we know not whether evil is intended for those in the earth, or whether their Lord intends for them rectitude.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "And some of us are the righteous, and some of us are otherwise; we are sects differing.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Indeed, we thought that we should never be able to frustrate God in the earth, neither be able to frustrate Him by flight.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "When we heard the guidance, we believed in it; and whosoever believes in his Lord, he shall fear neither paltriness nor vileness.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "And some of us have surrendered, and some of us have deviated. Those who have surrendered sought rectitude;",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "but as for those who have deviated, they have become firewood for Gehenna!\"'",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Would they but go straight on the way, We would give them to drink of water copious,",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "that We might try them therein. And whosoever turns away from the Remembrance of his Lord, He will thrust him into chastisement rigorous.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "The places of worship belong to God; so call not, along with God, upon anyone.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "When the servant of God stood calling on Him, they were wellnigh upon him in swarms.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Say: 'I call only upon my Lord, and I do not associate with Him anyone.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Say: 'Surely I possess no power over you, either for hurt or for rectitude.'",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Say: 'From God shall protect me not anyone, and I shall find, apart from Him, no refuge,",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "excepting a Deliverance from God and His Messages. And whoso rebels against God and His messenger, for him there awaits the Fire of Gehenna; therein they shall dwell forever.'",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Until, when they see that which they are promised, then they will know who is weaker in helpers and fewer in numbers.",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Say: 'I do not know whether that which you are promised is nigh, or whether my Lord will appoint for it a space;",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Knower He of the Unseen, and He discloses not His Unseen to anyone,",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "save only to such a Messenger as He is well-pleased with; then He despatches before him and behind him watchers,",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "that He may know they have delivered the Messages of their Lord; and He encompasses all that is with them, and He has numbered everything in numbers.'",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.arberry",
+      "language": "en",
+      "name": "Arberry",
+      "englishName": "A. J. Arberry",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

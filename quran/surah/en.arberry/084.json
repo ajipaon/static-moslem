@@ -1,0 +1,302 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 84,
+    "name": "سُورَةُ الانشِقَاقِ",
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Splitting Open",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 25,
+    "ayahs": [
+      {
+        "number": 5885,
+        "text": "When heaven is rent asunder",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5886,
+        "text": "and gives ear to its Lord, and is fitly disposed;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5887,
+        "text": "when earth is stretched out",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5888,
+        "text": "and casts forth what is in it, and voids itself,",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5889,
+        "text": "and gives ear to its Lord, and is fitly disposed!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5890,
+        "text": "O Man! Thou art labouring unto thy Lord laboriously, and thou shalt encounter Him.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5891,
+        "text": "Then as for him who is given his book in his right hand,",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5892,
+        "text": "he shall surely receive an easy reckoning",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5893,
+        "text": "and he will return to his family joyfully.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5894,
+        "text": "But as for him who is given his book behind his back,",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5895,
+        "text": "he shall call for destruction",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5896,
+        "text": "and he shall roast at a Blaze.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5897,
+        "text": "He once lived among his family joyfully;",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5898,
+        "text": "he surely thought he would never revert.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5899,
+        "text": "Yes indeed; his Lord had sight of him.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5900,
+        "text": "No! I swear by the twilight",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5901,
+        "text": "and the night and what it envelops",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5902,
+        "text": "and the moon when it is at the full,",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5903,
+        "text": "you shall surely ride stage after stage.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5904,
+        "text": "Then what ails them, that they believe not,",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5905,
+        "text": "and when the Koran is recited to them they do not bow?",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": {
+          "id": 14,
+          "recommended": true,
+          "obligatory": false
+        }
+      },
+      {
+        "number": 5906,
+        "text": "Nay, but the unbelievers are crying lies,",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5907,
+        "text": "and God knows very well what they are secreting.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5908,
+        "text": "So give them good tidings of a painful chastisement,",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5909,
+        "text": "except those that believe, and do righteous deeds -- theirs shall be a wage unfailing.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.arberry",
+      "language": "en",
+      "name": "Arberry",
+      "englishName": "A. J. Arberry",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
