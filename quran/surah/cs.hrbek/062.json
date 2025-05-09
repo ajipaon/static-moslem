@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Oslavuje Boha vše, co na nebesích je i na zemi: vládce přesvatého, mocného i moudrého!",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "On je ten, jenž poslal mezi národy nevědomé posla z řad jejich, aby jim přednášel znamení Jeho, očistil je a Písmu a moudrosti je naučil, zatímco dříve žily v bludu zjevném.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "A jsou jiní mezi nimi, kdož dosud s nimi se nesjednotili. A On mocný je i moudrý.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "Toto je dobrodiní Boží a On dává je tomu, komu chce; a Bůh je pln dobrodiní nesmírného!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "Ti, kterým bylo dáno nésti Tóru, a oni ji potom nenesli, jsou podobni oslu, jenž naložen je knihami. Jak hnusná je podoba lidí, kteří za lež prohlašují znamení Boží! Ale Bůh nepovede cestou správnou lid nespravedlivý.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Rci: \"Vy, kteří vyznáváte židovství! Domníváte-li se, že jste Bohu bližší než ostatní lidé, pak si přejte smrt, jste-li pravdomluvní!\"",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "Ale oni si ji nikdy nebudou přát kvůli tomu, co provedly již předtím ruce jejich. A Bůh dobře zná nespravedlivé.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Rci: \"Smrt, před níž prcháte, se s vámi věru setká! Potom budete navráceni k Tomu, jenž zná nepoznatelné i všeobecně známé, a On vás již poučí o všem, co jste dělali!\"",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "Vy, kteří věříte! Když voláno je k modlitbě v den páteční, pospíchejte vzpomínat Boha a zanechte obchodování! To bude pro vás lepší, jste-li vědoucí.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "A když bude modlitba skončena, rozejděte se po zemi a usilujte o část přízně Boží! A vzpomínejte často Boha, snad budete blažení!",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Však když spatří zboží nebo zábavu, pospíchají k nim a nechávají tě stát. Rci: \"To, co je u Boha, je lepší než zábava a obchodování; Bůh nejlepší je z těch, kdo obživu uštědřují!\"",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.hrbek",
+      "language": "cs",
+      "name": "Hrbek",
+      "englishName": "Preklad I. Hrbek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

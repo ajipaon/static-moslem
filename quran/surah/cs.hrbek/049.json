@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 49,
+    "name": "سُورَةُ الحُجُرَاتِ",
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 18,
+    "ayahs": [
+      {
+        "number": 4613,
+        "text": "Vy, kteří věříte! Nesnažte se předejít Boha a posla jeho! Buďte bohabojní, vždyť Bůh věru je slyšící, vševědoucí!",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4614,
+        "text": "Vy, kteří věříte! Nezvedejte hlas svůj nad hlas prorokův a neobracejte se k němu s řečí hlučnou, tak jak to děláte mezi sebou, aby se skutky vaše nestaly marnými, aniž o tom budete mít tušení.",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4615,
+        "text": "Věru ti, kdož snižují hlasy své před poslem Božím jsou ti, jejichž srdce Bůh podrobil zkoušce bohabojnosti a těm náleží odměna nesmírná a odpuštění.",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4616,
+        "text": "Avšak většina z těch, kdož tě hlasitě vyvolávají z komnat tvých, jsou lidé nerozumní.",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4617,
+        "text": "Kdyby trpělivě vyčkali, dokud k nim nevyjdeš, bylo by to pro ně lepší; a Bůh je odpouštějící, slitovný.",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4618,
+        "text": "Vy, kteří věříte! Přijde-li k vám hanebník s nějakou zvěstí, snažte se ji objasnit tak, abyste z nevědomosti své nepoškodili lidi a abyste nemusili litovat toho, co jste učinili.",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4619,
+        "text": "Vězte, že kdyby posel Boží, který mezi vámi dlí, vás uposlechl ve většině záležitostí, věru byste škodu utrpěli! Avšak Bůh způsobil, že milujete víru, a učinil ji krásnou v srdcích vašich, zatímco vám zošklivil nevěrectví, hanebnosti a neposlušnost. A to jsou ti, kdož řídí se cestou správnou",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4620,
+        "text": "díky laskavosti a dobrodiní Božímu. A Bůh je vševědoucí, moudrý.",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4621,
+        "text": "Bojují-li mezi sebou dvě skupiny věřících, usmiřte je! A činí-li jedna skupina z těch dvou bezpráví druhé, bojujte proti těm, kdo činí bezpráví, dokud se před rozkazem Božím neskloní! A když se skloní, usmiřte obě strany spravedlivě a buďte nestranní, neboť Bůh věru miluje ty, kdož jsou nestranní!",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4622,
+        "text": "Věřící jsou si přece bratry; usmiřujte tedy oba bratry své a buďte bohabojní - snad dostane se vám smilování!",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4623,
+        "text": "Vy, kteří věříte! Nechť neposmívají se jedni lidé druhým, možná že tito jsou lepší než oni! A nechť jedny ženy se neposmívají druhým, možná že tyto jsou lepší než ony! Neurážejte se vzájemně a nenazývejte se přezdívkami! A jak hnusný je název \"hanebník\" poté, co byla přijata víra! A ti, kdož se nebudou kát, jsou věru nespravedliví!",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4624,
+        "text": "Vy, kteří věříte! Střezte se přílišného podezřívání druhých, vždyť některá podezření jsou hříchem! Nevyzvídejte a nepomlouvejte se vzájemně! Což si někdo z vás přeje jíst maso bratra svého mrtvého - vždyť by vám to bylo odporné! Buďte bohabojní, neboť Bůh věru je blahovolný ke kajícníku a slitovný.",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4625,
+        "text": "Lidé, věru jsme vás stvořili z muže a ženy a učinili jsme z vás národy a kmeny, abyste se vzájemně poznali. Avšak nejvznešenější z vás před Bohem je ten, kdo je nejbohabojnější - a Bůh je vševědoucí a dobře zpravený.",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4626,
+        "text": "A říkají kočovní Arabové: \"Uvěřili jsme!\" Rci: \"Neuvěřili jste! Spíše řekněte:, Přistoupili jsme k islámu!?, neboť víra ještě nevešla do srdcí vašich. Budete-li poslouchat Boha a posla Jeho, On věru nedopustí, aby ztratilo se něco ze skutků vašich, vždyť Bůh je odpouštějící, slitovný!\"",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4627,
+        "text": "Věřícími jsou pouze ti, kdož uvěřili v Boha a posla Jeho a poté nepodlehli pochybnostem, nýbrž bojovali majetky i osobami svými na cestě Boží - a tito jsou věru upřímní.",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4628,
+        "text": "Rci: \"Chcete snad poučovat Boha o náboženství svém, když Bůh dobře zná vše, co na nebesích je i na zemi? Bůh o každé věci je vševědoucí.\"",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4629,
+        "text": "A domnívají se, že tobě udělali milost, když přistoupili k islámu. Rci: \"Netvrďte mi, že vaše přistoupení k islámu je nějakou milostí vůči mně! Naopak Bůh vám učinil milost tím, že vás přivedl k víře - jste-li pravdomluvní!\"",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4630,
+        "text": "A Bůh vskutku zná nepoznatelné na nebesích i na zemi a Bůh vše, co děláte, jasně zří.",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.hrbek",
+      "language": "cs",
+      "name": "Hrbek",
+      "englishName": "Preklad I. Hrbek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

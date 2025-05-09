@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 48,
+    "name": "سُورَةُ الفَتۡحِ",
+    "englishName": "Al-Fath",
+    "englishNameTranslation": "The Victory",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 4584,
+        "text": "Věru jsme ti dali dosáhnout úspěchu zřetelného,",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4585,
+        "text": "(abys zvěděl), že Bůh ti odpustil tvé viny dřívější i pozdější a že dobrodiní Své k tobě dovršil a že vede tě stezkou přímou",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4586,
+        "text": "a že Bůh ti pomáhá pomocí mocnou!",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4587,
+        "text": "On je ten, jenž sesílá sakínu do srdcí věřících, aby přidali další víru k víře své - a Bohu patří vojska nebeská i pozemská a Bůh vševědoucí je i moudrý",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4588,
+        "text": "a aby věřící muže a věřící ženy uvedl do zahrad, pod nimiž řeky tekou a v nichž nesmrtelní budou, a aby špatné skutky jejich vymazal - a to u Boha je úspěch nesmírný -",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4589,
+        "text": "a aby potrestal pokrytecké muže i ženy a modloslužebníky a modloslužebnice, kteří mají o Bohu špatné mínění. Proti nim ať obrátí se osud špatný, nechť Bůh se na ně rozhněvá a prokleje je a peklo pro ně připraví - a jak hnusný to je cíl konečný.",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4590,
+        "text": "A Bohu patří vojska nebeská i pozemská a Bůh mocný je i moudrý.",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4591,
+        "text": "Vyslali jsme tě věru jako svědka, hlasatele zvěsti radostné i jako varovatele,",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4592,
+        "text": "abyste v Boha a posla Jeho uvěřili, pomáhali Mu a uctívali a slavili Jej za jitra i za večera.",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4593,
+        "text": "Ti, kdož ti věrnost přisahají, přísahají vlastně Bohu a ruka Boží spočívá na rukou jejich. Kdo poruší úmluvu, tedy ji poruší jen ke škodě vlastní, kdo však věrně dodrží úmluvu s Bohem uzavřenou, tomu On uštědří odměnu nesmírnou.",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4594,
+        "text": "A řeknou ti, kdož zůstali pozadu z kočovných Arabů: \"Byli jsme zaměstnáni stády svými a rodinami svými, pros za nás o odpuštění!\" A hovoří jazyky svými to, co v srdcích nemají. Rci: \"Kdo zmůže něco pro vás u Boha, jestliže se Jemu zlíbí vám uškodit anebo vám něčím prospět? Ba ne! Bůh dobře je zpraven o všem, co děláte!",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4595,
+        "text": "Naopak, vy jste se domnívali, že posel a věřící se již nikdy k rodinám svým nevrátí! A bylo vám to okrášleno v srdcích vašich, leč domnívali jste se špatnými domněnkami! A vy jste věru lid nevědomý!\"",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4596,
+        "text": "A kdo nevěří v Boha a posla Jeho... pro nevěřící jsme připravili plamen šlehající.",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4597,
+        "text": "Bohu náleží království na nebesích i na zemi a On odpouští, komu chce, a potrestá, koho chce a Bůh je odpouštějící, slitovný.",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4598,
+        "text": "A řeknou ti, kdož zůstali vzadu, když chystáte se na pochod, abyste se zmocnili kořisti: \"Dovolte nám, abychom vás následovali!\" A rádi by takto změnili slovo Boží! Rci: \"Nebudete nás následovat - tak to již dříve rozhodl Bůh!\" A řeknou: \"Nikoliv, vy nám to jen nepřejete!\" Ba ne, oni jsou jen málo chápaví.",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4599,
+        "text": "Rci těm z kočovných Arabů, kteří vzadu zůstali: \"Budete vyzváni k boji proti lidu obdařenému velkou bojovností; a budete proti nim bojovat, leč by přijali islám. Uposlechnete-li, Bůh vám dá odměnu překrásnou, avšak obrátíte-li se zády, tak jak jste se již obrátili dříve, potrestá vás trestem bolestným.\"",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4600,
+        "text": "A není hříchem pro slepého ani pro chromého ani pro nemocného, jestliže se neúčastní. A kdokoliv poslechne Boha a posla Jeho, bude uveden do zahrad, pod nimiž řeky tekou, a kdokoliv se zády obrátí, toho postihne trest bolestný.",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4601,
+        "text": "Bůh věru již nalezl zalíbení ve věřících, když ti přísahali věrnost pod stromem, a On dobře ví, co bylo v srdcích jejich. A seslal k nim sakínu a odmění je brzkým úspěchem",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4602,
+        "text": "i kořistí hojnou, jíž se zmocní. A Bůh mocný je i moudrý.",
+        "numberInSurah": 19,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4603,
+        "text": "Bůh vám přislíbil, že se zmocníte kořisti hojné, a On ji pro vás uspíšil a odvrátil od vás ruce oněch lidí. A učinil tak, aby se to stalo znamením pro věřící a aby vás uvedl na stezku přímou.",
+        "numberInSurah": 20,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4604,
+        "text": "A přislíbil vám i jinou, nad níž dosud nemáte moc, zatímco ji Bůh již objal ve Svém vědění, vždyť Bůh nad věcí každou je všemocný.",
+        "numberInSurah": 21,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4605,
+        "text": "A kdyby proti vám byli bojovali ti, kdož jsou nevěřící, věru by se byli otočili zády; a nenaleznou později ani ochránce, ani pomocníka,",
+        "numberInSurah": 22,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4606,
+        "text": "podle zvyklosti Boží, která se již mnohokrát předtím naplnila. A ve zvyklosti Boží nenalezneš změnu žádnou.",
+        "numberInSurah": 23,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4607,
+        "text": "On je ten, jenž odvrátil ruce jejich od vás a ruce vaše od nich v údolí Mekky poté, co vám nad nimi uštědřil vítězství; a Bůh dobře pozoruje vše, co děláte.",
+        "numberInSurah": 24,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4608,
+        "text": "A to jsou ti, kteří neuvěřili a odháněli vás od Mešity posvátné a zadržovali oběti, aby nedospěly ke svým obětištím. A kdyby nebylo věřících mužů a žen, které jste neznali a které jste mohli pošlapat, takže byste se na nich nevědomky dopustili viny... a Bůh uvádí do milosrdenství Svého, koho chce; a kdyby se byli oddělili, věru bychom byli potrestali ty z nich, kdož nevěří, trestem bolestným.",
+        "numberInSurah": 25,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4609,
+        "text": "Hle, tehdy ti, kdož neuvěřili, vložili do srdcí svých zuřivost, zuřivost nevědomosti. A Bůh seslal sakínu Svou poslu Svému a věřícím a učinil pro ně neodlučným slovo bohabojnosti; a zasloužili si ho a byli ho nejvýš hodni. A Bůh o každé věci je vševědoucí.",
+        "numberInSurah": 26,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4610,
+        "text": "Bůh zajisté již dokázal poslu Svému pravdivost jeho snu: \"Vskutku vstoupíte do Posvátné mešity, bude-li chtít Bůh, bezpečni a s oholenými hlavami a ostříhanými nehty a vousy a bez jakékoliv bázně!\" A On věděl to, co jste neznali, a kromě toho vám připravil blízký úspěch.",
+        "numberInSurah": 27,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4611,
+        "text": "A On je ten, jenž vyslal posla Svého se správným vedením a s náboženstvím pravdivým, aby mu dal zvítězit nad každým jiným náboženstvím. A Bůh je svědkem dostačujícím!",
+        "numberInSurah": 28,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4612,
+        "text": "Muhammad je posel Boží; a ti, kdož jsou s ním, strašní jsou proti nevěřícím, však laskaví mezi sebou. A vidíš je při modlitbě se sklánět a padat na tváře v úsilí po přízni a zalíbení Božím. A známky jejich jsou na tvářích jejich následkem modlení. A takto byli spodobněni v Tóře, zatímco podobenství jejich v Evangeliu zní: jsou jako sadba, jejímž výhonkům Bůh dává vyrůst a posiluje je, až stanou se pevnými a drží se zpříma na stéblech svých, k radosti tomu, kdo ji zasel, aby tím Bůh rozhněval nevěřící. A Bůh přislíbil těm z nich, kdož uvěřili a zbožné skutky konali, odpuštění a odměnu nesmírnou.",
+        "numberInSurah": 29,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "cs.hrbek",
+      "language": "cs",
+      "name": "Hrbek",
+      "englishName": "Preklad I. Hrbek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
