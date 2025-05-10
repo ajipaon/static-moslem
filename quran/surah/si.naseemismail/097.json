@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "නියත වශයෙන්ම අපි මෙය (මෙම කුර්ආනය ඉතාමත් ගෞරවයෙන් පිරි) ලෙයිලතුල් කද්ර් නමැති එක් රාත්‍රියකදී (පළමුවෙන්ම) පහළ කර තැබුවෙමු.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "(නබියේ!) එම ගෞරවයෙන් පිරි රාත්‍රියේ (මහිමය) ඔබ දන්නෙහිද?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "ගෞරවයෙන් පිරි එම රාත්‍රිය මාසයන් දහසකට වඩා ඉතාමත් උසස් වන්නේය.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "එහි මලායිකාවරුන්ද, (ජිබ්රීල් වන පරිශුද්ධ) ආත්මයද, තම දෙවියන්ගේ නියෝගයට අනුව (සිදු විය යුතු) සියලූ කාරණාවන් සමග පහළ වන්නාහ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "ශාන්තිය හා සමාදානය සමග- (එම රාත්‍රිය) අළුයම් කාලය උදා වන තුරුය.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

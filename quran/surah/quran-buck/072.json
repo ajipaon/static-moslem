@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "qulo >uwHiYa <ilaY~a >an~ahu {sotamaEa nafarN m~ina {lojin~i faqaAluw^A@ <in~aA samiEonaA quro'aAnFA EajabFA",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "yahodiY^ <ilaY {lr~u$odi fa_#aAman~aA bihi. walan n~u$orika birab~inaA^ >aHadFA",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "wa>an~ahu, taEa`laY` jad~u rab~inaA maA {t~axa*a Sa`HibapF walaA waladFA",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "wa>an~ahu, kaAna yaquwlu safiyhunaA EalaY {ll~ahi $aTaTFA",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "wa>an~aA Zanan~aA^ >an l~an taquwla {lo<insu wa{lojin~u EalaY {ll~ahi ka*ibFA",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "wa>an~ahu, kaAna rijaAlN m~ina {lo<insi yaEuw*uwna birijaAlK m~ina {lojin~i fazaAduwhumo rahaqFA",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "wa>an~ahumo Zan~uwA@ kamaA Zanantumo >an l~an yaboEava {ll~ahu >aHadFA",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "wa>an~aA lamasonaA {ls~amaA^'a fawajadona`haA muli}ato HarasFA $adiydFA wa$uhubFA",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "wa>an~aA kun~aA naqoEudu minohaA maqa`Eida lils~amoEi faman yasotamiEi {lo'aAna yajido lahu, $ihaAbFA r~aSadFA",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "wa>an~aA laA nadoriY^ >a$ar~N >uriyda biman fiY {lo>aroDi >amo >araAda bihimo rab~uhumo ra$adFA",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "wa>an~aA min~aA {lS~a`liHuwna wamin~aA duwna *a`lika kun~aA TaraA^}iqa qidadFA",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "wa>an~aA Zanan~aA^ >an l~an n~uEojiza {ll~aha fiY {lo>aroDi walan n~uEojizahu, harabFA",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "wa>an~aA lam~aA samiEonaA {lohudaY`^ 'aAman~aA bihi. faman yu&omin[ birab~ihi. falaA yaxaAfu baxosFA walaA rahaqFA",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "wa>an~aA min~aA {lomusolimuwna wamin~aA {loqa`siTuwna famano >asolama fa>uw@la`^}ika taHar~awoA@ ra$adFA",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "wa>am~aA {loqa`siTuwna fakaAnuwA@ lijahan~ama HaTabFA",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "wa>al~awi {sotaqa`muwA@ EalaY {lT~ariyqapi la>asoqayona`hum m~aA^'F gadaqFA",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "l~inafotinahumo fiyhi waman yuEoriDo Ean *ikori rab~ihi. yasolukohu Ea*aAbFA SaEadFA",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "wa>an~a {lomasa`jida lil~ahi falaA tadoEuwA@ maEa {ll~ahi >aHadFA",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "wa>an~ahu, lam~aA qaAma Eabodu {ll~ahi yadoEuwhu kaAduwA@ yakuwnuwna Ealayohi libadFA",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "qulo <in~amaA^ >adoEuwA@ rab~iY walaA^ >u$oriku bihi.^ >aHadFA",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "qulo <in~iY laA^ >amoliku lakumo Dar~FA walaA ra$adFA",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "qulo <in~iY lan yujiyraniY mina {ll~ahi >aHadN walano >ajida min duwnihi. mulotaHadFA",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "<il~aA bala`gFA m~ina {ll~ahi warisa`la`tihi. waman yaEoSi {ll~aha warasuwlahu, fa<in~a lahu, naAra jahan~ama xa`lidiyna fiyhaA^ >abadFA",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Hat~aY`^ <i*aA ra>awoA@ maA yuwEaduwna fasayaEolamuwna mano >aDoEafu naASirFA wa>aqal~u EadadFA",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "qulo <ino >adoriY^ >aqariybN m~aA tuwEaduwna >amo yajoEalu lahu, rab~iY^ >amadFA",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Ea`limu {logayobi falaA yuZohiru EalaY` gayobihi.^ >aHadFA",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "<il~aA mani {rotaDaY` min r~asuwlK fa<in~ahu, yasoluku min[ bayoni yadayohi wamino xalofihi. raSadFA",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "l~iyaEolama >an qado >abolaguwA@ risa`la`ti rab~ihimo wa>aHaATa bimaA ladayohimo wa>aHoSaY` kul~a $aYo'K EadadF[A",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

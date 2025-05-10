@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "බලවත් භූමි කම්පාව ඇති වී-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "භූමිය, තමන් උසුළාගෙන සිටින දැය (සියල්ල පිටතට) වීසි කර දමන අවස්ථාවේදී-",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "මිනිසා (තිගැස්සී) මෙයට කුමක් නම් සිදු වී ඇත්ද? (කුමක් නිසා මෙසේ වෙව්ලන්නේද?)’යි විමසනු ඇත.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "එදිනදී එය තම කාරණාවන් (සියල්ල) දැනුම් දෙනු ඇත.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "මන්දයත් (මෙසේම) ඔබගේ දෙවියන් වහී මගින් තමන්ට නියෝග කළේය (යයි කියනු ඇත).",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "එදිනදී මිනිසුන් (හොඳ හෝ නරක හෝ) තමන්ගේ විපත් දකිනු පිණිස (විවිධ කොටස් වශයෙන් ඛෙදී) සමූහ සමූහයන් වශයෙන් (විනිශ්චය සඳහා) පැමිණෙනු ඇත.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "එබැවින් කවුරුන් එක් අනු ප්‍රමාණයක් හෝ පිනක් කර තිබුණේ නම්, ඔහු (එහිදී) එය දැක ගන්නේය.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "(එසේම) කවුරුන් එක් අනු ප්‍රමාණයක් හෝ පාපයක් කර තිබුනේද එයද ඔහු (එහිදී) දැක ගන්නේය.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "(වස්තුව) අධික කර ගැනීමේ තන්හාව (අල්ලාහ්ගෙන් ඈත්ව) ඔබව සැහැල්ලූ වූ වෙනතකට කර දැමුවේය.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "ඔබ සොහොන් වල (කබ්රු) හමු වන තුරු",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "(එය කිමෙක්ද යන්න පසුව) ඔබ හොඳින් දැන ගන්නෙහුය.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "(එහි ඵල ප්‍රයෝජනයද) පසුව ඔබ හොඳින් දැන ගන්නෙහුය.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "දැන ගනු! (එහි ඵල ප්‍රයෝජන) සැකයෙන් තොර ඔබ දැන ගන්නෙහු නම්-",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "නියත වශයෙන්ම නිරයම ඔබ, (ඔබගේ ඇස් ඉදිරියේ) දැක ගන්නෙහුය!",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "එය ඔබ, (ඔබගේ දෑසින්) දැක ගැනීම සත්‍යය යනු නියතයි.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "පසුව (ඔබට දෙවියන් ලබා දුන්) වරප්‍රසාදය (ඔබ කුමන මාර්ගයක වියදම් කළෙහුද යන්න) ගැනද එදිනදී නියත වශයෙන්ම ඔබ විමසනු ලබන්නෙහුය.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

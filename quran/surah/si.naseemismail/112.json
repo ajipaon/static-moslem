@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "(නබියේ! මිනිසුන්ට) ඔබ මෙසේ පවසනු: අල්ලාහ් එක් කෙනෙකි.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "(එම) අල්ලාහ් (කිසිවෙකුගේ) අවශ්‍යතායක්ද නොවන්නෙකි. (සියල්ලන්ම ඔහුගේ වරප්‍රසාදයන්ම බලාපොරොත්තුවෙන් සිටින්නාහ).",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "ඔහු (කිසිවෙකුවත්) ප්‍රසූත කළේ නැත. (කිසිවෙකු විසින්) ප්‍රසූත කරනු ලැබුවේද නැත. (එබැවින් ඔහුට පියෙක්ද නැත. දරුවන්ද නැත).",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "තවද ඔහුට සම වන කිසිවක්ද නැත.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

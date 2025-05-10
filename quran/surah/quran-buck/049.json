@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 49,
+    "name": "سُورَةُ الحُجُرَاتِ",
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 18,
+    "ayahs": [
+      {
+        "number": 4613,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ laA tuqad~imuwA@ bayona yadaYi {ll~ahi warasuwlihi. wa{t~aquwA@ {ll~aha <in~a {ll~aha samiyEN EaliymN",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4614,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ laA tarofaEuw^A@ >aSowa`takumo fawoqa Sawoti {ln~abiY~i walaA tajoharuwA@ lahu, bi{loqawoli kajahori baEoDikumo libaEoDK >an taHobaTa >aEoma`lukumo wa>antumo laA ta$oEuruwna",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4615,
+        "text": "<in~a {l~a*iyna yaguD~uwna >aSowa`tahumo Einda rasuwli {ll~ahi >uw@la`^}ika {l~a*iyna {motaHana {ll~ahu quluwbahumo lilt~aqowaY` lahum m~agofirapN wa>ajorN EaZiymN",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4616,
+        "text": "<in~a {l~a*iyna yunaAduwnaka min waraA^'i {loHujura`ti >akovaruhumo laA yaEoqiluwna",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4617,
+        "text": "walawo >an~ahumo SabaruwA@ Hat~aY` taxoruja <ilayohimo lakaAna xayorFA l~ahumo wa{ll~ahu gafuwrN r~aHiymN",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4618,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuw^A@ <in jaA^'akumo faAsiqN[ binaba<K fatabay~anuw^A@ >an tuSiybuwA@ qawomF[A bijaha`lapK fatuSobiHuwA@ EalaY` maA faEalotumo na`dimiyna",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4619,
+        "text": "wa{Eolamuw^A@ >an~a fiykumo rasuwla {ll~ahi lawo yuTiyEukumo fiY kaviyrK m~ina {lo>amori laEanit~umo wala`kin~a {ll~aha Hab~aba <ilayokumu {lo<iyma`na wazay~anahu, fiY quluwbikumo wakar~aha <ilayokumu {lokufora wa{lofusuwqa wa{loEiSoyaAna >uw@la`^}ika humu {lr~a`$iduwna",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4620,
+        "text": "faDolFA m~ina {ll~ahi waniEomapF wa{ll~ahu EaliymN HakiymN",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4621,
+        "text": "wa<in TaA^}ifataAni mina {lomu&ominiyna {qotataluwA@ fa>aSoliHuwA@ bayonahumaA fa<in[ bagato <iHodaY`humaA EalaY {lo>uxoraY` faqa`tiluwA@ {l~atiY tabogiY Hat~aY` tafiY^'a <ilaY`^ >amori {ll~ahi fa<in faA^'ato fa>aSoliHuwA@ bayonahumaA bi{loEadoli wa>aqosiTuw^A@ <in~a {ll~aha yuHib~u {lomuqosiTiyna",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4622,
+        "text": "<in~amaA {lomu&ominuwna <ixowapN fa>aSoliHuwA@ bayona >axawayokumo wa{t~aquwA@ {ll~aha laEal~akumo turoHamuwna",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 450,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4623,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ laA yasoxaro qawomN m~in qawomK EasaY`^ >an yakuwnuwA@ xayorFA m~inohumo walaA nisaA^'N m~in n~isaA^'K EasaY`^ >an yakun~a xayorFA m~inohun~a walaA talomizuw^A@ >anfusakumo walaA tanaAbazuwA@ bi{lo>aloqa`bi bi}osa {li{somu {lofusuwqu baEoda {lo<iyma`ni waman l~amo yatubo fa>uw@la`^}ika humu {lZ~a`limuwna",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 516,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4624,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ {jotanibuwA@ kaviyrFA m~ina {lZ~an~i <in~a baEoDa {lZ~an~i <ivomN walaA tajas~asuwA@ walaA yagotab b~aEoDukum baEoDFA >ayuHib~u >aHadukumo >an ya>okula laHoma >axiyhi mayotFA fakarihotumuwhu wa{t~aquwA@ {ll~aha <in~a {ll~aha taw~aAbN r~aHiymN",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4625,
+        "text": "ya`^>ay~uhaA {ln~aAsu <in~aA xalaqona`kum m~in *akarK wa>unvaY` wajaEalona`kumo $uEuwbFA waqabaA^}ila litaEaArafuw^A@ <in~a >akoramakumo Einda {ll~ahi >atoqaY`kumo <in~a {ll~aha EaliymN xabiyrN",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 206,
+        "sajda": false
+      },
+      {
+        "number": 4626,
+        "text": "qaAlati {lo>aEoraAbu 'aAman~aA qul l~amo tu&ominuwA@ wala`kin quwluw^A@ >asolamonaA walam~aA yadoxuli {lo<iyma`nu fiY quluwbikumo wa<in tuTiyEuwA@ {ll~aha warasuwlahu, laA yalitokum m~ino >aEoma`likumo $ayo_#FA <in~a {ll~aha gafuwrN r~aHiymN",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4627,
+        "text": "<in~amaA {lomu&ominuwna {l~a*iyna 'aAmanuwA@ bi{ll~ahi warasuwlihi. vum~a lamo yarotaAbuwA@ waja`haduwA@ bi>amowa`lihimo wa>anfusihimo fiY sabiyli {ll~ahi >uw@la`^}ika humu {lS~a`diquwna",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4628,
+        "text": "qulo >atuEal~imuwna {ll~aha bidiynikumo wa{ll~ahu yaEolamu maA fiY {ls~ama`wa`ti wamaA fiY {lo>aroDi wa{ll~ahu bikul~i $aYo'K EaliymN",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4629,
+        "text": "yamun~uwna Ealayoka >ano >asolamuwA@ qul l~aA tamun~uwA@ EalaY~a <isola`makum bali {ll~ahu yamun~u Ealayokumo >ano hadaY`kumo lilo<iyma`ni <in kuntumo Sa`diqiyna",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      },
+      {
+        "number": 4630,
+        "text": "<in~a {ll~aha yaEolamu gayoba {ls~ama`wa`ti wa{lo>aroDi wa{ll~ahu baSiyrN[ bimaA taEomaluwna",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 517,
+        "ruku": 451,
+        "hizbQuarter": 207,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

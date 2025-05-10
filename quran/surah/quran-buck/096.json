@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "{qora>o bi{somi rab~ika {l~a*iY xalaqa",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "xalaqa {lo<insa`na mino EalaqK",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "{qora>o warab~uka {lo>akoramu",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "{l~a*iY Eal~ama bi{loqalami",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "Eal~ama {lo<insa`na maA lamo yaEolamo",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "kal~aA^ <in~a {lo<insa`na layaTogaY`^",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": ">an r~a'aAhu {sotagonaY`^",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "<in~a <ilaY` rab~ika {lr~ujoEaY`^",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": ">ara'ayota {l~a*iY yanohaY`",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "EabodFA <i*aA Sal~aY`^",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": ">ara'ayota <in kaAna EalaY {lohudaY`^",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": ">awo >amara bi{lt~aqowaY`^",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": ">ara'ayota <in ka*~aba watawal~aY`^",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": ">alamo yaEolam bi>an~a {ll~aha yaraY`",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "kal~aA la}in l~amo yantahi lanasofaEF[A bi{ln~aASiyapi",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "naASiyapK ka`*ibapK xaATi}apK",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "faloyadoEu naAdiyahu,",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "sanadoEu {lz~abaAniyapa",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "kal~aA laA tuTiEohu wa{sojudo wa{qotarib",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

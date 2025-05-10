@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "කාලය මත සත්තකින්ම!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "මිනිසා (තම ආයුෂ කාලය අපතේ වියදම් කර) නියත වශයෙන්ම පරාජිත (මාර්ගයෙහි) සිටින්නේය.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "එහෙත් කවුරුන් විශ්වාසය තබා දැහැමි කාරණාවන්ද කර, සත්‍යය කෙනෙකුට කෙනෙකු ඔවදන් දී (පාපයන් අත්හැර දැමීමෙහිද, පින් ඇති දැය කිරීමෙහිද, ඇති වන අමාරුකම) විඳ දරාගන්නා ලෙසටද, කෙනෙකුට කෙනෙකු ඔවදන් දෙමින් සිටින්නෝද, ඔවුන් හැර. (මොවුන් පරාජිත වූවේ නැත).",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

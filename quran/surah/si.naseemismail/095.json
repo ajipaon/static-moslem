@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6099,
+        "text": "අත්තික්කා මතද, සෙයිතූන් (ඔලිව්) මතද, සත්තකින්ම!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6100,
+        "text": "සිනායි කන්ද මතද සත්තකින්ම!",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6101,
+        "text": "(මක්කාව වන) ආරක්ෂාව ලබා දෙන මෙම නගරය මතද සත්තකින්ම!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6102,
+        "text": "නියත වශයෙන්ම අපි මිනිසාව ඉතාමත් අලංකාරවත් හැඩයකට උත්පාදනය කර ඇත්තෙමු.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6103,
+        "text": "(ඔහුගේ නපුරු ක්‍රියාවන්හි හේතුවෙන්) පසුව ඔහුව දීනවූවන්ගෙනුත් දීන වූවෙකු බවට අපි පත් කර හරින්නෙමු.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6104,
+        "text": "එහෙත් කවුරුන් විශ්වාසය තබා දැහැමි ක්‍රියාවන් කරමින් සිටින්නෝද, ඔවුන් හැර. (ඔවුන් උසස් ගතිගුණයන්ගෙන් යුතුව සිටින අතර) ඔවුන්ට (සදාකල්ම) නොවැළැක්වෙන (හොඳ) ඵලවිපාක ඇත.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6105,
+        "text": "මෙම තීන්දුවෙන් පසු (නබියේ!) ඔබව කවුරුන්ට නම් බොරු කළ හැකිද?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6106,
+        "text": "විනිශ්චය කරන්නන් සියල්ලගෙන් අල්ලාහ් ඉතාමත් උසස් විනිශ්චයකරුවා නොවෙද?",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

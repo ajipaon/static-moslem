@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "yusab~iHu lil~ahi maA fiY {ls~ama`wa`ti wamaA fiY {lo>aroDi {lomaliki {loqud~uwsi {loEaziyzi {loHakiymi",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "huwa {l~a*iY baEava fiY {lo>um~iy~i.na rasuwlFA m~inohumo yatoluwA@ Ealayohimo 'aAya`tihi. wayuzak~iyhimo wayuEal~imuhumu {lokita`ba wa{loHikomapa wa<in kaAnuwA@ min qabolu lafiY Dala`lK m~ubiynK",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "wa'aAxariyna minohumo lam~aA yaloHaquwA@ bihimo wahuwa {loEaziyzu {loHakiymu",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "*a`lika faDolu {ll~ahi yu&otiyhi man ya$aA^'u wa{ll~ahu *uw {lofaDoli {loEaZiymi",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "mavalu {l~a*iyna Hum~iluwA@ {lt~aworaY`pa vum~a lamo yaHomiluwhaA kamavali {loHimaAri yaHomilu >asofaArF[A bi}osa mavalu {loqawomi {l~a*iyna ka*~abuwA@ bi_#aAya`ti {ll~ahi wa{ll~ahu laA yahodiY {loqawoma {lZ~a`limiyna",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "qulo ya`^>ay~uhaA {l~a*iyna haAduw^A@ <in zaEamotumo >an~akumo >awoliyaA^'u lil~ahi min duwni {ln~aAsi fataman~awuA@ {lomawota <in kuntumo Sa`diqiyna",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "walaA yataman~awonahu,^ >abadF[A bimaA qad~amato >ayodiyhimo wa{ll~ahu EaliymN[ bi{lZ~a`limiyna",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "qulo <in~a {lomawota {l~a*iY tafir~uwna minohu fa<in~ahu, mula`qiykumo vum~a turad~uwna <ilaY` Ea`limi {logayobi wa{l$~aha`dapi fayunab~i}ukum bimaA kuntumo taEomaluwna",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuw^A@ <i*aA nuwdiYa lilS~alaw`pi min yawomi {lojumuEapi fa{soEawoA@ <ilaY` *ikori {ll~ahi wa*aruwA@ {lobayoEa *a`likumo xayorN l~akumo <in kuntumo taEolamuwna",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "fa<i*aA quDiyati {lS~alaw`pu fa{nta$iruwA@ fiY {lo>aroDi wa{botaguwA@ min faDoli {ll~ahi wa{*okuruwA@ {ll~aha kaviyrFA l~aEal~akumo tufoliHuwna",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "wa<i*aA ra>awoA@ tija`rapF >awo lahowFA {nfaD~uw^A@ <ilayohaA watarakuwka qaA^}imFA qulo maA Einda {ll~ahi xayorN m~ina {ll~ahowi wamina {lt~ija`rapi wa{ll~ahu xayoru {lr~a`ziqiyna",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "sab~aHa lil~ahi maA fiY {ls~ama`wa`ti wamaA fiY {lo>aroDi wahuwa {loEaziyzu {loHakiymu",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ lima taquwluwna maA laA tafoEaluwna",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "kabura maqotFA Einda {ll~ahi >an taquwluwA@ maA laA tafoEaluwna",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "<in~a {ll~aha yuHib~u {l~a*iyna yuqa`tiluwna fiY sabiylihi. Saf~FA ka>an~ahum bunoya`nN m~aroSuwSN",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "wa<i*o qaAla muwsaY` liqawomihi. ya`qawomi lima tu&o*uwnaniY waqad t~aEolamuwna >an~iY rasuwlu {ll~ahi <ilayokumo falam~aA zaAguw^A@ >azaAga {ll~ahu quluwbahumo wa{ll~ahu laA yahodiY {loqawoma {lofa`siqiyna",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "wa<i*o qaAla EiysaY {bonu maroyama ya`baniY^ <isora`^'iyla <in~iY rasuwlu {ll~ahi <ilayokum m~uSad~iqFA l~imaA bayona yadaY~a mina {lt~aworaY`pi wamuba$~irF[A birasuwlK ya>otiY min[ baEodiY {somuhu,^ >aHomadu falam~aA jaA^'ahum bi{lobay~ina`ti qaAluwA@ ha`*aA siHorN m~ubiynN",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "wamano >aZolamu mim~ani {fotaraY` EalaY {ll~ahi {loka*iba wahuwa yudoEaY`^ <ilaY {lo<isola`mi wa{ll~ahu laA yahodiY {loqawoma {lZ~a`limiyna",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "yuriyduwna liyuTofi_#uwA@ nuwra {ll~ahi bi>afowa`hihimo wa{ll~ahu mutim~u nuwrihi. walawo kariha {loka`firuwna",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "huwa {l~a*iY^ >arosala rasuwlahu, bi{lohudaY` wadiyni {loHaq~i liyuZohirahu, EalaY {ld~iyni kul~ihi. walawo kariha {lomu$orikuwna",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ halo >adul~ukumo EalaY` tija`rapK tunjiykum m~ino Ea*aAbK >aliymK",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "tu&ominuwna bi{ll~ahi warasuwlihi. watuja`hiduwna fiY sabiyli {ll~ahi bi>amowa`likumo wa>anfusikumo *a`likumo xayorN l~akumo <in kuntumo taEolamuwna",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "yagofiro lakumo *unuwbakumo wayudoxilokumo jan~a`tK tajoriY min taHotihaA {lo>anoha`ru wamasa`kina Tay~ibapF fiY jan~a`ti EadonK *a`lika {lofawozu {loEaZiymu",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "wa>uxoraY` tuHib~uwnahaA naSorN m~ina {ll~ahi wafatoHN qariybN waba$~iri {lomu&ominiyna",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ kuwnuw^A@ >anSaAra {ll~ahi kamaA qaAla EiysaY {bonu maroyama liloHawaAriy~i.na mano >anSaAriY^ <ilaY {ll~ahi qaAla {loHawaAriy~uwna naHonu >anSaAru {ll~ahi fa_#aAmanat T~aA^}ifapN m~in[ baniY^ <isora`^'iyla wakafarat T~aA^}ifapN fa>ay~adonaA {l~a*iyna 'aAmanuwA@ EalaY` Eaduw~ihimo fa>aSobaHuwA@ Za`hiriyna",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

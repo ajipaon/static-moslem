@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "සූර්යයා මතද, එහි ආලෝකය මතද-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "(එය අවරට ගිය) පසු එය පසුපස උදා වන චන්ද්‍රයා මතද-",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "(සූර්යයා) ආලෝකවත් වන දහවල මතද-",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "(එය) වසා ගන්නා රාත්‍රිය මතද අහස මතද-",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "එය උත්පාදනය කළ අය මතද-",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "භූමිය මතද එය දිග හැරූ අය මතද-",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "ආත්මය මතද, එය (මිනිසා වශයෙන්) නිර්මාණය කළ අය මතද-",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "එහි හොඳ නරක එයට දැනුම් දුන් අය මතද සත්තකින්ම!",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "කවුරුන් (පාපයන්ගෙන් ඈත් වී) තමන්ව පරිශුද්ධ කර ගත්තේද, ඔහු නියත වශයෙන්ම ජයග්‍රහණය කළේය.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "කවුරුන් එය (පාපයෙහි) වළලා දැම්මේද, ඔහු නියත වශයෙන්ම පරාජය අත් කර ගත්තේය.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "සමූද් නමැති සමූහය (සාලිහ් නබිව) තමන්ගේ අපරාධය මගින් බොරුකාරයා කළහ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "ඔවුන්ගෙන් වූ එක් අභාග්‍යවන්තයෙකු ඉදිරියට පැමිණි විට-",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "අල්ලාහ්ගේ දූතයා (වන සාලිහ් නබි) ඔවුන්ට “(මෙය) අල්ලාහ්ගේ ඔටු දෙනකි. (මෙයට වේදනා නොකරද) මෙයට වතුර බීම (වළක්වා නොකරද) අත්හැර දමනු” යයි පැවසුවේය.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "එහෙත් ඔවුන් ඔහුව බොරුකර, උගේ කකුලේ නහරය කපා දැමූහ. එබැවින් ඔවුන්ගේ දෙවියන් ඔවුන්ගේ මෙම පාපයෙහි හේතුවෙන් ඔවුන් කෙරෙහි දඬුවම පහළ කර, ඔවුන් සියල්ලන්වම (බිමට) සමතලා කර දැමුවේය.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "මෙම තීරණය ගැන (තමන්ව පළි ගනු ලබාවිදෝ යයි) ඔහු බිය වූවේ නැත.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

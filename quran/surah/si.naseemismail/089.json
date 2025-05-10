@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "අළුයම් කාලය මතද-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "රාත්‍රීන් දහයක් මතද-",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "ඔත්තේ ඉරත්තේ (සලාතයන්) මතද-",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "ගමන් ගන්නා රාත්‍රිය මතද, සත්තකින්ම! (ප්‍රශ්න ගණනය කරන දිනය අනිවාර්යයෙන්ම පැමිණෙන්නේය).",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "මෙහි බුද්ධිය ඇති අයට (විශ්වාසය ලබා දිය හැකි) විශාල සත්‍යයක් ඇත්තේය නොවෙද?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "(නබියේ!) ආද් ජනයාව ඔබගේ දෙවියන් කෙසේ නම් (දඬුවම්) කළේද යන්න ඔබ අවධානය කළේ නැද්ද?",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "උස් වූ කුළුණු වලින් යුත් ඉරම් වාසීන්ය.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "ඔවුන් වැනි (ශක්තිවන්තයින් ලොවෙහි ඇති) නගරයන්හි (කිසි තැනක) උත්පාදනය කරනු ලැබුවේ නැත.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "එහෙත් සමූද් නමැති ජනයාව (ඔබගේ දෙවියන් කෙසේ නම් දඬුවම් කළේද යන්න ඔබ අවධානය කළේ නැද්ද?) මොවුන් කඳු පාවුලෙහි ගල් පර්වත හාරා (එහි වාසය කරමින්) සිටියහ.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "එහෙත් සේනාංකයන් හිමි ෆිර්අව්න්ව (ඔබගේ දෙවියන් කෙසේ නම් දඬුවම් කළේද යන්න ඔබ අවධානය කළේ නැද්ද?)",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "මොවුන් සියල්ලන්ම භූමියෙහි සීමාව ඉක්මවාම කටයුතු කළහ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "එහිදී ඔවුන් ඉතාමත් අධික වශයෙන්ම අපරාධ කරමින්ම සිටියහ.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "එබැවින් ඔබගේ දෙවියන් ඔවුන් කෙරෙහි දඬුවමේ කසයන් මගින් (පහරක් මත පහරක් වශයෙන්) පහර දුන්නේය.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "නියත වශයෙන්ම ඔබගේ දෙවියන් (මෙම පාපතරයින්ගේ පැමිණීම) බලාපොරොත්තුවෙන්ම සිටින්නේය.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "එබැවින් මිනිසාව ඔහුගේ දෙවියන් පිරික්සුමට ලක් කර, ඔහුට දයාව පහළ කර, ඔහුව උසස් කළහොත් ‘මගේ දෙවියන් මාව ගෞරව කළේය’ යයි (ආඩම්බරයෙන්) පවසන්නේය.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "එහෙත් (දෙවියන්) ඔහුව පිරික්සුමට ලක් කර, ඔහුගේ වස්තුව ඔහුට අඩු කර හැරියහොත් ‘මගේ දෙවියන් මාව අවමන් කර හැරියේය’ යයි (ෙදාස්) කියන්නේය.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "(කාරණාව නම්) එසේ නොව. ඔබ අනාථයින්ව ගෞරව කළේද නැත.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "(ඔබ) දුප්පතුන්ට ආහාර (සැපයූවේද නැති අතර වෙන කිසිවෙකුත්) ලබා දෙන මෙන් පෙළඹුවේද නැත.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "(අන් අයට) උරුම වූ වස්තුවද අධික තන්හාවෙන් (උදුරාගෙන) ගිල දමන්නෙහුය.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "ඔබ ඉතාමත් සීමාව ඉක්මවා ගිය තරමට වස්තුවට ආශා කරන්නෙහුය.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "එබැවින් භූමිය කුඩේ කුඩු කර (දූවිලි) බවට තලා දමනු ලබන අවස්ථාවේදී-",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "ඔබගේ දෙවියන්ද පැමිණෙනු ඇත. මලායිකාවරුන්ද කණ්ඩායම් කණ්ඩායම් වශයෙන් පැමිණෙනු ඇත.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "(පාපතරයින් වෙනුවෙන්) නිරය ගෙන එනු ලබන එදිනදී මිනිසාට හොඳ බුද්ධිය උදා වනු ඇත. එහෙත් ඒ අවස්ථාවේදී (උදා වන) බුද්ධියෙන් ඔහුට කුමන ප්‍රයෝජනයක්ද?",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "“මගේ (පරලොව) ජීවිතය වෙනුවෙන් මා පින් ඇති දැය කර යවා තිබිය යුතු නොවේද!” යයි ප්‍රලාප ෙදාඩවනු ඇත.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "එදිනදී (පාපතරයින්ව) ඔහු කරන දඬුවම මෙන් වෙන කිසිවෙකුත් (කිසිවෙකුටත්) කරන්නේ නැත. (එතරම් දරුණු ලෙස ඔහු දඬුවම් කරන්නේය).",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "(පාපතරයින්ව) ඔහු බැඳ දමන්නාක් මෙන් (තදින්) වෙන කිසිවෙකුත් බඳින්නේද නැත. (එතරම් තදින් ඔහු බඳිනු ඇත).",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "(එහෙත් එදිනදී හොඳ වහලූන්ට) “ඕ තෘප්තියට පත් ආත්මය!",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "ඔබ, ඔබගේ දෙවියන් දෙසට යනු! ඔහු මඟින් ඔබ තෘප්තියට පත් වනු! ඔබ ගැන ඔහු තෘප්තියට පත් වී ඇත්තේය.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "ඔබ මගේ හොඳ වහලූන් සමග එකතු වී-",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "මගේ ස්වර්ගයෙහිද ඔබ ඇතුළු වනු!” (යයිද පවසනු ඇත).",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

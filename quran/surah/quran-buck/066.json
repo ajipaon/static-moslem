@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 66,
+    "name": "سُورَةُ التَّحۡرِيمِ",
+    "englishName": "At-Tahrim",
+    "englishNameTranslation": "The Prohibition",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5230,
+        "text": "ya`^>ay~uhaA {ln~abiY~u lima tuHar~imu maA^ >aHal~a {ll~ahu laka tabotagiY maroDaAta >azowa`jika wa{ll~ahu gafuwrN r~aHiymN",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5231,
+        "text": "qado faraDa {ll~ahu lakumo taHil~apa >ayoma`nikumo wa{ll~ahu mawolaY`kumo wahuwa {loEaliymu {loHakiymu",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5232,
+        "text": "wa<i*o >asar~a {ln~abiY~u <ilaY` baEoDi >azowa`jihi. HadiyvFA falam~aA nab~a>ato bihi. wa>aZoharahu {ll~ahu Ealayohi Ear~afa baEoDahu, wa>aEoraDa Ean[ baEoDK falam~aA nab~a>ahaA bihi. qaAlato mano >an[ba>aka ha`*aA qaAla nab~a>aniYa {loEaliymu {loxabiyru",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5233,
+        "text": "<in tatuwbaA^ <ilaY {ll~ahi faqado Sagato quluwbukumaA wa<in taZa`haraA Ealayohi fa<in~a {ll~aha huwa mawolaY`hu wajiboriylu waSa`liHu {lomu&ominiyna wa{lomala`^}ikapu baEoda *a`lika ZahiyrN",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5234,
+        "text": "EasaY` rab~uhu,^ <in Tal~aqakun~a >an yubodilahu,^ >azowa`jFA xayorFA m~inkun~a musolima`tK m~u&omina`tK qa`nita`tK ta`^}iba`tK Ea`bida`tK sa`^}iHa`tK vay~iba`tK wa>abokaArFA",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5235,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ quw^A@ >anfusakumo wa>aholiykumo naArFA waquwduhaA {ln~aAsu wa{loHijaArapu EalayohaA mala`^}ikapN gilaAZN $idaAdN l~aA yaEoSuwna {ll~aha maA^ >amarahumo wayafoEaluwna maA yu&omaruwna",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5236,
+        "text": "ya`^>ay~uhaA {l~a*iyna kafaruwA@ laA taEota*iruwA@ {loyawoma <in~amaA tujozawona maA kuntumo taEomaluwna",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 560,
+        "ruku": 494,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5237,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ tuwbuw^A@ <ilaY {ll~ahi tawobapF n~aSuwHFA EasaY` rab~ukumo >an yukaf~ira Eankumo say~i_#aAtikumo wayudoxilakumo jan~a`tK tajoriY min taHotihaA {lo>anoha`ru yawoma laA yuxoziY {ll~ahu {ln~abiY~a wa{l~a*iyna 'aAmanuwA@ maEahu, nuwruhumo yasoEaY` bayona >ayodiyhimo wabi>ayoma`nihimo yaquwluwna rab~anaA^ >atomimo lanaA nuwranaA wa{gofiro lanaA^ <in~aka EalaY` kul~i $aYo'K qadiyrN",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5238,
+        "text": "ya`^>ay~uhaA {ln~abiY~u ja`hidi {lokuf~aAra wa{lomuna`fiqiyna wa{goluZo Ealayohimo wama>owaY`humo jahan~amu wabi}osa {lomaSiyru",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5239,
+        "text": "Daraba {ll~ahu mavalFA l~il~a*iyna kafaruwA@ {mora>ata nuwHK wa{mora>ata luwTK kaAnataA taHota Eabodayoni mino EibaAdinaA Sa`liHayoni faxaAnataAhumaA falamo yugoniyaA EanohumaA mina {ll~ahi $ayo_#FA waqiyla {doxulaA {ln~aAra maEa {ld~a`xiliyna",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5240,
+        "text": "waDaraba {ll~ahu mavalFA l~il~a*iyna 'aAmanuwA@ {mora>ata firoEawona <i*o qaAlato rab~i {boni liY Eindaka bayotFA fiY {lojan~api wanaj~iniY min firoEawona waEamalihi. wanaj~iniY mina {loqawomi {lZ~a`limiyna",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5241,
+        "text": "wamaroyama {bonata Eimora`na {l~atiY^ >aHoSanato farojahaA fanafaxonaA fiyhi min r~uwHinaA waSad~aqato bikalima`ti rab~ihaA wakutubihi. wakaAnato mina {loqa`nitiyna",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

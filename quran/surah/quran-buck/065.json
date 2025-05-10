@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "سُورَةُ الطَّلَاقِ",
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 12,
+    "ayahs": [
+      {
+        "number": 5218,
+        "text": "ya`^>ay~uhaA {ln~abiY~u <i*aA Tal~aqotumu {ln~isaA^'a faTal~iquwhun~a liEid~atihin~a wa>aHoSuwA@ {loEid~apa wa{t~aquwA@ {ll~aha rab~akumo laA tuxorijuwhun~a min[ buyuwtihin~a walaA yaxorujona <il~aA^ >an ya>otiyna bifa`Hi$apK m~ubay~inapK watiloka Huduwdu {ll~ahi waman yataEad~a Huduwda {ll~ahi faqado Zalama nafosahu, laA tadoriY laEal~a {ll~aha yuHodivu baEoda *a`lika >amorFA",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5219,
+        "text": "fa<i*aA balagona >ajalahun~a fa>amosikuwhun~a bimaEoruwfK >awo faAriquwhun~a bimaEoruwfK wa>a$ohiduwA@ *awaYo EadolK m~inkumo wa>aqiymuwA@ {l$~aha`dapa lil~ahi *a`likumo yuwEaZu bihi. man kaAna yu&ominu bi{ll~ahi wa{loyawomi {lo'aAxiri waman yat~aqi {ll~aha yajoEal l~ahu, maxorajFA",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5220,
+        "text": "wayarozuqohu mino Hayovu laA yaHotasibu waman yatawak~alo EalaY {ll~ahi fahuwa Hasobuhu,^ <in~a {ll~aha ba`ligu >amorihi. qado jaEala {ll~ahu likul~i $aYo'K qadorFA",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5221,
+        "text": "wa{l~a`^_#iY ya}isona mina {lomaHiyDi min n~isaA^}ikumo <ini {rotabotumo faEid~atuhun~a vala`vapu >a$ohurK wa{l~a`^_#iY lamo yaHiDona wa>uw@la`tu {lo>aHomaAli >ajaluhun~a >an yaDaEona Hamolahun~a waman yat~aqi {ll~aha yajoEal l~ahu, mino >amorihi. yusorFA",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5222,
+        "text": "*a`lika >amoru {ll~ahi >anzalahu,^ <ilayokumo waman yat~aqi {ll~aha yukaf~iro Eanohu say~i_#aAtihi. wayuEoZimo lahu,^ >ajorFA",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 558,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5223,
+        "text": ">asokinuwhun~a mino Hayovu sakantum m~in wujodikumo walaA tuDaA^r~uwhun~a lituDay~iquwA@ Ealayohin~a wa<in kun~a >uw@la`ti HamolK fa>anfiquwA@ Ealayohin~a Hat~aY` yaDaEona Hamolahun~a fa<ino >aroDaEona lakumo fa_#aAtuwhun~a >ujuwrahun~a wa>otamiruwA@ bayonakum bimaEoruwfK wa<in taEaAsarotumo fasaturoDiEu lahu,^ >uxoraY`",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5224,
+        "text": "liyunfiqo *uw saEapK m~in saEatihi. waman qudira Ealayohi rizoquhu, faloyunfiqo mim~aA^ 'aAtaY`hu {ll~ahu laA yukal~ifu {ll~ahu nafosFA <il~aA maA^ 'aAtaY`haA sayajoEalu {ll~ahu baEoda EusorK yusorFA",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 492,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5225,
+        "text": "waka>ay~in m~in qaroyapK Eatato Eano >amori rab~ihaA warusulihi. faHaAsabona`haA HisaAbFA $adiydFA waEa*~abona`haA Ea*aAbFA n~ukorFA",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5226,
+        "text": "fa*aAqato wabaAla >amorihaA wakaAna Ea`qibapu >amorihaA xusorFA",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5227,
+        "text": ">aEad~a {ll~ahu lahumo Ea*aAbFA $adiydFA fa{t~aquwA@ {ll~aha ya`^>uw@liY {lo>aloba`bi {l~a*iyna 'aAmanuwA@ qado >anzala {ll~ahu <ilayokumo *ikorFA",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5228,
+        "text": "r~asuwlFA yatoluwA@ Ealayokumo 'aAya`ti {ll~ahi mubay~ina`tK l~iyuxorija {l~a*iyna 'aAmanuwA@ waEamiluwA@ {lS~a`liHa`ti mina {lZ~uluma`ti <ilaY {ln~uwri waman yu&omin[ bi{ll~ahi wayaEomalo Sa`liHFA yudoxilohu jan~a`tK tajoriY min taHotihaA {lo>anoha`ru xa`lidiyna fiyhaA^ >abadFA qado >aHosana {ll~ahu lahu, rizoqFA",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      },
+      {
+        "number": 5229,
+        "text": "{ll~ahu {l~a*iY xalaqa saboEa sama`wa`tK wamina {lo>aroDi mivolahun~a yatanaz~alu {lo>amoru bayonahun~a litaEolamuw^A@ >an~a {ll~aha EalaY` kul~i $aYo'K qadiyrN wa>an~a {ll~aha qado >aHaATa bikul~i $aYo'K EilomF[A",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 559,
+        "ruku": 493,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

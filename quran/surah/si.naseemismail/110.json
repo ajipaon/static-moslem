@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "(නබියේ! ඔබට) අල්ලාහ්ගේ උදව්වද, (මක්කාවේ) ජයග්‍රහණයද, ලැබී-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "අල්ලාහ්ගේ ධර්මයෙහි ජනයා සමූහ සමූහයන් වශයෙන් ඇතුළු වීමද ඔබ දුටුවහොත් -",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "(එයට කෘතඥ වීම පිණිස) ඔබගේ දෙවියන්ව ප්‍රශංසා කර, සුවිශුද්ධ කර, ඔහුගේ (වරප්‍රසාදයද) සමාවද, ඉල්ලා සිටිනු මැනව! නියත වශයෙන්ම ඔහු (ප්‍රාර්ථනාවන් බාරගෙන) සමාව ඉල්ලා සිටීමද බාර ගන්නෙකු වශයෙන් සිටින්නේය.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

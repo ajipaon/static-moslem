@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "නබියේ! අබ්රහාගේ) ඇත් සේනාව ඔබගේ දෙවියන් කෙසේ නම් (විනාශ) කර දැමුවේද යන්න ඔබ (පොඩියක් සිතා) බැලූවේ නැද්ද?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "ඔවුන්ගේ කුමන්ත්‍රණය ඔහු අපතේ හැරියේ නැද්ද?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "ඔවුන් කෙරෙහි පක්ෂීන් කණ්ඩායම් කණ්ඩායම් වශයෙන් ඔහු යැවුවේය.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": " (කැට ගැසුණු) පුළුස්සන ලද කුඩා කල් කැට, ඒවා ඔවුන් මත වීසි කරන ලදී.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "එමගින් (පක්ෂීන් විසින්) කොටා කන ලද කරල් මෙන් බවට පත් කර, ඔවුන්ව ඔහු (විනාශ කර) දැමුවේය.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

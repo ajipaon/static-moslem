@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "(නබියේ!) ඉතාමත් ශ්‍රේෂ්ඨ ඔබ දෙවියන්ගේ ශුද්ධ වූ නාමය ඔබ ප්‍රශංසා කර සුවිශුද්ධ කරනු මැනව!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "ඔහුම (සියලූ උත්පාදනයන්ම) උත්පාදනය කර (ඒවා නියමිත අන්දමට) සැලසුම් කළ අයයි.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "ඔහුව (ඒවාට අවශ්‍ය සියලූ දැය) මනක්කල්පිත කර (ඒවා ලැබිය හැකි) මාර්ගයන්ද (ඒවාට) දැනුම් දුන්නේය.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "ඔහුම (ගමේ සතුන්ට) උලෑ කෑමට අවශ්‍ය දැයද ඉකුත් කරන්නේය.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "පසුව ඒවා වියළී ගිය පඞරැල් බවට පත් කරන්නේය.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "(නබියේ! මෙම කුර්ආනය) අපි ඔබට සමුදීරණය කිරීමට උගන්වන්නෙමු. අල්ලාහ් අදහස් කළහොත් මිස, (එහි කිසිම දැයක්) ඔබ අමතක කරන්නේ නැත.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "නියත වශයෙන්ම ඔහු සැඟවී ඇති දැයද, පිටත පෙනුමට ඇති දැයද හොඳින් දන්නේය.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "පහසු වූ (ධර්මය) අපි ඔබට පහසු කර ලබා දෙන්නෙමු.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "එබැවින් හොඳ ඔවදන් (ජනයාට) ප්‍රයෝජනවත් වන තුරු ඔබ දේශනා කරමින්ම සිටිනු.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "නියත වශයෙන්ම කවුරුන් (අල්ලාහ්ට) බිය වන්නේද, ඔහු (මෙමගින්) හොඳ දැනුමක් අත් කර ගන්නේය.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "අභාග්‍යවන්තයා නම්, මෙයින් ඈත් වී යන්නේය.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "(එහෙත්) ඔහු (නිරයේ) ඉමහත් ගින්න අත් කර ගන්නේය.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "පසුව එහි ඔහු මරණයට පත් වන්නේද නැත. (සැපසේ) ජීවත් වන්නේද නැත.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "කවුරුන් (පාපයන්ගෙන් ඈත් වී) පරිශුද්ධවන්තයෙකු වන්නේද, ඔහු නියත වශයෙන්ම ජයග්‍රහණය කළේය.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "ඔහු තම දෙවියන්ගේ ශුද්ධ වූ නාමය සුවිශුද්ධ කරමින්ද, නමදිමින්ද සිටින්නේය.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "එහෙත් ඔබ නම්, (පරලොව අත්හැර දමා) මෙලොව ජීවිතය තෝරා ගත්තෙහුය.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "පරලොව ජීවිතයම ඉතාමත් උසස් හා ස්ථීරවත් එකක්ද වන්නේය.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "නියත වශයෙන්ම මෙය පෙර තිබූ ආගම්වලද-",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "ඉබ්රාහීම් හා මූසාගේ ආගම්වලද ඇත්තේය.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

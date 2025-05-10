@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "(නබියේ! ආරක්ෂාව සපයන) මෙම නගරය මත දිව්රන්නෙමි!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "එයත් ඔබ මෙම නගරයෙහි රැඳී සිටිය හැකි අවස්ථාවේදී-",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "(මනුෂ්‍යයාගේ) දෙමව්පියන් (වන ආදම් අෙලෙහිස්සලාම්) මතද, ඔහු බිහි කළ දරුවන් මතද සත්තකින්ම!",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "ඇත්තෙන්ම අපි මිනිසාව අමාරුකමෙහි (ගැලී සිටින්නෙකු වශයෙන්ම) උත්පාදනය කර ඇත්තෙමු.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "(එසේ තිබියදී) ඔහු තමන්ව යටපත් කිරීමට කිසිවෙකුටත් නොහැකි යයි අදහස් කළේද?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "“බොහෝ වස්තූන් මා (හරිහම්බ කර වියදම් කර) විනාශ කර දැමුවෙමි” යයි ඔහු (උඞඟූ වී ආඩම්බර බස්) ෙදාඩන්නේය.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "(මෙසේ ආඩම්බර බස් ෙදාඩණ) ඔහුව කිසිවෙකුත් දැක්කේ නැතැයි ඔහු සිතා ගත්තෙහිද?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "(බැලිය හැකි) ඇස් දෙකක්ම අපි ඔහුට ලබා දුන්නේ නැද්ද?",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "(එසේ තිබියදී සත්‍යය ඔහු දුටුවේ නැත. කතා කළ හැකි) දිවක්ද, තොල් දෙකක්ද, (අපි ඔහුට ලබා දුන්නේ නැද්ද? ඒවා ඉබේම ඔහු අත් කර ගත්තේද?) නැත.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "(පින්, පව්) මාර්ගයන් දෙකම අපි ඔහුට වෙන්කර දැනුම් දුන්නෙමු.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "එහෙත් (මෙතෙක්) ඔහු ‘අකබා’ව තරනය කළේ නැත.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "(නබියේ!) අකබා යනු කිමෙක්දැයි ඔබ දන්නෙහිද?",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "(එය) එක් වහලෙකු නිදහස් කිරීමයි.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "නැතහොත් දරිධ්‍රතාවයෙන් කුස ගින්නෙන් පෙළෙන කෙනෙකුට හෝ",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "ඥාතීන්ගෙන් වූ කුස ගින්නෙන් පෙළෙන එක් අනාථයෙකුට හෝ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "නැතහොත් දරිධ්‍රතාවයෙන් පොලොව කාගෙන සිටින එක් දුප්පතෙකුට (කුස ගින්නෙන් වූ) එක් දිනක ආහාර ලබා දීම වන්නේය.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "(මීට අමතරව) විශ්වාසය තබා කෙනෙකුට කෙනෙකු ඉවසීම මගින් හොඳ ඔවදන් දෙමින්ද, අනුකම්පාව මගින් කෙනෙකුට කෙනෙකු හොඳ ඔවදන් දෙමින්ද සිටින්නන්ගෙන්ද වීම වන්නේය.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "මෙවැන්නන්ම දකුණු පාර්ශවයේ සිටින්නන්ය.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "තවද කවුරුන් අපගේ ආයාවන් ප්‍රතික්ෂේප කරන්නෝද, ඔවුන්ම වම් පාර්ශවයේ වූ අයයි.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "ඔවුන්ව නිරයෙහි දමා (සියලූ මාර්ගයන්) වසා දමනු ලැබේ.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

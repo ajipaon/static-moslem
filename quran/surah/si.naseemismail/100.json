@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "හුස්ම හිර වෙන තරමට අධික වේගයෙන් දුවන අශ්වයින් මතද-",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "(දුවන වේගයෙන්ම කුර ගැටෙන්නට සලස්වා) ගිනි පුපුරු වීසි වන්නට සලස්වන දැය මතද-",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "තවද උදේ පාන්දර (සතුරන් කෙරෙහි) පැන දුවන දැය මතද-",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "(එසේ වේගයෙන් දුවන විට, වලාකුළු මෙන්) එමගින් දූවිලි අවුස්සා දමන දැය මතද-",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "පසුව (සතුරන්ගේ සේනාව) මධ්‍යයෙහි ඒ හේතුවෙන් අතුළු වන දැය මතද සත්තකින්ම!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "නියත වශයෙන්ම මිනිසා තම දෙවියන්ට කෙළෙහිගුණ නොදක්වන්නෙකු වශයෙන් සිටින්නේය.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "නියත වශයෙන්ම ඔහුම මෙයට සාක්ෂි වශයෙන්ද සිටින්නේය.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "නියත වශයෙන්ම ඔහු ඉතාමත් දැඩි වශයෙන්ම වස්තුවට ආදරය කරන්නේය.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "සොහොන් (කබ්රු) වල ඇති දැය පිටතට වීසි කරනු ලැබ,",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "සිත්හි ඇති දැය එළිදරව් කරනු ලබන අවස්ථාවේදී-",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "නියත වශයෙන්ම (මිනිසුන් වන) ඔවුන්ගේ දෙවියන් (නපුරු අය කවරෙක්ද? හොඳ අය කවරෙක්ද?යි) ඔවුන්ව එදිනදී හොඳින් දැන ගන්නේය යනුවෙන් ඔහු දැන ගත්තේ නැද්ද?",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

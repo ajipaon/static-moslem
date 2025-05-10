@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "<i*aA jaA^'aka {lomuna`fiquwna qaAluwA@ na$ohadu <in~aka larasuwlu {ll~ahi wa{ll~ahu yaEolamu <in~aka larasuwluhu, wa{ll~ahu ya$ohadu <in~a {lomuna`fiqiyna laka`*ibuwna",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "{t~axa*uw^A@ >ayoma`nahumo jun~apF faSad~uwA@ Ean sabiyli {ll~ahi <in~ahumo saA^'a maA kaAnuwA@ yaEomaluwna",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "*a`lika bi>an~ahumo 'aAmanuwA@ vum~a kafaruwA@ faTubiEa EalaY` quluwbihimo fahumo laA yafoqahuwna",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "wa<i*aA ra>ayotahumo tuEojibuka >ajosaAmuhumo wa<in yaquwluwA@ tasomaEo liqawolihimo ka>an~ahumo xu$ubN m~usan~adapN yaHosabuwna kul~a SayoHapK Ealayohimo humu {loEaduw~u fa{Ho*arohumo qa`talahumu {ll~ahu >an~aY` yu&ofakuwna",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "wa<i*aA qiyla lahumo taEaAlawoA@ yasotagofiro lakumo rasuwlu {ll~ahi law~awoA@ ru'uwsahumo wara>ayotahumo yaSud~uwna wahum m~usotakobiruwna",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "sawaA^'N Ealayohimo >asotagofarota lahumo >amo lamo tasotagofiro lahumo lan yagofira {ll~ahu lahumo <in~a {ll~aha laA yahodiY {loqawoma {lofa`siqiyna",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "humu {l~a*iyna yaquwluwna laA tunfiquwA@ EalaY` mano Einda rasuwli {ll~ahi Hat~aY` yanfaD~uwA@ walil~ahi xazaA^}inu {ls~ama`wa`ti wa{lo>aroDi wala`kin~a {lomuna`fiqiyna laA yafoqahuwna",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "yaquwluwna la}in r~ajaEonaA^ <ilaY {lomadiynapi layuxorijan~a {lo>aEaz~u minohaA {lo>a*al~a walil~ahi {loEiz~apu walirasuwlihi. walilomu&ominiyna wala`kin~a {lomuna`fiqiyna laA yaEolamuwna",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "ya`^>ay~uhaA {l~a*iyna 'aAmanuwA@ laA tulohikumo >amowa`lukumo walaA^ >awola`dukumo Ean *ikori {ll~ahi waman yafoEalo *a`lika fa>uw@la`^}ika humu {loxa`siruwna",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "wa>anfiquwA@ min m~aA razaqona`kum m~in qaboli >an ya>otiYa >aHadakumu {lomawotu fayaquwla rab~i lawolaA^ >ax~arotaniY^ <ilaY`^ >ajalK qariybK fa>aS~ad~aqa wa>akun m~ina {lS~a`liHiyna",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "walan yu&ax~ira {ll~ahu nafosFA <i*aA jaA^'a >ajaluhaA wa{ll~ahu xabiyrN[ bimaA taEomaluwna",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "qulo >aEuw*u birab~i {lofalaqi",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "min $ar~i maA xalaqa",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "wamin $ar~i gaAsiqK <i*aA waqaba",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "wamin $ar~i {ln~af~a`va`ti fiY {loEuqadi",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "wamin $ar~i HaAsidK <i*aA Hasada",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
