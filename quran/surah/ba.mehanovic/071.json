@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "Mi smo poslali Nuha narodu njegovu: \"Upozoravaj narod svoj prije nego što ga stigne patnja bolna!\"\n",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "\"O narode moj\", govorio je on, \"ja sam vam zbilja upozoritelj jasni!\n",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "Allahu u ibadetu budite, Njega se bojte i meni poslušni budite.\n",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "On će vam grijehe vaše oprostiti i u životu vas do Određenog časa ostaviti, a kada Allahov Određeni čas dođe, zaista se neće, neka znate, odgoditi.\"\n",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "On reče: \"Gospodaru moj, ja sam narod svoj i noću i danju, doista, pozivao,\n",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "ali ga je pozivanje moje još više udaljilo.\n",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "I kad god sam ih pozivao da im oprostiš, prste su svoje u uši stavljali i haljinama svojim se pokrivali - bili su uporni i pretjerano oholi.\n",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "Zatim sam ih ja otvoreno pozivao,\n",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "a onda sam im javno objavljivao i u povjerenju im šaputao,\n",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "i govorio: 'Tražite od Gospodara svoga oprost. On, doista, mnogo prašta;\n",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "On će vam kišu obilatu slati\n",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "i mnogo vam imanja i sinova dati. I dat će vam bašče, a i rijeke će vam dati.\n",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "Šta vam je, pa se Allahove veličine ne bojite,\n",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "a On vas postepeno stvara?!\n",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "Zar ne vidite kako je Allah sedam nebesa, jedno iznad drugog, stvorio,\n",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "i na njima Mjesec svijetlim dao, a Sunce svjetiljkom učinio?!\n",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "Allah vas od zemlje poput bilja stvara,\n",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "zatim vas u nju vraća i iz nje će vas sigurno izvesti.\n",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "Allah vam je Zemlju učinio ravnom,\n",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "da biste po njoj hodili putevima prostranim.'\"\n",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "Nuh reče: \"Gospodaru moj, oni me ne slušaju i povode se za onima čija bogatstva i djeca samo njihovu propast uvećavaju\n",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "i spletke velike snuju.\n",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "I govore: 'Nikako božanstva svoja ne ostavljajte, i nikako, ni Vedda, ni Suvaa, a ni Jegusa, ni Jelika, ni Nesra ne napuštajte!',\n",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "a već su mnoge u zabludu doveli, pa Ti zulumćarima samo zabludu povećaj!\"\n",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "I oni su zbog grijeha svojih potopljeni i u Vatru će biti uvedeni i nikoga sebi, mimo Allaha, kao pomagače neće naći.\n",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "I Nuh reče: \"Gospodaru moj, ne ostavi na Zemlji nijednog nevjernika,\n",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "jer ako ih ostaviš, oni će robove Tvoje u zabludu zavoditi i samo će grešnika i nevjernika rađati!\n",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "Gospodaru moj, oprosti meni, i roditeljima mojim, i onome koji kao vjernik u dom moj uđe, i vjernicima i vjernicama, a zulumćarima samo propast povećaj!\"\n",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

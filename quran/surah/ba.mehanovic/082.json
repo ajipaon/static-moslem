@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "Kada se nebo rascijepi,\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "i kada zvijezde popadaju raštrkane,\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "i kada mora budu prokuhljala pa se preliju,\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "i kada kaburovi budu prevrnuti.\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "svako će saznati šta je pripremio, a šta propustio.\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "O čovječe, šta te je obmanulo u vezi s tvojim Gospodarom Plemenitim?\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "Koji te je stvorio, pa učinio da si skladan i da si uspravan,\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "i kakav je htio lik ti dao.\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "Naprotiv! Vi još i Sud poričete,\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "a nad vama bdiju čuvari,\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "plemeniti pisari\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "koji znaju ono što radite.\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "Čestiti će sigurno biti u užitku,\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "a razvratnici sigurno u Oganj.\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "Na Sudnjem danu u njemu će gorjeti\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "i više iz njega izbivati neće.\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "A šta ti znaš šta je Sudnji dan?!\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "I još jednom: šta znaš šta je Sudnji dan?!\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "Dan kada niko nikome neće moći nimalo pomoći, Dana tog vlast će jedino Allah imati.\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

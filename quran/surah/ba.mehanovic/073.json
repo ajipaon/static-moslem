@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O ti umotani!\n",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Probdij noć, osim malog dijela;\n",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "polovinu njezinu i malo manje od nje;\n",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "ili malo više od nje, i uči Kur'an polagahno.\n",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Mi ćemo ti, doista, teške riječi slati.\n",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "Ustajanje noću, zaista, jače djeluje i izgovor je razboritiji,\n",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "a ti danju, doista, imaš vremena mnogo.\n",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "I spominji ime Gospodara svoga i Njemu u potpunosti odan budi,\n",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "On je Gospodar istoka i zapada, nema boga osim Njega, Njega uzmi za zaštitnika!\n",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "I otrpi ono što oni govore i izbjegavaj ih na lijep način,\n",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "a prepusti Meni one koji te u laž ugone, koji raskošno žive, i daj im malo vremena;\n",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "bit će u Nas, doista, okova i ognja,\n",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "i jela koje u grlu zastaje, i patnje nesnosne,\n",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "na Dan kada se Zemlja i planine zatresu i planine mehke pješčane dine postanu.\n",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Mi smo vam zaista poslali Poslanika da bi svjedočio protiv vas, isto onako kao što smo i faraonu poslanika poslali,\n",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "ali faraon nije poslušao poslanika, pa smo ga teškom kaznom kaznili.\n",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Kako ćete se, ako ostanete nevjernici, sačuvati Dana koji će djecu sijedom učiniti?!\n",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "Nebo će se tada rascijepiti, i obećanje Njegovo bit će ispunjeno.\n",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Ovo je, doista, pouka; i ko hoće, put ka Gospodaru svome prihvatit će!\n",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Gospodar tvoj sigurno zna da ti klanjajući provodiš manje od dvije trećine noći, polovinu njezinu, ili trećinu njezinu, a i skupina od onih koji su uz tebe. Allah određuje dužinu noći i dana, On zna da vi to nećete moći izdržati pa vam prašta, a vi iz Kur'ana učite ono što je lahko, On zna da će među vama biti bolesnih, i onih koji će po svijetu putovati, i Allahove blagodati tražiti, i onih koji će se na Allahovu putu boriti. Pa učite iz njega ono što je lahko, i namaz obavljajte, i zekat dajite, i Allahu lijep zajam dajte! A dobro koje za sebe unaprijed date naći ćete kod Allaha da je još bolje i s nagradom većom. I molite Allaha da vam oprosti. Allah je, uistinu, Onaj Koji oprašta grijehe i milostiv je.\n",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

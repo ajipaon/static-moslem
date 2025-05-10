@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 48,
+    "name": "سُورَةُ الفَتۡحِ",
+    "englishName": "Al-Fath",
+    "englishNameTranslation": "The Victory",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 4584,
+        "text": "Mi smo ti, zaista, dali da pobijediš pobjedom jasnom\n",
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4585,
+        "text": "da bi ti Allah oprostio grijehe koji su prethodili i one koji će poslije doći, da bi blagodat Svoju tebi potpunom učinio da bi te na Pravi put uputio\n",
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4586,
+        "text": "i da bi te Allah snažno podržao.\n",
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4587,
+        "text": "On je Onaj Koji je smiraj u srca vjernika spustio da bi vjerovanje na vjerovanje svoje povećali, a vojske nebesa i Zemlje su Allahove; Allah je Onaj Koji sve zna i mudar je,\n",
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4588,
+        "text": "da bi vjernike i vjernice uveo u džennetske bašče, kroz koje rijeke teku, u kojima će vječno boraviti, i da bi prekrio njihova loša djela - a to je u Allaha veliki uspjeh,\n",
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4589,
+        "text": "i da bi kaznio licemjere i licemjerke i višebošce i višeboškinje, koji o Allahu zlo misle. Zlom su oni okruženi! Allah se na njih rasrdio i prokleo ih i pripremio im Džehennem, a grozno je to boravište!\n",
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4590,
+        "text": "Allahove su vojske nebesa i Zemlje; Allah je silan i mudar.\n",
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4591,
+        "text": "Mi smo tebe poslali kao svjedoka, i radosnih vijesti donositelja, i upozoritelja,\n",
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4592,
+        "text": "da u Allaha i u Poslanika Njegova vjerujete, i da ga uznosite, i štujete, i da Njega -Allaha ujutro i navečer slavite i veličate.\n",
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4593,
+        "text": "Oni koji su ti se zakleli na vjernost - zakleli su se, doista, na vjernost samom Allahu - Allahova ruka je iznad ruku njihovih! Onaj ko prekrši zakletvu krši je na svoju štetu, a ko ispuni ono na što se obavezao Allahu, On će mu dati veliku nagradu!\n",
+        "numberInSurah": 10,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4594,
+        "text": "Govorit će ti beduini koji su izostali: \"Zadržali su nas imeci i porodice naše, pa zamoli za nas oprost.“ Oni govore jezicima svojim ono što nije u srcima njihovim. Reci: \"Pa ko vam može išta protiv Allaha pomoći ako vam On hoće nauditi, ili ako vam hoće kakvo dobro učiniti\" Naprotiv! Allah u potpunosti zna ono što radite.\n",
+        "numberInSurah": 11,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4595,
+        "text": "Čak ste mislili da se Poslanik i vjernici nikada neće vratiti porodicama svojim; vaša su srca bila zadovoljna zbog toga i vi ste zlo mislili, vi ste narod propali.\n",
+        "numberInSurah": 12,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4596,
+        "text": "A ko god ne vjeruje u Allaha i Poslanika Njegova - pa, Mi smo za nevjernike razbuktali Oganj pripremili!\n",
+        "numberInSurah": 13,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4597,
+        "text": "Allahova je vlast na nebesima i na Zemlji, On prašta kome hoće, a kažnjava koga hoće - Allah je Onaj Koji oprašta grijehe i milostiv je.\n",
+        "numberInSurah": 14,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4598,
+        "text": "Oni koji su izostali sigurno će reći, kada pođete da plijen uzmete: \"Pustite i nas da vas pratimo!\" Oni žele izmijeniti Allahov govor. Reci: \"Vi nas nećete pratiti, to je još prije Allah rekao!\", a oni će reći: \"Nije tako, nego, vi nama zavidite.\" A nije ni to, već oni malo šta shvataju.\n",
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 512,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4599,
+        "text": "Reci beduinima koji su izostali: \"Bit ćete pozvani protiv naroda žestoke snage, da se protiv njih borite, ili će islam primiti. Pa ako poslušate, Allah će vam lijepu nagradu dati, a ako se okrenete, kao što ste se prije okrenuli, kaznit će vas bolnom patnjom.\"\n",
+        "numberInSurah": 16,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4600,
+        "text": "Nije grijeh slijepom, ni hromom ni bolesnom! Ko god se pokorava Allahu i Poslaniku Njegovu On će ga u džennetske bašče, kroz koje teku rijeke, uvesti, a onoga ko se okrene, patnjom bolnom će kazniti.\n",
+        "numberInSurah": 17,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 447,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4601,
+        "text": "Allah je zadovoljan onim vjernicima koji su ti se pod drvetom na vjernost zakleli. On je znao šta je u srcima njihovim, pa je spustio smiraj na njih, i nagradit će ih skorom pobjedom.\n",
+        "numberInSurah": 18,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4602,
+        "text": "I obilnijim plijenom koji će uzeti, a Allah je silan i mudar.\n",
+        "numberInSurah": 19,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4603,
+        "text": "Allah vam obećava obilni plijen koji ćete uzeti, a s ovim je požurio i ruke ljudi od vas je zadržao - da bi to bio znak za vjernike i da bi vas na Pravi put uputio\n",
+        "numberInSurah": 20,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4604,
+        "text": "i drugi, koji niste bili u stanju uzeti - Allah ga je već obujmio, a Allah nad svime ima moć.\n",
+        "numberInSurah": 21,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4605,
+        "text": "A da su nevjernici s vama borbu zametnuli, sigurno bi se u bijeg dali i poslije ne bi ni zaštitnika ni pomagača našli.\n",
+        "numberInSurah": 22,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4606,
+        "text": "To je prema Allahovu zakonu koji oduvijek važi, a ti nećeš vidjeti da se Allahov zakon promijeni.\n",
+        "numberInSurah": 23,
+        "juz": 26,
+        "manzil": 6,
+        "page": 513,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4607,
+        "text": "On je zadržao ruke njihove od vas i vaše od njih usred Mekke, i to nakon što vam je pružio mogućnost da ih pobijedite- a Allah dobro vidi ono što vi radite.\n",
+        "numberInSurah": 24,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4608,
+        "text": "To su oni koji ne vjeruju i brane vam da pristupite Časnoj džamiji, i da kurbani koje vodite sa sobom do mjesta svojih stignu. I da nije bilo muškaraca vjernika i žena vjernica, koje vi ne poznajete, pa da ih iz neznanja pobili ne biste, te bi vas zbog njih neugodnost zadesila - Mi bismo vam ih prepustili. A nismo ih prepustili zato da bi Allah u milost Svoju uveo onoga koga hoće. A da su oni bili odvojeni, doista bismo bolnom patnjom kaznili one među njima koji nisu vjerovali.\n",
+        "numberInSurah": 25,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4609,
+        "text": "Kad su nevjernici srca svoja punili žarom, žarom paganskim, Allah je spustio smiraj Svoj na Poslanika Svoga i na vjernike i obavezao ih na Riječ bogobojaznosti - a oni bijahu najdostojniji nje i bijahu nje vrijedni - a Allah sve zna.\n",
+        "numberInSurah": 26,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 448,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4610,
+        "text": "Allah će obistiniti san Poslanika Svoga da ćete doista u Časnu džamiju ući sigurni - ako Allah bude htio - neki obrijanih glava, a neki podrezanih kosa, bez straha. On je ono što vi niste znali znao i zato vam je, prije toga, nedavno pobjedu dao.\n",
+        "numberInSurah": 27,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4611,
+        "text": "On je poslao Poslanika Svoga s Uputom i vjerom Istine da bi je uzdigao iznad svih vjera. A Allah je dovoljan Svjedok!\n",
+        "numberInSurah": 28,
+        "juz": 26,
+        "manzil": 6,
+        "page": 514,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      },
+      {
+        "number": 4612,
+        "text": "Muhammed je Allahov poslanik, a njegovi su sljedbenici strogi prema nevjernicima a samilosni među sobom; vidiš ih kako ruku' i sedždu čine, želeći od Allaha obilje i zadovoljstvo - na licima su im znaci, tragovi od padanja na sedždu. Tako su opisani u Tevratu. A u Indžilu: oni su kao biljka kad izdanak svoj izbaci pa ga onda učvrsti, i on ojača, i uspravi se na svojoj stabljici izazivajući divljenje sijača - da bi On s vjernicima najedio nevjernike. Onima koji vjeruju i dobra djela čine Allah obećava oprost i nagradu veliku.\n",
+        "numberInSurah": 29,
+        "juz": 26,
+        "manzil": 6,
+        "page": 515,
+        "ruku": 449,
+        "hizbQuarter": 205,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
