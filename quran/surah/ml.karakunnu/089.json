@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "പ്രഭാതം സാക്ഷി.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "പത്തു രാവുകള്‍ സാക്ഷി.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "ഇരട്ടയും ഒറ്റയും സാക്ഷി.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "രാവു സാക്ഷി- അതു കടന്നുപോയിക്കൊണ്ടിരിക്കെ.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "കാര്യമറിയുന്നവന് അവയില്‍ ശപഥമുണ്ടോ?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "ആദ് ജനതയെ നിന്റെ നാഥന്‍ എന്തു ചെയ്തുവെന്ന് നീ കണ്ടില്ലേ?",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "ഉന്നതസ്തൂപങ്ങളുടെ ഉടമകളായ ഇറം ഗോത്രത്തെ?",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "അവരെപ്പോലെ ശക്തരായൊരു ജനത മറ്റൊരു നാട്ടിലും സൃഷ്ടിക്കപ്പെട്ടിട്ടില്ല.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "താഴ്വരകളില്‍ പാറവെട്ടിപ്പൊളിച്ച് പാര്‍പ്പിടങ്ങളുണ്ടാക്കിയ ഥമൂദ് ഗോത്രത്തെയും.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "ആണികളുടെ ആളായ ഫറവോനെയും.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "അവരോ, ആ നാടുകളില്‍ അതിക്രമം പ്രവര്‍ത്തിച്ചവരായിരുന്നു.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "അവരവിടെ കുഴപ്പം പെരുപ്പിച്ചു.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "അപ്പോള്‍ നിന്റെ നാഥന്‍ അവര്‍ക്കുമേല്‍ ശിക്ഷയുടെ ചാട്ടവാര്‍ വര്‍ഷിച്ചു.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "നിന്റെ നാഥന്‍ പതിസ്ഥലത്തു തന്നെയുണ്ട്; തീര്‍ച്ച.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "എന്നാല്‍ മനുഷ്യനെ അവന്റെ നാഥന്‍ പരീക്ഷിക്കുകയും, അങ്ങനെ അവനെ ആദരിക്കുകയും അനുഗ്രഹിക്കുകയും ചെയ്താല്‍ അവന്‍ പറയും: “എന്റെ നാഥന്‍ എന്നെ ആദരിച്ചിരിക്കുന്നു.”",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "എന്നാല്‍ അല്ലാഹു അവനെ പരീക്ഷിക്കുകയും, അങ്ങനെ അവന്റെ ജീവിതവിഭവം പരിമിതപ്പെടുത്തുകയും ചെയ്താലോ, അവന്‍ പറയും: “എന്റെ നാഥന്‍ എന്നെ നിന്ദിച്ചിരിക്കുന്നു.”",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "കാര്യം അതല്ല; നിങ്ങള്‍ അനാഥയെ പരിഗണിക്കുന്നില്ല.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "അഗതിക്ക് അന്നം നല്‍കാന്‍ പ്രേരിപ്പിക്കുന്നുമില്ല.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "പാരമ്പര്യമായിക്കിട്ടിയ സ്വത്ത് വാരിക്കൂട്ടി വെട്ടിവിഴുങ്ങുകയും ചെയ്യുന്നു.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "ധനത്തെ നിങ്ങള്‍ അതിരറ്റ് സ്നേഹിക്കുന്നു.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "അതല്ല; ഭൂമിയാകെ ഇടിച്ചു നിരപ്പാക്കുകയും,",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "നിന്റെ നാഥനും അണിയണിയായി മലക്കുകളും വരികയും,",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "അന്ന് നരകത്തെ നിങ്ങളുടെ അടുത്തേക്ക് കൊണ്ടുവരികയും ചെയ്യുമ്പോള്‍; അന്ന് മനുഷ്യന് എല്ലാം ഓര്‍മവരും. ആ സമയത്ത് ഓര്‍മ വന്നിട്ടെന്തു കാര്യം?",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "അവന്‍ പറയും: അയ്യോ, എന്റെ ഈ ജീവിതത്തിനായി ഞാന്‍ നേരത്തെ ചെയ്തുവെച്ചിരുന്നെങ്കില്‍.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "അന്നാളില്‍ അല്ലാഹു ശിക്ഷിക്കും വിധം മറ്റാരും ശിക്ഷിക്കുകയില്ല.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "അവന്‍ പിടിച്ചുകെട്ടുംപോലെ മറ്റാരും പിടിച്ചുകെട്ടുകയുമില്ല.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "അല്ലയോ ശാന്തി നേടിയ ആത്മാവേ.",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "നീ നിന്റെ നാഥങ്കലേക്ക് തൃപ്തിപ്പെട്ടവനായും തൃപ്തി നേടിയവനായും തിരിച്ചു ചെല്ലുക.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "അങ്ങനെ എന്റെ ഉത്തമ ദാസന്മാരുടെ കൂട്ടത്തില്‍ പ്രവേശിച്ചു കൊള്ളുക.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "എന്റെ സ്വര്‍ഗത്തില്‍ പ്രവേശിച്ചുകൊള്ളുക.",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "ആവരണം ചെയ്യുന്ന മഹാവിപത്തിന്റെ വാര്‍ത്ത നിനക്കു വന്നെത്തിയോ?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "അന്ന് ചില മുഖങ്ങള്‍ പേടിച്ചരണ്ടവയായിരിക്കും.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "അധ്വാനിച്ച് തളര്‍ന്നവയും.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "ചുട്ടെരിയും നരകത്തിലവര്‍ ചെന്നെത്തും.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "തിളച്ചു മറിയുന്ന ഉറവയില്‍നിന്നാണവര്‍ക്ക് കുടിക്കാന്‍ കിട്ടുക.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "കയ്പുള്ള മുള്‍ചെടിയില്‍ നിന്നല്ലാതെ അവര്‍ക്കൊരാഹാരവുമില്ല.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "അത് ശരീരത്തെ പോഷിപ്പിക്കില്ല. വിശപ്പിനു ശമനമേകുകയുമില്ല.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "എന്നാല്‍ മറ്റു ചില മുഖങ്ങള്‍ അന്ന് പ്രസന്നങ്ങളായിരിക്കും.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "തങ്ങളുടെ കര്‍മങ്ങളെക്കുറിച്ച് സംതൃപ്തരും.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "അവര്‍ അത്യുന്നതമായ സ്വര്‍ഗീയാരാമത്തിലായിരിക്കും.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "വിടുവാക്കുകള്‍ അവിടെ കേള്‍ക്കുകയില്ല.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "അവിടെ ഒഴുകുന്ന അരുവിയുണ്ട്.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "ഉയര്‍ത്തിയൊരുക്കിയ മഞ്ചങ്ങളും.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "തയ്യാറാക്കിവെച്ച പാനപാത്രങ്ങളും.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "നിരത്തിവെച്ച തലയണകളും.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "പരത്തിവെച്ച പരവതാനികളും.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "അവര്‍ നോക്കുന്നില്ലേ? ഒട്ടകത്തെ; അതിനെ എങ്ങനെ സൃഷ്ടിച്ചുവെന്ന്?",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "ആകാശത്തെ; അതിനെ എവ്വിധം ഉയര്‍ത്തിയെന്ന്?",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "പര്‍വതങ്ങളെ, അവയെ എങ്ങനെ സ്ഥാപിച്ചുവെന്ന്?",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "ഭൂമിയെ, അതിനെ എങ്ങനെ വിശാലമാക്കിയെന്ന്?",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "അതിനാല്‍ നീ ഉദ്ബോധിപ്പിക്കുക. നീ ഒരുദ്ബോധകന്‍ മാത്രമാണ്.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "നീ അവരുടെ മേല്‍ നിര്‍ബന്ധം ചെലുത്തുന്നവനല്ല.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "ആര്‍ പിന്തിരിയുകയും സത്യത്തെ തള്ളിപ്പറയുകയും ചെയ്യുന്നുവോ,",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "അവനെ അല്ലാഹു കഠിനമായി ശിക്ഷിക്കും.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "നിശ്ചയമായും നമ്മുടെ അടുത്തേക്കാണ് അവരുടെ മടക്കം.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "പിന്നെ അവരുടെ വിചാരണയും നമ്മുടെ ചുമതലയിലാണ്",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

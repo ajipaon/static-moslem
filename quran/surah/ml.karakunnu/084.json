@@ -1,0 +1,302 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 84,
+    "name": "سُورَةُ الانشِقَاقِ",
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Splitting Open",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 25,
+    "ayahs": [
+      {
+        "number": 5885,
+        "text": "ആകാശം പൊട്ടിപ്പിളരുമ്പോള്‍!",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5886,
+        "text": "അത് തന്റെ നാഥന്ന് കീഴ്പ്പെടുമ്പോള്‍!- അത് അങ്ങനെ ചെയ്യാന്‍ കടപ്പെട്ടിരിക്കുന്നുവല്ലോ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5887,
+        "text": "ഭൂമി പരത്തപ്പെടുമ്പോള്‍-",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5888,
+        "text": "അതിനകത്തുള്ളതിനെ പുറത്തേക്ക് തള്ളുകയും അത് ശൂന്യമായിത്തീരുകയും.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5889,
+        "text": "അത് അതിന്റെ നാഥന്ന് കീഴ്പ്പെടുകയും ചെയ്യുമ്പോള്‍! -അങ്ങനെ ചെയ്യാന്‍ അത് കടപ്പെട്ടിരിക്കുന്നുവല്ലോ.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5890,
+        "text": "അല്ലയോ മനുഷ്യാ; നീ നിന്റെ നാഥനിലേക്ക് കടുത്ത ക്ളേശത്തോടെ ചെന്നെത്തുന്നവനാണ്; അങ്ങനെ അവനുമായി കണ്ടുമുട്ടുന്നവനും.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5891,
+        "text": "എന്നാല്‍ തന്റെ കര്‍മപുസ്തകം വലതു കയ്യില്‍ നല്‍കപ്പെടുന്നവനോ;",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5892,
+        "text": "അവന് നിസ്സാരമായ വിചാരണയേ ഉണ്ടാവുകയുള്ളൂ.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5893,
+        "text": "അവന്‍ തന്റെ വീട്ടുകാരുടെ അടുത്തേക്ക് സന്തോഷത്തോടെ മടങ്ങിച്ചെല്ലും.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5894,
+        "text": "എന്നാല്‍ കര്‍മപുസ്തകം തന്റെ പിന്‍ഭാഗത്തൂടെ നല്‍കപ്പെടുന്നവനോ;",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5895,
+        "text": "അവന്‍ “നാശമേ”യെന്ന് വിലപിച്ചു കൊണ്ടിരിക്കും.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5896,
+        "text": "ആളിക്കത്തുന്ന നരകത്തീയില്‍ കത്തിയെരിയും.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5897,
+        "text": "തീര്‍ച്ചയായും അവന്‍ തന്റെ കുടുംബക്കാര്‍ക്കിടയില്‍ ആഹ്ളാദത്തോടെ കഴിയുന്നവനായിരുന്നു.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5898,
+        "text": "താന്‍ മടങ്ങിവരില്ലെന്നാണ് അവന്‍ കരുതിയത്.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5899,
+        "text": "എന്നാല്‍ ഉറപ്പായും അവന്റെ നാഥന്‍ അവനെ സൂക്ഷ്മമായി നിരീക്ഷിക്കുന്നവനായിരുന്നു.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5900,
+        "text": "ഞാനിതാ സത്യംചെയ്യുന്നു; സൂര്യാസ്തമയ സമയത്തെ ശോഭകൊണ്ട്.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5901,
+        "text": "രാത്രിയും അതുള്‍ക്കൊള്ളുന്നതുകൊണ്ടും.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5902,
+        "text": "ചന്ദ്രന്‍ സാക്ഷി- അതു പൂര്‍ണത പ്രാപിക്കുമ്പോള്‍.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5903,
+        "text": "നിശ്ചയമായും നിങ്ങള്‍ പടിപടിയായി പുരോഗമിച്ചുകൊണ്ടിരിക്കും.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5904,
+        "text": "എന്നിട്ടും അവര്‍ക്കെന്തു പറ്റി, അവര്‍ വിശ്വസിക്കുന്നില്ലല്ലോ?",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5905,
+        "text": "ഖുര്‍ആന്‍ ഓതിക്കേള്‍പിക്കുമ്പോള്‍ സാഷ്ടാംഗം പ്രണമിക്കുന്നുമില്ല.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": {
+          "id": 14,
+          "recommended": true,
+          "obligatory": false
+        }
+      },
+      {
+        "number": 5906,
+        "text": "എന്നല്ല; സത്യനിഷേധികള്‍ അതിനെ കളവാക്കി തള്ളുകയാണ്.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5907,
+        "text": "അവര്‍ മനസ്സില്‍ സൂക്ഷിക്കുന്നവയൊക്കെയും നന്നായറിയുന്നവനാണ് അല്ലാഹു.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5908,
+        "text": "അതിനാല്‍ നീ അവര്‍ക്ക് നോവേറിയ ശിക്ഷയെ സംബന്ധിച്ച് വിവരമറിയിക്കുക.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5909,
+        "text": "സത്യവിശ്വാസം സ്വീകരിക്കുകയും സല്‍ക്കര്‍മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും ചെയ്തവര്‍ക്കൊഴികെ. അവര്‍ക്ക് അറുതിയില്ലാത്ത പ്രതിഫലമുണ്ട്.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 589,
+        "ruku": 526,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

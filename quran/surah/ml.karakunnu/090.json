@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "അങ്ങനെയല്ല; ഈ മക്കാനഗരം സാക്ഷി.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "നീ ഈ നഗരത്തില്‍ താമസിക്കുന്നവനല്ലോ.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "ജനയിതാവും അവന്‍ ജന്മമേകിയതും സാക്ഷി.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "നിശ്ചയം; നാം മനുഷ്യനെ സൃഷ്ടിച്ചത് ക്ളേശമനുഭവിക്കുന്നവനായാണ്.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "തന്നെ പിടികൂടാനാര്‍ക്കും കഴിയില്ലെന്നാണോ അവന്‍ കരുതുന്നത്?",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "അവന്‍ അവകാശപ്പെട്ടു; താന്‍ ധാരാളം ധനം തുലച്ചെന്ന്.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "അവന്‍ കരുതുന്നുവോ; അവനെ ആരും കാണുന്നില്ലെന്ന്.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "അവനു നാം കണ്ണിണകള്‍ നല്‍കിയില്ലേ?;",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "നാവും ചുണ്ടിണകളും?",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "തെളിഞ്ഞ രണ്ടു വഴികള്‍ നാമവന് കാണിച്ചുകൊടുത്തില്ലേ?",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "എന്നിട്ടും അവന്‍ മലമ്പാത താണ്ടിക്കടന്നില്ല.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "മലമ്പാത എന്തെന്ന് നിനക്കെന്തറിയാം?",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "അത് അടിമയുടെ മോചനമാണ്.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "അല്ലെങ്കില്‍ കൊടും വറുതി നാളിലെ അന്നദാനം.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "അടുത്ത ബന്ധുവായ അനാഥയ്ക്ക്.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "അല്ലെങ്കില്‍ പട്ടിണിക്കാരനായ മണ്ണുപുരണ്ട അഗതിക്ക്.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "പിന്നെ സത്യവിശ്വാസം സ്വീകരിക്കുകയും ക്ഷമയും കാരുണ്യവും പരസ്പരം ഉപദേശിക്കുകയും ചെയ്തവരില്‍ ഉള്‍പ്പെടലുമാണ്.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "അവര്‍ തന്നെയാണ് വലതു പക്ഷക്കാര്‍.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "നമ്മുടെ സൂക്തങ്ങളെ തള്ളിപ്പറഞ്ഞവരോ, അവര്‍ ഇടതുപക്ഷക്കാരും.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "അവര്‍ക്കുമേല്‍ മൂടപ്പെട്ട നരകമുണ്ട്.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

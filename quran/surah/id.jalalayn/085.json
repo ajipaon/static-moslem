@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "(Demi langit yang mempunyai gugusan bintang) yakni bintang-bintang yang dua belas gugusan, sebagaimana yang telah dijelaskan di dalam surah Al-Furqaan.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "(Dan demi hari yang dijanjikan) yaitu hari kiamat.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "(Dan demi yang menyaksikan) hari Jumat (dan yang disaksikan) yakni hari Arafah. Demikianlah menurut penafsiran hadis tentang tiga perkara tersebut; yang pertama adalah hari yang telah dijanjikan, dan yang kedua hari Jumat menyaksikan amal perbuatan yang dikerjakan pada hari itu, serta yang ketiga hari Arafah disaksikan oleh manusia dan para malaikat. Sedangkan yang menjadi Jawab Qasam kalimat permulaannya tidak disebutkan, yaitu, \"Sesungguhnya.\"",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "(Telah dibinasakan) telah dilaknat (orang-orang yang memiliki Ukhdud) artinya orang-orang yang menggali parit.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "(Yaitu api) lafal An-Naari berkedudukan sebagai Badal Isytimal dari lafal Al-Ukhduud (yang dinyalakan) dengan kayu bakar.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "(Ketika mereka berada di sekitarnya) yaitu berada di sekitar tepi parit-parit itu seraya di atas kursi-kursi (mereka duduk.)",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "(Sedangkan mereka terhadap apa yang mereka perbuat terhadap orang-orang yang beriman) kepada Allah, menyiksa mereka dengan cara melemparkan mereka ke dalam parit yang penuh dengan api itu, jika mereka tidak mau kembali murtad dari imannya (menyaksikan) artinya hadir menyaksikan penyiksaan itu. Menurut suatu riwayat, bahwasanya Allah menyelamatkan orang-orang yang beriman yang dilemparkan ke dalam parit berapi itu, yaitu dengan mencabut nyawa mereka terlebih dahulu sebelum mereka jatuh ke dalam api. Kemudian api itu keluar dari dalam parit dan membakar orang-orang yang berada di sekitarnya, sehingga mereka yang menyaksikan penyiksaan itu mati terbakar.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "(Dan mereka tidak menyiksa orang-orang mukmin itu melainkan karena orang-orang mukmin itu beriman kepada Allah Yang Maha Perkasa) di dalam kerajaan-Nya. (lagi Maha Terpuji) lafal Al-Hamiid bermakna Al-Mahmuud, artinya Maha Terpuji.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "(Yang mempunyai kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu) yakni Dia menyaksikan, bahwa tiadalah orang-orang kafir itu ingkar kepada orang-orang yang beriman melainkan karena orang-orang yang beriman itu beriman kepada Allah.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "(Sesungguhnya orang-orang yang mendatangkan cobaan kepada orang-orang yang mukmin laki-laki dan perempuan) yaitu dengan cara membakar mereka hidup-hidup (kemudian mereka tidak bertobat, maka bagi mereka azab Jahanam) disebabkan kekafiran mereka (dan bagi mereka azab pembakaran) sebagai pembalasan dari pembakaran mereka terhadap orang-orang yang beriman, pembalasan itu kelak akan ditimpakan kepada mereka di akhirat. Tetapi menurut suatu pendapat bahwa azab tersebut terjadi di dunia, umpamanya api tersebut keluar dari paritnya dan langsung mengejar dan membakar mereka, sebagaimana keterangan yang disebutkan di atas.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "(Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal yang saleh, bagi mereka surga yang mengalir di bawahnya sungai-sungai itulah keberuntungan yang besar.)",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "(Sesungguhnya Azab Rabbmu) terhadap orang-orang kafir (benar-benar keras) sesuai dengan kehendak-Nya.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "(Sesungguhnya Dialah yang memulai) penciptaan makhluk (dan yang mengembalikan) makhluk menjadi hidup kembali, maka tiada sesuatu pun yang dapat menghalang-halangi apa yang dikehendaki-Nya.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "(Dan Dialah Yang Maha Pengampun) kepada orang-orang mukmin yang berbuat dosa (lagi Maha Pengasih) yakni Maha Belas Kasih kepada kekasih-kekasih-Nya dengan memberikan karamah kepada mereka.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "(Yang mempunyai Arasy) yakni Yang menciptakan dan Yang memilikinya (lagi Maha Agung) dibaca Rafa' yakni Al-Majiidu, artinya Yang berhak menyandang kesempurnaan sifat-sifat Yang Maha Tinggi.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "(Maha Kuasa berbuat apa yang dikehendaki-Nya) artinya tiada sesuatu pun yang dapat menghalang-halangi kehendak-Nya.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "(Sudahkah datang kepadamu) hai Muhammad (berita tentang kaum-kaum penentang.)",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "(Yaitu kaum Fir'aun dan kaum Tsamud) kedua lafal ini menjadi Badal dari lafal Al-Junuud; dan di sini cukup hanya dengan menyebut nama Firaun saja tanpa menyebut bala tentaranya; adapun Tsamud adalah nama suatu kaum. Kisahnya ialah bahwasanya mereka dibinasakan karena kekafiran mereka. Hal ini merupakan peringatan bagi orang-orang yang ingkar kepada Nabi saw. dan Alquran, dimaksud supaya mereka mengambil pelajaran dari kisah tersebut.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "(Akan tetapi orang-orang kafir selalu mendustakan) hal-hal yang telah disebutkan tadi.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "(Padahal Allah mengepung mereka dari belakang mereka) tiada seseorang pun yang dapat menyelamatkan dan menjaga mereka dari azab-Nya.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "(Bahkan yang didustakan mereka itu ialah Alquran yang mulia) atau yang agung.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "(Yang dalam Lauh) berada di atas langit yang ketujuh (terpelihara) dari ulah setan-setan dan dari sesuatu perubahan. Panjang Lohmahfuz itu sama dengan panjangnya langit dan bumi, sedangkan lebarnya ialah sama dengan jarak antara timur dan barat; terbuat dari intan yang putih bersih. Demikianlah menurut pendapat yang telah dikemukakan oleh Ibnu Abbas r.a.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "id.jalalayn",
+      "language": "id",
+      "name": "Tafsir Jalalayn",
+      "englishName": "Tafsir Jalalayn",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

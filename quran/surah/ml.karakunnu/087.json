@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "അത്യുന്നതനായ നിന്റെ നാഥന്റെ നാമം കീര്‍ത്തിക്കുക.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "അവനോ സൃഷ്ടിച്ച് സന്തുലിതമാക്കിയവന്‍.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "ക്രമീകരിച്ച് നേര്‍വഴി കാണിച്ചവന്‍;",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "മേച്ചില്‍പ്പുറങ്ങള്‍ ഒരുക്കിയവന്‍.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "എന്നിട്ടവനതിനെ ഉണങ്ങിക്കരിഞ്ഞ ചവറാക്കി.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "നിനക്കു നാം ഓതിത്തരും. നീയത് മറക്കുകയില്ല;",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "അല്ലാഹു ഇഛിച്ചതൊഴികെ. പരസ്യവും രഹസ്യവും അവനറിയുന്നു.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "എളുപ്പമായ വഴി നിനക്കു നാം ഒരുക്കിത്തരാം.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "അതിനാല്‍ നീ ഉദ്ബോധിപ്പിക്കുക- ഉദ്ബോധനം ഉപകരിക്കുമെങ്കില്‍!",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "ദൈവഭയമുള്ളവന്‍ ഉദ്ബോധനം ഉള്‍ക്കൊള്ളും.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "കൊടിയ നിര്‍ഭാഗ്യവാന്‍ അതില്‍ നിന്ന് അകലുകയും ചെയ്യും.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "അവനോ, കഠിനമായ നരകത്തീയില്‍ കിടന്നെരിയുന്നവന്‍.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "പിന്നീട് അവനതില്‍ മരിക്കുകയില്ല; ജീവിക്കുകയുമില്ല.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "തീര്‍ച്ചയായും വിശുദ്ധി വരിച്ചവന്‍ വിജയിച്ചു.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "അവന്‍ തന്റെ നാഥന്റെ നാമമോര്‍ത്തു. അങ്ങനെ അവന്‍ നമസ്കരിച്ചു.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "എന്നാല്‍ നിങ്ങള്‍ ഈ ലോക ജീവിതത്തിനാണ് പ്രാമുഖ്യം നല്‍കുന്നത്.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "പരലോകമാണ് ഏറ്റം ഉത്തമവും ഏറെ ശാശ്വതവും.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "സംശയം വേണ്ടാ, ഇത് പൂര്‍വ വേദങ്ങളിലുമുണ്ട്.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "അഥവാ, ഇബ്റാഹീമിന്റെയും മൂസായുടെയും ഗ്രന്ഥത്താളുകളില്‍!",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

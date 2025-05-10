@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "(Katakanlah, \"Aku berlindung kepada Rabb Yang menguasai falaq) atau waktu subuh.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "(Dari kejahatan apa yang telah diciptakan-Nya) yaitu dari kejahatan makhluk hidup yang berakal dan yang tidak berakal; serta dari kejahatan benda mati seperti racun dan lain sebagainya.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "(Dan dari kejahatan malam apabila telah gelap gulita) artinya dari kejahatan malam hari apabila telah gelap, dan dari kejahatan waktu purnama apabila telah terbenam.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "(Dan dari kejahatan wanita-wanita tukang sihir yang menghembus) yaitu tukang-tukang sihir wanita yang menghembuskan sihirnya (pada buhul-buhul) yang dibuat pada pintalan, kemudian pintalan yang berbuhul itu ditiup dengan memakai mantera-mantera tanpa ludah. Zamakhsyari mengatakan, sebagaimana yang telah dilakukan oleh anak-anak perempuan Lubaid yang telah disebutkan di atas tadi.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "(Dan dari kejahatan orang yang dengki apabila ia dengki) atau apabila ia menampakkan kedengkiannya lalu berusaha atas kedengkian yang dipendamnya itu, sebagaimana yang telah dikerjakan oleh Lubaid si Yahudi tadi; dia termasuk orang-orang yang dengki terhadap Nabi saw. Ketiga jenis kejahatan yang disebutkan sesudah lafal Maa Khalaq, padahal semuanya itu telah terkandung di dalam maknanya, hal ini tiada lain mengingat kejahatan yang ditimbulkan oleh ketiga perkara tersebut sangat parah.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "id.jalalayn",
+      "language": "id",
+      "name": "Tafsir Jalalayn",
+      "englishName": "Tafsir Jalalayn",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
