@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "Bendito sea Aquel en cuyas manos está el reino y que tiene poder sobre todas las cosas,",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "el Cual ha creado la muerte y la vida para poner a prueba cuál de vosotros obra mejor. Y Él es el Todopoderoso, el Perdonador.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "Él es Quien ha creado siete cielos en planos sucesivos. No verás discordancias en la creación del Misericordioso. Vuelve tu vista ¿Has visto algún fallo?",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "Luego, haz regresar tu vista una segunda vez. Tu vista regresará a ti cansada y derrotada.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "Ciertamente, Hemos adornado el cielo de este mundo con lámparas y las hemos puesto para ser lanzadas como proyectiles contra los demonios. Y les daremos el castigo del Fuego llameante.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "Y para quienes no creyeron en su Señor el castigo del Infierno. ¡Qué mal destino!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "Cuando sean arrojados a él oirán una larga exhalación y será la superficie hirviente",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "como si estuviese a punto de reventar de ira. Cada vez que un grupo sea arrojado a él sus guardianes les preguntarán: «¿Acaso no vino a vosotros un amonestador?»",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "Dirán: «Sí, vino a nosotros un amonestador pero le desmentimos y dijimos: Dios no ha hecho descender nada, sino que estáis en un gran extravío.»",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "Y dirán: «Si hubiésemos escuchado o reflexionado no estaríamos entre la gente del Fuego llameante.»",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "Así reconocerán su pecado. ¡Alejada sea la gente del Fuego llameante!",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "En verdad, quienes temen a su Señor por lo que está oculto a los sentidos, obtendrán perdón y una gran recompensa.",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "Y, tanto si ocultáis lo que habláis como si lo manifestáis, en verdad, Él es Quien mejor conoce lo que hay en la esencia de los pechos.",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "¿Acaso no va a conocer Quien creó y es el Sutil, el Bien Informado?",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "Él es Quien ha hecho para vosotros la Tierra dócil, para que vayáis por sus lomas y comáis de sus provisiones. Y a Él es el retorno.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "¿Acaso estáis seguros de que quienes están en el cielo no harán que la Tierra se hunda con vosotros cuando tiemble?",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "¿O estáis a salvo de que quienes están en el cielo envíen contra vosotros un viento huracanado? Pronto comprenderéis el significado de la amonestación.",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "Y juro que quienes vinieron antes de ellos también desmintieron. ¡Y cómo fue Mi castigo!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "¿Acaso no ven las aves sobre ellos desplegando y recogiendo sus alas? Sólo las mantiene el Misericordioso. En verdad, Él tiene todas las cosas bajo observación.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "¿Quién es el ejército que os ayuda sino el Misericordiosísimo? En verdad, los que no creen sólo están en una ilusión.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "¿Quién puede proveeros si Él retiene Su provisión? Pero ellos persisten en su desafío y aversión.",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "¿Está mejor guiado quien camina cabizbajo o quien camina erguido sobre un camino recto?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "Di: «Él es Quien os ha otorgado la existencia y ha puesto para vosotros el oído y la vista y el intelecto. ¡Que poco agradecéis!»",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "Di: «Él es Quien os ha creado en la Tierra y hacía Él seréis congregados.»",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "Y dicen: «¿Cuándo será esa promesa si es que sois sinceros?»",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "Di: «En verdad, el conocimiento de ello lo tiene Dios y, en verdad, yo sólo soy un amonestador explícito y claro.»",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "Así pues, cuándo lo vean de cerca, se ennegrecerá el rostro de quienes no eran creyentes y se les dirá: «Esto es lo que reclamabais.»",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "Di: «Si Dios acaba conmigo y con quienes conmigo están o tiene misericordia de nosotros ¿Quién librará a los que no creen de un castigo doloroso?»",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "Di: «Él es el Clementísimo. Nosotros hemos creído en Él y en Él confiamos. Así pues, pronto conoceréis quién está en un extravío manifiesto.»",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "Di: «Decidme, si vuestra agua se sumergiese ¿Quién podrá ofreceros agua corriente?»",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "es.bornez",
+      "language": "es",
+      "name": "Bornez",
+      "englishName": "Bornez",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
