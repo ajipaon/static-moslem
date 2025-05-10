@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "তুমি কি দেখো নি তোমার প্রভু কেমন করেছিলেন হস্তি-বাহিনীর প্রতি?",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "তাদের চক্রান্ত তিনি কি ব্যর্থতায় পর্যবসিত করেন নি?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "আর তাদের উপরে তিনি পাঠালেন ঝাঁকে ঝাঁকে পাখীর দল,",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "যারা তাদের আছড়ে ছিল শক্ত-কঠিন পাথরের গায়ে;",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "ফলে তিনি তাদের বানিয়ে দিলেন খেয়ে ফেলা খড়ের মতো।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "bn.hoque",
+      "language": "bn",
+      "name": "জহুরুল হক",
+      "englishName": "জহুরুল হক",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

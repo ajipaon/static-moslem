@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "নিঃসন্দেহ আমরা এটি অবতারণ করেছি মহিমান্বিত রজনীতে।",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "আর কী তোমাকে বুঝতে দেবে মহিমান্বিত রজনীটি কি?",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "মহিমান্বিত রজনী হচ্ছে হাজার মাসের চাইতেও শ্রেষ্ঠ।",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "ফিরিশ্‌তাগণ ও রূহ্ তাতে অবতীর্ণ হয় তাদের প্রভুর অনুমতিক্রমে প্রতিটি ব্যাপার সন্বন্ধে --",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "শান্তি -- ফজরের উদয় পর্যন্ত তা চলতে থাকবে।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "bn.hoque",
+      "language": "bn",
+      "name": "জহুরুল হক",
+      "englishName": "জহুরুল হক",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

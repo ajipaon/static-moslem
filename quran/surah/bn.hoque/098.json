@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "গ্রন্থধারীদের মধ্যে থেকে যারা অবিশ্বাস পোষণ করে আর বহুখোদাবাদীরা তাদের ছাড়ানো যাচ্ছিল না যতক্ষণ না তাদের কাছে এসেছে সুস্পষ্ট প্রমাণ --",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "আল্লাহ্‌র কাছ থেকে একজন রসূল, তিনি পাঠ করছেন পবিত্র পৃষ্ঠাসমূহ,",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "যাতে রয়েছে সুপ্রতিষ্ঠিত গ্রন্থসমূহ।",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "আর যাদের গ্রন্থখানা দেওয়া হয়েছিল তারা বিভক্ত হয় নি যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ এসেছিল।",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "আর তাদের আদেশ করা হয় নি এ ভিন্ন যে তারা আল্লাহ্‌র উপাসনা করবে ধর্মে তাঁর প্রতি বিশুদ্ধচিত্ত হয়ে, একনিষ্ঠভাবে, আর নামায কায়েম করবে ও যাকাত আদায় করবে, -- আর এইটিই সুপ্রতিষ্ঠিত ধর্ম।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "নিঃসন্দেহ গ্রন্থের অনুবর্তীদের মধ্যের যারা অবিশ্বাস পোষণ করে আর বহুখোদাবাদীরা -- জাহান্নামের আগুনে, তা তে তারা অবস্থান করবে। তারাই স্বয়ং সৃষ্টজীবদের মধ্যে নিকৃষ্টতম।",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "পক্ষান্তরে যারা ঈমান এনেছে ও সৎকাজ করছে -- তারাই খোদ সৃষ্টজগতের মধ্যে শ্রেষ্ঠতম।",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "তাদের পুরস্কার রয়েছে তাদের প্রভুর কাছে -- নন্দনকাননসমূহ, তাদের নিচ দিয়ে বয়ে চলেছে ঝরনারাজি, সেখানে তারা অবস্থান করবে চিরকাল। আল্লাহ্ তাদের উপরে সন্তষ্ট আর তারা সন্তষ্ট তাঁর প্রতি। এইটি তার জন্য যে তার প্রভুকে ভয় করে।",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "bn.hoque",
+      "language": "bn",
+      "name": "জহুরুল হক",
+      "englishName": "জহুরুল হক",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
