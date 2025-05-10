@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6205,
+        "text": "(အို-နဗီတမန်တော်) ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင့်အား များပြားလှစွာသော ကောင်းခြင်းများကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6206,
+        "text": "သို့ဖြစ်ပေရာ အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ရည်သန်၍ ဆွလာတ်ဝတ်ပြုပါလေ။ ထိုမှတစ်ပါး အသင်သည် (ထိုအရှင်မြတ်အား ရည်သန်၍ သားကောင်ကို) ကုရ်ဗာနီပြုပါလေ။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6207,
+        "text": "ဧကန်မလွဲ အသင်၏ရန်သူသည်သာလျှင် အညွန့်တုံးသူ ဖြစ်ချေသတည်း။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

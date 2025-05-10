@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "When the hypocrites come to you, they say: \"We bear witness that you are indeed the Messenger of Allah.\" Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "They have made their oaths a screen. Thus they hinder (others) from the path of Allah. Verily, evil is what they used to do.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "And when you look at them, their bodies please you; and when they speak, you listen to their words. They are as blocks of wood propped up. They think that every cry is against them. They are the enemies, so beware of them. May Allah curse them! How are they denying the right path",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "And when it is said to them: \"Come, so that the Messenger of Allah may ask forgiveness from Allah for you,\" they twist their heads, and you would see them turning away their faces in pride.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "It is equal to them whether you ask forgiveness or ask not forgiveness for them, Allah will never forgive them. Verily, Allah guides not the people who are the rebellious.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "They are the ones who say: \"Spend not on those who are with Allah's Messenger, until they desert him.\" And to Allah belong the treasures of the heavens and the earth, but the hypocrites comprehend not.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "They say: \"If we return to Al-Madinah, indeed the more honorable will expel therefrom the weaker.\" But Al-`Izzah belongs to Allah, and to His Messenger, and to the believers, but the hypocrites know not.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "O you who believe! Let not your properties or your children divert you from the remembrance of Allah. And whosoever does that, then they are the losers.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "And spend of that with which We have provided you before death comes to one of you, and he says: \"My Lord! If only You would give me respite for a little while, then I should give Sadaqah from my wealth, and be among the righteous.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "And Allah grants respite to none when his appointed time comes. And Allah is All-Aware of what you do.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.mubarakpuri",
+      "language": "en",
+      "name": "Mubarakpuri",
+      "englishName": "Mubarakpuri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

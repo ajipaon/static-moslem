@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ ထိုအလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်း ဖြစ်တော်မူ၏။ (တစ်နည်း) (အို-နဗီတမန်တော်) အသင်သည် ဤသို့ပြောကြားပါလေ။ အလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်း ဖြစ်တော်မူ၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "အလ္လာဟ်အရှင်မြတ်သည် လိုလားတောင့်တခြင်း လုံးဝ ကင်းရှင်းတော်မူသောအရှင်၊ သူတစ်ပါးတို့၏ မှီခိုအားထားရာအရှင်၊ နိစ္စထာဝရအရှင် ဖြစ်တော်မူ၏။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "ထိုအရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ မွေးဖွားတော်မူခဲ့သည် မဟုတ်ပေ။ မည်သူတစ်ဦးတစ်ယောက်၏ မွေးဖွားခြင်းကိုလည်း ခံခဲ့ရ တော်မူသည်မဟုတ်ပေ။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "ထိုမှတစ်ပါး ထိုအရှင်မြတ်၌ ဂုဏ်ရည်တူသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် မရှိပေ။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

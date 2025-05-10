@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "በሰማያት ውስጥ ያለው በምድርም ውስጥ ያለው ሁሉ ለአላህ አሞገሠ፡፡ እርሱም አሸናፊው ጥበበኛው ነው፡፡",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "እላንተ ያመናችሁ ሆይ! የማትሠሩትን ነገር ለምን ትናገራላችሁ?",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "የማትሠሩን ነገር መናገራችሁ አላህ ዘንድ መጠላቱ ተለቀ፡፡",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "አላህ እነዚያን እነርሱ ልክ እንደ ተናሰ ግንብ የተሰለፉ ኾነው በመንገዱ (በሃይማኖቱ) የሚጋደሉትን ይወዳል፡፡",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "ሙሳም ለሕዝቦቹ «ሕዝቦቼ ሆይ! እኔ ወደእናንተ የአላህ መልክተኛ መኾኔን በእርግጥ የምታውቁ ስትኾኑ ለምን ታሰቃዩኛላችሁ?» ባለ ጊዜ (አስታውስ፡፡ ከእውነት) በተዘነበሉም ጊዜ አላህ ልቦቻቸውን አዘነበላቸው፡፡ አላህም አመጸኞችን ሕዝቦች አያቀናም፡፡",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "የመርየም ልጅ ዒሳም፡- «የእስራኤል ልጆች ሆይ! እኔ ከተውራት በፊቴ ያለውን የማረጋግጥና ከእኔ በኋላ በሚመጣው መልክተኛ ስሙ አሕመድ በኾነው የማበስር ስኾን ወደእናንተ (የተላክሁ) የአላህ መልክተኛ ነኝ» ባለ ጊዜ (አስታውስ)፡፡ በግልጽ ተዓምራቶች በመጣቸውም ጊዜ «ይህ ግልጽ ድግምት ነው» አሉ፡፡",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "እርሱ ወደ ኢስላም የሚጥጠራ ሲኾን በአላህ ላይ ውሸትን ከቀጣጠፈ ሰውም ይበልጥ በደለኛ ማን ነው? አላህም በዳዮችን ሕዝቦች አይመራም፡፡",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "የአላህን ብርሃን በአፎቻቸው ሊያጠፉ ይሻሉ፡፡ አላህም ከሓዲዎቹ ቢጠሉም እንኳ ብርሃኑን ገላጭ ነው፡፡",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "እርሱ ያ አጋሪዎቹ ቢጠሉም መልክተኛውን በመምሪያ (መጽሐፍ) በእውነተኛው ሃይማኖትም (በኢስላም) ከሃይማኖት ሁሉ በላይ ይፋ ሊያደርገው የላከ ነው፡፡",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "«እናንተ ያመናችሁ ሆይ! ከአሳማሚ ቅጣት የምታድናችሁ የኾነችን ንግድ ላመላክታችሁን?» (በላቸው)፡፡",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "(እርሷም) በአላህና በመልክተኛው ታምናላችሁ፣ በአላህ መንገድም በገንዘቦቻችሁ በነፍሶቻችሁም ትታገላላችሁ፣ ይህ የምታውቁ ብትኾኑ ለእናንተ የተሻለ ነው፡፡",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "ኃጢኣቶቻችሁን ለእናንተ ይምራል፡፡ ከሥሮቻቸው ወንዞች የሚፈሱባቸውንም ገነቶች ያገባችኋል፡፡ በመኖሪያ ገነቶችም በሚያማምሩ ቤቶች ውስጥ (ያስቀምጣችኋል)፡፡ ይህ ታላቅ ዕድል ነው፡፡",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "ሌላይቱንም የምትወዷትን (ጸጋ ይሰጣችኋለ)፡፡ ከአላህ የኾነ እርዳታና ቅርብ የኾነ የአገር መክፈት ነው፡፡ ምእምናንንም አብስር፡፡",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "እናንተ ያመናችሁ ሆይ! የመርየም ልጅ ዒሳ ለሐዋርያቶቹ «ወደ አላህ ረዳቴ ማነው?» እንዳለ ሐወርያቶቹም «እኛ የአላህ ረዳቶች ነን» እንዳሉት የአላህ ረዳቶች ኹኑ፡፡ ከእስራኤልም ልጆች አንደኛዋ ጭፍራ አመነች፡፡ ሌላይቱም ጭፍራ ካደች፡፡ እነዚያን ያመኑትንም በጠላታቸው ላይ አበረታናቸው፤ አሸናፊዎችም ኾኑ፡፡",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

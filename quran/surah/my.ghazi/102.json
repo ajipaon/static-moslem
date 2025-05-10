@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "(ဥစ္စာပစ္စည်း၊ သားသမီးအစရှိသော လောကီစည်းစိမ်) ပေါများကြွယ်ဝမှုနှင့်စပ်လျဉ်း၍ လောဘရမ္မက် ဂုဏ်တု၊ ဂုဏ်ပြိုင်ပြုမှုသည် အသင်တို့အား (တမလွန်ဘဝကို) လျစ်လျူရှု ပေါ့တန်စေခဲ့၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "နောက်ဆုံးတွင် အသင်တို့သည် သင်္ချိုင်းများကို တွေ့မြင်ခဲ့ကြရလေသည်။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "သတိပြုကြလေကုန်၊ အသင်တို့သည် မကြာမြင့်မီပင် သိရှိကြပေမည်။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "တဖန် သတိပြုကြလေကုန်၊ အသင်တို့သည် မကြာမြင့်မီပင် သိရှိကြပေမည်။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "အကယ်၍သာ အသင်တို့သည် တပ်အပ်သေချာစွာ သိခြင်းအားဖြင့် သိရှိကြသည်ရှိသော် အလျှင်း (လျစ်လျူရူပေါ့တန်ကြမည်) မဟုတ်ပေ။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "မလွဲဧကန် အသင်တို့သည် ဂျဟန္နမ်ငရဲကို တွေ့မြင်ကြပေမည်။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "ထို့နောက် မလွဲဧကန် အသင်တို့သည် ယင်းဂျဟန္နမ်ငရဲကို မျက်မြင်ဒိဋ္ဌ တွေ့မြင်ကြပေမည်။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "ထို့နောက် အသင်တို့သည် စည်းစိမ်များနှင့်စပ်လျဉ်း၍ မုချအမှန် စစ်ဆေးမေးမြန်းခြင်းကို ခံကြရမည် ဖြစ်သတည်း။\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

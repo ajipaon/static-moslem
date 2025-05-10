@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည် မိမိ အရှင်မြတ်၏နာမံတော်ဖြင့် (အစပြု၍) ဖတ်ပါလေ။ ထို အရှင်မြတ်သည် (သက်ရှိသက်မဲ့ အရာခပ်သိမ်းတို့ကို) ဖန်ဆင်းတော်မူခဲ့၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "ထိုအရှင်မြတ်သည် လူသားကို သွေးခဲဖြင့် ဖန်ဆင်းတော်မူခဲ့၏။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည် ဖတ်ပါ လေ။ စင်စစ် အသင့်အား ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် အလွန်ရက်ရောစွာ ပေးကမ်း ချီးမြှင့်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "အကြင်အရှင်မြတ်သည် ကလောင်ဖြင့် သင်ကြားပေးတော်မူခဲ့၏။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "ထိုအရှင်မြတ်သည် လူသားတို့အား ၎င်းတို့ မသိခဲ့သောအရာများကို သင်ကြားပေးတော်မူခဲ့ပေသတည်း။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "မှတ်ယူကြလေကုန်၊ ဧကန်မလွဲ လူသည် ဆိုးသွမ်း ပုန်ကန်လေ့ရှိ၏။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "၎င်းသည် မိမိကိုယ်ကို လိုလားတောင့်တခြင်း ကင်းမဲ့သည်ဟု ထင်မြင်သောကြောင့်။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "ဧကန်မလွဲ(အားလုံးတို့၏) ပြန်လည်ရောက်ရှိခြင်းသည် အသင်၏ အရှင်မြတ်အထံတော်သို့သာလျှင် ဖြစ်သည်။\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည် အကြင်သူအား မြင်ခဲ့လေသလော။ ထိုသူသည် တားမြစ်၏။\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "(အလ္လာဟ်အရှင်မြတ်၏) ကျွန်တစ်ပါးအား ထိုကျွန်သည် ဆွလာတ်ဝတ်ပြုသောအခါဝယ်။\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည် (ထိုလူ၏အခြေအနေကို) ပြောပြပါလေ။ အကယ်၍ ၎င်းသည် တရားလမ်းမှန်ပေါ်၌ရှိခဲ့မူ။\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "သို့တည်းမဟုတ် ၎င်းသည် (ပြစ်မှုများမှ) ကြဉ်ရှောင်ရန် အမိန့်ပေးခဲ့မူ (မကောင်းပါလော)။\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "(အို-နဗီတမန်တော်) အသင်သည်(ထိုသူ၏အခြေအနေကို) ပြောပြပါလေ။ အကယ်၍ ၎င်းသည် (နဗီတမန်တော်အား) မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ပြီးနောက် (အီမာန်သက်ဝင်ယုံကြည်ခြင်းမှ) မျက်နှာလွှဲဖယ်ခဲ့သော် (မည်သူအကျိုးယုတ်အံ့နည်း)။\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "အလ္လာဟ်အရှင်မြတ်သည် ဧကန်အမှန် ရှုမြင်တော်မူသည်ကို ထိုသူသည် မသိခဲ့လေသလော။\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "မှတ်ယူလော့၊ အကယ်၍ ထိုသူသည် (မိမိ အပြုအမူကို) မရပ်စဲခဲ့သော်၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် (၎င်း၏) ဦးစွန်းကိုကိုင်၍ ဆွဲတော်မူမည်။\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "(ထိုဦးစွန်းကား) မုသားပြောဆိုလေ့ရှိသော၊ ပြစ်မှုကျူးလွန်လေ့ရှိသော ဦးစွန်းပင်။\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "သို့ဖြစ်ပေရာ ၎င်းသည် မိမိ၏အခြွေအရံများကို ခေါ်ယူစေ။\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "ယခုပင် ငါအရှင်မြတ်သည်လည်း ငရဲစောင့် ကောင်းကင်တမန်တို့ကို ခေါ်ယူတော်မူမည်။\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "အလျှင်းမဟုတ်၊ (အို-နဗီတမန်တော်) အသင်သည် ၎င်း၏စကားကို မလိုက်နာလေနှင့်၊ ထို့ပြင် အသင်သည်(အလ္လာဟ်အရှင်မြတ်အား) \"စဂျ်ဒဟ်\" ပျပ်ဝပ်ဦးချပါလေ။ ၎င်းပြင် အသင်သည် (ဝတ်ပြုခြင်းအားဖြင့် ထိုအရှင်မြတ်အပါးတော်သို့) ချဉ်းကပ်ပါလေ။\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

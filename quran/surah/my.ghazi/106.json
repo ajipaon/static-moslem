@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "ကုရိုက်ရှ်\" အမျိုးသားတို့၌ အလေ့အထရှိကြသောကြောင့်။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "ထို \"ကုရိုက်ရှ်\" အမျိုးသားတို့သည် ဆောင်းဥတု၌လည်းကောင်း၊ နွေဥတု၌လည်းကောင်း၊ (မိမိတို့)ခရီးထွက်လေ့ရှိကြသောကြောင့်။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "သို့ဖြစ်ပေရာ ၎င်းတို့သည် ဤအိမ်တော်(ကအ်ဗဟ် ကျောင်းတော်)၏အရှင်မြတ်အား ဆည်းကပ် ကိုးကွယ်ကြရာကုန်၏။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "အကြင်အရှင်မြတ်သည် ၎င်းတို့အား ဆာလောင် မွတ်သိပ်သောအခါ၌ (တစ်နည်း) ဆာလောင်မွတ်သိပ်ခြင်းမှ ကင်းလွတ်ရန် အာဟာရ ကျွေးမွေး တော်မူခဲ့၏။ ထိုမှတပါး ၎င်းတို့အား စိုးရိမ်သောအခါ၌ (တစ်နည်း) စိုးရိမ်မှု ဘေးရန်ကင်းငြိမ်းစေတော် မူခဲ့ပေသတည်း။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

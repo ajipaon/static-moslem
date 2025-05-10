@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "အဗူလဟဗ်၏ လက်နှစ်ဖက်သည် ကျိုးပဲ့ပျက်စီးစေသား။ ထို့ပြင် ၎င်းကိုယ်တိုင်လည်း ပျက်စီးစေသား။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "၎င်း၏ ပစ္စည်းဥစ္စာသည်လည်း ၎င်း၏အဖို့ အသုံးဝင်သည် မဟုတ်ပေ။ ထိုနည်းတူစွာ ၎င်းရှာဖွေ ဆည်းပူးခဲ့သော (အမြတ်အစွန်း၊ သားသမီး)သည်လည်း အသုံးဝင်ခဲ့သည် မဟုတ်ပေ။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "မကြာမြင့်မီပင် ၎င်း ကိုယ်တိုင်လည်း ဟုန်းဟုန်းတောက်လောင်လျက်ရှိသော မီးထဲသို့ ဝင်ရောက်ရပေမည်။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "မီးဆိုက်ရန် ထင်းစည်းကို ထမ်းရွက်လျက်ရှိသော ၎င်း၏ဇနီးဖြစ်သူသည်လည်း (တစ်နည်း) ၎င်း၏ဇနီးဖြစ်သူသည်လည်း မီးဆိုက်ရန် ထင်းစည်းကို ထမ်းရွက်လျက် (တစ်နည်း) ဆူးခက်ကို ထမ်းရွက်လျက်ရှိသော ၎င်း၏ဇနီးဖြစ်သူသည်လည်း (တစ်နည်း) ၎င်း၏ဇနီးဖြစ်သူသည်လည်း ဆူးခက်ကိုထမ်းရွက်လျက် (တစ်နည်း) ၎င်း၏ကုန်းချောသူ ဇနီးသည်လည်း။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "ထိုဇနီးဖြစ်သူသည် လည်ကုပ်၌ စွန်ပလွံလျှော်ကို ကောင်းစွာကျစ်ထားသော ကြိုးတစ်ချောင်းလည်း ရှိချေအံ့သတည်း။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

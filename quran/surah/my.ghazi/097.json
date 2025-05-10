@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "ဧကန်မလွဲ ငါအရှင်မြတ်သည်ပင် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို \"လိုက်လသုလ်ကဒ်ရ်\" မြင့်မြတ်သောညဉ့်၌ ချပေးသနားတော်မူခဲ့၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "စင်စစ် \"လိုက်လသုလ်ကဒ်ရ်\" မြင့်မြတ်သောညဉ့်သည် အဘယ်နည်းဟု အသင် သိပါသလော။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "လိုက်လသုလ်ကဒ်ရ်\" မြင့်မြတ်သော ညဉ့်ကား လပေါင်းတစ်ထောင်ထက်ပင် ပိုမို၍ ကောင်းမြတ်လှ၏၊\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "ထိုညဉ့်၌ ကောင်းကင်တမန်များသည်လည်းကောင်း၊ ဂျစ်ဗ်ရိလ်သည်လည်းကောင်း၊ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ် အမိန့်တော်ဖြင့် ကောင်းမြတ်သော အရေးကိစ္စအသီးသီးကို ယူဆောင်၍ ဆင်းသက်လာကြကုန်၏။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "ထိုညဉ့်ကား နံနက်မိုးသောက်ချိန်တိုင် ငြိမ်းချမ်းသောညပင် ဖြစ်ချေသတည်း။(ငြိမ်းချမ်းမှုချည်းသာတည်း)။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "سُورَةُ المَاعُونِ",
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "Almsgiving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 6198,
+        "text": "အသင်သည် အစားပေးခြင်း(၏နေ့)ကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူအား မမြင်ခဲ့လေ သလော။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6199,
+        "text": "ထိုသူပင် ဘမဲ့ကလေးသူငယ်အား တွန်းထုတ်သောသူဖြစ်၏။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6200,
+        "text": "၎င်းပြင် ထိုသူသည် သူဆင်းရဲတို့အား အစားအစာကျွေးမွေးရန် တိုက်တွန်း နှိုးဆော်ခြင်းလည်း မပြုပေ။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6201,
+        "text": "သို့ဖြစ်ပေရာ (အကြင်သို့သော) ဆွလာတ်ဝတ်ပြုသူတို့၌ အကြီးအကျယ် ပျက်စီးခြင်းသည်ရှိ၏။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6202,
+        "text": "ထိုသို့သောသူတို့သည် မိမိတို့၏ ဆွလာတ် ဝတ်ပြုမှု(တာဝန်)ကိုပင် မေ့လျော့ထားကြကုန်၏။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6203,
+        "text": "အကြင်(ဆွလာတ်ဝတ်ပြု)သူတို့သည် (မိမိ တို့၏ဆွလာတ်ဝတ်ပြုမှုစသော ကောင်းမှုများကို) ပြစားကြကုန်၏။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6204,
+        "text": "ထိုမှတပါး ၎င်းတို့သည် အသေးအဖွဲ အသုံးအဆောင် ပစ္စည်းများကိုပင် (သူတစ်ပါးတို့အား ငှားရမ်းခြင်းမပြုရန်) ပိတ်ပင် တားမြစ်ကြကုန် သတည်း။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

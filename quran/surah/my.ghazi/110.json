@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "(အို-နဗီတမန်တော်) အလ္လာဟ်အရှင်မြတ်၏ အကူအညီသည်လည်းကောင်း၊ အောင်နိုင်မှုသည်လည်းကောင်း၊ ရောက်ရှိခဲ့သောအခါ။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "၎င်းပြင် အသင်သည် လူတို့အား အလ္လာဟ်အရှင်မြတ်၏ \"ဒီန်\" သာသနာတော်၌ အသင်းလိုက် အဖွဲ့လိုက် ဝင်ရောက်လျက် ရှိကြသည်ကို တွေ့မြင် သောအခါ။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "(ထိုအခါ) အသင်သည် မိမိအား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်ကို ချီးမွမ်းထောပနာပြုခြင်းအားဖြင့် (ထိုအရှင်မြတ်) စင်ကြယ်သန့်ရှင်း တော်မူကြောင်းမြွက်ဆိုပါလေ။ ထိုမှတပါး အသင်သည် ထိုအရှင်မြတ်အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားအသနားခံပါလေ။ ဧကန်မလွဲ ထို အရှင်မြတ်သည် ဝန်ချ တောင်းပန်မှုကို အလွန်တရာ လက်ခံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
