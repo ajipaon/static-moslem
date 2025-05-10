@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "In the name of God, the Gracious, the Merciful.",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "Praise be to God, Lord of the Worlds.",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "The Most Gracious, the Most Merciful.",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "Master of the Day of Judgment.",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "It is You we worship, and upon You we call for help.",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "Guide us to the straight path.",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "The path of those You have blessed, not of those against whom there is anger, nor of those who are misguided.",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.itani",
+      "language": "en",
+      "name": "Clear Qur'an - Talal Itani",
+      "englishName": "Clear Qur'an by Talal Itani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

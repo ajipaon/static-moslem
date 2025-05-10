@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "Ne! Kunem se gradom ovim,\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "a ti si u ovom gradu oslobođen ograničenja,\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "i roditeljem i onim koga je rodio.\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "Čovjeka smo stvorili da je u naporu.\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "Misli li on da mu niko ništa ne može?\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "\"Utrošio sam imetak nagomilani!\", govori.\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "Zar misli da ga niko vidio nije?\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "Zar mu nismo dali oka dva\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "i jezik i usne dvije,\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "i na dva puta uspinjuća mu ukazali?\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "Pa zašto nije savladao uspon?\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "A šta ti misliš: šta je to uspon?\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "Roba ropstva osloboditi,\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "ili, u vrijeme gladi, nahraniti\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "siroče bliska roda,\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "ili bijednika iz prašine.\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "A potom da je bio od onih koji vjeruju, koji jedni drugima strpljivost preporučuju i koji jedni drugima milosrđe preporučuju;\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "oni će biti - oni s desne strane!\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "A oni koji ne vjeruju u ajete i dokaze Naše, oni će biti- oni s lijeve strane,\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "iznad njih će vatra zatvorena biti.\n",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

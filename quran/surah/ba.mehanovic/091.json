@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "Tako mi Sunca i svjetla njegova!\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "i Mjeseca kada ga prati,\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "i dana kada ga vidljivim učini,\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "i noći kada ga zakloni,\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "i neba i Onoga Koji ga sazda,\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "i Zemlje i Onoga Koji je rasprostrije,\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "i duše i Onoga Koji je ispravnom stvori,\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "pa je nadahnu da zna šta je razvrat a šta bogobojaznost;\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "uspio je onaj ko je očisti,\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "a izgubio je onaj ko je zapostavi!\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "Narod Semud je zbog obijesti svoje poricao:\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "Kad se jedan nesretnik između njih podigao,\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "Allahov poslanik im je doviknuo: \"Pazite na Allahovu devu i njen red pojenja!\",\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "ali su ga u laž utjerali, pa su je zaklali- i Gospodar njihov ih je, zbog grijeha njihovih uništio i kaznom sve obuhvatio\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "ne bojeći se kakve će posljedice toga biti.\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "Tako mi zore,\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "i deset noći\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "i parnog i neparnog,\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "i noći kada nastaje,\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "zar to pametnom zakletva nije?\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "Zar ne znaš šta je Gospodar tvoj s narodom Ad uradio,\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "s Iremom, posjednicima stubova,\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "kojima slični nisu stvoreni,\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "i sa Semudom, koji su stijene u dolini klesali,\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "a i s faraonom, koji je vojsku imao,\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "koji su na Zemlji obijesni bili,\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "i smutnje na njoj umnožili,\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "pa je Gospodar tvoj bič patnje na njih spustio,\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "a Gospodar tvoj je, zaista, u zasjedi.\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "A čovjek, kada ga Gospodar njegov iskuša pa mu počast ukaže i blagodatima ga obaspe, rekne: \"Gospodar moj mene je počastvovao!\"\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "A kad ga iskuša i opskrbu njegovu oskudnom učini, onda rekne: \"Gospodar moj me je ponizio.”\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "A nije tako! Vi pažnju siročetu ne ukazujete,\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "i da se puki siromah nahrani - jedan drugoga ne podstičete,\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "a nasljedstvo pohlepno jedete\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "i imetak pretjerano volite.\n",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "Uistinu, kada Zemlja bude u komadiće zdrobljena,\n",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "i kada dođe Gospodar tvoj, a meleci budu sve red do reda,\n",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "i kada taj dan Džehennem bude primaknut, tada će se čovjek sjetiti - a rašta mu je sjećanje?!\n",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "i reći će: \"Kamo sreće da sam se za ovaj život pripremio!\"\n",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "A Dan taj niko neće kao On kažnjavati,\n",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "i niko neće kao On u okove okivati.\n",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "A ti, o dušo smirena,\n",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "vrati se Gospodaru svome zadovoljna, a i da zbog tebe zadovoljstvo bude,\n",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "pa uđi među robove Moje\n",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "i uđi u Džennet Moj!\n",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

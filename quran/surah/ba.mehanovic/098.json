@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Nisu se oni od sljedbenika Knjige koji ne vjeruju i višebošci okanili, sve dok im nije došao dokaz jasni:\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "od Allaha Poslanik koji čita listove čiste,\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "u kojima su propisi ispravni.\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "A podvojili su se oni kojima je data Knjiga baš onda kad im je došao dokaz jasni,\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "a naređeno im je da samo Allahu ibadet čine, da Mu iskreno, kao pravovjerni, vjeru ispovijedaju, i da namaz obavljaju, i da zekat udjeljuju; a to je - ispravna vjera.\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Oni sljedbenici Knjige koji ne vjeruju i višebošci, bit će, sigurno, u vatri džehennemskoj, u njoj će vječno ostati: oni su najgora stvorenja.\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "A oni koji vjeruju i čine dobra djela-oni su, zbilja, najbolja stvorenja.\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Nagrada za njih od Gospodara Njihova su vrtovi Adna kroz koje rijeke teku, u kojima će vječno, zauvijek boraviti; Allah će biti njima zadovoljan, a i oni će biti Njime zadovoljni. To će biti za onoga koji se bude bojao Gospodara svoga.\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
