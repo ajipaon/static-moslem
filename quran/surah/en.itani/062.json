@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5178,
+        "text": "Everything in the heavens and the earth glorifies God the Sovereign, the Holy, the Almighty, the Wise.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5179,
+        "text": "It is He who sent among the unlettered a messenger from themselves; reciting His revelations to them, and purifying them, and teaching them the Scripture and wisdom; although they were in obvious error before that.",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5180,
+        "text": "And others from them, who have not yet joined them. He is the Glorious, the Wise.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5181,
+        "text": "That is God’s grace, which He grants to whomever He wills. God is Possessor of limitless grace.",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5182,
+        "text": "The example of those who were entrusted with the Torah, but then failed to uphold it, is like the donkey carrying works of literature. Miserable is the example of the people who denounce God’s revelations. God does not guide the wrongdoing people.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5183,
+        "text": "Say, “O you who follow Judaism; if you claim to be the chosen of God, to the exclusion of the rest of mankind, then wish for death if you are sincere.”",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5184,
+        "text": "But they will not wish for it, ever, due to what their hands have advanced. God knows well the wrongdoers.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5185,
+        "text": "Say, “The death from which you flee will catch up with you; then you will be returned to the Knower of the Invisible and the Visible, and He will inform you of what you used to do.”",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 553,
+        "ruku": 486,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5186,
+        "text": "O you who believe! When the call is made for prayer on Congregation Day, hasten to the remembrance of God, and drop all business. That is better for you, if you only knew.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5187,
+        "text": "Then, when the prayer is concluded, disperse through the land, and seek God’s bounty, and remember God much, so that you may prosper.",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5188,
+        "text": "Yet whenever they come across some business, or some entertainment, they scramble towards it, and leave you standing. Say, “What is with God is better than entertainment and business; and God is the Best of providers.”",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 487,
+        "hizbQuarter": 221,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "en.itani",
+      "language": "en",
+      "name": "Clear Qur'an - Talal Itani",
+      "englishName": "Clear Qur'an by Talal Itani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
