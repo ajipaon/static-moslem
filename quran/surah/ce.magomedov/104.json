@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": " Боккха бала бу массо /нахах/ луьйш волчунна а‚ /нах/ сийсазбеш волчунна а‚\r",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": " Ша /дуьненан/ хьал гулдеш хиллачу и дагардеш хиллачу‚ /массо хIуманна дуьхьал иза кечдеш хиллачу/.\r",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": " Иза метташ ву шен хьоло ша гуттар латтор ву /дуьненахь‚ ца волуьйтуш/.\r",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": " ХIан-хIа! Иза кхоссанне кхуссур ву кийсагаш еш йолчу хIумана чу.\r",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": " Хьуна стено хаийтина‚ иза хIун кийсагаш еш йолу хIума ю?\r",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": " Делан цIе ю иза латийна йолу‚\r",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": " Ша дегний тIе ер йолу.\r",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": " Баккъалла а, иза царна тIехь нартол йолуш хир ю‚\r",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": " Дахдинчу бIогIамаш тIехь.\r",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ce.magomedov",
+      "language": "ce",
+      "name": "Chechen by Magomedov",
+      "englishName": "Chechen by Magomedov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

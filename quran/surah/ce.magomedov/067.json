@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": " Беркате хили Иза‚ Шен куьйгахь паччахьалла долу‚ Ша массо хIуманна тIехь ницIкъ кхочуш берг волу.\r",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": " Иза ву Ша кхоьллина валар а‚ дахар а шу зерхьама‚ муьлхарниг ву шух вуно диканиг Iамал ярца. Иза ву веза верг а‚ гечдийриг а.\r",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": " Иза ву Ша кхоьллина ворхI стигал тIеттIа. Хьуна гур ма дац сов Къинхетаме волчо кхоьллинчун юкъехь цхьаъа вовшашца ца йогIу хIума. Тохал бIаьрг: гу-й хьуна цхьа а яьдда меттиг?\r",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": " ТIаккха юх-юха а тохал бIаьрг - хьоьга духадоьрзур ду бIаьргтохар кIелдисна‚ гIелделла.\r",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": " Оха хаздина дуьненан стигал чиркхашца /седарчашца/‚ Оха хилийтина уьш шайтIанашна кхоссарш. Оха кечдина царна /шайтIанашна/ егачу цIеран Iазап.\r",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": " Шаьш Кхиош-кхобушволчу Делах цатешначаьрна а жоьжахатин Iазап ду. Ма вон дIадерзар ду-кх иза!\r",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": " Шаьш цу чу кхоьссича царна хозур ду цуьнан угIарш‚ и ша кхехкаш йолуш.\r",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": " Ша оьгIазъялла эккха кечъелла: цу чу /къинош диначаьрийн/ толгIа массаза кхоьссича а цуьнан гIаролаша цаьрга хоттур ду: \"Кхерамча /Делан элча/ ца веара Шуьга?\"‚ аьлла.\r",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": " Цара эр: \"ХIаъ‚ веара тхоьга кхерамча - Оха иза харцвира‚ оха элира: \"Дала хIумма а ца доссина‚ шу ма ду доккхачу тилар чохь\".\r",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "Цара элира: \"Тхо хиллехьара ладугIуш а‚ ойла еш а - тхо хир ма дацара егачу цIеран дайшлахь\".\r",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "Уьш къер хилира шайн къина. /Делан къинхетамах/ ма генахь бу-кх егачу цIеран дай!\r",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "Баккъалла а, шайна гуш воцушехь шаьш кхиош-кхобуш волчу шайн Делах кхоьруш берш - царна ду гечдар а‚ йоккха ял.\r",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "Къайла даккха шайн дош я гучу даккха иза - баккъалла а, Иза ву дегнашкахь дерг хууш верг.\r",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "Ткъа ца хаьа Цуна‚ ша кхоьллинчунна? Иза ву сов кхетаме верг а‚ сов дика хууш верг а.\r",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "Иза ву Ша шуна латта динарг мукIар шу лела цуьнан агIонашкахула‚ аш даа цуьнан рицIкъах - Цуьнга ду /шун кешнашкара/ гIовтар.\r",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "Шу тешна ду-й стиглахь волчух Цо шаьш лаьттах худор дац аьлла и детталучу хенахь?\r",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "Я шу тешна ду-й стиглахь волчух Цо шайна боуьйтур бац аьлла чIогIа мох? ТIаьхьа хуур ду шуна‚ муха хиллера Сан кхерам.\r",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "Харцбира /элчанаш/ шул хьалха хиилачаьра а - муха хила /царна/ Сан оьгIазло!\r",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "Царна ца го олхазарш шайна тIехула лелаш долу - /шайн тIамаш/ даржадеш‚ тIаккха тIегулдеш? Уьш сацадеш верг-м Сов Къинхетаме волу Дела бен вац. Баккъалла а, Иза ву-кх массо хIума гуш верг.\r",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "Мила ву и шуна бIо хилла гIо дийр дерг‚ ша сов къинхетаме волу Дела воцург? Цатешнарш Iехабаларгахь бу-кх.\r",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "Мила ву иза шуна рицIкъ лург дерг Цо Шен рицIкъ сацадича? ХIаъ‚ ма /Далла/ дуьхьал баьлла уьш‚ ма /бакъдолчунна/ гена баьлла уьш.\r",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "Ткъа шен юьхь тIехь лелаш верг ву нийса‚ я нийсачу новкъа нисса лелаш верг ву?\r",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "Ахьа ала: \"Иза ву шу кхиинарг а‚ шуна хазар а‚ бIаьрса а‚ дегнаш а динарг а. КIеззиг ду-кх аш баркалла олург!\"\r",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "Ахьа ала: \"Иза ву шу лаьттахь даржинарг‚ Цуьнга гулдийр долуш а ду шу\".\r",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "Цара олу: \"Маца хир ду и аш бохург шу бакълуьйш хиллехь?\"\r",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "Ахьа ала: \"Iилма Делан гергахь ду‚ ткъа со билгала волу къерамча ву\".\r",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "Иза шайна гича гергахь‚ цатешначаьрийн яххьаш ирчаелира‚ /цаьрга/ элира: \"ХIара ду и шу шега кхойкхуш хилларг!\"\r",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "Ахьа ала: \"Гой шуна‚ со Дала хIаллаквича‚ соьца берш а‚ я Цо тхоьх къинхетам бича‚ хьан кIелхьара бохур бу цатешнарш лазош долчу Iазапах?\"\r",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "Ахьа ала: \"Иза ву сов къинхетаме волу Дела‚ Цуьнга иман диллина оха‚ Цуьнан тIе а тевжина. ТIаьхьа хуур ду шуна‚ мила ву билгалчу тиларчохь\".\r",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "Ахьа ала: \"Гой шуна‚ и шун хи лекъича‚ хьан лур ду шуна шовданан хи?\"\r",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ce.magomedov",
+      "language": "ce",
+      "name": "Chechen by Magomedov",
+      "englishName": "Chechen by Magomedov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
