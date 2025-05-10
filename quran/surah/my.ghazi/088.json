@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "(အို-နဗီတမန်တော် ထိုကမ္ဘာအဝန်းကို) ထိုဖုံးလွှမ်းမည့် အဖြစ်အပျက်၏အကြောင်း သတင်းသည် အသင့်ထံ ရောက်ရှိခဲ့ပြီ မဟုတ်လော။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "ထိုနေ့တွင် များစွာသော(သူတို့၏) မျက်နှာများမှာ ညှိုးငယ်လျက် ရှိကြပေမည်။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "ပင်ပန်းကြီးစွာ လုပ်ကိုင်(မှုကြောင့်) မောပန်းလျက် ရှိကြပေမည်။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "၎င်းတို့သည် အလျှံပြောင်ပြောင် တောက်လောင်လျက်ရှိသော မီးထဲသို့ ဝင်ရောက်ကြရပေမည်။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "၎င်းတို့သည် ကျိုက်ကျိုက်ဆူလျက်ရှိသော စမ်းချောင်းတစ်ခုမှ (ရေကို) တိုက်ကျွေးခြင်း ခံကြရပေမည်။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "၎င်းတို့အဖို့ \"ဿွာရီအ်\" မည်သော ဆူးပင်မှတစ်ပါး အခြားအဟာရဟူ၍ ရှိလိမ့်မည်မဟုတ်ပေ။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "ထိုဆူးပင်မှာ (၎င်းတို့အား)ဝဖြိုးစေမည်လည်းမဟုတ်ပေ။ ဆာလောင် မွတ်သိပ်ခြင်းမှ အဆာပြေ ရောင့်ရဲစေမည်လည်း မဟုတ်ပေတကား။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "များစွာသော(သူတို့၏) မျက်နှာများမှာမူကား ထိုနေ့တွင် စိုပြည်ရွှင်လန်းလျက်ပင် ရှိကြပေမည်။\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "(၎င်းတို့သည်) မိမိတို့၏ ကြိုးပမ်းဆောင်ရွက်မှုနှင့်စပ်လျဉ်း၍ နှစ်သက်ကျေနပ်လျက်ရှိကြပေမည်။\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "မြင့်မြတ်လှစွာသော ဂျန္နတ်သုခဘုံ၌ ရှိကြပေမည်။\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "၎င်းတို့သည် ယင်းဂျန္နတ်သုခဘုံ၌ အချည်းနှီးအကျိုးမဲ့ဖြစ်သော စကားကို ကြားကြမည် မဟုတ်ပေ။\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "ယင်းဂျန္နတ်သုခဘုံ၌ စီးတွေလျက်ရှိသော စမ်းချောင်းတစ်ခုရှိ၏။\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "ယင်း ဂျန္နတ်သုခဘုံ၌ မြင့်စွင့်သော သလွန် များရှိကြပေသည်။\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "၎င်းပြင် သောက်ရေဖလားများသည်လည်း စီထားလျက် ရှိကြပေသည်။\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "ထို့ပြင် ကော်ဇောများသည်လည်း စနစ်တကျ ခင်းကျင်းထားလျက် ရှိကြပေသည်။\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "ထိုမှတစ်ပါး မှီအုံးများသည်လည်း အနှံ့အပြား ခင်းထားလျက် ရှိကြပေမည်။\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "အသို့ပါနည်း ကုလားအုတ်များသည် အဘယ်ကဲ့သို့ ဖန်ဆင်းခြင်း ခံခဲ့ကြရသည်ကို ၎င်းတို့သည် ကြည့်ရှုလေ့လာ ဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော။\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "ထိုနည်းတူစွာ မိုးကောင်းကင်သည် အဘယ်ကဲ့သို့ မြင့်စွင့်စေခြင်းကို ခံခဲ့ရသည်ကိုလည်းကောင်း။\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "ထို့အတူ တောင်များသည် အဘယ်ကဲ့သို့ စိုက်ထူခြင်းကို ခံခဲ့ကြရသည်ကိုလည်းကောင်း။\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "ထိုမှတစ်ပါး ပထဝီမြေသည် အဘယ်ကဲ့သို့ ခင်းကျင်းထားခြင်း ခံခဲ့ရသည်ကိုလည်းကောင်း၊ (ကြည့်ရှုလေ့လာ ဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော)။\n",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "သို့ဖြစ်ပေရာ အသင်သည် ဆုံးမလျက် ရှိပါလေ။ အသင်သည် ဆုံးမသူတစ်ဦးမျှသာ ဖြစ်ပေသည်။\n",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "အသင်သည် ၎င်းတို့အပေါ်၌ စောင့်ကြပ်အုပ်ထိန်းသူ မဟုတ်ပေ။\n",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "သို့ရာတွင် မည်သူမဆို မျက်နှာလွှဲခဲ့လျှင်လည်းကောင်း၊ သွေဖည်ငြင်းပယ်ခဲ့လျှင်လည်းကောင်း။\n",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "အလ္လာဟ်အရှင်မြတ်သည် ထိုသူအား ကြီးလေးလှစွာသောပြစ်ဒဏ်ကို ပေးတော်မူမည်သာ ဖြစ်ပေသည်။\n",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "ဧကန်မလွဲ ၎င်းတို့သည် ငါအရှင်မြတ် အထံတော်သို့ပင် ပြန်လည်ရောက်ရှိကြရမည် ဖြစ်ပေသည်။\n",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "ထို့နောက် ၎င်းတို့အား စစ်ဆေးမေးမြန်းခြင်းသည် ငါအရှင်မြတ်၏တာဝန်ပင် ဖြစ်ပေသတည်း။\n",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

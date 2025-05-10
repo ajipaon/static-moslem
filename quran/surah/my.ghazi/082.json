@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "မိုးကောင်းကင်သည် အက်ကွဲသောအခါ။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "၎င်းပြင် ကြယ်တာရာများသည် ကြွေကျကြသောအခါ။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "ထို့ပြင် ပင်လယ်သမုဒ္ဒရာများသည် ဆူပွက်စီးထွက်(စေခြင်းကို ခံကြရ)သောအခါ။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "ထိုမှတစ်ပါး သင်္ချိုင်းများသည် အထက်အောက်မှောက်လှန် ဖရိုဖရဲဖြစ်စေခြင်းကို ခံကြရသောအခါ။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "ဇီဝိန် အသီးသီးတို့သည် မိမိတို့ ကြိုတင်ပို့နှင့်ခဲ့ကြသည် များကိုလည်းကောင်း၊ မိမိတို့သည် နောက်တွင် ချန်ခဲ့ကြသည်များကိုလည်းကောင်း၊ သိသွားခဲ့ ကြပေမည်။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "အို-လူသား၊ မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော ကျေးဇူးတော်ရှင်နှင့် ပတ်သက်၍ မည်သည့်အရာသည် အသင့်အား လှည့်ဖြားခဲ့သနည်း။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "အကြင်အရှင်မြတ်သည် အသင်(လူသား)အား ဖန်ဆင်းတော်မူခဲ့၏။ တစ်ဖန် အသင်၏(ဤအဆစ်အပိုင်းများ)ကို နေထားတကျဖြစ်အောင်လည်း ပြုပြင်တော်မူခဲ့၏။တဖန် အသင့်အား အချိုးအစား ကျအောင်လည်း စီမံတော်မူခဲ့၏။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "မိမိအလိုရှိတော်မူသော ပုံသဏ္ဍာန်၌ အသင့်အား စီစဉ်ပြုလုပ် (ဖန်ဆင်း)တော်မူခဲ့၏။\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "(မည်သည့်အကြောင်းမျှ) အလျှင်းမဟုတ်၊ စင်စစ်မှာမူကား အသင်တို့သည် အစားပေးခြင်းကိုပင် မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြကုန်၏။\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "စင်စစ်သော်ကား အသင်တို့အပေါ်၌ ကိုယ်စောင့်များသည် ဧကန်မလွဲ ရှိကြကုန်၏။\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "(ငါအရှင်မြတ်အထံတော်၌) မြင့်မြတ်သူများ၊(အသင်တို့၏ ပြောဆိုပြုမူချက်တို့ကို) ရေးမှတ်သူများ။\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "၎င်းတို့သည် အသင်တို့ ပြုလုပ်သမျှတို့ကို သိရှိကြကုန်သတည်း။\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "ဧကန်မလွဲ သူတော်ကောင်းတို့သည် ထာဝရသုခ၌ ရှိကြပေမည်။\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "သို့ရာတွင် ဆိုးသွမ်းသူတို့မူကား ဧကန်မလွဲ 'ဂျဟန္နမ်' ငရဲ၌ပင် ရှိကြပေမည်။\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "၎င်းတို့သည် ထို 'ဂျဟန္နမ်' ငရဲသို့ အစားပေးမည့်နေ့တွင် ဝင်ကြရပေမည်။\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "ထို့ပြင် ၎င်းတို့သည် ယင်းငရဲမှ ခွဲခွာမည့်သူများ၊(ထွက်ရမည့်သူများ) မဟုတ်ကြချေ။\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "စင်စစ် အစားပေးမည့်နေ့သည် အဘယ်ကဲ့သို့သော နေ့ပါနည်းဟု အသင်သိပါသလော။\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "တစ်ဖန် အစားပေးမည့်နေ့သည် အဘယ်ကဲ့သို့သော နေ့ဖြစ်သည်ကို အသင်သိပါသလော။\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "(ထိုနေ့သည်ကား) မည်သူမျှပင် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ လုံးဝ အကျိုးပြုပိုင်ခွင့် မရှိသောနေ့ပင်။ထိုနေ့တွင်ကား အမိန့်အာဏာ အလုံးစုံတို့သည် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိကုန်အံ့သတည်း။\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

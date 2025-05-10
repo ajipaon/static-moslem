@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "ငါအရှင်မြတ်သည် ဤ(မက္ကဟ်) မြို့တော်ကို သက်သေထူတော်မူ၏။\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "စင်စစ် အသင်သည် ဤ(မက္ကဟ်)မြို့တော်၌ ဝင်ခွင့်ပြုခြင်း ခံရပေမည်။\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "၎င်းပြင် (ငါအရှင်မြတ်သည်) ဖခင်ကိုလည်းကောင်း၊ ထိုဖခင်က မွေးဖွားသည့်(သားသမီး)ကို လည်းကောင်း၊ သက်သေထူတော်မူ၏။\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "မုချဧကန် ငါအရှင်မြတ်သည် လူကို(ကြီးကျယ်သော) ပင်ပန်းမှု၌ (ပင်ပန်းသောဘဝ၌) ဖန်ဆင်းတော်မူခဲ့၏။\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "ထိုလူသည် မိမိအပေါ်၌ မည်သူတစ်ဦးတစ်ယောက်မျှပင် အလျှင်းတတ်စွမ်းနိုင်မည် မဟုတ်ဟု ထင်မှတ်လေသလော။\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "၎င်းက ကျွန်ုပ်သည် မြောက်မြားစွာသော ပစ္စည်းဥစ္စာကို သုံးဖြုန်းခဲ့သည်ဟု (ဝါကြွား)ပြောဆိုလေ၏။\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "၎င်းသည် မိမိအား မည်သူတစ်ဦးတစ်ယောက်မျှပင် မြင်ခဲ့သည် မဟုတ်ဟူ၍ ထင်မှတ်လေသလော။\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "ငါအရှင်မြတ်သည် ၎င်းအား မျက်စိနှစ်လုံးကိုပြုလုပ်၍ ပေးသနားတော်မူခဲ့သည် မဟုတ်ပါလော။\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "ထို့ပြင် လျှာတစ်ခုကိုလည်းကောင်း၊ နှုတ်ခမ်းနှစ်ခုကိုလည်းကောင်း၊ (ပြုလုပ်ပေးသနားတော်မမူခဲ့ ပါသလော)။\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းအား (အကောင်းအဆိုး) လမ်းနှစ်သွယ်ကို ညွှန်ပြတော်မူခဲ့ပေသတည်း။\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "သို့ပါလျက် ထိုလူသားသည် တောင်ကြား လမ်းကိုဖြတ်ကူးခဲ့သည် မဟုတ်ပေ။\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "စင်စစ် တောင်ကြားလမ်းသည် အဘယ်နည်း၊ အသင် သိပါသလော။\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "ကျွန် တစ်ဦးတစ်ယောက်အား (ကျွန်ဘဝမှ)လွတ်မြောက်စေခြင်းပင်။\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "သို့တည်းမဟုတ် ငတ်မွတ်သောနေ့တွင် ကျွေးမွေးခြင်းပင်။\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "ဆွေမျိုးနီးစပ်ဖြစ်သော ဘမဲ့ကလေးသူငယ် တစ်ဦးတစ်ယောက်ကိုသော်လည်းကောင်း။\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "မြေကြီးပေါ် လူးလိမ့်နေသော ဒုက္ခိတသူဆင်းရဲ တစ်ဦးတစ်ယောက်ကိုသော်လည်းကောင်း။\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "ထို့နောက် အကြင်သူတို့တွင် ပါဝင်ခြင်းပင်၊ ထိုသူတို့သည် \"အီမာန်\" သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် အချင်းချင်း တစ်ဦး ကိုတစ်ဦး သည်းခံကြရန် လေးနက်စွာ ဆုံးမခဲ့ကြကုန်၏။ ထိုနည်းတူစွာ အချင်းချင်း တစ်ဦးကိုတစ်ဦး ကရုဏာတရားထားရှိကြရန်လည်း လေးနက်စွာ ဆုံးမခဲ့ကြကုန်၏။\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "ထိုသူတို့ကား လက်ယာဘက်သားများပင် ဖြစ်ကြကုန်၏။\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "သို့ရာတွင် အကြင်သူတို့သည် ငါအရှင်မြတ်၏အာယတ်တော်များကို သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်၏။ ထိုသူတို့ကား လက်ဝဲဘက်သားများပင် ဖြစ်ကြကုန်၏။\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "၎င်းတို့အပေါ်၌ ပိတ်လှောင်ထားသော ဖုံးအုပ်ထားသော မီးသည် လွှမ်းခြုံလျက်ပင် ရှိချေအံ့သတည်း။\n",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

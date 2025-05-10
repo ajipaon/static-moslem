@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "နေသည် ခေါက်လိပ်ခြင်းကို ခံရသောအခါ၊(အလင်းရောင်မဲ့သွားသောအခါ)၊\n",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "ထို့ပြင် ကြယ်တာရာများသည် ကြွေကျကြသောအခါ၊\n",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "၎င်းပြင် တောင်များသည် ရွေ့လျားခြင်းကို ခံကြရသောအခါ၊\n",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "ထိုမှတစ်ပါး ကိုယ်ဝန်ဆောင် ဆယ်လစေ့သော ကုလားအုတ်မများသည် (ထိန်းကျောင်းသူမရှိဘဲ) စွန့်လွှတ်ထားခြင်းကို ခံကြရသောအခါ၊\n",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "ထို့ပြင် တောတိရစ္ဆာန်များသည် စုရုံးခြင်းကိုခံကြရသောအခါ၊\n",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "ထို့ပြင် ပင်လယ် သမုဒ္ဒရာများသည် ခြောက်ခန်း ဆူပွက်စေခြင်းကို ခံကြရသောအခါ၊\n",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "၎င်းပြင် အသက်ဇီဝိန်များ (လူများသည်) တွဲဖက်စုပေါင်းစေခြင်းကို ခံကြရသောအခါ၊\n",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "၎င်းပြင် အရှင်လတ်လတ် မြှုပ်နှံခြင်းကိုခံခဲ့ရသော သမီးမိန်းကလေးသည် မေးမြန်းခြင်းကို ခံရသောအခါ၊\n",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "၎င်းပြင် မည်သည့်အပြစ်ကြောင့် သတ်ဖြတ်ခြင်းကို ခံခဲ့ရသနည်း(ဟု)၊\n",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "၎င်းပြင် (မှတ်တမ်း)စာရွက်များသည် ဖြန့်ထားခြင်းကို ခံကြရသောအခါ၊\n",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "ထို့ပြင် မိုးကောင်းကင်သည် အရေခွာခြင်းကို ခံရသောအခါ (ပွင့်စေခြင်းကို ခံရသောအခါ)၊\n",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "ထို့ပြင် \"ဂျဟန္နမ်\" ငရဲသည် မီးမွှေးခြင်းကို ခံရသောအခါ။\n",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "ထိုမှတစ်ပါး \"ဂျန္နတ်\" သုခဘုံသည် အနီးသို့ ယူဆောင်လာခြင်းကို ခံရသောအခါ။\n",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "လူအသီးသီးတို့သည် မိမိတို့ ယူဆောင်ခဲ့ကြသည့် (ကောင်းမှု၊ မကောင်းမှု)တို့ကို သိသွားကြ အံ့သတည်း။\n",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "သို့ဖြစ်ပေရာ ငါ အရှင်မြတ်သည် အကြင် နောက်ဆုတ်တတ်သော နက္ခတ်တို့ကို သက်သေထူတော်မူ၏။\n",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "ထိုနက္ခတ်များသည် ဖြောင့်မတ်စွာ သွားတတ်သော၊ ကွယ်ပျောက်၍ သွားတတ်သော နက္ခတ်များ ဖြစ်ကြကုန်၏။\n",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "၎င်းပြင် (ငါအရှင်မြတ်သည်) ညဉ့်ကို(သက်သေထူတော်မူ၏)။ အကြင်အခါဝယ် ထိုညဉ့်သည် ရောက်ရှိလာ၏။(ကုန်လွန်သွား၏)။\n",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "၎င်းပြင် (ငါအရှင်မြတ်သည်)နံနက်ကို (သက်သေထူတော်မူ၏)။ အကြင်အခါဝယ် ယင်း နံနက်သည် လင်း၍လာလေ၏။\n",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "ဧကန်မလွဲ ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည် မြင့်မြတ်သော စေတမန်တစ်ပါး(ယူဆောင်လာသော)အာယတ်တော်ဖြစ်၏။\n",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "(ထိုစေတမန်သည်) ခွန်အား ကြီးမားသူ၊ ‘အရ်ရှ်’ပလ္လင်တော်ကို စိုးပိုင်တော်မူသော အရှင်မြတ်၏ အပါးတော်၌ ဂုဏ်အသရေရှိသူဖြစ်ပေသည်။\n",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "(ထို့ပြင်) ထို(မိုးကောင်းကင်များ)၌ ဩဇာညောင်းသူ၊ ယုံကြည်စိတ်ချရသူ(လည်းဖြစ်ပေသည်)။\n",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "၎င်းပြင် (ဤ)အသင်တို့၏ အဖေါ်သည်လည်း ရူးသွပ်သောသူ မဟုတ်ပေ။\n",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "၎င်းပြင် မလွဲဧကန် ထိုအသင်တို့၏ အဖေါ်သည် ရှင်းလင်းသော ‘အူဖွတ်က်’ မိုးကုပ်စက်ဝိုင်း၌ ၎င်းစေတမန်အား တွေ့မြင်ခဲ့ဖူးပေသည်။\n",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "၎င်းပြင် ထိုအသင်တို့၏အဖေါ်ကား အကွယ်၌ရှိသောအရာများ(အနက်၊ အလ္လာဟ်အရှင်မြတ် အသိပေးတော်မူသောအရာများ)နှင့်စပ်လျဉ်း၍ စေးနဲသူလည်း မဟုတ်ပေ။\n",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "ထို့ပြင် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်) သည် မည်သည့် နှင်ထုတ်ခြင်းခံရသော ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်၏ ပြောဆိုချက်လည်း အလျှင်းမဟုတ်ပေ။\n",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "သို့ပါလျက် အသင်တို့သည် အဘယ်သို့ သွားနေကြသနည်း။\n",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "ထို(ကုရ်အာန်ကျမ်းတော်မြတ်)သည် စကြဝဠာခပ်သိမ်းတို့အဖို့ ဆုံးမဩဝါဒသာလျှင် ဖြစ်ချေသည်။\n",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "(အထူးသဖြင့်) အသင်တို့အနက် ဖြောင့်မတ်စွာ သွားလိုသူ၏အဖို့။\n",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "စင်စစ်သော်ကား စကြဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူမှသာလျှင် အသင်တို့သည် အလိုရှိနိုင်ကြပေ မည်တကား။\n",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
