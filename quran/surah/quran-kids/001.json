@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "بِسْمِ|In (the) name|112|146|1$ٱللَّهِ|(of) Allah,|86|153|2$ٱلرَّحْمَـٰنِ|the Most Gracious,|145|212|3$ٱلرَّحِيمِ|the Most Merciful.|140|174|4$",
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "ٱلْحَمْدُ|All praises and thanks|164|194|5$لِلَّهِ|(be) to Allah,|108|169|6$رَبِّ|(the) Lord|87|148|7$ٱلْعَـٰلَمِينَ|(of all) the worlds.|143|174|8$",
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "ٱلرَّحْمَـٰنِ|The Most Gracious,|148|346|3$ٱلرَّحِيمِ|the Most Merciful.|140|338|4$",
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "مَـٰلِكِ|Master|66|156|9$يَوْمِ|(of the) Day|102|282|10$ٱلدِّينِ|(of) [the] Judgment.|157|247|11$",
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "إِيَّاكَ|You Alone|86|129|12$نَعْبُدُ|we worship,|99|185|13$وَإِيَّاكَ|and You Alone|115|201|14$نَسْتَعِينُ|we ask for help.|126|169|15$",
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "ٱهْدِنَا|Guide us|76|174|16$ٱلصِّرَٲطَ|(to) the path,|113|310|17$ٱلْمُسْتَقِيمَ|the straight.|103|201|18$",
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "صِرَٲطَ|(The) path|92|110|19$ٱلَّذِينَ|(of) those|87|124|20$أَنْعَمْتَ|You have bestowed (Your) Favors|247|284|21$عَلَيْهِمْ|on them,|79|116|22$غَيْرِ|not (of)|72|90|23$ٱلْمَغْضُوبِ|those who earned (Your) wrath|229|241|24$عَلَيْهِمْ|on themselves,|120|144|22$وَلَا|and not|71|95|25$ٱلضَّآلِّينَ|(of) those who go astray.|192|204|26$",
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

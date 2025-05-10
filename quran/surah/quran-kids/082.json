@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "إِذَا|When|57|158|1370$ٱلسَّمَآءُ|the sky|84|286|12745$ٱنفَطَرَتْ|(is) cleft asunder,|139|240|17924$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "وَإِذَا|And when|85|186|96$ٱلْكَوَاكِبُ|the stars|104|307|17925$ٱنتَثَرَتْ|scatter,|90|192|17926$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "وَإِذَا|And when|85|170|96$ٱلْبِحَارُ|the seas|82|252|17898$فُجِّرَتْ|are made to gush forth,|178|263|17927$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "وَإِذَا|And when|85|182|96$ٱلْقُبُورُ|the graves|91|284|17928$بُعْثِرَتْ|are overturned,|123|220|17929$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "عَلِمَتْ|Will know|81|111|17911$نَفْسٌ|a soul|62|121|470$مَّا|what|53|112|262$قَدَّمَتْ|it has sent forth|128|187|897$وَأَخَّرَتْ|and left behind.|124|154|17930$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "يَـٰٓأَيُّهَا|O|67|94|985$ٱلْإِنسَـٰنُ|man!|90|144|3927$مَا|What|55|110|262$غَرَّكَ|has deceived you|136|190|17931$بِرَبِّكَ|concerning your Lord|159|186|10281$ٱلْكَرِيمِ|the Most Noble,|125|125|12393$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "ٱلَّذِى|Who|65|101|138$خَلَقَكَ|created you,|105|178|10778$فَسَوَّٮٰكَ|then fashioned you|147|220|17932$فَعَدَلَكَ|then balanced you?|150|186|17933$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "فِىٓ|In|48|67|89$أَىِّ|whatever|82|121|17856$صُورَةٍ|form|86|125|17934$مَّا|that|48|87|262$شَآءَ|He willed,|83|122|2277$رَكَّبَكَ|He assembled you.|144|163|17935$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "كَلَّا|Nay!|50|114|11291$بَلْ|But|44|172|848$تُكَذِّبُونَ|you deny|91|219|13899$بِٱلدِّينِ|the Judgment.|115|179|17936$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "وَإِنَّ|And indeed,|98|180|713$عَلَيْكُمْ|over you|78|242|416$لَحَـٰفِظِينَ|(are) surely guardians,|170|252|17937$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "كِرَامًا|Noble|76|332|12856$كَـٰتِبِينَ|recording,|86|342|17938$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "يَعْلَمُونَ|They know|92|196|115$مَا|whatever|82|289|262$تَفْعَلُونَ|you do.|87|190|10118$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "إِنَّ|Indeed,|70|121|58$ٱلْأَبْرَارَ|the righteous|108|209|17641$لَفِى|(will be) surely in|133|234|1513$نَعِيمٍ|bliss,|60|111|16621$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "وَإِنَّ|And indeed,|98|144|713$ٱلْفُجَّارَ|the wicked|92|185|17939$لَفِى|(will be) surely in|133|226|1513$جَحِيمٍ|Hellfire.|73|120|16625$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "يَصْلَوْنَهَا|They will burn (in) it|154|222|9616$يَوْمَ|(on the) Day|105|240|1057$ٱلدِّينِ|(of) the Judgment,|145|213|11$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "وَمَا|And not|72|132|46$هُمْ|they|50|171|49$عَنْهَا|from it|63|184|380$بِغَآئِبِينَ|(will be) absent.|128|188|17940$",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "وَمَآ|And what|83|101|46$أَدْرَٮٰكَ|can make you know|151|186|17213$مَا|what|53|88|262$يَوْمُ|(is the) Day|99|134|5399$ٱلدِّينِ|(of) the Judgment?|147|165|11$",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "ثُمَّ|Then,|58|69|293$مَآ|what|53|76|262$أَدْرَٮٰكَ|can make you know|151|174|17213$مَا|what|53|76|262$يَوْمُ|(is the) Day|99|122|5399$ٱلدِّينِ|(of) the Judgment?|147|158|11$",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "يَوْمَ|(The) Day|87|96|1057$لَا|not|42|60|30$تَمْلِكُ|will have power|122|140|17941$نَفْسٌ|a soul|62|80|470$لِّنَفْسٍ|for a soul|82|100|3335$شَيْــًٔا‌ۖ|anything,|82|100|472$وَٱلْأَمْرُ|and the Command|139|148|6458$يَوْمَئِذٍ|that Day|78|303|3485$لِّلَّهِ|(will be) with Allah.|147|372|924$",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

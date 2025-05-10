@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "وَٱلْعَـٰدِيَـٰتِ|By the racers|117|362|18283$ضَبْحًا|panting,|79|324|18284$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "فَٱلْمُورِيَـٰتِ|And the producers of sparks,|212|415|18285$قَدْحًا|striking|67|270|18286$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "فَٱلْمُغِيرَٲتِ|And the chargers|134|364|18287$صُبْحًا|(at) dawn,|91|321|18288$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "فَأَثَرْنَ|Then raise|89|206|18289$بِهِۦ|thereby|71|306|204$نَقْعًا|dust,|56|173|18290$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "فَوَسَطْنَ بِهِۦ|Then penetrate thereby (in the) center|282|435|18291$جَمْعًا|(of) troops,|97|250|11034$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "إِنَّ|Indeed,|70|114|58$ٱلْإِنسَـٰنَ|mankind,|90|179|8037$لِرَبِّهِۦ|to his Lord,|95|184|10324$لَكَنُودٌ|(is) surely ungrateful.|163|208|18292$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "وَإِنَّهُۥ|And indeed, he|119|166|1195$عَلَىٰ|to|63|156|52$ذَٲلِكَ|that|64|157|28$لَشَهِيدٌ|surely (is) a witness,|159|206|18293$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "وَإِنَّهُۥ|And indeed he (is),|146|179|1195$لِحُبِّ|in (the) love|102|168|18294$ٱلْخَيْرِ|(of) wealth|94|160|3143$لَشَدِيدٌ|(is) surely intense.|144|177|9528$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "۞ أَفَلَا|But does not|105|114|452$يَعْلَمُ|he know|75|94|742$إِذَا|when|55|74|1370$بُعْثِرَ|will be scattered|130|149|18295$مَا|what|53|72|262$فِى|(is) in|58|77|89$ٱلْقُبُورِ|the graves,|96|105|11985$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "وَحُصِّلَ|And is made apparent|164|214|18296$مَا|what|53|152|262$فِى|(is) in|58|157|89$ٱلصُّدُورِ|the breasts?|103|152|3216$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "إِنَّ|Indeed,|70|92|58$رَبَّهُم|their Lord|83|128|3649$بِهِمْ|about them,|101|146|125$يَوْمَئِذٍ|that Day,|83|128|3485$لَّخَبِيرُۢ|(is) surely All-Aware.|159|181|14396$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

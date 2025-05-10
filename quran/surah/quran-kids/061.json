@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 14,
+    "ayahs": [
+      {
+        "number": 5164,
+        "text": "سَبَّحَ|Glorifies|71|77|16628$لِلَّهِ|Allah|51|63|6$مَا|whatever|82|94|262$فِى|(is) in|58|70|89$ٱلسَّمَـٰوَٲتِ|the heavens|115|127|351$وَمَا|and whatever|111|123|46$فِى|(is) in|58|70|89$ٱلْأَرْضِ‌ۖ|the earth.|92|98|100$وَهُوَ|And He|67|159|305$ٱلْعَزِيزُ|(is) the All-Mighty,|145|329|1187$ٱلْحَكِيمُ|the All-Wise.|105|197|343$",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5165,
+        "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ|O you who believe!|197|217|7177$لِمَ|Why|49|89|2974$تَقُولُونَ|(do) you say|105|145|771$مَا|what|53|93|262$لَا تَفْعَلُونَ|you do not do?|120|140|16890$",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5166,
+        "text": "كَبُرَ|Great is|71|81|5547$مَقْتًا|hatred|63|83|14415$عِندَ|with|56|76|521$ٱللَّهِ|Allah|53|73|606$أَن|that|48|68|655$تَقُولُواْ|you say|78|98|986$مَا|what|53|73|262$لَا تَفْعَلُونَ|you do not do?|120|130|16890$",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5167,
+        "text": "إِنَّ|Indeed,|70|80|58$ٱللَّهَ|Allah|53|73|184$يُحِبُّ|loves|68|88|1712$ٱلَّذِينَ|those who|89|109|20$يُقَـٰتِلُونَ|fight|89|109|4201$فِى|in|48|68|89$سَبِيلِهِۦ|His Way|84|104|4945$صَفًّا|(in) a row|85|95|10825$كَأَنَّهُم|as if they|83|166|944$بُنْيَـٰنٌ|(were) a structure|143|310|16891$مَّرْصُوصٌ|joined firmly.|125|208|16892$",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5168,
+        "text": "وَإِذْ|And when|85|94|308$قَالَ|said|52|70|309$مُوسَىٰ|Musa|83|101|499$لِقَوْمِهِۦ|to his people,|110|128|512$يَـٰقَوْمِ|`O my people!|115|133|513$لِمَ|Why|49|67|2974$تُؤْذُونَنِى|do you hurt me|121|130|16893$وَقَد|while certainly|115|123|2117$تَّعْلَمُونَ|you know|92|108|212$أَنِّى|that I am|82|98|2879$رَسُولُ ٱللَّهِ|(the) Messenger of Allah|183|199|4668$إِلَيْكُمْ‌ۖ|to you?`|78|94|2453$فَلَمَّا|Then when|93|101|141$زَاغُوٓاْ|they deviated,|117|126|16894$أَزَاغَ ٱللَّهُ|Allah caused to deviate|176|194|16895$قُلُوبَهُمْ‌ۚ|their hearts.|102|120|4806$وَٱللَّهُ|And Allah|81|99|167$لَا|(does) not|90|108|30$يَهْدِى|guide|69|78|1270$ٱلْقَوْمَ|the people,|95|296|2316$ٱلْفَـٰسِقِينَ|the defiantly disobedient.|189|390|277$",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 551,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5169,
+        "text": "وَإِذْ|And when|85|92|308$قَالَ|said|52|66|309$عِيسَى|Isa,|81|95|831$ٱبْنُ|son|52|66|2865$مَرْيَمَ|(of) Maryam,|106|120|833$يَـٰبَنِىٓ إِسْرَٲٓءِيلَ|`O Children of Israel!|163|177|11546$إِنِّى|Indeed, I am|104|111|312$رَسُولُ ٱللَّهِ|(the) Messenger of Allah|183|195|4668$إِلَيْكُم|to you,|68|91|2453$مُّصَدِّقًا|confirming|87|110|425$لِّمَا|that which|91|114|426$بَيْنَ يَدَىَّ|(was) before me|129|152|2896$مِنَ|of|50|62|156$ٱلتَّوْرَٮٰةِ|the Taurat|92|109|2897$وَمُبَشِّرَۢا|and bringing glad tidings|180|214|16896$بِرَسُولٍ|(of) a Messenger|133|167|16897$يَأْتِى|to come|74|108|2311$مِنۢ بَعْدِى|after me,|111|128|1217$ٱسْمُهُۥٓ|whose name (will be)|160|177|1065$أَحْمَدُ‌ۖ|Ahmad.`|77|111|16898$فَلَمَّا|But when|82|116|141$جَآءَهُم|he came to them|133|167|853$بِٱلْبَيِّنَـٰتِ|with clear proofs,|136|153|880$قَالُواْ|they said,|86|149|101$هَـٰذَا|`This|59|184|248$سِحْرٌ|(is) a magic|98|223|8376$مُّبِينٌ|clear.`|66|129|1467$",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5170,
+        "text": "وَمَنْ|And who|77|87|1012$أَظْلَمُ|(is) more wrong|124|145|1060$مِمَّنِ|than (one) who|123|144|5485$ٱفْتَرَىٰ|invents|80|101|3099$عَلَى|upon|63|84|52$ٱللَّهِ|Allah|53|74|606$ٱلْكَذِبَ|the lie|81|91|3020$وَهُوَ|while he|74|82|305$يُدْعَىٰٓ|is invited|79|94|16899$إِلَى|to|53|68|118$ٱلْإِسْلَـٰمِ‌ۚ|Islam?|83|98|3069$وَٱللَّهُ|And Allah|81|96|167$لَا|(does) not|90|105|30$يَهْدِى|guide|69|84|1270$ٱلْقَوْمَ|the people|90|98|2316$ٱلظَّـٰلِمِينَ|[the] wrongdoers.|140|140|377$",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5171,
+        "text": "يُرِيدُونَ|They intend|99|114|4112$لِيُطْفِــُٔواْ|to put out|90|120|16900$نُورَ|(the) light|87|117|16901$ٱللَّهِ|(of) Allah|81|111|606$بِأَفْوَٲهِهِمْ|with their mouths,|141|171|3487$وَٱللَّهُ|but Allah|78|93|167$مُتِمُّ|will perfect|93|124|16902$نُورِهِۦ|His Light|79|141|12548$وَلَوْ|although|77|139|179$كَرِهَ|dislike|59|121|7154$ٱلْكَـٰفِرُونَ|the disbelievers.|128|159|4590$",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5172,
+        "text": "هُوَ|He|48|59|298$ٱلَّذِىٓ|(is) the One Who|134|155|138$أَرْسَلَ|sent|76|97|7539$رَسُولَهُۥ|His Messenger|114|135|7540$بِٱلْهُدَىٰ|with guidance|112|133|131$وَدِينِ|and (the) religion|134|145|7541$ٱلْحَقِّ|(of) the truth,|115|130|613$لِيُظْهِرَهُۥ|to make it prevail|135|164|7542$عَلَى|over|63|92|52$ٱلدِّينِ|the religion|93|122|11$كُلِّهِۦ|all of them,|95|124|3209$وَلَوْ|although|77|92|179$كَرِهَ|dislike (it)|85|323|7154$ٱلْمُشْرِكُونَ|the polytheists.|124|362|7511$",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 484,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5173,
+        "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ|O you who believe!|197|203|7177$هَلْ|Shall|51|63|1829$أَدُلُّكُمْ|I guide you|94|106|11428$عَلَىٰ|to|63|75|52$تِجَـٰرَةٍ|a transaction|108|120|16903$تُنجِيكُم|(that) will save you|150|156|16904$مِّنْ|from|50|162|53$عَذَابٍ|a punishment|108|332|7871$أَلِيمٍ|painful?|70|182|2718$",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5174,
+        "text": "تُؤْمِنُونَ|Believe|94|101|4108$بِٱللَّهِ|in Allah|67|81|79$وَرَسُولِهِۦ|and His Messenger|143|157|2497$وَتُجَـٰهِدُونَ|and strive|121|135|16905$فِى|in|48|62|89$سَبِيلِ|(the) way|86|100|1358$ٱللَّهِ|(of) Allah|81|88|2$بِأَمْوَٲلِكُمْ|with your wealth|131|143|3887$وَأَنفُسِكُمْ‌ۚ|and your lives.|117|142|3588$ذَٲلِكُمْ|That|69|94|488$خَيْرٌ|(is) better|88|113|520$لَّكُمْ|for you|67|92|207$إِن|if|44|69|225$كُنتُمْ|you|60|72|214$تَعْلَمُونَ|know.|92|92|212$",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5175,
+        "text": "يَغْفِرْ|He will forgive|112|122|15737$لَكُمْ|for you|67|86|207$ذُنُوبَكُمْ|your sins|85|104|2774$وَيُدْخِلْكُمْ|and admit you|114|133|16906$جَنَّـٰتٍ|(in) Gardens|101|120|241$تَجْرِى|flow|81|100|242$مِن|from|50|60|53$تَحْتِهَا|underneath it|109|119|243$ٱلْأَنْهَـٰرُ|the rivers|83|103|244$وَمَسَـٰكِنَ|and dwellings|108|128|7745$طَيِّبَةً|pleasant|76|96|2819$فِى|in|48|68|89$جَنَّـٰتِ|Gardens|75|95|5122$عَدْنٍ‌ۚ|(of) Eternity.|107|117|7746$ذَٲلِكَ|That|64|163|28$ٱلْفَوْزُ|(is) the success|127|326|3793$ٱلْعَظِيمُ|the great.|87|186|2284$",
+        "numberInSurah": 12,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5176,
+        "text": "وَأُخْرَىٰ|And another|101|113|2660$تُحِبُّونَهَا‌ۖ|that you love -|121|145|16907$نَصْرٌ|a help|71|95|13579$مِّنَ|from|50|74|156$ٱللَّهِ|Allah|53|77|606$وَفَتْحٌ|and a victory|108|132|16908$قَرِيبٌ‌ۗ|near;|76|88|1614$وَبَشِّرِ|and give glad tidings|156|345|237$ٱلْمُؤْمِنِينَ|(to) the believers.|141|330|1964$",
+        "numberInSurah": 13,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      },
+      {
+        "number": 5177,
+        "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ|O you who believe!|197|205|7177$كُونُوٓاْ|Be|76|93|645$أَنصَارَ|helpers|85|102|16909$ٱللَّهِ|(of) Allah|81|98|606$كَمَا|as|53|70|110$قَالَ|said|52|69|309$عِيسَى|Isa,|81|89|831$ٱبْنُ|son|52|58|2865$مَرْيَمَ|(of) Maryam,|106|118|833$لِلْحَوَارِيِّــۧنَ|to the disciples,|126|138|16910$مَنْ|`Who|57|69|76$أَنصَارِىٓ|(are) my helpers|129|141|2907$إِلَى|for|53|65|118$ٱللَّهِ‌ۖ|Allah?`|66|78|606$قَالَ|Said|52|58|309$ٱلْحَوَارِيُّونَ|the disciples,|127|133|2908$نَحْنُ|`We|62|74|103$أَنصَارُ|(are) the helpers|132|144|2909$ٱللَّهِ‌ۖ|(of) Allah.`|94|106|606$فَـَٔـامَنَت|Then believed|112|124|16911$طَّآئِفَةٌ|a group|74|86|2992$مِّنۢ|of|50|56|53$بَنِىٓ إِسْرَٲٓءِيلَ|Children of Israel|148|156|10567$وَكَفَرَت|and disbelieved|121|136|16912$طَّآئِفَةٌ‌ۖ|a group.|75|90|2992$فَأَيَّدْنَا|So We supported|134|149|16913$ٱلَّذِينَ|those who|89|104|20$ءَامَنُواْ|believed|82|90|84$عَلَىٰ|against|68|114|52$عَدُوِّهِمْ|their enemy|98|189|16914$فَأَصْبَحُواْ|and they became|135|226|5056$ظَـٰهِرِينَ|dominant.|100|146|15136$",
+        "numberInSurah": 14,
+        "juz": 28,
+        "manzil": 7,
+        "page": 552,
+        "ruku": 485,
+        "hizbQuarter": 220,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "قُلْ|Say,|50|284|765$يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ|`O disbelievers!|168|402|18357$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "لَآ|Not|43|110|30$أَعْبُدُ|I worship|80|215|8337$مَا|what|53|188|262$تَعْبُدُونَ|you worship.|104|172|1216$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "وَلَآ|And not|72|104|25$أَنتُمْ|you|54|119|796$عَـٰبِدُونَ|(are) worshippers|136|201|1251$مَآ|(of) what|83|148|262$أَعْبُدُ|I worship|80|112|8337$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "وَلَآ|And not|72|106|25$أَنَا۟|I am|49|117|2308$عَابِدٌ|a worshipper|104|172|18358$مَّا|(of) what|83|151|262$عَبَدتُّمْ|you worship.|104|138|18359$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "وَلَآ|And not|72|107|25$أَنتُمْ|you are|70|139|796$عَـٰبِدُونَ|worshippers|98|167|1251$مَآ|(of) what|83|152|262$أَعْبُدُ|I worship.|85|120|8337$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "لَكُمْ|For you|70|114|207$دِينُكُمْ|(is) your religion,|132|219|18360$وَلِىَ|and for me|91|178|11376$دِينِ|(is) my religion.`|130|174|3062$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

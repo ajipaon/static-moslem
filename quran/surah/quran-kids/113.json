@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "قُلْ|Say,|50|100|765$أَعُوذُ|`I seek refuge|115|215|660$بِرَبِّ|in (the) Lord|103|203|6704$ٱلْفَلَقِ|(of) the dawn,|117|167|18380$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "مِن|From|52|114|53$شَرِّ|(the) evil|81|205|18381$مَا|(of) what|83|207|262$خَلَقَ|He created,|98|160|299$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "وَمِن|And from|79|114|1133$شَرِّ|(the) evil|81|150|18381$غَاسِقٍ|(of) darkness|108|178|18382$إِذَا|when|55|124|1370$وَقَبَ|it settles,|84|119|18383$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "وَمِن|And from|79|112|1133$شَرِّ|(the) evil|81|146|18381$ٱلنَّفَّـٰثَـٰتِ|(of) the blowers|127|192|18384$فِى|in|48|114|89$ٱلْعُقَدِ|the knots,|88|121|18385$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "وَمِن|And from|79|112|1133$شَرِّ|(the) evil|81|147|18381$حَاسِدٍ|(of) an envier|111|177|18386$إِذَا|when|55|121|1370$حَسَدَ|he envies.`|96|129|18387$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "أَلَمْ|Have not|80|134|348$نَشْرَحْ|We expanded|109|218|18216$لَكَ|for you|67|176|323$صَدْرَكَ|your breast?|103|157|18217$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "وَوَضَعْنَا|And We removed|132|226|18218$عَنكَ|from you|78|266|1109$وِزْرَكَ|your burden|99|193|18219$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "ٱلَّذِىٓ|Which|65|170|138$أَنقَضَ|weighed upon|111|320|18220$ظَهْرَكَ|your back,|90|195|18221$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "وَرَفَعْنَا|And We raised high|147|238|627$لَكَ|for you|67|249|323$ذِكْرَكَ|your esteem.|107|198|18222$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "فَإِنَّ|So indeed,|90|150|599$مَعَ|with|48|169|443$ٱلْعُسْرِ|the hardship|102|223|18223$يُسْرًا|(is) ease.|83|143|10995$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "إِنَّ|Indeed,|70|134|58$مَعَ|with|48|175|443$ٱلْعُسْرِ|the hardship|102|229|18223$يُسْرًا|(is) ease.|83|147|10995$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "فَإِذَا|So when|77|173|1730$فَرَغْتَ|you are free,|106|298|18224$فَٱنصَبْ|then stand up.|118|214|18225$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "وَإِلَىٰ|And to|67|163|1836$رَبِّكَ|your Lord|82|274|1322$فَٱرْغَب|turn your attention.|152|248|18226$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

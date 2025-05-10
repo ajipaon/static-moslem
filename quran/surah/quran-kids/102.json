@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "أَلْهَـٰكُمُ|Diverts you|95|288|18305$ٱلتَّكَاثُرُ|the competition to increase|203|396|18306$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "حَتَّىٰ|Until|64|176|526$زُرْتُمُ|you visit|76|300|18307$ٱلْمَقَابِرَ|the graves.|96|208|18308$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "كَلَّا|Nay!|50|162|11291$سَوْفَ|Soon|76|299|4083$تَعْلَمُونَ|you will know.|113|224|212$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "ثُمَّ|Then,|58|123|293$كَلَّا|nay!|49|179|11291$سَوْفَ|Soon|76|206|4083$تَعْلَمُونَ|you will know.|113|178|212$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "كَلَّا|Nay!|50|80|11291$لَوْ|If|41|101|905$تَعْلَمُونَ|you know|92|152|212$عِلْمَ|(with) a knowledge|147|207|5333$ٱلْيَقِينِ|(of) certainty.|115|145|16627$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "لَتَرَوُنَّ|Surely you will see|143|366|18309$ٱلْجَحِيمَ|the Hellfire.|96|319|17272$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "ثُمَّ|Then|53|94|293$لَتَرَوُنَّهَا|surely you will see it|155|237|18310$عَيْنَ|(with the) eye|116|198|14218$ٱلْيَقِينِ|(of) certainty.|115|156|16627$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "ثُمَّ|Then,|58|83|293$لَتُسْــَٔلُنَّ|surely you will be asked|177|227|9995$يَوْمَئِذٍ|that Day|78|128|3485$عَنِ|about|58|108|1663$ٱلنَّعِيمِ|the pleasures.|114|139|5123$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

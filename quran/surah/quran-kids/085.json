@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "وَٱلسَّمَآءِ|By the sky,|98|187|16112$ذَاتِ|containing|88|266|16113$ٱلْبُرُوجِ|the constellations,|143|232|17999$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "وَٱلْيَوْمِ|And the Day|102|342|620$ٱلْمَوْعُودِ|Promised,|103|343|18000$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "وَشَاهِدٍ|And (the) witness|139|326|18001$وَمَشْهُودٍ|and what is witnessed,|173|360|18002$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "قُتِلَ|Destroyed were|124|206|3328$أَصْحَـٰبُ|(the) companions|136|299|409$ٱلْأُخْدُودِ|(of) the pit,|99|180|18003$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "ٱلنَّارِ|(Of) the fire|100|204|410$ذَاتِ|full|61|270|16113$ٱلْوَقُودِ|(of) the fuel,|106|210|18004$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "إِذْ|When|57|123|1198$هُمْ|they|50|181|49$عَلَيْهَا|by it|69|200|1269$قُعُودٌ|(were) sitting,|115|181|18005$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "وَهُمْ|And they|80|95|256$عَلَىٰ|over|63|93|52$مَا|what|53|83|262$يَفْعَلُونَ|they were doing|127|157|695$بِٱلْمُؤْمِنِينَ|to the believers|124|154|4986$شُهُودٌ|witnesses.|90|105|18006$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "وَمَا|And not|72|86|46$نَقَمُواْ|they resented|113|141|7756$مِنْهُمْ|[of] them|83|111|730$إِلَّآ|except|65|93|86$أَن|that|48|76|655$يُؤْمِنُواْ|they believed|109|137|727$بِٱللَّهِ|in Allah|67|81|79$ٱلْعَزِيزِ|the All-Mighty,|118|333|3257$ٱلْحَمِيدِ|the Praiseworthy,|137|352|9514$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "ٱلَّذِى|The One Who,|115|123|138$لَهُۥ|for Him|66|83|977$مُلْكُ|(is) the dominion|131|148|1005$ٱلسَّمَـٰوَٲتِ|(of) the heavens|132|149|351$وَٱلْأَرْضِ‌ۚ|and the earth;|117|134|352$وَٱللَّهُ|and Allah|80|88|167$عَلَىٰ|on|63|126|52$كُلِّ|every|57|183|185$شَىْءٍ|thing|69|195|186$شَهِيدٌ|(is) a Witness.|117|180|2562$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "إِنَّ|Indeed,|70|80|58$ٱلَّذِينَ|those who|89|108|20$فَتَنُواْ|persecuted|94|113|18007$ٱلْمُؤْمِنِينَ|the believing men|136|155|1964$وَٱلْمُؤْمِنَـٰتِ|and the believing women,|189|208|7744$ثُمَّ|then|50|60|293$لَمْ|not|42|55|63$يَتُوبُواْ|they repented,|119|144|7758$فَلَهُمْ|then for them|111|136|623$عَذَابُ|(is) the punishment|149|174|5574$جَهَنَّمَ|(of) Hell|73|98|2655$وَلَهُمْ|and for them|105|118|71$عَذَابُ|(is the) punishment|149|332|5574$ٱلْحَرِيقِ|(of) the Burning Fire.|159|342|3559$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "إِنَّ|Indeed,|70|86|58$ٱلَّذِينَ|those who|89|121|20$ءَامَنُواْ|believe|82|114|84$وَعَمِلُواْ|and do|92|124|238$ٱلصَّـٰلِحَـٰتِ|the righteous deeds,|157|189|239$لَهُمْ|for them|76|92|98$جَنَّـٰتٌ|(will be) Gardens|131|137|2685$تَجْرِى|flow|81|94|242$مِن|from|50|62|53$تَحْتِهَا|underneath it|109|122|243$ٱلْأَنْهَـٰرُ‌ۚ|the rivers.|88|100|244$ذَٲلِكَ|That|64|76|28$ٱلْفَوْزُ|(is) the success|127|133|3793$ٱلْكَبِيرُ|the great.|87|87|9356$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "إِنَّ|Indeed,|70|115|58$بَطْشَ|(the) Grip|84|174|18008$رَبِّكَ|(of) your Lord|112|202|1322$لَشَدِيدٌ|(is) surely strong.|138|183|9528$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "إِنَّهُۥ|Indeed He,|92|150|396$هُوَ|He|48|164|298$يُبْدِئُ|originates|84|200|14314$وَيُعِيدُ|and repeats,|104|162|18009$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "وَهُوَ|And He|67|145|305$ٱلْغَفُورُ|(is) the Oft-Forgiving,|166|322|8348$ٱلْوَدُودُ|the Most Loving,|131|209|18010$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "ذُو ٱلْعَرْشِ|Owner (of) the Throne|170|371|15102$ٱلْمَجِيدُ|the Glorious,|103|304|18011$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "فَعَّالٌ|Doer|65|176|8753$لِّمَا|of what|71|293|426$يُرِيدُ|He intends.|95|206|1604$",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "هَلْ|Has|50|102|1829$أَتَـٰكَ|come to you|103|207|11347$حَدِيثُ|(the) story|93|197|11348$ٱلْجُنُودِ|(of) the hosts,|118|170|18012$",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "فِرْعَوْنَ|Firaun|93|330|2649$وَثَمُودَ|and Thamud?|108|345|7735$",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "بَلِ|Nay!|50|87|3361$ٱلَّذِينَ|Those who|92|166|20$كَفَرُواْ|disbelieve|84|158|59$فِى|(are) in|69|143|89$تَكْذِيبٍ|denial.|83|120|18013$",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "وَٱللَّهُ|But Allah|78|133|167$مِن|from|50|159|53$وَرَآئِهِم|behind them,|106|215|18014$مُّحِيطُۢ|encompasses.|113|168|168$",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "بَلْ|Nay!|50|117|848$هُوَ|It|48|182|298$قُرْءَانٌ|(is) a Quran|99|233|18015$مَّجِيدٌ|Glorious,|76|143|8622$",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "فِى|In|48|162|89$لَوْحٍ|a Tablet,|80|308|18016$مَّحْفُوظِۭ|Guarded.|91|205|18017$",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

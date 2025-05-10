@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "وَٱلْعَصْرِ|By the time,|104|104|18311$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "إِنَّ|Indeed,|70|128|58$ٱلْإِنسَـٰنَ|mankind|90|206|8037$لَفِى|(is) surely, in|107|223|1513$خُسْرٍ|loss,|70|128|18312$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "إِلَّا|Except|65|76|86$ٱلَّذِينَ|those who|89|110|20$ءَامَنُواْ|believe|82|103|84$وَعَمِلُواْ|and do|92|113|238$ٱلصَّـٰلِحَـٰتِ|righteous deeds|125|146|239$وَتَوَاصَوْاْ|and enjoin each other|165|176|18162$بِٱلْحَقِّ|to the truth|99|169|692$وَتَوَاصَوْاْ|and enjoin each other|165|306|18162$بِٱلصَّبْرِ|to [the] patience.|140|210|455$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

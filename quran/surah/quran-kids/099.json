@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "إِذَا|When|57|106|1370$زُلْزِلَتِ|is shaken|89|187|18275$ٱلْأَرْضُ|the earth|92|190|589$زِلْزَالَهَا|with its earthquake,|153|202|18276$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "وَأَخْرَجَتِ|And brings forth|126|218|18277$ٱلْأَرْضُ|the earth|92|276|589$أَثْقَالَهَا|its burdens,|98|190|18278$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "وَقَالَ|And says|80|138|1089$ٱلْإِنسَـٰنُ|man,|90|206|3927$مَا|`What|63|179|262$لَهَا|(is) with it?`|104|162|1226$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "يَوْمَئِذٍ|That Day,|86|187|3485$تُحَدِّثُ|it will report|99|301|18279$أَخْبَارَهَا|its news,|96|197|18280$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "بِأَنَّ|Because|75|139|1510$رَبَّكَ|your Lord|82|211|586$أَوْحَىٰ|inspired|77|206|10362$لَهَا|[to] it.|65|129|1226$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "يَوْمَئِذٍ|That Day|81|104|3485$يَصْدُرُ|will proceed|98|144|18281$ٱلنَّاسُ|the mankind|100|146|112$أَشْتَاتًا|(in) scattered groups|161|207|12677$لِّيُرَوْاْ|to be shown|102|125|18282$أَعْمَـٰلَهُمْ|their deeds.|99|99|1459$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "فَمَن|So whoever|98|108|402$يَعْمَلْ|does|70|89|4433$مِثْقَالَ|(equal to the) weight|162|181|4002$ذَرَّةٍ|(of) an atom|104|123|4003$خَيْرًا|good,|68|87|1388$يَرَهُۥ|will see it,|87|97|18147$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "وَمَن|And whoever|106|116|1012$يَعْمَلْ|does|70|89|4433$مِثْقَالَ|(equal to the) weight|162|181|4002$ذَرَّةٍ|(of) an atom|104|123|4003$شَرًّا|evil,|60|79|12436$يَرَهُۥ|will see it.|87|97|18147$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

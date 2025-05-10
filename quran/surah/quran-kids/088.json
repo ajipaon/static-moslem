@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "هَلْ|Has|50|85|1829$أَتَـٰكَ|(there) come to you|155|226|11347$حَدِيثُ|(the) news|93|164|11348$ٱلْغَـٰشِيَةِ|(of) the Overwhelming?|175|210|18057$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "وُجُوهٌ|Faces|74|173|3150$يَوْمَئِذٍ|that Day|78|276|3485$خَـٰشِعَةٌ|(will be) humbled,|137|236|17805$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "عَامِلَةٌ|Laboring,|80|336|18058$نَّاصِبَةٌ|exhausted.|93|349|18059$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "تَصْلَىٰ|They will burn|112|206|18060$نَارًا|(in) a Fire|85|274|140$حَامِيَةً|intensely hot.|111|205|18061$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "تُسْقَىٰ|They will be given to drink|194|243|18062$مِنْ|from|50|149|53$عَيْنٍ|a spring,|77|176|10986$ءَانِيَةٍ|boiling.|68|117|18063$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "لَّيْسَ|Is not|61|81|1763$لَهُمْ|for them|76|117|98$طَعَامٌ|food|70|111|8989$إِلَّا|except|65|106|86$مِن|from|50|91|53$ضَرِيعٍ|a bitter thorny plant,|160|180|18064$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "لَّا|Not|43|70|30$يُسْمِنُ|it nourishes|96|149|18065$وَلَا|and not|71|124|25$يُغْنِى|it avails|71|124|8150$مِن|against|68|121|53$جُوعٍ|hunger.|70|97|18066$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "وُجُوهٌ|Faces|74|178|3150$يَوْمَئِذٍ|that Day|78|285|3485$نَّاعِمَةٌ|(will be) joyful.|119|222|18067$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "لِّسَعْيِهَا|With their effort|127|361|18068$رَاضِيَةٌ|satisfied,|90|324|18069$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "فِى|In|48|165|89$جَنَّةٍ|a garden|78|312|2392$عَالِيَةٍ|elevated.|82|199|17258$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "لَّا|Not|43|106|30$تَسْمَعُ|they will hear|109|234|11333$فِيهَا|therein|66|191|253$لَـٰغِيَةً|vain talk.|81|144|18070$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "فِيهَا|Therein|69|168|253$عَيْنٌ|(will be) a spring|130|328|18071$جَارِيَةٌ|flowing,|80|179|18072$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "فِيهَا|Therein|69|163|253$سُرُرٌ|(will be) thrones|128|316|18073$مَّرْفُوعَةٌ|raised high,|101|195|18074$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "وَأَكْوَابٌ|And cups|98|328|18075$مَّوْضُوعَةٌ|put in place,|117|347|18076$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "وَنَمَارِقُ|And cushions|107|340|18077$مَصْفُوفَةٌ|lined up,|103|336|18078$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "وَزَرَابِىُّ|And carpets|100|340|18079$مَبْثُوثَةٌ|spread out.|96|336|18080$",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "أَفَلَا|Then do not|101|113|452$يَنظُرُونَ|they look|102|125|1830$إِلَى|at|53|76|118$ٱلْإِبِلِ|the camels,|97|120|6125$كَيْفَ|how|66|89|288$خُلِقَتْ|they are created?|139|151|18081$",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "وَإِلَى|And at|67|128|1836$ٱلسَّمَآءِ|the sky,|84|205|157$كَيْفَ|how|66|187|288$رُفِعَتْ|it is raised?|95|156|18082$",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "وَإِلَى|And at|67|118|1836$ٱلْجِبَالِ|the mountains,|119|220|9835$كَيْفَ|how|66|167|288$نُصِبَتْ|they are fixed?|119|170|18083$",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "وَإِلَى|And at|67|121|1836$ٱلْأَرْضِ|the earth,|92|200|100$كَيْفَ|how|66|174|288$سُطِحَتْ|it is spread out?|127|181|18084$",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "فَذَكِّرْ|So remind,|90|147|16103$إِنَّمَآ|only|55|168|102$أَنتَ|you|58|171|341$مُذَكِّرٌ|(are) a reminder.|132|189|18085$",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "لَّسْتَ|You are not|98|193|6209$عَلَيْهِم|over them|87|276|22$بِمُصَيْطِرٍ|a controller,|111|206|18086$",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "إِلَّا|But|42|98|86$مَن|whoever|76|189|76$تَوَلَّىٰ|turns away|94|207|1801$وَكَفَرَ|and disbelieves,|125|181|18087$",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "فَيُعَذِّبُهُ ٱللَّهُ|Then Allah will punish him|188|248|18088$ٱلْعَذَابَ|(with) the punishment|167|286|1442$ٱلْأَكْبَرَ|greatest.|81|141|18089$",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "إِنَّ|Indeed,|70|168|58$إِلَيْنَآ|to Us|57|252|1234$إِيَابَهُمْ|(will be) their return,|158|256|18090$",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "ثُمَّ|Then|53|110|293$إِنَّ|indeed,|68|181|58$عَلَيْنَا|upon Us|73|186|681$حِسَابَهُم|(is) their account.|141|198|18091$",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "القرآن الكريم للأطفال",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
