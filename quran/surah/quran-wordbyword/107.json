@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "سُورَةُ المَاعُونِ",
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "Almsgiving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 6198,
+        "text": "أَرَءَيْتَ|Have you seen|118|163|10888$ٱلَّذِى|the one who|103|194|138$يُكَذِّبُ|denies|75|166|13290$بِٱلدِّينِ|the Judgment?|117|162|17936$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6199,
+        "text": "فَذَٲلِكَ|Then that|86|136|11766$ٱلَّذِى|(is) the one who|130|229|138$يَدُعُّ|repulses|74|173|18346$ٱلْيَتِيمَ|the orphan,|97|147|18119$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6200,
+        "text": "وَلَا|And (does) not|120|148|25$يَحُضُّ|feel the urge|105|161|17280$عَلَىٰ|to|63|119|52$طَعَامِ|feed|70|126|17281$ٱلْمِسْكِينِ|the poor.|102|130|17282$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6201,
+        "text": "فَوَيْلٌ|So woe|69|304|749$لِّلْمُصَلِّينَ|to those who pray,|147|382|18347$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6202,
+        "text": "ٱلَّذِينَ|Those who|92|123|20$هُمْ|[they]|62|123|49$عَن|of|54|115|1105$صَلَاتِهِمْ|their prayers|104|165|5831$سَاهُونَ|(are) neglectful,|128|159|16118$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6203,
+        "text": "ٱلَّذِينَ|Those who|92|200|20$هُمْ|[they]|62|278|49$يُرَآءُونَ|make show.|98|206|4571$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6204,
+        "text": "وَيَمْنَعُونَ|And they deny|117|322|18348$ٱلْمَاعُونَ|[the] small kindness.|157|362|18349$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

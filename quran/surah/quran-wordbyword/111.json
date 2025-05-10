@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "تَبَّتْ|Perish|59|108|18365$يَدَآ|(the) hands|98|196|18366$أَبِى لَهَبٍ|(of) Abu Lahab|119|217|18367$وَتَبَّ|and perish he.|114|163|18368$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "مَآ|Not|43|67|262$أَغْنَىٰ|(will) avail|87|135|6428$عَنْهُ|him|57|105|3938$مَالُهُۥ|his wealth|87|135|17376$وَمَا|and what|82|130|46$كَسَبَ|he earned.|91|115|773$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "سَيَصْلَىٰ|He will be burnt|123|208|18369$نَارًا|(in) a Fire|85|254|140$ذَاتَ لَهَبٍ|of Blazing Flames,|138|223|18370$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "وَٱمْرَأَتُهُۥ|And his wife,|112|202|8608$حَمَّالَةَ|(the) carrier|101|282|18371$ٱلْحَطَبِ|(of) firewood,|111|201|18372$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "فِى|Around|66|101|89$جِيدِهَا|her neck|77|147|18373$حَبْلٌ|(will be) a rope|120|190|18374$مِّن|of|50|120|53$مَّسَدِۭ|palm-fiber.|91|126|18375$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

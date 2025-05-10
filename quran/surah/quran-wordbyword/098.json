@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "لَمْ|Not|43|64|63$يَكُنِ|were|58|100|3995$ٱلَّذِينَ|those who|89|131|20$كَفَرُواْ|disbelieved|92|134|59$مِنْ|from|50|92|53$أَهْلِ ٱلْكِتَـٰبِ|(the) People of the Book|183|204|989$وَٱلْمُشْرِكِينَ|and the polytheists,|153|187|14183$مُنفَكِّينَ|to be abandoned|132|200|18263$حَتَّىٰ|until|64|132|526$تَأْتِيَهُمُ|(there) comes to them|171|205|6201$ٱلْبَيِّنَةُ|the clear evidence,|148|148|18264$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "رَسُولٌ|A Messenger|104|128|839$مِّنَ|from|50|97|156$ٱللَّهِ|Allah,|56|103|606$يَتْلُواْ|reciting|69|116|1182$صُحُفًا|pages|79|126|17578$مُّطَهَّرَةً|purified,|90|114|18265$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "فِيهَا|Wherein|73|180|253$كُتُبٌ|(are) writings|109|324|18266$قَيِّمَةٌ|correct.|73|180|18267$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "وَمَا|And not|72|80|46$تَفَرَّقَ|became divided|122|138|18268$ٱلَّذِينَ|those who|89|105|20$أُوتُواْ|were given|92|108|940$ٱلْكِتَـٰبَ|the Book,|85|101|451$إِلَّا|until|48|64|86$مِنۢ بَعْدِ مَا|after what|120|128|13094$جَآءَتْهُمُ|came (to) them|124|316|1861$ٱلْبَيِّنَةُ|(of) the clear evidence.|178|370|18264$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "وَمَآ|And not|72|80|46$أُمِرُوٓاْ|they were commanded|170|186|4115$إِلَّا|except|65|81|86$لِيَعْبُدُواْ|to worship|89|105|7532$ٱللَّهَ|Allah|53|69|184$مُخْلِصِينَ|(being) sincere|119|135|6352$لَهُ|to Him|62|70|1807$ٱلدِّينَ|(in) the religion,|126|138|1208$حُنَفَآءَ|upright,|73|97|12073$وَيُقِيمُواْ|and to establish|126|150|18269$ٱلصَّلَوٲةَ|the prayer,|94|118|38$وَيُؤْتُواْ|and to give|95|119|18270$ٱلزَّكَوٲةَ‌ۚ|the Zakah.|92|104|441$وَذَٲلِكَ|And that|78|175|3792$دِينُ|(is the) religion|120|314|18271$ٱلْقَيِّمَةِ|the correct.|100|197|18272$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "إِنَّ|Indeed,|70|76|58$ٱلَّذِينَ|those who|89|101|20$كَفَرُواْ|disbelieve|84|96|59$مِنْ|from|50|62|53$أَهْلِ|(the) People|102|114|2993$ٱلْكِتَـٰبِ|(of) the Book|108|120|811$وَٱلْمُشْرِكِينَ|and the polytheists|148|154|14183$فِى|(will be) in|89|101|89$نَارِ|(the) Fire|83|108|7552$جَهَنَّمَ|(of) Hell|73|98|2655$خَـٰلِدِينَ|abiding eternally|128|153|1409$فِيهَآ‌ۚ|therein.|71|96|253$أُوْلَـٰٓئِكَ|Those -|82|107|51$هُمْ|they|50|62|49$شَرُّ|(are the) worst|122|331|18273$ٱلْبَرِيَّةِ|(of) the creatures.|145|354|18274$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "إِنَّ|Indeed,|70|81|58$ٱلَّذِينَ|those who|89|111|20$ءَامَنُواْ|believe|82|104|84$وَعَمِلُواْ|and do|92|114|238$ٱلصَّـٰلِحَـٰتِ|righteous deeds,|130|152|239$أُوْلَـٰٓئِكَ|those -|82|104|51$هُمْ|they|50|61|49$خَيْرُ|(are the) best|114|327|2918$ٱلْبَرِيَّةِ|(of) the creatures.|145|358|18274$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "جَزَآؤُهُمْ|Their reward|103|115|3078$عِندَ|(is) with|75|98|521$رَبِّهِمْ|their Lord -|95|118|54$جَنَّـٰتُ|Gardens|75|98|9435$عَدْنٍ|(of) Eternity,|107|130|7746$تَجْرِى|flow|81|104|242$مِن|from|50|62|53$تَحْتِهَا|underneath them|133|144|243$ٱلْأَنْهَـٰرُ|the rivers,|88|111|244$خَـٰلِدِينَ|will abide|87|110|1409$فِيهَآ|therein|66|89|253$أَبَدًا‌ۖ|forever.|72|95|4093$رَّضِىَ ٱللَّهُ|Allah (will be) pleased|164|176|5402$عَنْهُمْ|with them|86|96|2643$وَرَضُواْ|and they (will be) pleased|192|213|5403$عَنْهُ‌ۚ|with Him.|81|102|3938$ذَٲلِكَ|That|64|85|28$لِمَنْ|(is) for whoever|126|147|1356$خَشِىَ|feared|73|83|3914$رَبَّهُۥ|his Lord.|76|76|2522$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

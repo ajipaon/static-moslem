@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "سَبِّحِ|Glorify|62|111|18042$ٱسْمَ|(the) name|94|192|4761$رَبِّكَ|(of) your Lord,|117|215|1322$ٱلْأَعْلَى|the Most High,|117|166|10009$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "ٱلَّذِى|The One Who|110|199|138$خَلَقَ|created,|76|254|299$فَسَوَّىٰ|then proportioned,|143|232|17630$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "وَٱلَّذِى|And the One Who|137|228|6481$قَدَّرَ|measured|83|264|17538$فَهَدَىٰ|then guided,|103|194|18043$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "وَٱلَّذِىٓ|And the One Who|137|224|6481$أَخْرَجَ|brings forth|96|271|6338$ٱلْمَرْعَىٰ|the pasture,|102|190|18044$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "فَجَعَلَهُۥ|And then made it|134|234|12814$غُثَآءً|stubble,|73|273|12289$أَحْوَىٰ|dark.|78|178|18045$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "سَنُقْرِئُكَ|We will make you recite|177|259|18046$فَلَا|so not|62|226|208$تَنسَىٰٓ|you will forget,|119|201|18047$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "إِلَّا|Except|65|79|86$مَا|what|53|81|262$شَآءَ ٱللَّهُ‌ۚ|Allah wills|99|127|180$إِنَّهُۥ|Indeed, He|92|120|396$يَعْلَمُ|knows|61|89|742$ٱلْجَهْرَ|the manifest|103|131|11952$وَمَا|and what|82|96|46$يَخْفَىٰ|is hidden.|83|83|2615$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "وَنُيَسِّرُكَ|And We will ease you|161|372|18048$لِلْيُسْرَىٰ|to the ease.|102|313|18049$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "فَذَكِّرْ|So remind,|90|152|16103$إِن|if|44|167|225$نَّفَعَتِ|benefits|73|196|18050$ٱلذِّكْرَىٰ|the reminder.|108|170|5700$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "سَيَذَّكَّرُ|He will pay heed -|140|225|18051$مَن|(one) who|88|258|76$يَخْشَىٰ|fears (Allah).|106|191|11338$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "وَيَتَجَنَّبُهَا|And will avoid it|124|328|18052$ٱلْأَشْقَى|the wretched one.|143|347|18053$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "ٱلَّذِى|The one who|106|154|138$يَصْلَى|will burn|81|178|18054$ٱلنَّارَ|(in) the Fire|99|196|231$ٱلْكُبْرَىٰ|[the] great.|99|147|11391$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "ثُمَّ|Then|53|82|293$لَا|not|42|99|30$يَمُوتُ|he will die|85|142|9961$فِيهَا|therein|66|123|253$وَلَا|and not|71|128|25$يَحْيَىٰ|will live.|72|101|11091$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "قَدْ|Certainly,|83|125|1097$أَفْلَحَ|has succeeded|119|203|11500$مَن|(one) who|88|172|76$تَزَكَّىٰ|purifies (himself),|134|176|11534$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "وَذَكَرَ|And remembers|121|166|13979$ٱسْمَ|(the) name|94|184|4761$رَبِّهِۦ|(of) his Lord|101|191|392$فَصَلَّىٰ|and prays.|90|135|18055$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "بَلْ|Nay!|50|105|848$تُؤْثِرُونَ|You prefer|97|207|18056$ٱلْحَيَوٲةَ|the life|82|192|823$ٱلدُّنْيَا|(of) the world,|117|172|818$",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "وَٱلْأَخِرَةُ|While the Hereafter|149|226|4213$خَيْرٌ|(is) better|88|242|520$وَأَبْقَىٰٓ|and ever lasting.|131|208|11521$",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "إِنَّ|Indeed,|70|98|58$هَـٰذَا|this|59|115|248$لَفِى|surely (is) in|102|158|1513$ٱلصُّحُفِ|the Scriptures|114|170|11702$ٱلْأُولَىٰ|[the] former,|106|134|11384$",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "صُحُفِ|(The) Scriptures|129|217|16290$إِبْرَٲهِيمَ|(of) Ibrahim|98|274|1127$وَمُوسَىٰ|and Musa.|97|185|5792$",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

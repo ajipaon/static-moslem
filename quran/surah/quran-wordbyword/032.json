@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "الٓمٓ|Alif Lam Mim.|106|106|27$",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "تَنزِيلُ|(The) revelation|127|135|13868$ٱلْكِتَـٰبِ|(of) the Book,|113|130|811$لَا|(there is) no|103|120|30$رَيْبَ|doubt|67|84|31$فِيهِ|about it,|77|94|32$مِن|from|50|67|53$رَّبِّ|(the) Lord|87|95|7$ٱلْعَـٰلَمِينَ|(of) the worlds.|124|124|8$",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "أَمْ|Or|38|45|62$يَقُولُونَ|(do) they say,|116|130|753$ٱفْتَرَٮٰهُ‌ۚ|`He invented it`?|136|150|8155$بَلْ|Nay,|50|64|848$هُوَ|it|48|62|298$ٱلْحَقُّ|(is) the truth|107|121|268$مِن|from|50|64|53$رَّبِّكَ|your Lord|82|89|1322$لِتُنذِرَ|that you may warn|146|155|6243$قَوْمًا|a people|76|93|3073$مَّآ|not|42|59|262$أَتَـٰهُم|has come to them|140|157|5542$مِّن|any|50|67|53$نَّذِيرٍ|warner|65|82|4841$مِّن قَبْلِكَ|before you|102|111|47$لَعَلَّهُمْ|so that they may|135|366|1621$يَهْتَدُونَ|be guided.|89|320|4371$",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "ٱللَّهُ|Allah|53|66|123$ٱلَّذِى|(is) the One Who|134|160|138$خَلَقَ|created|71|97|299$ٱلسَّمَـٰوَٲتِ|the heavens|115|141|351$وَٱلْأَرْضَ|and the earth|111|137|2280$وَمَا|and whatever|111|124|46$بَيْنَهُمَا|(is) between them|142|154|3978$فِى|in|48|72|89$سِتَّةِ|six|57|81|6450$أَيَّامٍ|periods.|72|96|1585$ثُمَّ|Then|53|77|293$ٱسْتَوَىٰ|established Himself|145|169|301$عَلَى|on|63|75|52$ٱلْعَرْشِ‌ۖ|the Throne.|98|114|6451$مَا|Not|43|76|262$لَكُم|for you|67|100|207$مِّن دُونِهِۦ|besides Him|116|149|4463$مِن|any|50|83|53$وَلِىٍّ|protector|82|115|1006$وَلَا|and not|71|88|25$شَفِيعٍ‌ۚ|any intercessor.|127|210|13869$أَفَلَا|Then will not|105|270|452$تَتَذَكَّرُونَ|you take heed?|122|205|5771$",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "يُدَبِّرُ|He regulates|103|110|8011$ٱلْأَمْرَ|the affair|81|95|3406$مِنَ|of|50|64|156$ٱلسَّمَآءِ|the heaven|95|109|157$إِلَى|to|53|67|118$ٱلْأَرْضِ|the earth;|92|106|100$ثُمَّ|then|50|64|293$يَعْرُجُ|it will ascend|106|113|13870$إِلَيْهِ|to Him|62|74|296$فِى|in|48|71|89$يَوْمٍ|a Day,|63|86|2331$كَانَ مِقْدَارُهُۥٓ|(the) measure of which is|190|213|13871$أَلْفَ|a thousand|94|117|907$سَنَةٍ|years|57|80|908$مِّمَّا|of what|71|83|216$تَعُدُّونَ|you count.|92|92|12137$",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "ذَٲلِكَ|That|64|83|28$عَـٰلِمُ|(is the) Knower|122|160|5735$ٱلْغَيْبِ|(of) the hidden|120|158|2854$وَٱلشَّهَـٰدَةِ|and the witnessed,|147|186|5736$ٱلْعَزِيزُ|the All-Mighty,|118|137|1187$ٱلرَّحِيمُ|the Most Merciful,|140|140|398$",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "ٱلَّذِىٓ|The One Who|110|116|138$أَحْسَنَ|made good|92|104|6192$كُلَّ|every|57|70|2487$شَىْءٍ|thing|69|82|186$خَلَقَهُۥ‌ۖ|He created,|98|110|2941$وَبَدَأَ|and He began|111|124|13872$خَلْقَ|(the) creation|113|119|4477$ٱلْإِنسَـٰنِ|(of) man|90|210|10510$مِن|from|50|290|53$طِينٍ|clay.|64|184|5408$",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "ثُمَّ|Then|53|62|293$جَعَلَ|He made|77|96|195$نَسْلَهُۥ|his progeny|96|115|13873$مِن|from|50|69|53$سُلَـٰلَةٍ|an extract|89|108|12223$مِّن|of|50|69|53$مَّآءٍ|water|58|77|9562$مَّهِينٍ|despised.|82|91|13874$",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "ثُمَّ|Then|53|64|293$سَوَّٮٰهُ|He fashioned him|132|154|13875$وَنَفَخَ|and breathed|108|130|13876$فِيهِ|into him|72|94|32$مِن|from|50|72|53$رُّوحِهِۦ‌ۖ|His spirit|91|114|13877$وَجَعَلَ|and made|84|95|5086$لَكُمُ|for you|67|89|196$ٱلسَّمْعَ|the hearing|95|138|8133$وَٱلْأَبْصَـٰرَ|and the sight|113|156|8134$وَٱلْأَفْــِٔدَةَ‌ۚ|and feelings;|105|148|10072$قَلِيلاً|little|63|106|433$مَّا|[what]|65|87|262$تَشْكُرُونَ|thanks you give.|130|130|508$",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "وَقَالُوٓاْ|And they say,|113|121|760$أَءِذَا|`Is (it) when|106|122|9334$ضَلَلْنَا|we are lost|94|110|13878$فِى|in|48|64|89$ٱلْأَرْضِ|the earth,|92|108|100$أَءِنَّا|will we|64|80|9336$لَفِى|certainly be in|114|122|1513$خَلْقٍ|a creation|87|110|9337$جَدِيدِۭ‌ۚ|new?`|67|113|9338$بَلْ|Nay,|50|96|848$هُم|they|50|96|49$بِلِقَآءِ|in (the) meeting|127|173|5524$رَبِّهِمْ|(of) their Lord|113|136|54$كَـٰفِرُونَ|(are) disbelievers.|139|139|6416$",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "۞ قُلْ|Say,|89|111|765$يَتَوَفَّـٰكُم|`Will take your soul|149|192|5663$مَّلَكُ|(the) Angel|95|138|13879$ٱلْمَوْتِ|(of) the death|115|158|166$ٱلَّذِى|the one who|103|125|138$وُكِّلَ|has been put in charge|173|181|13880$بِكُمْ|of you.|67|84|2564$ثُمَّ|Then|53|70|293$إِلَىٰ|to|53|70|118$رَبِّكُمْ|your Lord|82|99|490$تُرْجَعُونَ|you will be returned.`|164|172|297$",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "وَلَوْ|And if|58|67|179$تَرَىٰٓ|you (could) see|124|143|5175$إِذِ|when|55|74|5836$ٱلْمُجْرِمُونَ|the criminals|124|143|7155$نَاكِسُواْ|(will) hang|89|108|13881$رُءُوسِهِمْ|their heads|101|120|9664$عِندَ|before|62|71|521$رَبِّهِمْ|their Lord,|88|98|54$رَبَّنَآ|`Our Lord|84|104|1167$أَبْصَرْنَا|we have seen|112|132|13882$وَسَمِعْنَا|and we have heard,|152|172|13883$فَٱرْجِعْنَا|so return us,|105|125|13884$نَعْمَلْ|we will do|85|95|13885$صَـٰلِحًا|righteous (deeds).|142|214|622$إِنَّا|Indeed, we|94|239|120$مُوقِنُونَ|(are now) certain.`|149|222|13886$",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "وَلَوْ|And if|58|68|179$شِئْنَا|We (had) willed,|128|148|7000$لَأَتَيْنَا|surely We (would) have given|217|237|13887$كُلَّ|every|57|77|2487$نَفْسٍ|soul|62|82|2507$هُدَٮٰهَا|its guidance,|105|115|13888$وَلَـٰكِنْ|but|78|84|108$حَقَّ|(is) true|74|86|1122$ٱلْقَوْلُ|the Word|81|93|8490$مِنِّى|from Me|73|85|401$لَأَمْلَأَنَّ|that I will surely fill|146|158|6292$جَهَنَّمَ|Hell|69|81|2655$مِنَ|with|50|62|156$ٱلْجِنَّةِ|the jinn|71|77|8786$وَٱلنَّاسِ|and the men|103|342|1407$أَجْمَعِينَ|together.|95|334|1408$",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "فَذُوقُواْ|So taste|84|94|3154$بِمَا|because|75|94|43$نَسِيتُمْ|you forgot|89|108|13889$لِقَآءَ|(the) meeting,|116|135|6045$يَوْمِكُمْ هَـٰذَآ|(of) this Day of yours.|168|187|6046$إِنَّا|Indeed, We|96|106|120$نَسِينَـٰكُمْ‌ۖ|have forgotten you.|153|159|13890$وَذُوقُواْ|And taste|89|101|7317$عَذَابَ|(the) punishment|134|146|1786$ٱلْخُلْدِ|(of) eternity|102|114|8182$بِمَا|for what|76|88|43$كُنتُمْ|you used (to)|111|117|214$تَعْمَلُونَ|do.`|92|92|725$",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "إِنَّمَا|Only|55|66|102$يُؤْمِنُ|believe|72|94|2051$بِـَٔـايَـٰتِنَا|in Our Verses|108|130|408$ٱلَّذِينَ|those who|89|112|20$إِذَا|when|55|78|1370$ذُكِّرُواْ|they are reminded|140|162|4809$بِهَا|of them|71|82|1203$خَرُّواْ|fall down|79|94|11238$سُجَّدًا|prostrating|92|123|550$وَسَبَّحُواْ|and glorify|97|128|13891$بِحَمْدِ|(the) praises|105|136|9865$رَبِّهِمْ|(of) their Lord,|118|149|54$وَهُمْ|and they|79|94|256$لَا يَسْتَكْبِرُونَ ۩|are not arrogant.|172|172|7122$",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "تَتَجَافَىٰ|Forsake|88|99|13892$جُنُوبُهُمْ|their sides|91|114|13893$عَنِ|from|54|77|1663$ٱلْمَضَاجِعِ|(their) beds;|112|135|3965$يَدْعُونَ|they call|87|110|1942$رَبَّهُمْ|their Lord|83|106|3649$خَوْفًا|(in) fear|74|85|6463$وَطَمَعًا|and hope,|86|117|6464$وَمِمَّا|and out of what|127|189|39$رَزَقْنَـٰهُمْ|We have provided them|177|239|40$يُنفِقُونَ|they spend.|99|130|41$",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "فَلَا|And not|72|84|208$تَعْلَمُ|knows|61|84|4451$نَفْسٌ|a soul|62|85|470$مَّآ|what|53|76|262$أُخْفِىَ|is hidden|78|101|13894$لَهُم|for them|76|99|98$مِّن|of|50|73|53$قُرَّةِ|(the) comfort|110|122|13895$أَعْيُنٍ|(for) the eyes|113|134|12862$جَزَآءَۢ|(as) a reward|110|152|4954$بِمَا|for what|76|118|43$كَانُواْ|they used (to)|117|159|94$يَعْمَلُونَ|do.|92|113|912$",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "أَفَمَن|Then is one who|129|136|7906$كَانَ|is|57|70|913$مُؤْمِنًا|a believer|84|97|4309$كَمَن|like (him) who|112|125|3461$كَانَ|is|57|70|913$فَاسِقًا‌ۚ|defiantly disobedient?|164|177|13896$لَّا|Not|43|50|30$يَسْتَوُۥنَ|they are equal.|121|121|10062$",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "أَمَّا|As for|59|75|9007$ٱلَّذِينَ|those who|89|121|20$ءَامَنُواْ|believe|82|114|84$وَعَمِلُواْ|and do|92|124|238$ٱلصَّـٰلِحَـٰتِ|righteous deeds,|130|162|239$فَلَهُمْ|then for them|111|127|623$جَنَّـٰتُ|(are) Gardens|111|117|9435$ٱلْمَأْوَىٰ|(of) Refuge|95|108|13897$نُزُلاَۢ|(as) hospitality|120|133|3650$بِمَا|for what|76|89|43$كَانُواْ|they used (to)|117|130|94$يَعْمَلُونَ|do.|92|98|912$",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "وَأَمَّا|But as for|85|102|269$ٱلَّذِينَ|those who|89|122|20$فَسَقُواْ|are defiantly disobedient|183|216|8142$فَمَأْوَٮٰهُمُ|then their refuge|132|165|13898$ٱلنَّارُ‌ۖ|(is) the Fire.|103|120|762$كُلَّمَآ|Every time|90|100|174$أَرَادُوٓاْ|they wish|84|104|1996$أَن|to|44|64|655$يَخْرُجُواْ|come out|99|118|4855$مِنْهَآ|from it,|68|88|246$أُعِيدُواْ|they (will) be returned|169|188|12032$فِيهَا|in it,|54|64|253$وَقِيلَ|and it (will) be said|147|160|3478$لَهُمْ|to them,|77|102|98$ذُوقُواْ|`Taste|75|100|3558$عَذَابَ|(the) punishment|134|159|1786$ٱلنَّارِ|(of) the Fire|101|126|410$ٱلَّذِى|which|65|78|138$كُنتُم|you used (to)|111|215|214$بِهِۦ|[in it]|57|265|204$تُكَذِّبُونَ|deny.`|91|195|13899$",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "وَلَنُذِيقَنَّهُم|And surely, We will let them taste|245|265|13900$مِّنَ|of|50|89|156$ٱلْعَذَابِ|the punishment|122|161|482$ٱلْأَدْنَىٰ|the nearer|89|128|6970$دُونَ|before|62|82|4462$ٱلْعَذَابِ|the punishment|122|158|482$ٱلْأَكْبَرِ|the greater,|100|171|13901$لَعَلَّهُمْ|so that they may|135|206|1621$يَرْجِعُونَ|return.|105|140|3002$",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "وَمَنْ|And who|77|86|1012$أَظْلَمُ|(is) more unjust|125|142|1060$مِمَّن|than (he) who|115|132|1061$ذُكِّرَ|is reminded|94|111|10859$بِـَٔـايَـٰتِ|of (the) Verses|121|138|609$رَبِّهِۦ|(of) his Lord,|106|115|392$ثُمَّ|then|50|70|293$أَعْرَضَ|he turns away|115|155|10511$عَنْهَآ‌ۚ|from them?|94|134|380$إِنَّا|Indeed, We|96|136|120$مِنَ|from|50|90|156$ٱلْمُجْرِمِينَ|the criminals,|118|138|5641$مُنتَقِمُونَ|(will) take retribution.|164|164|13902$",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "وَلَقَدْ|And certainly|107|119|640$ءَاتَيْنَا|We gave|78|102|509$مُوسَى|Musa|83|107|499$ٱلْكِتَـٰبَ|the Scripture,|112|136|451$فَلَا|so (do) not|95|119|208$تَكُن|be|58|82|2943$فِى|in|48|60|89$مِرْيَةٍ|doubt|69|76|8419$مِّن|about|58|72|53$لِّقَآئِهِۦ‌ۖ|receiving it.|98|112|13903$وَجَعَلْنَـٰهُ|And We made it|125|139|10213$هُدًى|a guide|68|82|33$لِّبَنِىٓ إِسْرَٲٓءِيلَ|for the Children of Israel.|186|193|3092$",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "وَجَعَلْنَا|And We made|111|130|4805$مِنْهُمْ|from them|87|126|730$أَئِمَّةً|leaders|67|106|11856$يَهْدُونَ|guiding|80|119|6928$بِأَمْرِنَا|by Our Command|132|171|11857$لَمَّا|when|55|74|3471$صَبَرُواْ‌ۖ|they were patient|139|176|6772$وَكَانُواْ|and they were|116|189|615$بِـَٔـايَـٰتِنَا|of Our Verses|110|183|408$يُوقِنُونَ|certain.|90|127|50$",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "إِنَّ|Indeed,|70|78|58$رَبَّكَ|your Lord|82|97|586$هُوَ|[He]|49|64|298$يَفْصِلُ|will judge|81|96|12011$بَيْنَهُمْ|between them|115|130|1056$يَوْمَ|(on the) Day|105|120|1057$ٱلْقِيَـٰمَةِ|(of) Resurrection|132|140|820$فِيمَا|in what|69|124|1058$كَانُواْ|they used (to)|117|228|94$فِيهِ|[in it]|57|168|32$يَخْتَلِفُونَ|differ.|99|154|1059$",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "أَوَلَمْ|Does it not|93|103|2346$يَهْدِ|guide|55|74|6638$لَهُمْ|[for] them,|93|112|98$كَمْ|(that) how many|132|151|1840$أَهْلَكْنَا|We have destroyed|149|168|5422$مِن قَبْلِهِم|before them|107|117|1094$مِّنَ|of|50|61|156$ٱلْقُرُونِ|the generations,|129|151|8775$يَمْشُونَ|they walk about|127|149|7089$فِى|in|48|70|89$مَسَـٰكِنِهِمْ‌ۚ|their dwellings.|119|141|11686$إِنَّ|Indeed,|70|92|58$فِى|in|48|59|89$ذَٲلِكَ|that|64|110|28$لَأَيَـٰتٍ‌ۖ|surely, are Signs.|135|226|1434$أَفَلَا|Then do not|101|192|452$يَسْمَعُونَ|they hear?|102|148|731$",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "أَوَلَمْ|Do not|64|72|2346$يَرَوْاْ|they see|78|94|5421$أَنَّا|that We|74|90|4147$نَسُوقُ|drive|78|94|13904$ٱلْمَآءَ|water|67|83|6476$إِلَى|to|53|69|118$ٱلْأَرْضِ|the land|92|108|100$ٱلْجُرُزِ|[the] barren,|106|114|13905$فَنُخْرِجُ|then We bring forth|150|171|13906$بِهِۦ|thereby|71|112|204$زَرْعًا|crops,|76|117|10756$تَأْكُلُ|eat|64|105|8984$مِنْهُ|from it|63|104|571$أَنْعَـٰمُهُمْ|their cattle|94|115|13907$وَأَنفُسُهُمْ‌ۖ|and they themselves?|165|240|13908$أَفَلَا|Then do not|101|250|452$يُبْصِرُونَ|they see?|110|185|7019$",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "وَيَقُولُونَ|And they say,|113|120|3019$مَتَىٰ|`When (will be)|123|138|1876$هَـٰذَا|this|59|74|248$ٱلْفَتْحُ|decision,|78|93|7196$إِن|if|44|59|225$كُنتُمْ|you are|70|85|214$صَـٰدِقِينَ|truthful?`|99|106|226$",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "قُلْ|Say,|50|60|765$يَوْمَ|`(On the) Day|115|135|1057$ٱلْفَتْحِ|(of) the Decision,|136|156|13909$لَا|not|42|62|30$يَنفَعُ|will benefit|91|111|1422$ٱلَّذِينَ|those who|89|109|20$كَفَرُوٓاْ|disbelieve|84|94|59$إِيمَـٰنُهُمْ|their belief|90|137|13910$وَلَا|and not|71|166|25$هُمْ|they|50|145|49$يُنظَرُونَ|will be granted respite.`|180|227|1411$",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "فَأَعْرِضْ|So turn away|109|130|4130$عَنْهُمْ|from them|87|129|2643$وَٱنتَظِرْ|and wait.|92|134|13911$إِنَّهُم|Indeed, they|105|147|106$مُّنتَظِرُونَ|(are) waiting.|115|136|6207$",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

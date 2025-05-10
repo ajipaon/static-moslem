@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "أَلَمْ|Have not|80|99|348$تَرَ|you seen|80|118|2301$كَيْفَ|how|66|104|288$فَعَلَ|dealt|58|96|6892$رَبُّكَ|your Lord|82|120|310$بِأَصْحَـٰبِ|with (the) Companions|170|189|18326$ٱلْفِيلِ|(of the) Elephant?|141|141|18327$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "أَلَمْ|Did not|67|123|348$يَجْعَلْ|He make|76|188|6017$كَيْدَهُمْ|their plan|82|194|18328$فِى تَضْلِيلٍ|go astray?|123|179|18329$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "وَأَرْسَلَ|And He sent|101|154|18330$عَلَيْهِمْ|against them|106|212|22$طَيْرًا|birds|70|176|18331$أَبَابِيلَ|(in) flocks.|91|144|18332$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "تَرْمِيهِم|Striking them|107|163|18333$بِحِجَارَةٍ|with stones|97|209|18334$مِّن|of|50|162|53$سِجِّيلٍ|baked clay.|96|152|8666$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "فَجَعَلَهُمْ|Then He made them|153|240|11831$كَعَصْفٍ|like straw|98|273|18335$مَّأْكُولِۭ|eaten up.|84|172|18336$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

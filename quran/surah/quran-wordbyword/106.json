@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "لِإِيلَـٰفِ|For (the) familiarity|148|351|18337$قُرَيْشٍ|(of the) Quraish,|131|334|18338$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "إِۦلَـٰفِهِمْ|Their familiarity|121|158|18339$رِحْلَةَ|(with the) journey|141|216|18340$ٱلشِّتَآءِ|(of) winter|91|166|18341$وَٱلصَّيْفِ|and summer,|108|145|18342$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "فَلْيَعْبُدُواْ|So let them worship|152|202|18343$رَبَّ|(the) Lord|87|187|4899$هَـٰذَا|(of) this|74|174|248$ٱلْبَيْتِ|House,|73|123|3112$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "ٱلَّذِىٓ|The One Who|110|124|138$أَطْعَمَهُم|feeds them|96|123|18344$مِّن|against|68|95|53$جُوعٍ|hunger|68|95|18066$وَءَامَنَهُم|and gives them security|179|206|18345$مِّنْ|against|68|82|53$خَوْفِۭ|fear.|76|76|8266$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

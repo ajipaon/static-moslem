@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "وَٱلشَّمْسِ|By the sun|104|323|18165$وَضُحَـٰهَا|and its brightness,|143|362|18166$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "وَٱلْقَمَرِ|And the moon|112|217|17554$إِذَا|when|55|265|1370$تَلَـٰهَا|it follows it,|98|203|18167$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "وَٱلنَّهَارِ|And the day|101|207|1419$إِذَا|when|55|267|1370$جَلَّـٰهَا|it displays it,|105|211|18168$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "وَٱلَّيْلِ|And the night|110|216|17555$إِذَا|when|55|266|1370$يَغْشَـٰهَا|it covers it,|97|203|18169$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "وَٱلسَّمَآءِ|And the heaven|125|210|16112$وَمَا|and He Who|100|270|46$بَنَـٰهَا|constructed it,|119|204|17821$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "وَٱلْأَرْضِ|And the earth|112|209|352$وَمَا|and He Who|100|294|46$طَحَـٰهَا|spread it,|84|181|18170$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "وَنَفْسٍ|And (the) soul|115|202|18171$وَمَا|and He Who|100|274|46$سَوَّٮٰهَا|proportioned it,|122|209|18172$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "فَأَلْهَمَهَا|And He inspired it|136|165|18173$فُجُورَهَا|(to understand) what is wrong for it|260|318|18174$وَتَقْوَٮٰهَا|and what is right for it,|174|203|18175$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "قَدْ|Indeed,|70|133|1097$أَفْلَحَ|he succeeds|103|228|11500$مَن|who|50|175|76$زَكَّـٰهَا|purifies it,|86|149|18176$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "وَقَدْ|And indeed,|98|159|2117$خَابَ|he fails|67|189|11487$مَن|who|50|172|76$دَسَّـٰهَا|corrupts it.|94|155|18177$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "كَذَّبَتْ|Denied|75|165|12122$ثَمُودُ|Thamud|72|252|8716$بِطَغْوَٮٰهَآ|by their transgression,|169|259|18178$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "إِذِ|When|57|129|5836$ٱنۢبَعَثَ|(was) sent forth|129|272|18179$أَشْقَـٰهَا|(the) most wicked of them.|202|274|18180$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "فَقَالَ|But said|73|85|332$لَهُمْ|to them|72|96|98$رَسُولُ|(the) Messenger|129|153|6924$ٱللَّهِ|(of) Allah,|86|110|606$نَاقَةَ|`(It is the) she-camel|166|190|18181$ٱللَّهِ|(of) Allah|81|93|606$وَسُقْيَـٰهَا|and her drink.`|119|119|18182$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "فَكَذَّبُوهُ|But they denied him,|157|172|6500$فَعَقَرُوهَا|and they hamstrung her.|184|213|8586$فَدَمْدَمَ|So destroyed|108|137|18183$عَلَيْهِمْ|them|76|105|22$رَبُّهُم|their Lord|83|98|3627$بِذَنۢبِهِمْ|for their sin|96|316|17121$فَسَوَّٮٰهَا|and leveled them.|138|358|17823$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "وَلَا|And not|72|168|25$يَخَافُ|He fears|77|270|11645$عُقْبَـٰهَا|its consequences.|140|236|18184$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

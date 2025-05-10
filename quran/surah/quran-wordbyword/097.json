@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "إِنَّآ|Indeed, We|96|129|120$أَنزَلْنَـٰهُ|revealed it|90|156|5824$فِى|in|48|114|89$لَيْلَةِ|(the) Night|93|159|18257$ٱلْقَدْرِ|(of) Power.|95|128|18258$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "وَمَآ|And what|83|106|46$أَدْرَٮٰكَ|can make you know|151|196|17213$مَا|what|53|98|262$لَيْلَةُ|(the) Night|93|138|18259$ٱلْقَدْرِ|(of) Power (is)?|124|147|18258$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "لَيْلَةُ|(The) Night|96|114|18259$ٱلْقَدْرِ|(of) Power|90|126|18258$خَيْرٌ|(is) better|88|124|520$مِّنْ|than|50|86|53$أَلْفِ|a thousand|94|130|18260$شَهْرٍ|month(s).|85|103|18261$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "تَنَزَّلُ|Descend|76|87|13084$ٱلْمَلَـٰٓئِكَةُ|the Angels|94|116|2202$وَٱلرُّوحُ|and the Spirit|110|132|17307$فِيهَا|therein,|71|93|253$بِإِذْنِ|by (the) permission|148|170|919$رَبِّهِم|(of) their Lord,|118|129|54$مِّن|for|50|180|53$كُلِّ|every|57|316|185$أَمْرٍ|affair,|59|189|5045$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "سَلَـٰمٌ|Peace|62|94|5633$هِىَ|it (is)|56|120|665$حَتَّىٰ|until|64|128|526$مَطْلَعِ|(the) emergence|131|195|18262$ٱلْفَجْرِ|(of) the dawn.|117|149|1645$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

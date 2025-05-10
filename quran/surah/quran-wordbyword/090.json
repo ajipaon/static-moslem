@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "لَآ|Nay!|50|124|30$أُقْسِمُ|I swear|69|216|16602$بِهَـٰذَا|by this|65|212|273$ٱلْبَلَدِ|city,|60|134|18140$",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "وَأَنتَ|And you|74|130|5375$حِلُّۢ|(are) free (to dwell)|153|265|4763$بِهَـٰذَا|in this|63|175|273$ٱلْبَلَدِ|city.|60|116|18140$",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "وَوَالِدٍ|And the begetter|134|230|18141$وَمَا|and what|82|274|46$وَلَدَ|he begot.|84|180|18142$",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "لَقَدْ|Certainly,|83|110|3466$خَلَقْنَا|We have created|134|188|7029$ٱلْإِنسَـٰنَ|man|90|144|8037$فِى|(to be) in|83|137|89$كَبَدٍ|hardship.|80|107|18143$",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "أَيَحْسَبُ|Does he think|110|134|17583$أَن|that|48|97|655$لَّن|not|44|93|524$يَقْدِرَ|has power|88|137|18144$عَلَيْهِ|over him|76|125|395$أَحَدٌ|anyone?|75|99|3006$",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "يَقُولُ|He will say,|95|142|77$أَهْلَكْتُ|`I have squandered|151|244|18145$مَالاً|wealth|64|157|8446$لُّبَدًا|abundant.`|95|142|18146$",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "أَيَحْسَبُ|Does he think|110|152|17583$أَن|that|48|131|655$لَّمْ|not|42|125|63$يَرَهُۥٓ|sees him|77|160|18147$أَحَدٌ|anyone?|75|117|3006$",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "أَلَمْ|Have not|80|142|348$نَجْعَل|We made|81|205|10999$لَّهُۥ|for him|65|189|977$عَيْنَيْنِ|two eyes?|88|150|18148$",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "وَلِسَانًا|And a tongue,|114|346|18149$وَشَفَتَيْنِ|and two lips?|107|339|18150$",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "وَهَدَيْنَـٰهُ|And shown him|119|338|18151$ٱلنَّجْدَيْنِ|the two ways?|118|337|18152$",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "فَلَا|But not|69|155|208$ٱقْتَحَمَ|he has attempted|138|310|18153$ٱلْعَقَبَةَ|the steep path.|124|210|18154$",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "وَمَآ|And what|83|124|46$أَدْرَٮٰكَ|can make you know|151|233|17213$مَا|what|53|135|262$ٱلْعَقَبَةُ|the steep path is?|141|182|18155$",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "فَكُّ|(It is) freeing|108|357|18156$رَقَبَةٍ|a neck,|69|318|5212$",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "أَوْ|Or|41|80|154$إِطْعَـٰمٌ|feeding|77|156|18157$فِى|in|48|127|89$يَوْمٍ|a day|57|136|2331$ذِى مَسْغَبَةٍ|of severe hunger.|137|176|18158$",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "يَتِيمًا|An orphan|87|305|18159$ذَا مَقْرَبَةٍ|of near relationship,|152|370|18160$",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "أَوْ|Or|41|143|154$مِسْكِينًا|a needy person|122|326|16709$ذَا مَتْرَبَةٍ|in misery,|104|206|18161$",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "ثُمَّ|Then|53|64|293$كَانَ|he is|57|78|913$مِنَ|of|50|71|156$ٱلَّذِينَ|those who|89|110|20$ءَامَنُواْ|believe|82|103|84$وَتَوَاصَوْاْ|and enjoin each other|165|186|18162$بِٱلصَّبْرِ|to patience,|101|112|455$وَتَوَاصَوْاْ|and enjoin each other|165|360|18162$بِٱلْمَرْحَمَةِ|to compassion.|120|315|18163$",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "أُوْلَـٰٓئِكَ|Those|82|152|51$أَصْحَـٰبُ|(are the) companions|162|303|409$ٱلْمَيْمَنَةِ|(of) the right hand.|149|220|16518$",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "وَٱلَّذِينَ|But those who|116|141|42$كَفَرُواْ|disbelieve|84|134|59$بِـَٔـايَـٰتِنَا|in Our Verses,|113|163|408$هُمْ|they|50|100|49$أَصْحَـٰبُ|(are the) companions|162|187|409$ٱلْمَشْــَٔمَةِ|(of) the left hand.|141|141|16519$",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "عَلَيْهِمْ|Over them,|94|184|22$نَارٌ|(will be the) Fire|129|308|2413$مُّؤْصَدَةُۢ|closed in.|94|184|18164$",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "معاني مفردات القرآن (wordbyword)",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
