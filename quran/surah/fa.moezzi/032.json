@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "الم‌",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "فرود آوردن کتاب نیست شکی در آن از پروردگار جهانیان‌",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "یا گویند دروغ بست آن را بلکه آن است حقّ از پروردگارت تا بترسانی گروهی را که نیامدستشان بیم‌دهنده‌ای پیش از تو شاید ایشان رهبری شوند",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "خدا است آنکه آفرید آسمانها و زمین را و آنچه میان آنها است در شش روز سپس استوار شد بر عرش نیست شما را جز او دوست و نه شفاعتگری پس آیا یادآور نمی‌شوید",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "بپردازد کار را از آسمان بسوی زمین سپس بالا رود بسویش در روزی که اندازه آن هزار سال است از آنچه می‌شمرید",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "این است دانای نهان و هویدا آن عزتمند مهربان‌",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "آنکو نکو کرد هر چیزی آفرینش آن را و آغاز کرد آفرینش انسان را از گل‌",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "پس گردانید نژادش را از چکه‌ای از آبی پست‌",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "سپس آراستش و دمید در آن از روح خویش و گذاشت برای شما گوش و دیدگان و دلها را به کمی سپاس گزارید",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "و گفتند آیا هر گاه گم شدیم در زمین آیا مائیم در آفرینشی نوین بلکه ایشانند به ملاقات پروردگار خویش کافران‌",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "بگو دریابد شما را فرشته مرگ که گمارده شده است بر شما سپس بسوی پروردگار خویش بازگردانیده شوید",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "و اگر بینی هنگامی که گنهکاران سرافکندگانند نزد پروردگارشان پروردگارا دیدیم و شنیدیم پس برگردان ما را تا بکنیم کاری شایسته همانا مائیم یقین‌دارندگان‌",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "و اگر می‌خواستیم هر آینه می‌دادیم به هر کس رهبریش را و لیکن استوار گشت سخن از من که همانا پر سازم دوزخ را از پریان و مردم همگی‌",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "پس بچشید بدانچه فراموش کردید رسیدن را به روزتان این همانا ما فراموشتان کردیم و بچشید عذاب دوزخ را بدانچه بودید می‌کردید",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "جز این نیست که ایمان آرند به آیتهای ما آنان که هر گاه یادآوری شوند بدانها بیفتد سجده‌کنان و تسبیح گویند به سپاس پروردگار خویش و ایشانند کبرناورزندگان‌",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "دوری گزیند پهلوهای ایشان از خوابگاه‌ها خوانند پروردگار خویش را بیمی و امیدی و از آنچه روزیشان دادیم ببخشند",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "پس نمی‌داند کسی چه نهان شده است برای ایشان از روشنی‌چشم پاداشی بدانچه بودند می‌کردند",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "پس آیا آنکه مؤمن است مانند آنی است که نابفرمان است نیستند یکسان‌",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "اما آنان که ایمان آوردند و کردار شایسته کردند پس ایشان را باغستان جایگاه پیشکشی بدانچه بودند می‌کردند",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "و اما آنان که نافرمانی کردند پس جایگاه ایشان است آتش هر گاه خواهند برون آیند از آن بازگردانیده شوند در آن و گفته شود برای ایشان بچشید عذاب آتشی را که بودید بدان تکذیب می‌کردید",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "و همانا بچشانیمشان از شکنجه نزدیک نارسیده به شکنجه بزرگ باشد ایشان بازگردند",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "و کیست ستمگرتر از آنکه یادآوری شود به آیتهای پروردگار خویش پس روی برتابد از آنها همانا مائیم از گنهکاران کین‌کشندگان‌",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "و همانا دادیم به موسی کتاب را پس نباش در شکی از ملاقاتش و گردانیدیمش رهبریی برای بنی‌اسرائیل‌",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "و گردانیدیم از ایشان پیشوایانی که راهنمائی می‌کنند به فرمان ما چنانکه شکیبائی کردند و بودند به آیتهای ما یقین‌دارندگان‌",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "و همانا پروردگارت جدائی افکند میانشان روز رستاخیز در آنچه بودند در آن اختلاف می‌کردند",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "آیا رهبریشان نکرد که بسا نابود ساختیم پیش از ایشان از قرنهائی که روانند در آرامگاه‌های آنان همانا در این است آیتهائی آیا نمی‌شنوند",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "آیا ندیدند که روان می‌سازیم آب را بسوی زمینی خشکزار پس برون آریم بدان کشتی را که می‌خورند از آن دامهای ایشان و ایشان پس آیا نمی‌نگرند",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "و گویند کی است این گشایش (یا پیروزی) اگر هستید راستگویان‌",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "بگو روز پیروزی سود ندهد آنان را که کفر ورزیدند ایمانشان و نه مهلت داده شوند",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "پس روی برتاب از ایشان و منتظر باش که ایشانند منتظران‌",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.moezzi",
+      "language": "fa",
+      "name": "معزی",
+      "englishName": "Mohammad Kazem Moezzi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
