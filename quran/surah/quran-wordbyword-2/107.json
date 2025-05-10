@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "سُورَةُ المَاعُونِ",
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "Almsgiving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 6198,
+        "text": "[{\"word_arabic\":\"أَرَأَيْتَ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":77269,\"word_number_in_surah\":1,\"word_translation\":\"Have you seen\",\"word_transliteration\":\"ara-ayta\"},{\"word_arabic\":\"الَّذِي\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":77270,\"word_number_in_surah\":2,\"word_translation\":\"the one who\",\"word_transliteration\":\"alladhi\"},{\"word_arabic\":\"يُكَذِّبُ\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":77271,\"word_number_in_surah\":3,\"word_translation\":\"denies\",\"word_transliteration\":\"yukadhibu\"},{\"word_arabic\":\"بِالدِّينِ\",\"word_ayah\":1,\"word_number_in_ayah\":4,\"word_number_in_quran\":77272,\"word_number_in_surah\":4,\"word_translation\":\"the Judgment\",\"word_transliteration\":\"bil-dini\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6199,
+        "text": "[{\"word_arabic\":\"فَذَلِكَ\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":77273,\"word_number_in_surah\":5,\"word_translation\":\"Then that\",\"word_transliteration\":\"fadhalika\"},{\"word_arabic\":\"الَّذِي\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":77274,\"word_number_in_surah\":6,\"word_translation\":\"(is) the one who\",\"word_transliteration\":\"alladhi\"},{\"word_arabic\":\"يَدُعُّ\",\"word_ayah\":2,\"word_number_in_ayah\":3,\"word_number_in_quran\":77275,\"word_number_in_surah\":7,\"word_translation\":\"repulses\",\"word_transliteration\":\"yadu'u\"},{\"word_arabic\":\"الْيَتِيمَ\",\"word_ayah\":2,\"word_number_in_ayah\":4,\"word_number_in_quran\":77276,\"word_number_in_surah\":8,\"word_translation\":\"the orphan\",\"word_transliteration\":\"al-yatima\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6200,
+        "text": "[{\"word_arabic\":\"وَلَا\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":77277,\"word_number_in_surah\":9,\"word_translation\":\"And (does) not\",\"word_transliteration\":\"wala\"},{\"word_arabic\":\"يَحُضُّ\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":77278,\"word_number_in_surah\":10,\"word_translation\":\"feel the urge\",\"word_transliteration\":\"yahuddu\"},{\"word_arabic\":\"عَلَى\",\"word_ayah\":3,\"word_number_in_ayah\":3,\"word_number_in_quran\":77279,\"word_number_in_surah\":11,\"word_translation\":\"to\",\"word_transliteration\":\"ala\"},{\"word_arabic\":\"طَعَامِ\",\"word_ayah\":3,\"word_number_in_ayah\":4,\"word_number_in_quran\":77280,\"word_number_in_surah\":12,\"word_translation\":\"feed\",\"word_transliteration\":\"ta'ami\"},{\"word_arabic\":\"الْمِسْكِينِ\",\"word_ayah\":3,\"word_number_in_ayah\":5,\"word_number_in_quran\":77281,\"word_number_in_surah\":13,\"word_translation\":\"the poor\",\"word_transliteration\":\"al-mis'kini\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6201,
+        "text": "[{\"word_arabic\":\"فَوَيْلٌ\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":77282,\"word_number_in_surah\":14,\"word_translation\":\"So woe\",\"word_transliteration\":\"fawaylun\"},{\"word_arabic\":\"لِّلْمُصَلِّينَ\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":77283,\"word_number_in_surah\":15,\"word_translation\":\"to those who pray\",\"word_transliteration\":\"lil'musallina\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6202,
+        "text": "[{\"word_arabic\":\"الَّذِينَ\",\"word_ayah\":5,\"word_number_in_ayah\":1,\"word_number_in_quran\":77284,\"word_number_in_surah\":16,\"word_translation\":\"Those who\",\"word_transliteration\":\"alladhina\"},{\"word_arabic\":\"هُمْ\",\"word_ayah\":5,\"word_number_in_ayah\":2,\"word_number_in_quran\":77285,\"word_number_in_surah\":17,\"word_translation\":\"[they]\",\"word_transliteration\":\"hum\"},{\"word_arabic\":\"عَن\",\"word_ayah\":5,\"word_number_in_ayah\":3,\"word_number_in_quran\":77286,\"word_number_in_surah\":18,\"word_translation\":\"of\",\"word_transliteration\":\"an\"},{\"word_arabic\":\"صَلَاتِهِمْ\",\"word_ayah\":5,\"word_number_in_ayah\":4,\"word_number_in_quran\":77287,\"word_number_in_surah\":19,\"word_translation\":\"their prayers\",\"word_transliteration\":\"salatihim\"},{\"word_arabic\":\"سَاهُونَ\",\"word_ayah\":5,\"word_number_in_ayah\":5,\"word_number_in_quran\":77288,\"word_number_in_surah\":20,\"word_translation\":\"(are) neglectful\",\"word_transliteration\":\"sahuna\"}]",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6203,
+        "text": "[{\"word_arabic\":\"الَّذِينَ\",\"word_ayah\":6,\"word_number_in_ayah\":1,\"word_number_in_quran\":77289,\"word_number_in_surah\":21,\"word_translation\":\"Those who\",\"word_transliteration\":\"alladhina\"},{\"word_arabic\":\"هُمْ\",\"word_ayah\":6,\"word_number_in_ayah\":2,\"word_number_in_quran\":77290,\"word_number_in_surah\":22,\"word_translation\":\"[they]\",\"word_transliteration\":\"hum\"},{\"word_arabic\":\"يُرَاءُونَ\",\"word_ayah\":6,\"word_number_in_ayah\":3,\"word_number_in_quran\":77291,\"word_number_in_surah\":23,\"word_translation\":\"make show\",\"word_transliteration\":\"yurauna\"}]",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6204,
+        "text": "[{\"word_arabic\":\"وَيَمْنَعُونَ\",\"word_ayah\":7,\"word_number_in_ayah\":1,\"word_number_in_quran\":77292,\"word_number_in_surah\":24,\"word_translation\":\"And they deny\",\"word_transliteration\":\"wayamna'una\"},{\"word_arabic\":\"الْمَاعُونَ\",\"word_ayah\":7,\"word_number_in_ayah\":2,\"word_number_in_quran\":77293,\"word_number_in_surah\":25,\"word_translation\":\"[the] small kindness\",\"word_transliteration\":\"al-ma'una\"}]",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

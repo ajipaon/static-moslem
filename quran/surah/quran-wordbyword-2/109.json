@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6208,
+        "text": "[{\"word_arabic\":\"قُلْ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":77304,\"word_number_in_surah\":1,\"word_translation\":\"Say\",\"word_transliteration\":\"qul\"},{\"word_arabic\":\"يَاأَيُّهَا\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":77305,\"word_number_in_surah\":2,\"word_translation\":\"O\",\"word_transliteration\":\"yaayyuha\"},{\"word_arabic\":\"الْكَافِرُونَ\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":77306,\"word_number_in_surah\":3,\"word_translation\":\"disbelievers\",\"word_transliteration\":\"al-kafiruna\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6209,
+        "text": "[{\"word_arabic\":\"لَا\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":77307,\"word_number_in_surah\":4,\"word_translation\":\"Not\",\"word_transliteration\":\"la\"},{\"word_arabic\":\"أَعْبُدُ\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":77308,\"word_number_in_surah\":5,\"word_translation\":\"I worship\",\"word_transliteration\":\"a'budu\"},{\"word_arabic\":\"مَا\",\"word_ayah\":2,\"word_number_in_ayah\":3,\"word_number_in_quran\":77309,\"word_number_in_surah\":6,\"word_translation\":\"what\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"تَعْبُدُونَ\",\"word_ayah\":2,\"word_number_in_ayah\":4,\"word_number_in_quran\":77310,\"word_number_in_surah\":7,\"word_translation\":\"you worship\",\"word_transliteration\":\"ta'buduna\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6210,
+        "text": "[{\"word_arabic\":\"وَلَا\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":77311,\"word_number_in_surah\":8,\"word_translation\":\"And not\",\"word_transliteration\":\"wala\"},{\"word_arabic\":\"أَنتُمْ\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":77312,\"word_number_in_surah\":9,\"word_translation\":\"you\",\"word_transliteration\":\"antum\"},{\"word_arabic\":\"عَابِدُونَ\",\"word_ayah\":3,\"word_number_in_ayah\":3,\"word_number_in_quran\":77313,\"word_number_in_surah\":10,\"word_translation\":\"(are) worshippers\",\"word_transliteration\":\"abiduna\"},{\"word_arabic\":\"مَا\",\"word_ayah\":3,\"word_number_in_ayah\":4,\"word_number_in_quran\":77314,\"word_number_in_surah\":11,\"word_translation\":\"(of) what\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"أَعْبُدُ\",\"word_ayah\":3,\"word_number_in_ayah\":5,\"word_number_in_quran\":77315,\"word_number_in_surah\":12,\"word_translation\":\"I worship\",\"word_transliteration\":\"a'budu\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6211,
+        "text": "[{\"word_arabic\":\"وَلَا\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":77316,\"word_number_in_surah\":13,\"word_translation\":\"And not\",\"word_transliteration\":\"wala\"},{\"word_arabic\":\"أَنَا\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":77317,\"word_number_in_surah\":14,\"word_translation\":\"I am\",\"word_transliteration\":\"ana\"},{\"word_arabic\":\"عَابِدٌ\",\"word_ayah\":4,\"word_number_in_ayah\":3,\"word_number_in_quran\":77318,\"word_number_in_surah\":15,\"word_translation\":\"a worshipper\",\"word_transliteration\":\"abidun\"},{\"word_arabic\":\"مَّا\",\"word_ayah\":4,\"word_number_in_ayah\":4,\"word_number_in_quran\":77319,\"word_number_in_surah\":16,\"word_translation\":\"(of) what\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"عَبَدتُّمْ\",\"word_ayah\":4,\"word_number_in_ayah\":5,\"word_number_in_quran\":77320,\"word_number_in_surah\":17,\"word_translation\":\"you worship\",\"word_transliteration\":\"abadttum\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6212,
+        "text": "[{\"word_arabic\":\"وَلَا\",\"word_ayah\":5,\"word_number_in_ayah\":1,\"word_number_in_quran\":77321,\"word_number_in_surah\":18,\"word_translation\":\"And not\",\"word_transliteration\":\"wala\"},{\"word_arabic\":\"أَنتُمْ\",\"word_ayah\":5,\"word_number_in_ayah\":2,\"word_number_in_quran\":77322,\"word_number_in_surah\":19,\"word_translation\":\"you are\",\"word_transliteration\":\"antum\"},{\"word_arabic\":\"عَابِدُونَ\",\"word_ayah\":5,\"word_number_in_ayah\":3,\"word_number_in_quran\":77323,\"word_number_in_surah\":20,\"word_translation\":\"worshippers\",\"word_transliteration\":\"abiduna\"},{\"word_arabic\":\"مَا\",\"word_ayah\":5,\"word_number_in_ayah\":4,\"word_number_in_quran\":77324,\"word_number_in_surah\":21,\"word_translation\":\"(of) what\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"أَعْبُدُ\",\"word_ayah\":5,\"word_number_in_ayah\":5,\"word_number_in_quran\":77325,\"word_number_in_surah\":22,\"word_translation\":\"I worship\",\"word_transliteration\":\"a'budu\"}]",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6213,
+        "text": "[{\"word_arabic\":\"لَكُمْ\",\"word_ayah\":6,\"word_number_in_ayah\":1,\"word_number_in_quran\":77326,\"word_number_in_surah\":23,\"word_translation\":\"For you\",\"word_transliteration\":\"lakum\"},{\"word_arabic\":\"دِينُكُمْ\",\"word_ayah\":6,\"word_number_in_ayah\":2,\"word_number_in_quran\":77327,\"word_number_in_surah\":24,\"word_translation\":\"(is) your religion\",\"word_transliteration\":\"dinukum\"},{\"word_arabic\":\"وَلِيَ\",\"word_ayah\":6,\"word_number_in_ayah\":3,\"word_number_in_quran\":77328,\"word_number_in_surah\":25,\"word_translation\":\"and for me\",\"word_transliteration\":\"waliya\"},{\"word_arabic\":\"دِينِ\",\"word_ayah\":6,\"word_number_in_ayah\":4,\"word_number_in_quran\":77329,\"word_number_in_surah\":26,\"word_translation\":\"(is) my religion\",\"word_transliteration\":\"dini\"}]",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 551,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

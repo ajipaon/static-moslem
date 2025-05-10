@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6,
+    "ayahs": [
+      {
+        "number": 6231,
+        "text": "[{\"word_arabic\":\"قُلْ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":77410,\"word_number_in_surah\":1,\"word_translation\":\"Say\",\"word_transliteration\":\"qul\"},{\"word_arabic\":\"أَعُوذُ\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":77411,\"word_number_in_surah\":2,\"word_translation\":\"I seek refuge\",\"word_transliteration\":\"a'udhu\"},{\"word_arabic\":\"بِرَبِّ\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":77412,\"word_number_in_surah\":3,\"word_translation\":\"in (the) Lord\",\"word_transliteration\":\"birabbi\"},{\"word_arabic\":\"النَّاسِ\",\"word_ayah\":1,\"word_number_in_ayah\":4,\"word_number_in_quran\":77413,\"word_number_in_surah\":4,\"word_translation\":\"(of) mankind\",\"word_transliteration\":\"al-nasi\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6232,
+        "text": "[{\"word_arabic\":\"مَلِكِ\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":77414,\"word_number_in_surah\":5,\"word_translation\":\"(The) King\",\"word_transliteration\":\"maliki\"},{\"word_arabic\":\"النَّاسِ\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":77415,\"word_number_in_surah\":6,\"word_translation\":\"(of) mankind\",\"word_transliteration\":\"al-nasi\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6233,
+        "text": "[{\"word_arabic\":\"إِلَهِ\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":77416,\"word_number_in_surah\":7,\"word_translation\":\"(The) God\",\"word_transliteration\":\"ilahi\"},{\"word_arabic\":\"النَّاسِ\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":77417,\"word_number_in_surah\":8,\"word_translation\":\"(of) mankind\",\"word_transliteration\":\"al-nasi\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6234,
+        "text": "[{\"word_arabic\":\"مِن\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":77418,\"word_number_in_surah\":9,\"word_translation\":\"From\",\"word_transliteration\":\"min\"},{\"word_arabic\":\"شَرِّ\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":77419,\"word_number_in_surah\":10,\"word_translation\":\"(the) evil\",\"word_transliteration\":\"sharri\"},{\"word_arabic\":\"الْوَسْوَاسِ\",\"word_ayah\":4,\"word_number_in_ayah\":3,\"word_number_in_quran\":77420,\"word_number_in_surah\":11,\"word_translation\":\"(of) the whisperer\",\"word_transliteration\":\"al-waswasi\"},{\"word_arabic\":\"الْخَنَّاسِ\",\"word_ayah\":4,\"word_number_in_ayah\":4,\"word_number_in_quran\":77421,\"word_number_in_surah\":12,\"word_translation\":\"the one who withdraws\",\"word_transliteration\":\"al-khanasi\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6235,
+        "text": "[{\"word_arabic\":\"الَّذِي\",\"word_ayah\":5,\"word_number_in_ayah\":1,\"word_number_in_quran\":77422,\"word_number_in_surah\":13,\"word_translation\":\"The one who\",\"word_transliteration\":\"alladhi\"},{\"word_arabic\":\"يُوَسْوِسُ\",\"word_ayah\":5,\"word_number_in_ayah\":2,\"word_number_in_quran\":77423,\"word_number_in_surah\":14,\"word_translation\":\"whispers\",\"word_transliteration\":\"yuwaswisu\"},{\"word_arabic\":\"فِي\",\"word_ayah\":5,\"word_number_in_ayah\":3,\"word_number_in_quran\":77424,\"word_number_in_surah\":15,\"word_translation\":\"in\",\"word_transliteration\":\"fi\"},{\"word_arabic\":\"صُدُورِ\",\"word_ayah\":5,\"word_number_in_ayah\":4,\"word_number_in_quran\":77425,\"word_number_in_surah\":16,\"word_translation\":\"(the) breasts\",\"word_transliteration\":\"suduri\"},{\"word_arabic\":\"النَّاسِ\",\"word_ayah\":5,\"word_number_in_ayah\":5,\"word_number_in_quran\":77426,\"word_number_in_surah\":17,\"word_translation\":\"(of) mankind\",\"word_transliteration\":\"al-nasi\"}]",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6236,
+        "text": "[{\"word_arabic\":\"مِنَ\",\"word_ayah\":6,\"word_number_in_ayah\":1,\"word_number_in_quran\":77427,\"word_number_in_surah\":18,\"word_translation\":\"From\",\"word_transliteration\":\"mina\"},{\"word_arabic\":\"الْجِنَّةِ\",\"word_ayah\":6,\"word_number_in_ayah\":2,\"word_number_in_quran\":77428,\"word_number_in_surah\":19,\"word_translation\":\"the jinn\",\"word_transliteration\":\"al-jinati\"},{\"word_arabic\":\"وَالنَّاسِ\",\"word_ayah\":6,\"word_number_in_ayah\":3,\"word_number_in_quran\":77429,\"word_number_in_surah\":20,\"word_translation\":\"and men\",\"word_transliteration\":\"wal-nasi\"}]",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

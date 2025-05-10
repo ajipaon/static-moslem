@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "[{\"word_arabic\":\"تَبَّتْ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":77349,\"word_number_in_surah\":1,\"word_translation\":\"Perish\",\"word_transliteration\":\"tabbat\"},{\"word_arabic\":\"يَدَا\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":77350,\"word_number_in_surah\":2,\"word_translation\":\"(the) hands\",\"word_transliteration\":\"yada\"},{\"word_arabic\":\"أَبِي\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":77351,\"word_number_in_surah\":3,\"word_translation\":\"(of) Abu\",\"word_transliteration\":\"abi\"},{\"word_arabic\":\"لَهَبٍ\",\"word_ayah\":1,\"word_number_in_ayah\":4,\"word_number_in_quran\":77352,\"word_number_in_surah\":4,\"word_translation\":\"Lahab\",\"word_transliteration\":\"lahabin\"},{\"word_arabic\":\"وَتَبَّ\",\"word_ayah\":1,\"word_number_in_ayah\":5,\"word_number_in_quran\":77353,\"word_number_in_surah\":5,\"word_translation\":\"and perish he\",\"word_transliteration\":\"watabba\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "[{\"word_arabic\":\"مَا\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":77354,\"word_number_in_surah\":6,\"word_translation\":\"Not\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"أَغْنَى\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":77355,\"word_number_in_surah\":7,\"word_translation\":\"(will) avail\",\"word_transliteration\":\"aghna\"},{\"word_arabic\":\"عَنْهُ\",\"word_ayah\":2,\"word_number_in_ayah\":3,\"word_number_in_quran\":77356,\"word_number_in_surah\":8,\"word_translation\":\"him\",\"word_transliteration\":\"anhu\"},{\"word_arabic\":\"مَالُهُ\",\"word_ayah\":2,\"word_number_in_ayah\":4,\"word_number_in_quran\":77357,\"word_number_in_surah\":9,\"word_translation\":\"his wealth\",\"word_transliteration\":\"maluhu\"},{\"word_arabic\":\"وَمَا\",\"word_ayah\":2,\"word_number_in_ayah\":5,\"word_number_in_quran\":77358,\"word_number_in_surah\":10,\"word_translation\":\"and what\",\"word_transliteration\":\"wama\"},{\"word_arabic\":\"كَسَبَ\",\"word_ayah\":2,\"word_number_in_ayah\":6,\"word_number_in_quran\":77359,\"word_number_in_surah\":11,\"word_translation\":\"he earned\",\"word_transliteration\":\"kasaba\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "[{\"word_arabic\":\"سَيَصْلَى\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":77360,\"word_number_in_surah\":12,\"word_translation\":\"He will be burnt\",\"word_transliteration\":\"sayasla\"},{\"word_arabic\":\"نَارًا\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":77361,\"word_number_in_surah\":13,\"word_translation\":\"(in) a Fire\",\"word_transliteration\":\"naran\"},{\"word_arabic\":\"ذَاتَ\",\"word_ayah\":3,\"word_number_in_ayah\":3,\"word_number_in_quran\":77362,\"word_number_in_surah\":14,\"word_translation\":\"of\",\"word_transliteration\":\"dhata\"},{\"word_arabic\":\"لَهَبٍ\",\"word_ayah\":3,\"word_number_in_ayah\":4,\"word_number_in_quran\":77363,\"word_number_in_surah\":15,\"word_translation\":\"Blazing Flames\",\"word_transliteration\":\"lahabin\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "[{\"word_arabic\":\"وَامْرَأَتُهُ\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":77364,\"word_number_in_surah\":16,\"word_translation\":\"And his wife\",\"word_transliteration\":\"wa-im'ra-atuhu\"},{\"word_arabic\":\"حَمَّالَةَ\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":77365,\"word_number_in_surah\":17,\"word_translation\":\"(the) carrier\",\"word_transliteration\":\"hammalata\"},{\"word_arabic\":\"الْحَطَبِ\",\"word_ayah\":4,\"word_number_in_ayah\":3,\"word_number_in_quran\":77366,\"word_number_in_surah\":18,\"word_translation\":\"(of) firewood\",\"word_transliteration\":\"al-hatabi\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "[{\"word_arabic\":\"فِي\",\"word_ayah\":5,\"word_number_in_ayah\":1,\"word_number_in_quran\":77367,\"word_number_in_surah\":19,\"word_translation\":\"Around\",\"word_transliteration\":\"fi\"},{\"word_arabic\":\"جِيدِهَا\",\"word_ayah\":5,\"word_number_in_ayah\":2,\"word_number_in_quran\":77368,\"word_number_in_surah\":20,\"word_translation\":\"her neck\",\"word_transliteration\":\"jidiha\"},{\"word_arabic\":\"حَبْلٌ\",\"word_ayah\":5,\"word_number_in_ayah\":3,\"word_number_in_quran\":77369,\"word_number_in_surah\":21,\"word_translation\":\"(will be) a rope\",\"word_transliteration\":\"hablun\"},{\"word_arabic\":\"مِّن\",\"word_ayah\":5,\"word_number_in_ayah\":4,\"word_number_in_quran\":77370,\"word_number_in_surah\":22,\"word_translation\":\"of\",\"word_transliteration\":\"min\"},{\"word_arabic\":\"مَّسَدٍ\",\"word_ayah\":5,\"word_number_in_ayah\":5,\"word_number_in_quran\":77371,\"word_number_in_surah\":23,\"word_translation\":\"palm-fiber\",\"word_transliteration\":\"masadin\"}]",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

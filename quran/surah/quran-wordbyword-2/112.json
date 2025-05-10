@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "[{\"word_arabic\":\"قُلْ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":77372,\"word_number_in_surah\":1,\"word_translation\":\"Say\",\"word_transliteration\":\"qul\"},{\"word_arabic\":\"هُوَ\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":77373,\"word_number_in_surah\":2,\"word_translation\":\"He\",\"word_transliteration\":\"huwa\"},{\"word_arabic\":\"اللَّهُ\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":77374,\"word_number_in_surah\":3,\"word_translation\":\"(is) Allah\",\"word_transliteration\":\"al-lahu\"},{\"word_arabic\":\"أَحَدٌ\",\"word_ayah\":1,\"word_number_in_ayah\":4,\"word_number_in_quran\":77375,\"word_number_in_surah\":4,\"word_translation\":\"the One\",\"word_transliteration\":\"ahadun\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "[{\"word_arabic\":\"اللَّهُ\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":77376,\"word_number_in_surah\":5,\"word_translation\":\"Allah\",\"word_transliteration\":\"al-lahu\"},{\"word_arabic\":\"الصَّمَدُ\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":77377,\"word_number_in_surah\":6,\"word_translation\":\"the Eternal the Absolute\",\"word_transliteration\":\"al-samadu\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "[{\"word_arabic\":\"لَمْ\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":77378,\"word_number_in_surah\":7,\"word_translation\":\"Not\",\"word_transliteration\":\"lam\"},{\"word_arabic\":\"يَلِدْ\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":77379,\"word_number_in_surah\":8,\"word_translation\":\"He begets\",\"word_transliteration\":\"yalid\"},{\"word_arabic\":\"وَلَمْ\",\"word_ayah\":3,\"word_number_in_ayah\":3,\"word_number_in_quran\":77380,\"word_number_in_surah\":9,\"word_translation\":\"and not\",\"word_transliteration\":\"walam\"},{\"word_arabic\":\"يُولَدْ\",\"word_ayah\":3,\"word_number_in_ayah\":4,\"word_number_in_quran\":77381,\"word_number_in_surah\":10,\"word_translation\":\"He is begotten\",\"word_transliteration\":\"yulad\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "[{\"word_arabic\":\"وَلَمْ\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":77382,\"word_number_in_surah\":11,\"word_translation\":\"And not\",\"word_transliteration\":\"walam\"},{\"word_arabic\":\"يَكُن\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":77383,\"word_number_in_surah\":12,\"word_translation\":\"is\",\"word_transliteration\":\"yakun\"},{\"word_arabic\":\"لَّهُ\",\"word_ayah\":4,\"word_number_in_ayah\":3,\"word_number_in_quran\":77384,\"word_number_in_surah\":13,\"word_translation\":\"for Him\",\"word_transliteration\":\"lahu\"},{\"word_arabic\":\"كُفُوًا\",\"word_ayah\":4,\"word_number_in_ayah\":4,\"word_number_in_quran\":77385,\"word_number_in_surah\":14,\"word_translation\":\"equivalent\",\"word_transliteration\":\"kufuwan\"},{\"word_arabic\":\"أَحَدٌ\",\"word_ayah\":4,\"word_number_in_ayah\":5,\"word_number_in_quran\":77386,\"word_number_in_surah\":15,\"word_translation\":\"any [one]\",\"word_transliteration\":\"ahadun\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

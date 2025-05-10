@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "[{\"word_arabic\":\"سَبِّحِ\",\"word_ayah\":1,\"word_number_in_ayah\":1,\"word_number_in_quran\":76237,\"word_number_in_surah\":1,\"word_translation\":\"Glorify\",\"word_transliteration\":\"sabbihi\"},{\"word_arabic\":\"اسْمَ\",\"word_ayah\":1,\"word_number_in_ayah\":2,\"word_number_in_quran\":76238,\"word_number_in_surah\":2,\"word_translation\":\"(the) name\",\"word_transliteration\":\"is'ma\"},{\"word_arabic\":\"رَبِّكَ\",\"word_ayah\":1,\"word_number_in_ayah\":3,\"word_number_in_quran\":76239,\"word_number_in_surah\":3,\"word_translation\":\"(of) your Lord\",\"word_transliteration\":\"rabbika\"},{\"word_arabic\":\"الْأَعْلَى\",\"word_ayah\":1,\"word_number_in_ayah\":4,\"word_number_in_quran\":76240,\"word_number_in_surah\":4,\"word_translation\":\"the Most High\",\"word_transliteration\":\"al-a'la\"}]",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "[{\"word_arabic\":\"الَّذِي\",\"word_ayah\":2,\"word_number_in_ayah\":1,\"word_number_in_quran\":76241,\"word_number_in_surah\":5,\"word_translation\":\"The One Who\",\"word_transliteration\":\"alladhi\"},{\"word_arabic\":\"خَلَقَ\",\"word_ayah\":2,\"word_number_in_ayah\":2,\"word_number_in_quran\":76242,\"word_number_in_surah\":6,\"word_translation\":\"created\",\"word_transliteration\":\"khalaqa\"},{\"word_arabic\":\"فَسَوَّى\",\"word_ayah\":2,\"word_number_in_ayah\":3,\"word_number_in_quran\":76243,\"word_number_in_surah\":7,\"word_translation\":\"then proportioned\",\"word_transliteration\":\"fasawwa\"}]",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "[{\"word_arabic\":\"وَالَّذِي\",\"word_ayah\":3,\"word_number_in_ayah\":1,\"word_number_in_quran\":76244,\"word_number_in_surah\":8,\"word_translation\":\"And the One Who\",\"word_transliteration\":\"wa-alladhi\"},{\"word_arabic\":\"قَدَّرَ\",\"word_ayah\":3,\"word_number_in_ayah\":2,\"word_number_in_quran\":76245,\"word_number_in_surah\":9,\"word_translation\":\"measured\",\"word_transliteration\":\"qaddara\"},{\"word_arabic\":\"فَهَدَى\",\"word_ayah\":3,\"word_number_in_ayah\":3,\"word_number_in_quran\":76246,\"word_number_in_surah\":10,\"word_translation\":\"then guided\",\"word_transliteration\":\"fahada\"}]",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "[{\"word_arabic\":\"وَالَّذِي\",\"word_ayah\":4,\"word_number_in_ayah\":1,\"word_number_in_quran\":76247,\"word_number_in_surah\":11,\"word_translation\":\"And the One Who\",\"word_transliteration\":\"wa-alladhi\"},{\"word_arabic\":\"أَخْرَجَ\",\"word_ayah\":4,\"word_number_in_ayah\":2,\"word_number_in_quran\":76248,\"word_number_in_surah\":12,\"word_translation\":\"brings forth\",\"word_transliteration\":\"akhraja\"},{\"word_arabic\":\"الْمَرْعَى\",\"word_ayah\":4,\"word_number_in_ayah\":3,\"word_number_in_quran\":76249,\"word_number_in_surah\":13,\"word_translation\":\"the pasture\",\"word_transliteration\":\"al-mar'a\"}]",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "[{\"word_arabic\":\"فَجَعَلَهُ\",\"word_ayah\":5,\"word_number_in_ayah\":1,\"word_number_in_quran\":76250,\"word_number_in_surah\":14,\"word_translation\":\"And then made it\",\"word_transliteration\":\"faja'alahu\"},{\"word_arabic\":\"غُثَاءً\",\"word_ayah\":5,\"word_number_in_ayah\":2,\"word_number_in_quran\":76251,\"word_number_in_surah\":15,\"word_translation\":\"stubble\",\"word_transliteration\":\"ghuthaan\"},{\"word_arabic\":\"أَحْوَى\",\"word_ayah\":5,\"word_number_in_ayah\":3,\"word_number_in_quran\":76252,\"word_number_in_surah\":16,\"word_translation\":\"dark\",\"word_transliteration\":\"ahwa\"}]",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "[{\"word_arabic\":\"سَنُقْرِئُكَ\",\"word_ayah\":6,\"word_number_in_ayah\":1,\"word_number_in_quran\":76253,\"word_number_in_surah\":17,\"word_translation\":\"We will make you recite\",\"word_transliteration\":\"sanuq'ri-uka\"},{\"word_arabic\":\"فَلَا\",\"word_ayah\":6,\"word_number_in_ayah\":2,\"word_number_in_quran\":76254,\"word_number_in_surah\":18,\"word_translation\":\"so not\",\"word_transliteration\":\"fala\"},{\"word_arabic\":\"تَنسَى\",\"word_ayah\":6,\"word_number_in_ayah\":3,\"word_number_in_quran\":76255,\"word_number_in_surah\":19,\"word_translation\":\"you will forget\",\"word_transliteration\":\"tansa\"}]",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "[{\"word_arabic\":\"إِلَّا\",\"word_ayah\":7,\"word_number_in_ayah\":1,\"word_number_in_quran\":76256,\"word_number_in_surah\":20,\"word_translation\":\"Except\",\"word_transliteration\":\"illa\"},{\"word_arabic\":\"مَا\",\"word_ayah\":7,\"word_number_in_ayah\":2,\"word_number_in_quran\":76257,\"word_number_in_surah\":21,\"word_translation\":\"what\",\"word_transliteration\":\"ma\"},{\"word_arabic\":\"شَاءَ\",\"word_ayah\":7,\"word_number_in_ayah\":3,\"word_number_in_quran\":76258,\"word_number_in_surah\":22,\"word_translation\":\"wills\",\"word_transliteration\":\"shaa\"},{\"word_arabic\":\"اللَّهُ\",\"word_ayah\":7,\"word_number_in_ayah\":4,\"word_number_in_quran\":76259,\"word_number_in_surah\":23,\"word_translation\":\"Allah\",\"word_transliteration\":\"al-lahu\"},{\"word_arabic\":\"إِنَّهُ\",\"word_ayah\":7,\"word_number_in_ayah\":5,\"word_number_in_quran\":76260,\"word_number_in_surah\":24,\"word_translation\":\"Indeed, He\",\"word_transliteration\":\"innahu\"},{\"word_arabic\":\"يَعْلَمُ\",\"word_ayah\":7,\"word_number_in_ayah\":6,\"word_number_in_quran\":76261,\"word_number_in_surah\":25,\"word_translation\":\"knows\",\"word_transliteration\":\"ya'lamu\"},{\"word_arabic\":\"الْجَهْرَ\",\"word_ayah\":7,\"word_number_in_ayah\":7,\"word_number_in_quran\":76262,\"word_number_in_surah\":26,\"word_translation\":\"the manifest\",\"word_transliteration\":\"al-jahra\"},{\"word_arabic\":\"وَمَا\",\"word_ayah\":7,\"word_number_in_ayah\":8,\"word_number_in_quran\":76263,\"word_number_in_surah\":27,\"word_translation\":\"and what\",\"word_transliteration\":\"wama\"},{\"word_arabic\":\"يَخْفَى\",\"word_ayah\":7,\"word_number_in_ayah\":9,\"word_number_in_quran\":76264,\"word_number_in_surah\":28,\"word_translation\":\"is hidden\",\"word_transliteration\":\"yakhfa\"}]",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "[{\"word_arabic\":\"وَنُيَسِّرُكَ\",\"word_ayah\":8,\"word_number_in_ayah\":1,\"word_number_in_quran\":76265,\"word_number_in_surah\":29,\"word_translation\":\"And We will ease you\",\"word_transliteration\":\"wanuyassiruka\"},{\"word_arabic\":\"لِلْيُسْرَى\",\"word_ayah\":8,\"word_number_in_ayah\":2,\"word_number_in_quran\":76266,\"word_number_in_surah\":30,\"word_translation\":\"to the ease\",\"word_transliteration\":\"lil'yus'ra\"}]",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "[{\"word_arabic\":\"فَذَكِّرْ\",\"word_ayah\":9,\"word_number_in_ayah\":1,\"word_number_in_quran\":76267,\"word_number_in_surah\":31,\"word_translation\":\"So remind\",\"word_transliteration\":\"fadhakkir\"},{\"word_arabic\":\"إِن\",\"word_ayah\":9,\"word_number_in_ayah\":2,\"word_number_in_quran\":76268,\"word_number_in_surah\":32,\"word_translation\":\"if\",\"word_transliteration\":\"in\"},{\"word_arabic\":\"نَّفَعَتِ\",\"word_ayah\":9,\"word_number_in_ayah\":3,\"word_number_in_quran\":76269,\"word_number_in_surah\":33,\"word_translation\":\"benefits\",\"word_transliteration\":\"nafa'ati\"},{\"word_arabic\":\"الذِّكْرَى\",\"word_ayah\":9,\"word_number_in_ayah\":4,\"word_number_in_quran\":76270,\"word_number_in_surah\":34,\"word_translation\":\"the reminder\",\"word_transliteration\":\"al-dhik'ra\"}]",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "[{\"word_arabic\":\"سَيَذَّكَّرُ\",\"word_ayah\":10,\"word_number_in_ayah\":1,\"word_number_in_quran\":76271,\"word_number_in_surah\":35,\"word_translation\":\"He will pay heed\",\"word_transliteration\":\"sayadhakkaru\"},{\"word_arabic\":\"مَن\",\"word_ayah\":10,\"word_number_in_ayah\":2,\"word_number_in_quran\":76272,\"word_number_in_surah\":36,\"word_translation\":\"(one) who\",\"word_transliteration\":\"man\"},{\"word_arabic\":\"يَخْشَى\",\"word_ayah\":10,\"word_number_in_ayah\":3,\"word_number_in_quran\":76273,\"word_number_in_surah\":37,\"word_translation\":\"fears (Allah)\",\"word_transliteration\":\"yakhsha\"}]",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "[{\"word_arabic\":\"وَيَتَجَنَّبُهَا\",\"word_ayah\":11,\"word_number_in_ayah\":1,\"word_number_in_quran\":76274,\"word_number_in_surah\":38,\"word_translation\":\"And will avoid it\",\"word_transliteration\":\"wayatajannabuha\"},{\"word_arabic\":\"الْأَشْقَى\",\"word_ayah\":11,\"word_number_in_ayah\":2,\"word_number_in_quran\":76275,\"word_number_in_surah\":39,\"word_translation\":\"the wretched one\",\"word_transliteration\":\"al-ashqa\"}]",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "[{\"word_arabic\":\"الَّذِي\",\"word_ayah\":12,\"word_number_in_ayah\":1,\"word_number_in_quran\":76276,\"word_number_in_surah\":40,\"word_translation\":\"The one who\",\"word_transliteration\":\"alladhi\"},{\"word_arabic\":\"يَصْلَى\",\"word_ayah\":12,\"word_number_in_ayah\":2,\"word_number_in_quran\":76277,\"word_number_in_surah\":41,\"word_translation\":\"will burn\",\"word_transliteration\":\"yasla\"},{\"word_arabic\":\"النَّارَ\",\"word_ayah\":12,\"word_number_in_ayah\":3,\"word_number_in_quran\":76278,\"word_number_in_surah\":42,\"word_translation\":\"(in) the Fire\",\"word_transliteration\":\"al-nara\"},{\"word_arabic\":\"الْكُبْرَى\",\"word_ayah\":12,\"word_number_in_ayah\":4,\"word_number_in_quran\":76279,\"word_number_in_surah\":43,\"word_translation\":\"[the] great\",\"word_transliteration\":\"al-kub'ra\"}]",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "[{\"word_arabic\":\"ثُمَّ\",\"word_ayah\":13,\"word_number_in_ayah\":1,\"word_number_in_quran\":76280,\"word_number_in_surah\":44,\"word_translation\":\"Then\",\"word_transliteration\":\"thumma\"},{\"word_arabic\":\"لَا\",\"word_ayah\":13,\"word_number_in_ayah\":2,\"word_number_in_quran\":76281,\"word_number_in_surah\":45,\"word_translation\":\"not\",\"word_transliteration\":\"la\"},{\"word_arabic\":\"يَمُوتُ\",\"word_ayah\":13,\"word_number_in_ayah\":3,\"word_number_in_quran\":76282,\"word_number_in_surah\":46,\"word_translation\":\"he will die\",\"word_transliteration\":\"yamutu\"},{\"word_arabic\":\"فِيهَا\",\"word_ayah\":13,\"word_number_in_ayah\":4,\"word_number_in_quran\":76283,\"word_number_in_surah\":47,\"word_translation\":\"therein\",\"word_transliteration\":\"fiha\"},{\"word_arabic\":\"وَلَا\",\"word_ayah\":13,\"word_number_in_ayah\":5,\"word_number_in_quran\":76284,\"word_number_in_surah\":48,\"word_translation\":\"and not\",\"word_transliteration\":\"wala\"},{\"word_arabic\":\"يَحْيَى\",\"word_ayah\":13,\"word_number_in_ayah\":6,\"word_number_in_quran\":76285,\"word_number_in_surah\":49,\"word_translation\":\"will live\",\"word_transliteration\":\"yahya\"}]",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "[{\"word_arabic\":\"قَدْ\",\"word_ayah\":14,\"word_number_in_ayah\":1,\"word_number_in_quran\":76286,\"word_number_in_surah\":50,\"word_translation\":\"Certainly\",\"word_transliteration\":\"qad\"},{\"word_arabic\":\"أَفْلَحَ\",\"word_ayah\":14,\"word_number_in_ayah\":2,\"word_number_in_quran\":76287,\"word_number_in_surah\":51,\"word_translation\":\"has succeeded\",\"word_transliteration\":\"aflaha\"},{\"word_arabic\":\"مَن\",\"word_ayah\":14,\"word_number_in_ayah\":3,\"word_number_in_quran\":76288,\"word_number_in_surah\":52,\"word_translation\":\"(one) who\",\"word_transliteration\":\"man\"},{\"word_arabic\":\"تَزَكَّى\",\"word_ayah\":14,\"word_number_in_ayah\":4,\"word_number_in_quran\":76289,\"word_number_in_surah\":53,\"word_translation\":\"purifies (himself)\",\"word_transliteration\":\"tazakka\"}]",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "[{\"word_arabic\":\"وَذَكَرَ\",\"word_ayah\":15,\"word_number_in_ayah\":1,\"word_number_in_quran\":76290,\"word_number_in_surah\":54,\"word_translation\":\"And remembers\",\"word_transliteration\":\"wadhakara\"},{\"word_arabic\":\"اسْمَ\",\"word_ayah\":15,\"word_number_in_ayah\":2,\"word_number_in_quran\":76291,\"word_number_in_surah\":55,\"word_translation\":\"(the) name\",\"word_transliteration\":\"is'ma\"},{\"word_arabic\":\"رَبِّهِ\",\"word_ayah\":15,\"word_number_in_ayah\":3,\"word_number_in_quran\":76292,\"word_number_in_surah\":56,\"word_translation\":\"(of) his Lord\",\"word_transliteration\":\"rabbihi\"},{\"word_arabic\":\"فَصَلَّى\",\"word_ayah\":15,\"word_number_in_ayah\":4,\"word_number_in_quran\":76293,\"word_number_in_surah\":57,\"word_translation\":\"and prays\",\"word_transliteration\":\"fasalla\"}]",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "[{\"word_arabic\":\"بَلْ\",\"word_ayah\":16,\"word_number_in_ayah\":1,\"word_number_in_quran\":76294,\"word_number_in_surah\":58,\"word_translation\":\"Nay!\",\"word_transliteration\":\"bal\"},{\"word_arabic\":\"تُؤْثِرُونَ\",\"word_ayah\":16,\"word_number_in_ayah\":2,\"word_number_in_quran\":76295,\"word_number_in_surah\":59,\"word_translation\":\"You prefer\",\"word_transliteration\":\"tu'thiruna\"},{\"word_arabic\":\"الْحَيَاةَ\",\"word_ayah\":16,\"word_number_in_ayah\":3,\"word_number_in_quran\":76296,\"word_number_in_surah\":60,\"word_translation\":\"the life\",\"word_transliteration\":\"al-hayata\"},{\"word_arabic\":\"الدُّنْيَا\",\"word_ayah\":16,\"word_number_in_ayah\":4,\"word_number_in_quran\":76297,\"word_number_in_surah\":61,\"word_translation\":\"(of) the world\",\"word_transliteration\":\"al-dun'ya\"}]",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "[{\"word_arabic\":\"وَالْآخِرَةُ\",\"word_ayah\":17,\"word_number_in_ayah\":1,\"word_number_in_quran\":76298,\"word_number_in_surah\":62,\"word_translation\":\"While the Hereafter\",\"word_transliteration\":\"wal-akhiratu\"},{\"word_arabic\":\"خَيْرٌ\",\"word_ayah\":17,\"word_number_in_ayah\":2,\"word_number_in_quran\":76299,\"word_number_in_surah\":63,\"word_translation\":\"(is) better\",\"word_transliteration\":\"khayrun\"},{\"word_arabic\":\"وَأَبْقَى\",\"word_ayah\":17,\"word_number_in_ayah\":3,\"word_number_in_quran\":76300,\"word_number_in_surah\":64,\"word_translation\":\"and ever lasting\",\"word_transliteration\":\"wa-abqa\"}]",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "[{\"word_arabic\":\"إِنَّ\",\"word_ayah\":18,\"word_number_in_ayah\":1,\"word_number_in_quran\":76301,\"word_number_in_surah\":65,\"word_translation\":\"Indeed\",\"word_transliteration\":\"inna\"},{\"word_arabic\":\"هَذَا\",\"word_ayah\":18,\"word_number_in_ayah\":2,\"word_number_in_quran\":76302,\"word_number_in_surah\":66,\"word_translation\":\"this\",\"word_transliteration\":\"hadha\"},{\"word_arabic\":\"لَفِي\",\"word_ayah\":18,\"word_number_in_ayah\":3,\"word_number_in_quran\":76303,\"word_number_in_surah\":67,\"word_translation\":\"surely (is) in\",\"word_transliteration\":\"lafi\"},{\"word_arabic\":\"الصُّحُفِ\",\"word_ayah\":18,\"word_number_in_ayah\":4,\"word_number_in_quran\":76304,\"word_number_in_surah\":68,\"word_translation\":\"the Scriptures\",\"word_transliteration\":\"al-suhufi\"},{\"word_arabic\":\"الْأُولَى\",\"word_ayah\":18,\"word_number_in_ayah\":5,\"word_number_in_quran\":76305,\"word_number_in_surah\":69,\"word_translation\":\"[the] former\",\"word_transliteration\":\"al-ula\"}]",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "[{\"word_arabic\":\"صُحُفِ\",\"word_ayah\":19,\"word_number_in_ayah\":1,\"word_number_in_quran\":76306,\"word_number_in_surah\":70,\"word_translation\":\"(The) Scriptures\",\"word_transliteration\":\"suhufi\"},{\"word_arabic\":\"إِبْرَاهِيمَ\",\"word_ayah\":19,\"word_number_in_ayah\":2,\"word_number_in_quran\":76307,\"word_number_in_surah\":71,\"word_translation\":\"(of) Ibrahim\",\"word_transliteration\":\"ib'rahima\"},{\"word_arabic\":\"وَمُوسَى\",\"word_ayah\":19,\"word_number_in_ayah\":3,\"word_number_in_quran\":76308,\"word_number_in_surah\":72,\"word_translation\":\"and Musa\",\"word_transliteration\":\"wamusa\"}]",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
