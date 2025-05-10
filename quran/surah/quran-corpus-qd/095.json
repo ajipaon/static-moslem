@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6099,
+        "text": "wa{lt~iyni⚓By the fig,⚓N|LEM:t~iyn|ROOT:tyn|M|GEN★wa{lz~ayotuwni⚓and the olive,⚓ N|LEM:z~ayotuwn|ROOT:zyt|M|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6100,
+        "text": "waTuwri⚓And (the) Mount⚓N|LEM:Tuwr|ROOT:Twr|M|GEN★siyniyna⚓Sinai,⚓ PN|LEM:siyniyn|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6101,
+        "text": "waha`*aA⚓And this⚓DEM|LEM:ha`*aA|MS★{lobaladi⚓[the] city,⚓ N|LEM:balad|ROOT:bld|M|GEN★{lo>amiyni⚓[the] secure,⚓ ADJ|LEM:>amiyn|ROOT:Amn|MS|GEN★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6102,
+        "text": "laqado⚓Indeed,⚓CERT|LEM:qad★xalaqonaA⚓We created⚓ V|PERF|LEM:xalaqa|ROOT:xlq|1P★{lo<insa`na⚓man⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★fiY^⚓in⚓ P|LEM:fiY★>aHosani⚓(the) best⚓ N|LEM:>aHosan|ROOT:Hsn|MS|GEN★taqowiymK⚓mould.⚓ N|VN|(II)|LEM:taqowiym|ROOT:qwm|M|INDEF|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6103,
+        "text": "vum~a⚓Then⚓CONJ|LEM:vum~★radadona`hu⚓We return him⚓ V|PERF|LEM:rad~a|ROOT:rdd|1P★>asofala⚓(to the) lowest⚓ LOC|LEM:>asofal|ROOT:sfl|MS|ACC★sa`filiyna⚓(of the) low,⚓ N|ACT|PCPL|LEM:saAfil|ROOT:sfl|MP|GEN★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6104,
+        "text": "<il~aA⚓Except⚓EXP|LEM:<il~aA★{l~a*iyna⚓those who⚓ REL|LEM:{l~a*iY|MP★'aAmanuwA@⚓believe⚓ V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|3MP★waEamiluwA@⚓and do⚓ V|PERF|LEM:Eamila|ROOT:Eml|3MP★{lS~a`liHa`ti⚓righteous deeds,⚓ N|ACT|PCPL|LEM:S~a`liHa`t|ROOT:SlH|FP|ACC★falahumo⚓then for them⚓ PRON|3MP★>ajorN⚓(is a) reward⚓ N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM★gayoru⚓**never ending.⚓ N|LEM:gayor|ROOT:gyr|M|NOM★mamonuwnK⚓**never ending.⚓ N|PASS|PCPL|LEM:mamonuwn|ROOT:mnn|M|INDEF|GEN★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6105,
+        "text": "famaA⚓Then what⚓INTG|LEM:maA★yuka*~ibuka⚓causes you to deny⚓ V|IMPF|(II)|LEM:ka*~aba|ROOT:k*b|3MS★baEodu⚓after (this)⚓ T|LEM:baEod|ROOT:bEd★bi{ld~iyni⚓the judgment?⚓ N|LEM:diyn|ROOT:dyn|M|GEN★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6106,
+        "text": ">alayosa⚓Is not⚓V|PERF|LEM:l~ayosa|ROOT:lys|SP:kaAn|3MS★{ll~ahu⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|NOM★bi>aHokami⚓(the) Most Just⚓ N|LEM:>aHokam|ROOT:Hkm|MS|GEN★{loHa`kimiyna⚓(of) the Judges?⚓ N|ACT|PCPL|LEM:Ha`kimiyn|ROOT:Hkm|MP|GEN★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 537,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

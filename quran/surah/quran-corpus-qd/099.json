@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6139,
+        "text": "<i*aA⚓When⚓T|LEM:<i*aA★zulozilati⚓is shaken⚓ V|PERF|PASS|LEM:zulozilu|ROOT:zlzl|3FS★{lo>aroDu⚓the earth⚓ N|LEM:>aroD|ROOT:ArD|F|NOM★zilozaAlahaA⚓with its earthquake,⚓ N|LEM:zilozaAl|ROOT:zlzl|M|ACC★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6140,
+        "text": "wa>axorajati⚓And brings forth⚓V|PERF|(IV)|LEM:>axoraja|ROOT:xrj|3FS★{lo>aroDu⚓the earth⚓ N|LEM:>aroD|ROOT:ArD|F|NOM★>avoqaAlahaA⚓its burdens,⚓ N|LEM:v~aqalaAn|ROOT:vql|MP|ACC★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6141,
+        "text": "waqaAla⚓And says⚓V|PERF|LEM:qaAla|ROOT:qwl|3MS★{lo<insa`nu⚓man,⚓ N|LEM:<insa`n|ROOT:Ans|M|NOM★maA⚓`What⚓ INTG|LEM:maA★lahaA⚓(is) with it?`⚓ PRON|3FS★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6142,
+        "text": "yawoma}i*K⚓That Day,⚓T|LEM:yawoma}i*★tuHad~ivu⚓it will report⚓ V|IMPF|(II)|LEM:tuHad~ivu|ROOT:Hdv|3FS★>axobaArahaA⚓its news,⚓ N|LEM:>axobaAr|ROOT:xbr|MP|ACC★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6143,
+        "text": "bi>an~a⚓Because⚓ACC|LEM:>an~|SP:<in~★rab~aka⚓your Lord⚓ N|LEM:rab~|ROOT:rbb|M|ACC★>awoHaY`⚓inspired⚓ V|PERF|(IV)|LEM:>awoHaY`^|ROOT:wHy|3MS★lahaA⚓[to] it.⚓ PRON|3FS★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6144,
+        "text": "yawoma}i*K⚓That Day⚓T|LEM:yawoma}i*★yaSoduru⚓will proceed⚓ V|IMPF|LEM:yaSoduru|ROOT:Sdr|3MS★{ln~aAsu⚓the mankind⚓ N|LEM:n~aAs|ROOT:nws|MP|NOM★>a$otaAtFA⚓(in) scattered groups⚓ N|LEM:>a$otaAt|ROOT:$tt|MP|INDEF|ACC★l~iyurawoA@⚓to be shown⚓ V|IMPF|PASS|(IV)|LEM:>arayo|ROOT:rAy|3MP|MOOD:SUBJ★>aEoma`lahumo⚓their deeds.⚓ N|LEM:Eamal|ROOT:Eml|MP|ACC★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6145,
+        "text": "faman⚓So whoever⚓COND|LEM:man★yaEomalo⚓does⚓ V|IMPF|LEM:Eamila|ROOT:Eml|3MS|MOOD:JUS★mivoqaAla⚓(equal to the) weight⚓ N|LEM:mivoqaAl|ROOT:vql|M|ACC★*ar~apK⚓(of) an atom⚓ N|LEM:*ar~ap|ROOT:*rr|F|INDEF|GEN★xayorFA⚓good,⚓ N|LEM:xayor|ROOT:xyr|MS|INDEF|ACC★yarahu,⚓will see it,⚓ V|IMPF|LEM:ra'aA|ROOT:rAy|3MS|MOOD:JUS★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6146,
+        "text": "waman⚓And whoever⚓COND|LEM:man★yaEomalo⚓does⚓ V|IMPF|LEM:Eamila|ROOT:Eml|3MS|MOOD:JUS★mivoqaAla⚓(equal to the) weight⚓ N|LEM:mivoqaAl|ROOT:vql|M|ACC★*ar~apK⚓(of) an atom⚓ N|LEM:*ar~ap|ROOT:*rr|F|INDEF|GEN★$ar~FA⚓evil,⚓ N|LEM:$ar~|ROOT:$rr|MS|INDEF|ACC★yarahu,⚓will see it.⚓ V|IMPF|LEM:ra'aA|ROOT:rAy|3MS|MOOD:JUS★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 541,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

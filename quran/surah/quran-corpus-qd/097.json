@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "<in~aA^⚓Indeed, We⚓ACC|LEM:<in~|SP:<in~★>anzalona`hu⚓revealed it⚓ V|PERF|(IV)|LEM:>anzala|ROOT:nzl|1P★fiY⚓in⚓ P|LEM:fiY★layolapi⚓(the) Night⚓ N|LEM:layolap|ROOT:lyl|F|GEN★{loqadori⚓(of) Power.⚓ N|LEM:qador|ROOT:qdr|M|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "wamaA^⚓And what⚓INTG|LEM:maA★>adoraY`ka⚓can make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★layolapu⚓(the) Night⚓ N|LEM:layolap|ROOT:lyl|F|NOM★{loqadori⚓(of) Power (is)?⚓ N|LEM:qador|ROOT:qdr|M|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "layolapu⚓(The) Night⚓N|LEM:layolap|ROOT:lyl|F|NOM★{loqadori⚓(of) Power⚓ N|LEM:qador|ROOT:qdr|M|GEN★xayorN⚓(is) better⚓ N|LEM:xayor|ROOT:xyr|MS|INDEF|NOM★m~ino⚓than⚓ P|LEM:min★>alofi⚓a thousand⚓ N|LEM:>alof|ROOT:Alf|M|GEN★$ahorK⚓month(s).⚓ N|LEM:$ahor|ROOT:$hr|M|INDEF|GEN★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "tanaz~alu⚓Descend⚓V|IMPF|(V)|LEM:tanaz~alato|ROOT:nzl|3FS★{lomala`^}ikapu⚓the Angels⚓ N|LEM:malak|ROOT:mlk|MP|NOM★wa{lr~uwHu⚓and the Spirit⚓ N|LEM:ruwH|ROOT:rwH|M|NOM★fiyhaA⚓therein,⚓ P|LEM:fiY★bi<i*oni⚓by (the) permission⚓ N|LEM:<i*on|ROOT:A*n|M|GEN★rab~ihim⚓(of) their Lord,⚓ N|LEM:rab~|ROOT:rbb|M|GEN★m~in⚓for⚓ P|LEM:min★kul~i⚓every⚓ N|LEM:kul~|ROOT:kll|M|GEN★>amorK⚓affair,⚓ N|LEM:>amor|ROOT:Amr|M|INDEF|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "sala`mN⚓Peace⚓N|LEM:sala`m|ROOT:slm|M|INDEF|NOM★hiYa⚓it (is)⚓ PRON|3FS★Hat~aY`⚓until⚓ P|LEM:Hat~aY`★maTolaEi⚓(the) emergence⚓ N|LEM:maTolaE|ROOT:TlE|M|GEN★{lofajori⚓(of) the dawn.⚓ N|LEM:fajor|ROOT:fjr|M|GEN★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

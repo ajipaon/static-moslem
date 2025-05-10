@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "wayolN⚓Woe⚓N|LEM:wayol|M|INDEF|NOM★l~ikul~i⚓to every⚓ N|LEM:kul~|ROOT:kll|M|GEN★humazapK⚓slanderer⚓ N|LEM:humazap|ROOT:hmz|M|INDEF|GEN★l~umazapK⚓backbiter!⚓ N|LEM:l~umazap|ROOT:lmz|F|INDEF|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "{l~a*iY⚓The one who⚓REL|LEM:{l~a*iY|MS★jamaEa⚓collects⚓ V|PERF|LEM:jamaEa|ROOT:jmE|3MS★maAlFA⚓wealth⚓ N|LEM:maAl|ROOT:mwl|M|INDEF|ACC★waEad~adahu,⚓and counts it.⚓ V|PERF|(II)|LEM:Ead~ada|ROOT:Edd|3MS★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "yaHosabu⚓Thinking⚓V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS★>an~a⚓that⚓ ACC|LEM:>an~|SP:<in~★maAlahu,^⚓his wealth⚓ N|LEM:maAl|ROOT:mwl|M|ACC★>axoladahu,⚓will make him immortal⚓ V|PERF|(IV)|LEM:>axolada|ROOT:xld|3MS★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★layun[ba*an~a⚓Surely he will be thrown⚓ V|IMPF|PASS|LEM:naba*a|ROOT:nb*|3MS★fiY⚓in⚓ P|LEM:fiY★{loHuTamapi⚓the Crusher.⚓ N|LEM:HuTamap|ROOT:HTm|F|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "wamaA^⚓And what⚓INTG|LEM:maA★>adoraY`ka⚓will make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★{loHuTamapu⚓the Crusher (is)?⚓ N|LEM:HuTamap|ROOT:HTm|F|NOM★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "naAru⚓A Fire⚓N|LEM:naAr|ROOT:nwr|F|NOM★{ll~ahi⚓**kindled by Allah,⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★{lomuwqadapu⚓**kindled by Allah,⚓ ADJ|PASS|PCPL|(IV)|LEM:muwqadap|ROOT:wqd|F|NOM★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "{l~atiY⚓Which⚓REL|LEM:{l~a*iY|FS★taT~aliEu⚓mounts up⚓ V|IMPF|(VIII)|LEM:T~alaEa|ROOT:TlE|3FS★EalaY⚓to⚓ P|LEM:EalaY`★{lo>afo_#idapi⚓the hearts.⚓ N|LEM:fu&aAd|ROOT:fAd|MP|GEN★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "<in~ahaA⚓Indeed, it⚓ACC|LEM:<in~|SP:<in~★Ealayohim⚓(will be) upon them⚓ P|LEM:EalaY`★m~u&oSadapN⚓closed over,⚓ N|LEM:m~u&oSadap|ROOT:wSd|F|INDEF|NOM★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "fiY⚓In⚓P|LEM:fiY★EamadK⚓columns⚓ N|LEM:Eamad|ROOT:Emd|MP|INDEF|GEN★m~umad~adapK]⚓extended.⚓ ADJ|PASS|PCPL|(II)|LEM:m~umad~adap|ROOT:mdd|F|INDEF|GEN★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

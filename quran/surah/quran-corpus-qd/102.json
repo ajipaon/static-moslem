@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": ">alohaY`kumu⚓Diverts you⚓V|PERF|(IV)|LEM:>alohaY`|ROOT:lhw|3MS★{lt~akaAvuru⚓the competition to increase⚓ N|VN|(III)|LEM:t~akaAvur|ROOT:kvr|M|NOM★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "Hat~aY`⚓Until⚓INC|LEM:Hat~aY`★zurotumu⚓you visit⚓ V|PERF|LEM:zuro|ROOT:zwr|2MP★{lomaqaAbira⚓the graves.⚓ N|LEM:maqaAbir|ROOT:qbr|MP|ACC★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★sawofa⚓Soon⚓ FUT|LEM:sawof★taEolamuwna⚓you will know.⚓ V|IMPF|LEM:Ealima|ROOT:Elm|2MP★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "vum~a⚓Then,⚓CONJ|LEM:vum~★kal~aA⚓nay!⚓ AVR|LEM:kal~aA★sawofa⚓Soon⚓ FUT|LEM:sawof★taEolamuwna⚓you will know.⚓ V|IMPF|LEM:Ealima|ROOT:Elm|2MP★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★lawo⚓If⚓ COND|LEM:law★taEolamuwna⚓you know⚓ V|IMPF|LEM:Ealima|ROOT:Elm|2MP★Eiloma⚓(with) a knowledge⚓ N|LEM:Eilom|ROOT:Elm|M|ACC★{loyaqiyni⚓(of) certainty.⚓ N|LEM:yaqiyn|ROOT:yqn|MS|GEN★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "latarawun~a⚓Surely you will see⚓V|IMPF|LEM:ra'aA|ROOT:rAy|2MP★{lojaHiyma⚓the Hellfire.⚓ N|LEM:jaHiym|ROOT:jHm|F|ACC★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "vum~a⚓Then⚓CONJ|LEM:vum~★latarawun~ahaA⚓surely you will see it⚓ V|IMPF|LEM:ra'aA|ROOT:rAy|2MP★Eayona⚓(with the) eye⚓ N|LEM:Eayon|ROOT:Eyn|F|ACC★{loyaqiyni⚓(of) certainty.⚓ N|LEM:yaqiyn|ROOT:yqn|MS|GEN★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "vum~a⚓Then,⚓CONJ|LEM:vum~★latuso_#alun~a⚓surely you will be asked⚓ V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP★yawoma}i*K⚓that Day⚓ T|LEM:yawoma}i*★Eani⚓about⚓ P|LEM:Ean★{ln~aEiymi⚓the pleasures.⚓ N|LEM:naEiym|ROOT:nEm|M|GEN★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "wa{loEaSori⚓By the time,⚓N|LEM:EaSor|ROOT:ESr|M|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "<in~a⚓Indeed,⚓ACC|LEM:<in~|SP:<in~★{lo<insa`na⚓mankind⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★lafiY⚓(is) surely, in⚓ P|LEM:fiY★xusorK⚓loss,⚓ N|LEM:xusor|ROOT:xsr|M|INDEF|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "<il~aA⚓Except⚓EXP|LEM:<il~aA★{l~a*iyna⚓those who⚓ REL|LEM:{l~a*iY|MP★'aAmanuwA@⚓believe⚓ V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|3MP★waEamiluwA@⚓and do⚓ V|PERF|LEM:Eamila|ROOT:Eml|3MP★{lS~a`liHa`ti⚓righteous deeds⚓ N|ACT|PCPL|LEM:S~a`liHa`t|ROOT:SlH|FP|ACC★watawaASawoA@⚓and enjoin each other⚓ V|PERF|(VI)|LEM:tawaASa|ROOT:wSy|3MP★bi{loHaq~i⚓to the truth⚓ N|LEM:Haq~|ROOT:Hqq|M|GEN★watawaASawoA@⚓and enjoin each other⚓ V|PERF|(VI)|LEM:tawaASa|ROOT:wSy|3MP★bi{lS~abori⚓to [the] patience.⚓ N|LEM:Sabor|ROOT:Sbr|M|GEN★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

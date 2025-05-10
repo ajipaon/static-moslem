@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "<i*aA⚓When⚓T|LEM:<i*aA★{l$~amosu⚓the sun⚓ N|LEM:$amos|ROOT:$ms|F|NOM★kuw~irato⚓is wrapped up,⚓ V|PERF|PASS|(II)|LEM:kuw~irato|ROOT:kwr|3FS★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{ln~ujuwmu⚓the stars⚓ N|LEM:n~ajom|ROOT:njm|MP|NOM★{nkadarato⚓fall, losing their luster⚓ V|PERF|(VII)|LEM:{nkadarato|ROOT:kdr|3FS★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lojibaAlu⚓the mountains⚓ N|LEM:jabal|ROOT:jbl|MP|NOM★suy~irato⚓are moved away,⚓ V|PERF|PASS|(II)|LEM:suy~irato|ROOT:syr|3FS★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{loEi$aAru⚓the full-term she-camels⚓ N|LEM:Ei$aAr|ROOT:E$r|MP|NOM★EuT~ilato⚓(are) left untended;⚓ V|PERF|PASS|(II)|LEM:EuT~ilato|ROOT:ETl|3FS★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lowuHuw$u⚓the wild beasts⚓ N|LEM:wuHuw$|ROOT:wH$|MP|NOM★Hu$irato⚓are gathered,⚓ V|PERF|PASS|LEM:Ha$ara|ROOT:H$r|3FS★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lobiHaAru⚓the seas⚓ N|LEM:baHor|ROOT:bHr|MP|NOM★suj~irato⚓are made to overflow,⚓ V|PERF|PASS|(II)|LEM:suj~irato|ROOT:sjr|3FS★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{ln~ufuwsu⚓the souls⚓ N|LEM:nafos|ROOT:nfs|FP|NOM★zuw~ijato⚓are paired,⚓ V|PERF|PASS|(II)|LEM:zuw~ijato|ROOT:zwj|3FS★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lomawo'u,dapu⚓the female infant buried alive⚓ N|PASS|PCPL|LEM:mawo'udap|ROOT:wAd|F|NOM★su}ilato⚓is asked⚓ V|PERF|PASS|LEM:sa>ala|ROOT:sAl|3FS★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "bi>aY~i⚓For what⚓INTG|LEM:>aY~|GEN★*an[bK⚓sin⚓ N|LEM:*anb|ROOT:*nb|M|INDEF|GEN★qutilato⚓she was killed.⚓ V|PERF|PASS|LEM:qatala|ROOT:qtl|3FS★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lS~uHufu⚓the pages⚓ N|LEM:SuHuf|ROOT:SHf|FP|NOM★nu$irato⚓are laid open,⚓ V|PERF|PASS|LEM:nu$irato|ROOT:n$r|3FS★",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{ls~amaA^'u⚓the sky⚓ N|LEM:samaA^'|ROOT:smw|F|NOM★ku$iTato⚓is stripped away,⚓ V|PERF|PASS|LEM:ku$iTato|ROOT:k$T|3FS★",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lojaHiymu⚓the Hellfire⚓ N|LEM:jaHiym|ROOT:jHm|F|NOM★suE~irato⚓is set ablaze,⚓ V|PERF|PASS|(II)|LEM:suE~irato|ROOT:sEr|3FS★",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lojan~apu⚓Paradise⚓ PN|LEM:jan~ap|ROOT:jnn|F|NOM★>uzolifato⚓is brought near,⚓ V|PERF|PASS|(IV)|LEM:>uzolifato|ROOT:zlf|3FS★",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "Ealimato⚓Will know⚓V|PERF|LEM:Ealima|ROOT:Elm|3FS★nafosN⚓a soul⚓ N|LEM:nafos|ROOT:nfs|FS|INDEF|NOM★m~aA^⚓what⚓ REL|LEM:maA★>aHoDarato⚓it has brought.⚓ V|PERF|(IV)|LEM:>aHoDarato|ROOT:HDr|3FS★",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "falaA^⚓But nay!⚓NEG|LEM:laA★>uqosimu⚓I swear⚓ V|IMPF|(IV)|LEM:>aqosamu|ROOT:qsm|1S★bi{loxun~asi⚓by the retreating planets,⚓ N|LEM:xun~as|ROOT:xns|MP|GEN★",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "{lojawaAri⚓Those that run⚓ADJ|ACT|PCPL|LEM:jawaAr|ROOT:jry|FP|GEN★{lokun~asi⚓(and) disappear,⚓ ADJ|LEM:kun~as|ROOT:kns|MP|GEN★",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "wa{l~ayoli⚓And the night⚓N|LEM:layol|ROOT:lyl|M|GEN★<i*aA⚓when⚓ T|LEM:<i*aA★EasoEasa⚓it departs,⚓ V|PERF|LEM:EasoEasa|ROOT:EsEs|3MS★",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "wa{lS~uboHi⚓And the dawn⚓N|LEM:SuboH|ROOT:SbH|M|GEN★<i*aA⚓when⚓ T|LEM:<i*aA★tanaf~asa⚓it breathes⚓ V|PERF|(V)|LEM:tanaf~asa|ROOT:nfs|3MS★",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "<in~ahu,⚓Indeed, it⚓ACC|LEM:<in~|SP:<in~★laqawolu⚓(is) surely a word⚓ N|VN|LEM:qawol|ROOT:qwl|M|NOM★rasuwlK⚓(of) a Messenger⚓ N|LEM:rasuwl|ROOT:rsl|M|INDEF|GEN★kariymK⚓noble,⚓ ADJ|LEM:kariym|ROOT:krm|MS|INDEF|GEN★",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "*iY⚓**Possessor of power,⚓N|LEM:*uw|MS|GEN★quw~apK⚓**Possessor of power,⚓ N|LEM:quw~ap|ROOT:qwy|F|INDEF|GEN★Einda⚓with⚓ LOC|LEM:Eind|ROOT:End|ACC★*iY⚓**(the) Owner of the Throne⚓ N|LEM:*uw|MS|GEN★{loEaro$i⚓**(the) Owner of the Throne⚓ N|LEM:Earo$|ROOT:Er$|M|GEN★makiynK⚓secure,⚓ ADJ|LEM:m~akiyn|ROOT:mkn|MS|INDEF|GEN★",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "m~uTaAEK⚓One to be obeyed⚓ADJ|PASS|PCPL|(IV)|LEM:m~uTaAE|ROOT:TwE|M|INDEF|GEN★vam~a⚓and⚓ LOC|LEM:vam~★>amiynK⚓trustworthy,⚓ ADJ|LEM:>amiyn|ROOT:Amn|MS|INDEF|GEN★",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "wamaA⚓And not⚓NEG|LEM:maA|SP:kaAn★SaAHibukum⚓(is) your companion⚓ N|LEM:SaAHib|ROOT:SHb|NOM★bimajonuwnK⚓mad.⚓ N|PASS|PCPL|LEM:majonuwn|ROOT:jnn|M|INDEF|GEN★",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "walaqado⚓And certainly⚓CERT|LEM:qad★ra'aAhu⚓he saw him⚓ V|PERF|LEM:ra'aA|ROOT:rAy|3MS★bi{lo>ufuqi⚓in the horizon⚓ N|LEM:>ufuq|ROOT:Afq|M|GEN★{lomubiyni⚓the clear.⚓ ADJ|ACT|PCPL|(IV)|LEM:m~ubiyn|ROOT:byn|M|GEN★",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "wamaA⚓And not⚓NEG|LEM:maA|SP:kaAn★huwa⚓he (is)⚓ PRON|3MS★EalaY⚓on⚓ P|LEM:EalaY`★{logayobi⚓the unseen⚓ N|LEM:gayob|ROOT:gyb|M|GEN★biDaniynK⚓a withholder.⚓ N|LEM:Daniyn|ROOT:Dnn|MS|INDEF|GEN★",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "wamaA⚓And not⚓NEG|LEM:maA|SP:kaAn★huwa⚓it⚓ PRON|3MS★biqawoli⚓(is the) word⚓ N|VN|LEM:qawol|ROOT:qwl|M|GEN★$ayoTa`nK⚓(of) Shaitaan⚓ N|LEM:$ayoTa`n|ROOT:$Tn|M|INDEF|GEN★r~ajiymK⚓accursed.⚓ ADJ|LEM:rajiym|ROOT:rjm|MS|INDEF|GEN★",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "fa>ayona⚓So where⚓INTG|LEM:>ayon★ta*ohabuwna⚓are you going?⚓ V|IMPF|LEM:*ahaba|ROOT:*hb|2MP★",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "<ino⚓Not⚓NEG|LEM:<in★huwa⚓it⚓ PRON|3MS★<il~aA⚓(is) except⚓ RES|LEM:<il~aA★*ikorN⚓a reminder⚓ N|VN|LEM:*ikor|ROOT:*kr|M|INDEF|NOM★l~iloEa`lamiyna⚓to the worlds,⚓ N|LEM:Ea`lamiyn|ROOT:Elm|MP|GEN★",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "liman⚓For whoever⚓REL|LEM:man★$aA^'a⚓wills⚓ V|PERF|LEM:$aA^'a|ROOT:$yA|3MS★minkumo⚓among you⚓ P|LEM:min★>an⚓to⚓ SUB|LEM:>an★yasotaqiyma⚓take a straight way.⚓ V|IMPF|(X)|LEM:{sotaqa`mu|ROOT:qwm|3MS|MOOD:SUBJ★",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "wamaA⚓And not⚓NEG|LEM:maA★ta$aA^'uwna⚓you will⚓ V|IMPF|LEM:$aA^'a|ROOT:$yA|2MP★<il~aA^⚓except⚓ RES|LEM:<il~aA★>an⚓that⚓ SUB|LEM:>an★ya$aA^'a⚓**Allah wills,⚓ V|IMPF|LEM:$aA^'a|ROOT:$yA|3MS|MOOD:SUBJ★{ll~ahu⚓**Allah wills,⚓ PN|LEM:{ll~ah|ROOT:Alh|NOM★rab~u⚓Lord⚓ N|LEM:rab~|ROOT:rbb|M|NOM★{loEa`lamiyna⚓(of) the worlds.⚓ N|LEM:Ea`lamiyn|ROOT:Elm|MP|GEN★",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

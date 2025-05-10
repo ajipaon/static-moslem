@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "wa{loEa`diya`ti⚓By the racers⚓N|ACT|PCPL|LEM:Ea`diya`t|ROOT:Edw|FP|GEN★DaboHFA⚓panting,⚓ N|LEM:DaboH|ROOT:DbH|M|INDEF|ACC★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "fa{lomuwriya`ti⚓And the producers of sparks,⚓N|ACT|PCPL|(IV)|LEM:muwriya`t|ROOT:wry|FP|GEN★qadoHFA⚓striking⚓ N|LEM:qadoH|ROOT:qdH|M|INDEF|ACC★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "fa{lomugiyra`ti⚓And the chargers⚓N|ACT|PCPL|(IV)|LEM:mugiyra`t|ROOT:gyr|FP|GEN★SuboHFA⚓(at) dawn,⚓ T|LEM:SuboH|ROOT:SbH|M|INDEF|ACC★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "fa>avarona⚓Then raise⚓V|PERF|(IV)|LEM:>avaAru|ROOT:vwr|3FP★bihi.⚓thereby⚓ PRON|3MS★naqoEFA⚓dust,⚓ N|LEM:naqoE|ROOT:nqE|M|INDEF|ACC★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "fawasaTona⚓**Then penetrate thereby (in the) center⚓V|PERF|LEM:wasaTo|ROOT:wsT|3FP★bihi.⚓**Then penetrate thereby (in the) center⚓ PRON|3MS★jamoEFA⚓(of) troops,⚓ N|LEM:jamoE|ROOT:jmE|M|INDEF|ACC★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "<in~a⚓Indeed,⚓ACC|LEM:<in~|SP:<in~★{lo<insa`na⚓mankind,⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★lirab~ihi.⚓to his Lord,⚓ N|LEM:rab~|ROOT:rbb|M|GEN★lakanuwdN⚓(is) surely ungrateful.⚓ N|LEM:kanuwd|ROOT:knd|MS|INDEF|NOM★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "wa<in~ahu,⚓And indeed, he⚓ACC|LEM:<in~|SP:<in~★EalaY`⚓to⚓ P|LEM:EalaY`★*a`lika⚓that⚓ DEM|LEM:*a`lik|MS★la$ahiydN⚓surely (is) a witness,⚓ N|LEM:$ahiyd|ROOT:$hd|MS|INDEF|NOM★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "wa<in~ahu,⚓And indeed he (is),⚓ACC|LEM:<in~|SP:<in~★liHub~i⚓in (the) love⚓ N|LEM:Hub~|ROOT:Hbb|M|GEN★{loxayori⚓(of) wealth⚓ N|LEM:xayor|ROOT:xyr|MS|GEN★la$adiydN⚓(is) surely intense.⚓ N|LEM:$adiyd|ROOT:$dd|MS|INDEF|NOM★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": ">afalaA⚓But does not⚓NEG|LEM:laA★yaEolamu⚓he know⚓ V|IMPF|LEM:Ealima|ROOT:Elm|3MS★<i*aA⚓when⚓ T|LEM:<i*aA★buEovira⚓will be scattered⚓ V|PERF|PASS|LEM:buEovira|ROOT:bEvr|3MS★maA⚓what⚓ REL|LEM:maA★fiY⚓(is) in⚓ P|LEM:fiY★{loqubuwri⚓the graves,⚓ N|LEM:qabor|ROOT:qbr|MP|GEN★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "waHuS~ila⚓And is made apparent⚓V|PERF|PASS|(II)|LEM:HuS~ila|ROOT:HSl|3MS★maA⚓what⚓ REL|LEM:maA★fiY⚓(is) in⚓ P|LEM:fiY★{lS~uduwri⚓the breasts?⚓ N|LEM:Sador|ROOT:Sdr|MP|GEN★",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "<in~a⚓Indeed,⚓ACC|LEM:<in~|SP:<in~★rab~ahum⚓their Lord⚓ N|LEM:rab~|ROOT:rbb|M|ACC★bihimo⚓about them,⚓ PRON|3MP★yawoma}i*K⚓that Day,⚓ T|LEM:yawoma}i*★l~axabiyrN[⚓(is) surely All-Aware.⚓ N|LEM:xabiyr|ROOT:xbr|MS|INDEF|NOM★",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

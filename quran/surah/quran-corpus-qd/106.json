@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "li<iyla`fi⚓For (the) familiarity⚓N|VN|(IV)|LEM:<ila`f|ROOT:Alf|M|GEN★qurayo$K⚓(of the) Quraish,⚓ PN|LEM:qurayo$|P|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "<i.la`fihimo⚓Their familiarity⚓N|VN|(IV)|LEM:<ila`f|ROOT:Alf|M|GEN★riHolapa⚓(with the) journey⚓ N|LEM:riHolap|ROOT:rHl|F|ACC★{l$~itaA^'i⚓(of) winter⚓ N|LEM:$~itaA^'|ROOT:$tw|M|GEN★wa{lS~ayofi⚓and summer,⚓ N|LEM:S~ayof|ROOT:Syf|M|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "faloyaEobuduwA@⚓So let them worship⚓V|IMPF|LEM:Eabada|ROOT:Ebd|3MP|MOOD:JUS★rab~a⚓(the) Lord⚓ N|LEM:rab~|ROOT:rbb|M|ACC★ha`*aA⚓(of) this⚓ DEM|LEM:ha`*aA|MS★{lobayoti⚓House,⚓ N|LEM:bayot|ROOT:byt|M|GEN★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "{l~a*iY^⚓The One Who⚓REL|LEM:{l~a*iY|MS★>aToEamahum⚓feeds them⚓ V|PERF|(IV)|LEM:>aToEama|ROOT:TEm|3MS★m~in⚓against⚓ P|LEM:min★juwEK⚓hunger⚓ N|LEM:juwE|ROOT:jwE|M|INDEF|GEN★wa'aAmanahum⚓and gives them security⚓ V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|3MS★m~ino⚓against⚓ P|LEM:min★xawofK]⚓fear.⚓ N|LEM:xawof|ROOT:xwf|M|INDEF|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

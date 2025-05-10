@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": ">alamo⚓Have not⚓NEG|LEM:lam★tara⚓you seen⚓ V|IMPF|LEM:ra'aA|ROOT:rAy|2MS|MOOD:JUS★kayofa⚓how⚓ INTG|LEM:kayof|ROOT:kyf★faEala⚓dealt⚓ V|PERF|LEM:faEala|ROOT:fEl|3MS★rab~uka⚓your Lord⚓ N|LEM:rab~|ROOT:rbb|M|NOM★bi>aSoHa`bi⚓with (the) Companions⚓ N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN★{lofiyli⚓(of the) Elephant?⚓ N|LEM:fiyl|ROOT:fyl|M|GEN★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": ">alamo⚓Did not⚓NEG|LEM:lam★yajoEalo⚓He make⚓ V|IMPF|LEM:jaEala|ROOT:jEl|3MS|MOOD:JUS★kayodahumo⚓their plan⚓ N|LEM:kayod|ROOT:kyd|M|ACC★fiY⚓**go astray?⚓ P|LEM:fiY★taDoliylK⚓**go astray?⚓ N|VN|(II)|LEM:taDoliyl|ROOT:Dll|M|INDEF|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "wa>arosala⚓And He sent⚓V|PERF|(IV)|LEM:>arosala|ROOT:rsl|3MS★Ealayohimo⚓against them⚓ P|LEM:EalaY`★TayorFA⚓birds⚓ N|LEM:Tayor|ROOT:Tyr|MP|INDEF|ACC★>abaAbiyla⚓(in) flocks.⚓ ADJ|LEM:>abaAbiyl|ROOT:Abl|MP|INDEF|ACC★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "taromiyhim⚓Striking them⚓V|IMPF|LEM:ramaY`|ROOT:rmy|3FS★biHijaArapK⚓with stones⚓ N|LEM:HijaArap|ROOT:Hjr|F|INDEF|GEN★m~in⚓of⚓ P|LEM:min★sij~iylK⚓baked clay.⚓ N|LEM:sij~iyl|ROOT:sjl|M|INDEF|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "fajaEalahumo⚓Then He made them⚓V|PERF|LEM:jaEala|ROOT:jEl|3MS★kaEaSofK⚓like straw⚓ N|LEM:EaSof|ROOT:ESf|M|INDEF|GEN★m~a>okuwlK]⚓eaten up.⚓ ADJ|PASS|PCPL|LEM:m~a>okuwl|ROOT:Akl|M|INDEF|GEN★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

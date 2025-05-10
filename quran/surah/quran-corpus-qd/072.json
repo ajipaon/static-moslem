@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "qulo⚓Say,⚓V|IMPV|LEM:qaAla|ROOT:qwl|2MS★>uwHiYa⚓`It has been revealed⚓ V|PERF|PASS|(IV)|LEM:>awoHaY`^|ROOT:wHy|3MS★<ilaY~a⚓to me⚓ P|LEM:<ilaY`★>an~ahu⚓that⚓ ACC|LEM:>an~|SP:<in~★{sotamaEa⚓listened⚓ V|PERF|(VIII)|LEM:{sotamaEa|ROOT:smE|3MS★nafarN⚓a group⚓ N|LEM:nafar|ROOT:nfr|M|INDEF|NOM★m~ina⚓of⚓ P|LEM:min★{lojin~i⚓the jinn,⚓ N|LEM:jin~|ROOT:jnn|M|GEN★faqaAluw^A@⚓and they said,⚓ V|PERF|LEM:qaAla|ROOT:qwl|3MP★<in~aA⚓`Indeed, we⚓ ACC|LEM:<in~|SP:<in~★samiEonaA⚓heard⚓ V|PERF|LEM:samiEa|ROOT:smE|1P★quro'aAnFA⚓a Quran⚓ PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC★EajabFA⚓amazing,⚓ ADJ|LEM:Eajab|ROOT:Ejb|MS|INDEF|ACC★",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "yahodiY^⚓It guides⚓V|IMPF|LEM:hadaY|ROOT:hdy|3MS★<ilaY⚓to⚓ P|LEM:<ilaY`★{lr~u$odi⚓the right way,⚓ N|LEM:ru$od|ROOT:r$d|M|GEN★fa_#aAman~aA⚓so we believe⚓ V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|1P★bihi.⚓in it,⚓ PRON|3MS★walan⚓and never⚓ NEG|LEM:lan★n~u$orika⚓we will associate⚓ V|IMPF|(IV)|LEM:>a$oraka|ROOT:$rk|1P|MOOD:SUBJ★birab~inaA^⚓with our Lord⚓ N|LEM:rab~|ROOT:rbb|M|GEN★>aHadFA⚓anyone.⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|ACC★",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "wa>an~ahu,⚓And that He -⚓ACC|LEM:>an~|SP:<in~★taEa`laY`⚓Exalted is⚓ V|PERF|LEM:taEa`laY`|ROOT:Elw|3MS★jad~u⚓(the) Majesty⚓ N|LEM:jad~|ROOT:jdd|M|NOM★rab~inaA⚓(of) our Lord -⚓ N|LEM:rab~|ROOT:rbb|M|GEN★maA⚓not⚓ NEG|LEM:maA★{t~axa*a⚓He has taken⚓ V|PERF|(VIII)|LEM:{t~axa*a|ROOT:Ax*|3MS★Sa`HibapF⚓a wife⚓ N|LEM:Sa`Hibap|ROOT:SHb|F|INDEF|ACC★walaA⚓and not⚓ NEG|LEM:laA★waladFA⚓a son,⚓ N|LEM:walad|ROOT:wld|M|INDEF|ACC★",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "wa>an~ahu,⚓And that he⚓ACC|LEM:>an~|SP:<in~★kaAna⚓used⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MS★yaquwlu⚓(to) speak -⚓ V|IMPF|LEM:qaAla|ROOT:qwl|3MS★safiyhunaA⚓the foolish among us⚓ N|LEM:safiyh|ROOT:sfh|M|NOM★EalaY⚓against⚓ P|LEM:EalaY`★{ll~ahi⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★$aTaTFA⚓an excessive transgression.⚓ N|LEM:$aTaT|ROOT:$TT|M|INDEF|ACC★",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "wa>an~aA⚓And that we⚓ACC|LEM:>an~|SP:<in~★Zanan~aA^⚓thought⚓ V|PERF|LEM:Zan~a|ROOT:Znn|1P★>an⚓that⚓ SUB|LEM:>an★l~an⚓never⚓ NEG|LEM:lan★taquwla⚓will say⚓ V|IMPF|LEM:qaAla|ROOT:qwl|3FS|MOOD:SUBJ★{lo<insu⚓the men⚓ N|LEM:<ins|ROOT:Ans|M|NOM★wa{lojin~u⚓and the jinn,⚓ N|LEM:jin~|ROOT:jnn|M|NOM★EalaY⚓against⚓ P|LEM:EalaY`★{ll~ahi⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★ka*ibFA⚓any lie.⚓ N|LEM:ka*ib|ROOT:k*b|M|INDEF|ACC★",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "wa>an~ahu,⚓And that⚓ACC|LEM:>an~|SP:<in~★kaAna⚓(there) were⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MS★rijaAlN⚓men⚓ N|LEM:rijaAl|ROOT:rjl|MP|INDEF|NOM★m~ina⚓among⚓ P|LEM:min★{lo<insi⚓mankind⚓ N|LEM:<ins|ROOT:Ans|M|GEN★yaEuw*uwna⚓who sought refuge⚓ V|IMPF|LEM:Eu*o|ROOT:Ew*|3MP★birijaAlK⚓in (the) men⚓ N|LEM:rijaAl|ROOT:rjl|MP|INDEF|GEN★m~ina⚓from⚓ P|LEM:min★{lojin~i⚓the jinn,⚓ N|LEM:jin~|ROOT:jnn|M|GEN★fazaAduwhumo⚓so they increased them⚓ V|PERF|LEM:zaAda|ROOT:zyd|3MP★rahaqFA⚓(in) burden.⚓ N|LEM:rahaq|ROOT:rhq|M|INDEF|ACC★",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "wa>an~ahumo⚓And that they⚓ACC|LEM:>an~|SP:<in~★Zan~uwA@⚓thought⚓ V|PERF|LEM:Zan~a|ROOT:Znn|3MP★kamaA⚓as⚓ SUB|LEM:maA★Zanantumo⚓you thought⚓ V|PERF|LEM:Zan~a|ROOT:Znn|2MP★>an⚓that⚓ SUB|LEM:>an★l~an⚓never⚓ NEG|LEM:lan★yaboEava⚓**will Allah raise⚓ V|IMPF|LEM:baEava|ROOT:bEv|3MS|MOOD:SUBJ★{ll~ahu⚓**will Allah raise⚓ PN|LEM:{ll~ah|ROOT:Alh|NOM★>aHadFA⚓anyone.⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|ACC★",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "wa>an~aA⚓And that we⚓ACC|LEM:>an~|SP:<in~★lamasonaA⚓sought to touch⚓ V|PERF|LEM:lamasu|ROOT:lms|1P★{ls~amaA^'a⚓the heaven⚓ N|LEM:samaA^'|ROOT:smw|F|ACC★fawajadona`haA⚓but we found it⚓ V|PERF|LEM:wajada|ROOT:wjd|1P★muli}ato⚓filled (with)⚓ V|PERF|PASS|LEM:muli}ato|ROOT:mlA|3FS★HarasFA⚓guards⚓ N|LEM:Haras|ROOT:Hrs|M|INDEF|ACC★$adiydFA⚓severe,⚓ ADJ|LEM:$adiyd|ROOT:$dd|MS|INDEF|ACC★wa$uhubFA⚓and flaming fires.⚓ N|LEM:$uhub|ROOT:$hb|M|INDEF|ACC★",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "wa>an~aA⚓And that we⚓ACC|LEM:>an~|SP:<in~★kun~aA⚓used (to)⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|1P★naqoEudu⚓sit⚓ V|IMPF|LEM:qaEada|ROOT:qEd|1P★minohaA⚓there in⚓ P|LEM:min★maqa`Eida⚓positions⚓ N|LEM:maqoEad|ROOT:qEd|MP|ACC★lils~amoEi⚓for hearing,⚓ N|LEM:samoE|ROOT:smE|M|GEN★faman⚓but (he) who⚓ COND|LEM:man★yasotamiEi⚓listens⚓ V|IMPF|(VIII)|LEM:{sotamaEa|ROOT:smE|3MS|MOOD:JUS★{lo'aAna⚓now⚓ T|LEM:_#a`n|ACC★yajido⚓will find⚓ V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS★lahu,⚓for him⚓ PRON|3MS★$ihaAbFA⚓a flaming fire⚓ N|LEM:$ihaAb|ROOT:$hb|M|INDEF|ACC★r~aSadFA⚓waiting.⚓ ADJ|LEM:raSad|ROOT:rSd|M|INDEF|ACC★",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "wa>an~aA⚓And that we -⚓ACC|LEM:>an~|SP:<in~★laA⚓not⚓ NEG|LEM:laA★nadoriY^⚓we know⚓ V|IMPF|LEM:tadoriY|ROOT:dry|1P★>a$ar~N⚓whether evil⚓ N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM★>uriyda⚓is intended⚓ V|PERF|PASS|(IV)|LEM:>araAda|ROOT:rwd|3MS★biman⚓for (those) who⚓ REL|LEM:man★fiY⚓(are) in⚓ P|LEM:fiY★{lo>aroDi⚓the earth⚓ N|LEM:>aroD|ROOT:ArD|F|GEN★>amo⚓or⚓ CONJ|LEM:>am★>araAda⚓intends⚓ V|PERF|(IV)|LEM:>araAda|ROOT:rwd|3MS★bihimo⚓for them⚓ PRON|3MP★rab~uhumo⚓their Lord⚓ N|LEM:rab~|ROOT:rbb|M|NOM★ra$adFA⚓a right path.⚓ N|LEM:ra$ad|ROOT:r$d|M|INDEF|ACC★",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "wa>an~aA⚓And that⚓ACC|LEM:>an~|SP:<in~★min~aA⚓among us⚓ P|LEM:min★{lS~a`liHuwna⚓(are) the righteous⚓ N|ACT|PCPL|LEM:Sa`liH|ROOT:SlH|MP|NOM★wamin~aA⚓and among us⚓ P|LEM:min★duwna⚓**(are) other than that.⚓ LOC|LEM:duwn|ROOT:dwn|ACC★*a`lika⚓**(are) other than that.⚓ DEM|LEM:*a`lik|MS★kun~aA⚓We⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|1P★TaraA^}iqa⚓(are on) ways⚓ N|LEM:Tariyqap|ROOT:Trq|MP|ACC★qidadFA⚓different.⚓ ADJ|LEM:qidad|ROOT:qdd|MP|INDEF|ACC★",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "wa>an~aA⚓And that we⚓ACC|LEM:>an~|SP:<in~★Zanan~aA^⚓[we] have become certain⚓ V|PERF|LEM:Zan~a|ROOT:Znn|1P★>an⚓that⚓ SUB|LEM:>an★l~an⚓never⚓ NEG|LEM:lan★n~uEojiza⚓**we will cause failure to Allah⚓ V|IMPF|(IV)|LEM:yuEojiza|ROOT:Ejz|1P|MOOD:SUBJ★{ll~aha⚓**we will cause failure to Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|ACC★fiY⚓in⚓ P|LEM:fiY★{lo>aroDi⚓the earth⚓ N|LEM:>aroD|ROOT:ArD|F|GEN★walan⚓and never⚓ NEG|LEM:lan★n~uEojizahu,⚓we can escape Him⚓ V|IMPF|(IV)|LEM:yuEojiza|ROOT:Ejz|1P|MOOD:SUBJ★harabFA⚓(by) flight.⚓ N|LEM:harab|ROOT:hrb|M|INDEF|ACC★",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "wa>an~aA⚓And that⚓ACC|LEM:>an~|SP:<in~★lam~aA⚓when⚓ T|LEM:lam~aA★samiEonaA⚓we heard⚓ V|PERF|LEM:samiEa|ROOT:smE|1P★{lohudaY`^⚓the Guidance⚓ N|LEM:hudFY|ROOT:hdy|M|ACC★'aAman~aA⚓we believed⚓ V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|1P★bihi.⚓in it.⚓ PRON|3MS★faman⚓And whoever⚓ COND|LEM:man★yu&omin[⚓believes⚓ V|IMPF|(IV)|LEM:'aAmana|ROOT:Amn|3MS|MOOD:JUS★birab~ihi.⚓in his Lord,⚓ N|LEM:rab~|ROOT:rbb|M|GEN★falaA⚓then not⚓ NEG|LEM:laA★yaxaAfu⚓he will fear⚓ V|IMPF|LEM:xaAfa|ROOT:xwf|3MS★baxosFA⚓any loss⚓ N|LEM:baxos|ROOT:bxs|MS|INDEF|ACC★walaA⚓and not⚓ NEG|LEM:laA★rahaqFA⚓any burden.⚓ N|LEM:rahaq|ROOT:rhq|M|INDEF|ACC★",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "wa>an~aA⚓And that we,⚓ACC|LEM:>an~|SP:<in~★min~aA⚓among us⚓ P|LEM:min★{lomusolimuwna⚓(are) Muslims⚓ PN|ACT|PCPL|(IV)|LEM:musolim|ROOT:slm|MP|NOM★wamin~aA⚓and among us⚓ P|LEM:min★{loqa`siTuwna⚓(are) unjust.⚓ N|ACT|PCPL|LEM:qa`siTuwn|ROOT:qsT|MP|NOM★famano⚓And whoever⚓ COND|LEM:man★>asolama⚓submits,⚓ V|PERF|(IV)|LEM:>asolama|ROOT:slm|3MS★fa>uw@la`^}ika⚓then those⚓ DEM|LEM:>uwla`^}ik|P★taHar~awoA@⚓have sought⚓ V|PERF|LEM:taHar~a|ROOT:Hry|3MP★ra$adFA⚓(the) right path.⚓ N|LEM:ra$ad|ROOT:r$d|M|INDEF|ACC★",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "wa>am~aA⚓And as for⚓EXL|LEM:>am~aA★{loqa`siTuwna⚓the unjust,⚓ N|ACT|PCPL|LEM:qa`siTuwn|ROOT:qsT|MP|NOM★fakaAnuwA@⚓they will be,⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MP★lijahan~ama⚓for Hell,⚓ PN|LEM:jahan~am|GEN★HaTabFA⚓firewood.``⚓ N|LEM:HaTab|ROOT:HTb|M|INDEF|ACC★",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "wa>al~awi⚓And if⚓SUB|LEM:>an★{sotaqa`muwA@⚓they had remained⚓ V|PERF|(X)|LEM:{sotaqa`mu|ROOT:qwm|3MP★EalaY⚓on⚓ P|LEM:EalaY`★{lT~ariyqapi⚓the Way,⚓ N|LEM:Tariyqap|ROOT:Trq|F|GEN★la>asoqayona`hum⚓surely We (would) have given them to drink⚓ V|PERF|(IV)|LEM:>asoqayo|ROOT:sqy|1P★m~aA^'F⚓water⚓ N|LEM:maA^'|ROOT:mwh|M|INDEF|ACC★gadaqFA⚓(in) abundance,⚓ ADJ|LEM:gadaq|ROOT:gdq|MS|INDEF|ACC★",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "l~inafotinahumo⚓That We might test them⚓V|IMPF|LEM:fatanu|ROOT:ftn|1P|MOOD:SUBJ★fiyhi⚓therein.⚓ P|LEM:fiY★waman⚓And whoever⚓ COND|LEM:man★yuEoriDo⚓turns away⚓ V|IMPF|(IV)|LEM:>aEoraDa|ROOT:ErD|3MS|MOOD:JUS★Ean⚓from⚓ P|LEM:Ean★*ikori⚓the Remembrance⚓ N|VN|LEM:*ikor|ROOT:*kr|M|GEN★rab~ihi.⚓(of) his Lord,⚓ N|LEM:rab~|ROOT:rbb|M|GEN★yasolukohu⚓He will make him enter⚓ V|IMPF|LEM:salaka|ROOT:slk|3MS|MOOD:JUS★Ea*aAbFA⚓a punishment⚓ N|LEM:Ea*aAb|ROOT:E*b|M|INDEF|ACC★SaEadFA⚓severe.⚓ ADJ|LEM:SaEad|ROOT:SEd|MS|INDEF|ACC★",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "wa>an~a⚓And that⚓ACC|LEM:>an~|SP:<in~★{lomasa`jida⚓the masajid⚓ N|LEM:masojid|ROOT:sjd|MP|ACC★lil~ahi⚓(are) for Allah,⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★falaA⚓so (do) not⚓ PRO|LEM:laA★tadoEuwA@⚓call⚓ V|IMPF|LEM:daEaA|ROOT:dEw|2MP|MOOD:JUS★maEa⚓with⚓ LOC|LEM:maE|ACC★{ll~ahi⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★>aHadFA⚓anyone.⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|ACC★",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "wa>an~ahu,⚓And that⚓ACC|LEM:>an~|SP:<in~★lam~aA⚓when⚓ T|LEM:lam~aA★qaAma⚓stood up⚓ V|PERF|LEM:qaAma|ROOT:qwm|3MS★Eabodu⚓(the) slave⚓ N|LEM:Eabod|ROOT:Ebd|M|NOM★{ll~ahi⚓(of) Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★yadoEuwhu⚓calling (upon) Him,⚓ V|IMPF|LEM:daEaA|ROOT:dEw|3MS★kaAduwA@⚓they almost⚓ V|PERF|LEM:kaAda|ROOT:kwd|SP:kaAd|3MP★yakuwnuwna⚓became⚓ V|IMPF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MP★Ealayohi⚓around him⚓ P|LEM:EalaY`★libadFA⚓a compacted mass.⚓ N|LEM:libad|ROOT:lbd|MP|INDEF|ACC★",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "qulo⚓Say,⚓V|IMPV|LEM:qaAla|ROOT:qwl|2MS★<in~amaA^⚓`Only⚓ ACC|LEM:<in~|SP:<in~★>adoEuwA@⚓I call upon⚓ V|IMPF|LEM:daEaA|ROOT:dEw|1S★rab~iY⚓my Lord,⚓ N|LEM:rab~|ROOT:rbb|M|ACC★walaA^⚓and not⚓ NEG|LEM:laA★>u$oriku⚓I associate⚓ V|IMPF|(IV)|LEM:>a$oraka|ROOT:$rk|1S★bihi.^⚓with Him⚓ PRON|3MS★>aHadFA⚓anyone.`⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|ACC★",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "qulo⚓Say,⚓V|IMPV|LEM:qaAla|ROOT:qwl|2MS★<in~iY⚓`Indeed, I⚓ ACC|LEM:<in~|SP:<in~★laA^⚓(do) not⚓ NEG|LEM:laA★>amoliku⚓possess⚓ V|IMPF|LEM:malakato|ROOT:mlk|1S★lakumo⚓for you⚓ PRON|2MP★Dar~FA⚓any harm⚓ N|LEM:Dar~|ROOT:Drr|M|INDEF|ACC★walaA⚓and not⚓ NEG|LEM:laA★ra$adFA⚓right path.`⚓ N|LEM:ra$ad|ROOT:r$d|M|INDEF|ACC★",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "qulo⚓Say,⚓V|IMPV|LEM:qaAla|ROOT:qwl|2MS★<in~iY⚓`Indeed I,⚓ ACC|LEM:<in~|SP:<in~★lan⚓never⚓ NEG|LEM:lan★yujiyraniY⚓can protect me⚓ V|IMPF|(IV)|LEM:yujiyru|ROOT:jwr|3MS|MOOD:SUBJ★mina⚓from⚓ P|LEM:min★{ll~ahi⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★>aHadN⚓anyone,⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|NOM★walano⚓and never⚓ NEG|LEM:lan★>ajida⚓can I find⚓ V|IMPF|LEM:wajada|ROOT:wjd|1S|MOOD:SUBJ★min⚓**besides Him⚓ P|LEM:min★duwnihi.⚓**besides Him⚓ N|LEM:duwn|ROOT:dwn|GEN★mulotaHadFA⚓any refuge.⚓ N|PASS|PCPL|(VIII)|LEM:mulotaHad|ROOT:lHd|M|INDEF|ACC★",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "<il~aA⚓But⚓EXP|LEM:<il~aA★bala`gFA⚓(the) notification⚓ N|LEM:bala`g|ROOT:blg|M|INDEF|ACC★m~ina⚓from⚓ P|LEM:min★{ll~ahi⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★warisa`la`tihi.⚓and His Messages.`⚓ N|LEM:risa`la`t|ROOT:rsl|FP|GEN★waman⚓And whoever⚓ COND|LEM:man★yaEoSi⚓disobeys⚓ V|IMPF|LEM:EaSaA|ROOT:ESy|3MS|MOOD:JUS★{ll~aha⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|ACC★warasuwlahu,⚓and His Messenger,⚓ N|LEM:rasuwl|ROOT:rsl|M|ACC★fa<in~a⚓then indeed,⚓ ACC|LEM:<in~|SP:<in~★lahu,⚓for him⚓ PRON|3MS★naAra⚓(is the) Fire⚓ N|LEM:naAr|ROOT:nwr|F|ACC★jahan~ama⚓(of) Hell,⚓ PN|LEM:jahan~am|GEN★xa`lidiyna⚓(they will) abide⚓ N|ACT|PCPL|LEM:xa`lid|ROOT:xld|MP|ACC★fiyhaA^⚓therein⚓ P|LEM:fiY★>abadFA⚓forever.⚓ T|LEM:>abadFA|ROOT:Abd|M|INDEF|ACC★",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Hat~aY`^⚓Until,⚓INC|LEM:Hat~aY`★<i*aA⚓when⚓ T|LEM:<i*aA★ra>awoA@⚓they see⚓ V|PERF|LEM:ra'aA|ROOT:rAy|3MP★maA⚓what⚓ REL|LEM:maA★yuwEaduwna⚓they are promised,⚓ V|IMPF|PASS|LEM:waEada|ROOT:wEd|3MP★fasayaEolamuwna⚓then they will know⚓ V|IMPF|LEM:Ealima|ROOT:Elm|3MP★mano⚓who⚓ INTG|LEM:man★>aDoEafu⚓(is) weaker⚓ N|LEM:>aDoEaf|ROOT:DEf|MS|NOM★naASirFA⚓(in) helpers⚓ N|ACT|PCPL|LEM:naASir|ROOT:nSr|M|INDEF|ACC★wa>aqal~u⚓and fewer⚓ N|LEM:>aqal~|ROOT:qll|MS|NOM★EadadFA⚓(in) number.⚓ N|LEM:Eadad|ROOT:Edd|M|INDEF|ACC★",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "qulo⚓Say,⚓V|IMPV|LEM:qaAla|ROOT:qwl|2MS★<ino⚓`Not⚓ NEG|LEM:<in★>adoriY^⚓I know⚓ V|IMPF|LEM:tadoriY|ROOT:dry|1S★>aqariybN⚓whether is near⚓ N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM★m~aA⚓what⚓ REL|LEM:maA★tuwEaduwna⚓you are promised⚓ V|IMPF|PASS|LEM:waEada|ROOT:wEd|2MP★>amo⚓or (whether)⚓ CONJ|LEM:>am★yajoEalu⚓will appoint⚓ V|IMPF|LEM:jaEala|ROOT:jEl|3MS★lahu,⚓for it⚓ PRON|3MS★rab~iY^⚓my Lord⚓ N|LEM:rab~|ROOT:rbb|M|NOM★>amadFA⚓a (distant) term.⚓ N|LEM:>amad|ROOT:Amd|M|INDEF|ACC★",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "Ea`limu⚓(The) All-Knower⚓N|ACT|PCPL|LEM:Ea`lim|ROOT:Elm|M|NOM★{logayobi⚓(of) the unseen,⚓ N|LEM:gayob|ROOT:gyb|M|GEN★falaA⚓so not⚓ NEG|LEM:laA★yuZohiru⚓**He reveals⚓ V|IMPF|(IV)|LEM:>aZohara|ROOT:Zhr|3MS★EalaY`⚓**He reveals⚓ P|LEM:EalaY`★gayobihi.^⚓His unseen⚓ N|LEM:gayob|ROOT:gyb|M|GEN★>aHadFA⚓(to) anyone,⚓ N|LEM:>aHad|ROOT:AHd|M|INDEF|ACC★",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "<il~aA⚓Except⚓EXP|LEM:<il~aA★mani⚓whom⚓ REL|LEM:man★{rotaDaY`⚓He has approved⚓ V|PERF|(VIII)|LEM:{rotaDaY`|ROOT:rDw|3MS★min⚓of⚓ P|LEM:min★r~asuwlK⚓a Messenger,⚓ N|LEM:rasuwl|ROOT:rsl|M|INDEF|GEN★fa<in~ahu,⚓and indeed, He⚓ ACC|LEM:<in~|SP:<in~★yasoluku⚓makes to march⚓ V|IMPF|LEM:salaka|ROOT:slk|3MS★min[⚓from⚓ P|LEM:min★bayoni⚓**before him⚓ N|LEM:bayon|ROOT:byn|GEN★yadayohi⚓**before him⚓ N|LEM:yad|ROOT:ydy|FD|GEN★wamino⚓and from⚓ P|LEM:min★xalofihi.⚓behind him⚓ N|LEM:xalof|ROOT:xlf|M|GEN★raSadFA⚓a guard,⚓ N|LEM:raSad|ROOT:rSd|M|INDEF|ACC★",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "l~iyaEolama⚓That He may make evident⚓V|IMPF|LEM:Ealima|ROOT:Elm|3MS|MOOD:SUBJ★>an⚓that⚓ SUB|LEM:>an★qado⚓indeed,⚓ CERT|LEM:qad★>abolaguwA@⚓they have conveyed⚓ V|PERF|(IV)|LEM:>abolagu|ROOT:blg|3MP★risa`la`ti⚓(the) Messages⚓ N|LEM:risa`la`t|ROOT:rsl|FP|ACC★rab~ihimo⚓(of) their Lord;⚓ N|LEM:rab~|ROOT:rbb|M|GEN★wa>aHaATa⚓and He has encompassed⚓ V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS★bimaA⚓what⚓ REL|LEM:maA★ladayohimo⚓(is) with them⚓ LOC|LEM:laday★wa>aHoSaY`⚓and He takes account⚓ V|PERF|(IV)|LEM:>aHoSaY`|ROOT:HSy|3MS★kul~a⚓(of) all⚓ N|LEM:kul~|ROOT:kll|M|ACC★$aYo'K⚓things⚓ N|LEM:$aYo'|ROOT:$yA|M|INDEF|GEN★EadadF[A⚓(in) number.`⚓ N|LEM:Eadad|ROOT:Edd|M|INDEF|ACC★",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

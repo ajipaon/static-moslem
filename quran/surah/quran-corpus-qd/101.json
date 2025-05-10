@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6158,
+        "text": "{loqaAriEapu⚓The Striking Calamity!⚓N|LEM:qaAriEap|ROOT:qrE|F|NOM★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6159,
+        "text": "maA⚓What⚓INTG|LEM:maA★{loqaAriEapu⚓(is) the Striking Calamity?⚓ N|LEM:qaAriEap|ROOT:qrE|F|NOM★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6160,
+        "text": "wamaA^⚓And what⚓INTG|LEM:maA★>adoraY`ka⚓will make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★{loqaAriEapu⚓(is) the Striking Calamity?⚓ N|LEM:qaAriEap|ROOT:qrE|F|NOM★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6161,
+        "text": "yawoma⚓(The) Day⚓T|LEM:yawom|ROOT:ywm|M|ACC★yakuwnu⚓will be⚓ V|IMPF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MS★{ln~aAsu⚓the mankind⚓ N|LEM:n~aAs|ROOT:nws|MP|NOM★ka{lofaraA$i⚓like moths,⚓ N|LEM:faraA$|ROOT:fr$|M|GEN★{lomabovuwvi⚓scattered,⚓ ADJ|PASS|PCPL|LEM:mabovuwv|ROOT:bvv|M|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6162,
+        "text": "watakuwnu⚓And will be⚓V|IMPF|LEM:kaAna|ROOT:kwn|SP:kaAn|3FS★{lojibaAlu⚓the mountains⚓ N|LEM:jabal|ROOT:jbl|MP|NOM★ka{loEihoni⚓like wool,⚓ N|LEM:Eihon|ROOT:Ehn|M|GEN★{lomanfuw$i⚓fluffed up.⚓ ADJ|PASS|PCPL|LEM:manfuw$|ROOT:nf$|M|GEN★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6163,
+        "text": "fa>am~aA⚓Then as for⚓EXL|LEM:>am~aA★man⚓(him) whose⚓ COND|LEM:man★vaqulato⚓are heavy⚓ V|PERF|LEM:vaqulato|ROOT:vql|3FS★mawa`ziynuhu,⚓his scales,⚓ N|LEM:miyzaAn|ROOT:wzn|MP|NOM★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6164,
+        "text": "fahuwa⚓Then he⚓PRON|3MS★fiY⚓(will be) in⚓ P|LEM:fiY★Eiy$apK⚓a life,⚓ N|LEM:Eiy$ap|ROOT:Ey$|F|INDEF|GEN★r~aADiyapK⚓pleasant.⚓ ADJ|ACT|PCPL|LEM:raADiyap|ROOT:rDw|F|INDEF|GEN★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6165,
+        "text": "wa>am~aA⚓But as for⚓EXL|LEM:>am~aA★mano⚓(him) whose⚓ COND|LEM:man★xaf~ato⚓are light⚓ V|PERF|LEM:xaf~ato|ROOT:xff|3FS★mawa`ziynuhu,⚓his scales,⚓ N|LEM:miyzaAn|ROOT:wzn|MP|NOM★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6166,
+        "text": "fa>um~uhu,⚓His abode⚓N|LEM:>um~|ROOT:Amm|FS|NOM★haAwiyapN⚓(will be the) Pit.⚓ N|ACT|PCPL|LEM:haAwiyap|ROOT:hwy|F|INDEF|NOM★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6167,
+        "text": "wamaA^⚓And what⚓INTG|LEM:maA★>adoraY`ka⚓will make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★hiyaho⚓it is?⚓ PRON|3FS★",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6168,
+        "text": "naArN⚓A Fire,⚓N|LEM:naAr|ROOT:nwr|F|INDEF|NOM★HaAmiyapN[⚓intensely hot.⚓ ADJ|ACT|PCPL|LEM:HaAmiyap|ROOT:Hmy|F|INDEF|NOM★",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 543,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

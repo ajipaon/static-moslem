@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "{qora>o⚓Read⚓V|IMPV|LEM:qara>a|ROOT:qrA|2MS★bi{somi⚓in (the) name⚓ N|LEM:{som|ROOT:smw|M|GEN★rab~ika⚓(of) your Lord⚓ N|LEM:rab~|ROOT:rbb|M|GEN★{l~a*iY⚓the One Who⚓ REL|LEM:{l~a*iY|MS★xalaqa⚓created -⚓ V|PERF|LEM:xalaqa|ROOT:xlq|3MS★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "xalaqa⚓He created⚓V|PERF|LEM:xalaqa|ROOT:xlq|3MS★{lo<insa`na⚓man⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★mino⚓from⚓ P|LEM:min★EalaqK⚓a clinging substance.⚓ N|LEM:Ealaq|ROOT:Elq|M|INDEF|GEN★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "{qora>o⚓Read,⚓V|IMPV|LEM:qara>a|ROOT:qrA|2MS★warab~uka⚓and your Lord⚓ N|LEM:rab~|ROOT:rbb|M|NOM★{lo>akoramu⚓(is) the Most Generous,⚓ ADJ|LEM:>akoram|ROOT:krm|MS|NOM★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "{l~a*iY⚓The One Who⚓REL|LEM:{l~a*iY|MS★Eal~ama⚓taught⚓ V|PERF|(II)|LEM:Eal~ama|ROOT:Elm|3MS★bi{loqalami⚓by the pen,⚓ N|LEM:qalam|ROOT:qlm|M|GEN★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "Eal~ama⚓Taught⚓V|PERF|(II)|LEM:Eal~ama|ROOT:Elm|3MS★{lo<insa`na⚓man⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★maA⚓what⚓ REL|LEM:maA★lamo⚓not⚓ NEG|LEM:lam★yaEolamo⚓he knew.⚓ V|IMPF|LEM:Ealima|ROOT:Elm|3MS|MOOD:JUS★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "kal~aA^⚓Nay!⚓AVR|LEM:kal~aA★<in~a⚓Indeed,⚓ ACC|LEM:<in~|SP:<in~★{lo<insa`na⚓man⚓ N|LEM:<insa`n|ROOT:Ans|M|ACC★layaTogaY`^⚓surely transgresses,⚓ V|IMPF|LEM:TagaY`|ROOT:Tgy|3MS★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": ">an⚓Because⚓SUB|LEM:>an★r~a'aAhu⚓he sees himself⚓ V|PERF|LEM:ra'aA|ROOT:rAy|3MS★{sotagonaY`^⚓self-sufficient.⚓ V|PERF|(X)|LEM:{sotagonaY`|ROOT:gny|3MS★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "<in~a⚓Indeed,⚓ACC|LEM:<in~|SP:<in~★<ilaY`⚓to⚓ P|LEM:<ilaY`★rab~ika⚓your Lord⚓ N|LEM:rab~|ROOT:rbb|M|GEN★{lr~ujoEaY`^⚓(is) the return.⚓ N|LEM:r~ujoEaY`^|ROOT:rjE|F|ACC★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": ">ara'ayota⚓Have you seen⚓V|PERF|LEM:ra'aA|ROOT:rAy|2MS★{l~a*iY⚓the one who⚓ REL|LEM:{l~a*iY|MS★yanohaY`⚓forbids⚓ V|IMPF|LEM:nahaY`|ROOT:nhy|3MS★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "EabodFA⚓A slave⚓N|LEM:Eabod|ROOT:Ebd|M|INDEF|ACC★<i*aA⚓when⚓ T|LEM:<i*aA★Sal~aY`^⚓he prays?⚓ V|PERF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS★",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": ">ara'ayota⚓Have you seen⚓V|PERF|LEM:ra'aA|ROOT:rAy|2MS★<in⚓if⚓ COND|LEM:<in★kaAna⚓he is⚓ V|PERF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MS★EalaY⚓upon⚓ P|LEM:EalaY`★{lohudaY`^⚓[the] guidance,⚓ N|LEM:hudFY|ROOT:hdy|M|GEN★",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": ">awo⚓Or⚓CONJ|LEM:>aw★>amara⚓he enjoins⚓ V|PERF|LEM:>amara|ROOT:Amr|3MS★bi{lt~aqowaY`^⚓[of the] righteousness?⚓ N|LEM:taqowaY|ROOT:wqy|M|GEN★",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": ">ara'ayota⚓Have you seen⚓V|PERF|LEM:ra'aA|ROOT:rAy|2MS★<in⚓if⚓ COND|LEM:<in★ka*~aba⚓he denies⚓ V|PERF|(II)|LEM:ka*~aba|ROOT:k*b|3MS★watawal~aY`^⚓and turns away?⚓ V|PERF|(V)|LEM:tawal~aY`|ROOT:wly|3MS★",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": ">alamo⚓Does not⚓NEG|LEM:lam★yaEolam⚓he know⚓ V|IMPF|LEM:Ealima|ROOT:Elm|3MS|MOOD:JUS★bi>an~a⚓that⚓ ACC|LEM:>an~|SP:<in~★{ll~aha⚓Allah⚓ PN|LEM:{ll~ah|ROOT:Alh|ACC★yaraY`⚓sees?⚓ V|IMPF|LEM:ra'aA|ROOT:rAy|3MS★",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★la}in⚓If⚓ COND|LEM:<in★l~amo⚓not⚓ NEG|LEM:lam★yantahi⚓he desists,⚓ V|IMPF|(VIII)|LEM:{ntahaY`|ROOT:nhy|3MS|MOOD:JUS★lanasofaEF[A⚓surely We will drag him⚓ V|IMPF|LEM:nasofaEF[|ROOT:sfE|1P★bi{ln~aASiyapi⚓by the forelock,⚓ N|LEM:naASiyap|ROOT:nSy|F|GEN★",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "naASiyapK⚓A forelock⚓N|LEM:naASiyap|ROOT:nSy|F|INDEF|GEN★ka`*ibapK⚓lying,⚓ ADJ|ACT|PCPL|LEM:ka`*ib|ROOT:k*b|F|INDEF|GEN★xaATi}apK⚓sinful.⚓ ADJ|ACT|PCPL|LEM:xaATi}ap|ROOT:xTA|F|INDEF|GEN★",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "faloyadoEu⚓Then let him call⚓V|IMPF|LEM:daEaA|ROOT:dEw|3MS|MOOD:JUS★naAdiyahu,⚓his associates,⚓ N|ACT|PCPL|LEM:naAdiy|ROOT:ndw|M|ACC★",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "sanadoEu⚓We will call⚓V|IMPF|LEM:daEaA|ROOT:dEw|1P★{lz~abaAniyapa⚓the Angels of Hell.⚓ N|LEM:z~abaAniyap|ROOT:zbn|MP|ACC★",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★laA⚓(Do) not⚓ PRO|LEM:laA★tuTiEohu⚓obey him.⚓ V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS★wa{sojudo⚓But prostrate⚓ V|IMPV|LEM:sajada|ROOT:sjd|2MS★wa{qotarib⚓and draw near (to Allah).⚓ V|IMPV|(VIII)|LEM:{qotaraba|ROOT:qrb|2MS★",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

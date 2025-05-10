@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "<i*aA⚓When⚓T|LEM:<i*aA★{ls~amaA^'u⚓the sky⚓ N|LEM:samaA^'|ROOT:smw|F|NOM★{nfaTarato⚓(is) cleft asunder,⚓ V|PERF|(VII)|LEM:{nfaTarato|ROOT:fTr|3FS★",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lokawaAkibu⚓the stars⚓ N|LEM:kawokab|ROOT:kwkb|MP|NOM★{ntavarato⚓scatter,⚓ V|PERF|(VIII)|LEM:{ntavarato|ROOT:nvr|3FS★",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{lobiHaAru⚓the seas⚓ N|LEM:baHor|ROOT:bHr|MP|NOM★fuj~irato⚓are made to gush forth,⚓ V|PERF|PASS|(II)|LEM:fuj~irato|ROOT:fjr|3FS★",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "wa<i*aA⚓And when⚓T|LEM:<i*aA★{loqubuwru⚓the graves⚓ N|LEM:qabor|ROOT:qbr|MP|NOM★buEovirato⚓are overturned,⚓ V|PERF|PASS|LEM:buEovira|ROOT:bEvr|3FS★",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "Ealimato⚓Will know⚓V|PERF|LEM:Ealima|ROOT:Elm|3FS★nafosN⚓a soul⚓ N|LEM:nafos|ROOT:nfs|FS|INDEF|NOM★m~aA⚓what⚓ REL|LEM:maA★qad~amato⚓it has sent forth⚓ V|PERF|(II)|LEM:qad~ama|ROOT:qdm|3FS★wa>ax~arato⚓and left behind.⚓ V|PERF|(II)|LEM:>ax~ara|ROOT:Axr|3FS★",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "ya`^>ay~uhaA⚓O⚓N|LEM:>ay~uhaA|NOM★{lo<insa`nu⚓man!⚓ N|LEM:<insa`n|ROOT:Ans|M|NOM★maA⚓What⚓ REL|LEM:maA★gar~aka⚓has deceived you⚓ V|PERF|LEM:gar~a|ROOT:grr|3MS★birab~ika⚓concerning your Lord⚓ N|LEM:rab~|ROOT:rbb|M|GEN★{lokariymi⚓the Most Noble,⚓ ADJ|LEM:kariym|ROOT:krm|MS|GEN★",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "{l~a*iY⚓Who⚓REL|LEM:{l~a*iY|MS★xalaqaka⚓created you,⚓ V|PERF|LEM:xalaqa|ROOT:xlq|3MS★fasaw~aY`ka⚓then fashioned you⚓ V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS★faEadalaka⚓then balanced you?⚓ V|PERF|LEM:Eadala|ROOT:Edl|3MS★",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "fiY^⚓In⚓P|LEM:fiY★>aY~i⚓whatever⚓ N|LEM:>aY~|GEN★SuwrapK⚓form⚓ N|LEM:Suwrap|ROOT:Swr|F|INDEF|GEN★m~aA⚓that⚓ REL|LEM:maA★$aA^'a⚓He willed,⚓ V|PERF|LEM:$aA^'a|ROOT:$yA|3MS★rak~abaka⚓He assembled you.⚓ V|PERF|(II)|LEM:rak~aba|ROOT:rkb|3MS★",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "kal~aA⚓Nay!⚓AVR|LEM:kal~aA★balo⚓But⚓ RET|LEM:bal★tuka*~ibuwna⚓you deny⚓ V|IMPF|(II)|LEM:ka*~aba|ROOT:k*b|2MP★bi{ld~iyni⚓the Judgment.⚓ N|LEM:diyn|ROOT:dyn|M|GEN★",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "wa<in~a⚓And indeed,⚓ACC|LEM:<in~|SP:<in~★Ealayokumo⚓over you⚓ P|LEM:EalaY`★laHa`fiZiyna⚓(are) surely guardians,⚓ N|ACT|PCPL|LEM:Ha`fiZ|ROOT:HfZ|MP|ACC★",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "kiraAmFA⚓Noble⚓ADJ|LEM:kariym|ROOT:krm|MP|INDEF|ACC★ka`tibiyna⚓recording,⚓ ADJ|ACT|PCPL|LEM:kaAtib|ROOT:ktb|MP|ACC★",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "yaEolamuwna⚓They know⚓V|IMPF|LEM:Ealima|ROOT:Elm|3MP★maA⚓whatever⚓ REL|LEM:maA★tafoEaluwna⚓you do.⚓ V|IMPF|LEM:faEala|ROOT:fEl|2MP★",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "<in~a⚓Indeed,⚓ACC|LEM:<in~|SP:<in~★{lo>aboraAra⚓the righteous⚓ N|LEM:bar~|ROOT:brr|MP|ACC★lafiY⚓(will be) surely in⚓ P|LEM:fiY★naEiymK⚓bliss,⚓ N|LEM:naEiym|ROOT:nEm|M|INDEF|GEN★",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "wa<in~a⚓And indeed,⚓ACC|LEM:<in~|SP:<in~★{lofuj~aAra⚓the wicked⚓ N|ACT|PCPL|LEM:fuj~aAr|ROOT:fjr|MP|ACC★lafiY⚓(will be) surely in⚓ P|LEM:fiY★jaHiymK⚓Hellfire.⚓ N|LEM:jaHiym|ROOT:jHm|F|INDEF|GEN★",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "yaSolawonahaA⚓They will burn (in) it⚓V|IMPF|LEM:yaSolaY|ROOT:Sly|3MP★yawoma⚓(on the) Day⚓ T|LEM:yawom|ROOT:ywm|M|ACC★{ld~iyni⚓(of) the Judgment,⚓ N|LEM:diyn|ROOT:dyn|M|GEN★",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "wamaA⚓And not⚓NEG|LEM:maA|SP:kaAn★humo⚓they⚓ PRON|3MP★EanohaA⚓from it⚓ P|LEM:Ean★bigaA^}ibiyna⚓(will be) absent.⚓ N|ACT|PCPL|LEM:gaA^}ibiyn|ROOT:gyb|MP|GEN★",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "wamaA^⚓And what⚓INTG|LEM:maA★>adoraY`ka⚓can make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★yawomu⚓(is the) Day⚓ N|LEM:yawom|ROOT:ywm|M|NOM★{ld~iyni⚓(of) the Judgment?⚓ N|LEM:diyn|ROOT:dyn|M|GEN★",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "vum~a⚓Then,⚓CONJ|LEM:vum~★maA^⚓what⚓ INTG|LEM:maA★>adoraY`ka⚓can make you know⚓ V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS★maA⚓what⚓ INTG|LEM:maA★yawomu⚓(is the) Day⚓ N|LEM:yawom|ROOT:ywm|M|NOM★{ld~iyni⚓(of) the Judgment?⚓ N|LEM:diyn|ROOT:dyn|M|GEN★",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "yawoma⚓(The) Day⚓N|LEM:yawom|ROOT:ywm|M|ACC★laA⚓not⚓ NEG|LEM:laA★tamoliku⚓will have power⚓ V|IMPF|LEM:malakato|ROOT:mlk|3FS★nafosN⚓a soul⚓ N|LEM:nafos|ROOT:nfs|FS|INDEF|NOM★l~inafosK⚓for a soul⚓ N|LEM:nafos|ROOT:nfs|FS|INDEF|GEN★$ayo_#FA⚓anything,⚓ N|LEM:$aYo'|ROOT:$yA|M|INDEF|ACC★wa{lo>amoru⚓and the Command⚓ N|LEM:>amor|ROOT:Amr|M|NOM★yawoma}i*K⚓that Day⚓ T|LEM:yawoma}i*★l~il~ahi⚓(will be) with Allah.⚓ PN|LEM:{ll~ah|ROOT:Alh|GEN★",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
