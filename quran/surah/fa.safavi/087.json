@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "منزّه شمار نام پروردگارت را که از همگان برتر است;",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "همان که موجودات را آفرید و اجزای آنها را هماهنگ ساخت.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "و آن که برای آفریدگان حدّی معیّن کرد و آنها را به آنچه برایشان تقدیر کرده است هدایت نمود.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "و آن که علوفه چراگاه‌ها را رویانید،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "سپس آن را خشک و تیره گون ساخت.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "به زودی تو را بر خواندن قرآن و دانش آن توانا خواهیم ساخت به گونه‌ای که آن را فراموش نمی‌کنی.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "ولی بدان که این وعده سلب قدرت از خدا نمی‌کند و اگر خدا بخواهد ـ که البته نخواهد خواست ـ آن را فراموش می‌کنی. به یقین او آشکار و آنچه را نهان می‌شود می‌داند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "و تو را چنان استعدادی می‌دهیم که آسان‌ترین راه را برای فراخوانیِ مردم برگزینی.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "پس اگر تذکر و اندرز برای کسانی سود بخشد، آنان را یادآوری کن و اندرز ده.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "به زودی آن کس که از خدا بیم دارد متذکّر خواهد شد.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "و آن کس که تیره بخت‌ترین است و در دل از خدا بیمی ندارد، از تذکار قرآن دوری خواهد گزید،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "همو که به بزرگترین آتش درمی آید و در آن ماندگار می‌شود.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "آن گاه نه در آن می‌میرد تا عذاب نبیند و نه از آن رهایی می‌یابد تا به حیاتی آسوده رسد.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "قطعاً نیکبخت شد کسی که خود را از پلیدی‌ها و وابستگی‌های مادّی پاک ساخت،",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "و نام پروردگارش را یاد کرد و نماز گزارد.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "[شما به آخرت دل نمی‌بندید و به پاکی نمی‌گرایید] بلکه زندگی دنیا را برمی گزینید،",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "در صورتی که سرای آخرت بهتر و پاینده‌تر است.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "قطعاً این حقایق در کتاب‌های آسمانی نخستین وجود دارد،",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "در کتاب‌های ابراهیم و موسی.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

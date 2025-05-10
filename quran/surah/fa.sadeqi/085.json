@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "سوگند به آسمان دارای کاخ‌ها.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "و سوگند به روز موعود [:قیامت].",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "و سوگند به گواه و گواهی‌شونده.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "مرگ بر آدم‌سوزان زمینِ شکاف‌دار .",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "آتش مایه‌دار و گیرانه‌ی انبوه.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "چون آنان بر بلندای آن نشسته‌اند.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "و ایشان بر آنچه بر (سر و سامان) مؤمنان می‌آوردند، گواهانند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "و از آنان عیبی انتقام‌آور نگرفته بودند، جز اینکه (آنان) به خدای عزیز ستوده ایمان آوردند.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "کسی (که) فرمانروایی آسمان‌ها و زمین از اوست‌، و خدا بر هر چیزی بسیار گواه است.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "بی‌امان کسانی که مردان و زنان مؤمن را به آتش در کشیده، سپس توبه نکردند، برایشان عذاب جهنم است و ایشان را عذاب بس سوزان است.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "بی‌گمان کسانی که ایمان آورده و کارهای شایسته‌(ی ایمان) کردند، برایشان باغ‌هایی (با درختان) سردرهم است که از زیر (درختان)شان نهرها روان است‌؛ این است (همان) کامیابی سالم بزرگ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "به‌راستی حمله‌ی پروردگارت سخت سنگین است.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "همواره (هم)اوست که (آفرینش را) می‌آغازد و (هم او) باز می‌گرداند.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "و اوست بس پوشنده‌ی (گناهان و نقصان‌ها و) بسی دوستدار (مؤمنان).",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "صاحب عرش و دارای کرامت و رحمتی گشاده (در عرش و فرش).",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "آنچه می‌خواهد (نسبت به آن) فعّال است.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "آیا تو را حدیث سپاهیان آمد؟",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "(سپاهیان) فرعون و ثمود.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "بلکه آنان که کافر شده‌اند در (ژرفای) تکذیبند.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "حال آنکه خدا از پشتشان (بر ایشان) محیط است.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "بلکه آن قرآنی، با کرامتی گشاده است،",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "(که) در لوحی [:جایگاهی آشکار] محفوظ است.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

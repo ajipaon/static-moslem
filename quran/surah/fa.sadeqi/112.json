@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6222,
+        "text": "بگو: «او خدای یکتا و یگانه است.»",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "«خدا، (همان) پروردگار بی‌نیاز مطلق است.»",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "«(هرگز) نزاد و زاده نشد.»",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "«و برای او هیچ‌گاه همتا و همپایی نبوده است.»",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

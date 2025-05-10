@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 9,
+    "ayahs": [
+      {
+        "number": 6180,
+        "text": "وای بر هر عیبجوی غیبت کننده‌ای،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6181,
+        "text": "که مالی فراهم آورده و آن را پی در پی شمرده است;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6182,
+        "text": "چون می‌پندارد که ثروتش مرگ را از او دور کرده و جاودانه اش ساخته است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6183,
+        "text": "چنین نیست، مرگ او فرا خواهد رسید و قطعاً در آن آتش شکننده افکنده خواهد شد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6184,
+        "text": "و چه چیزی تو را آگاه کرده است که آن آتش شکننده چیست؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6185,
+        "text": "آتشِ برافروخته خداست،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6186,
+        "text": "که بر دل‌ها چیره می‌شود و جان آدمیان را می‌سوزاند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6187,
+        "text": "آن آتش بر آنان در بسته خواهد بود و راه خلاصی از آن نخواهند داشت.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6188,
+        "text": "این در حالی است که آنان در ستون‌هایی بسیار دراز به بند کشیده شده‌اند.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 546,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

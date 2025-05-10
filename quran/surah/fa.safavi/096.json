@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "ای پیامبر، به نام پروردگارت دریافت قرآن را آغاز کن; همان کسی که انسان را آفرید.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "انسان را از خونی بسته آفرید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "آری، دریافت قرآن را آغاز کن، و بدان که پروردگارت از همگان کریم‌تر و عطایش از عطای همه عطاکنندگان برتر است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "همو که خواندن و نوشتن را به وسیله قلم به آدمی آموخت.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "و به انسان آنچه را نمی‌دانست یاد داد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "آیا گمان می‌کنی که او شکر این نعمت را به جای می‌آورَد؟ هرگز! انسان مرز خود را نمی‌شناسد و طغیان می‌کند،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "چرا که خود را از پروردگار خویش بی نیاز می‌بیند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "به یقین، بازگشت آدمیان پس از مرگ به سوی پروردگار توست.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "به من خبر ده، آیا آن کس که باز می‌دارد،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "بنده‌ای را آن گاه که نماز می‌گزارد، به من خبر ده که کارش به کجا خواهد کشید؟",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "به من خبر ده، اگر آن نمازگزار بر طریق هدایت باشد،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "یا به پرهیزگاری فرمان دهد، فرجام آن بازدارنده چه می‌شود؟",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "به من خبر ده، اگر آن بازدارنده، حق را دروغ انگارد و از آن روی برتابد، آیا جز در خورِ عذاب خواهد بود؟",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "مگر نمی‌داند که خدا کارهایش را می‌بیند؟",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "او حق ندارد چنین کند! اگر دست از این کار برندارد، به خواری اش می‌افکنیم و موی پیشانی اش را می‌گیریم و به دوزخش می‌کشانیم.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "موی پیشانی دروغگوی خطاکار را.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "آن گاه اهل محفل خود را به یاری بخواند.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "ما نیز به زودی گماشتگان بر آتش [دوزخ] را فرا می‌خوانیم.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "او حق ندارد تو را از نماز باز دارد! تو از او فرمان مبر و نماز را رها مکن، و سجده کن و به پروردگارت تقرّب جوی.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

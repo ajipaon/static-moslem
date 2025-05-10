@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5994,
+        "text": "سوگند به سپیده دم،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5995,
+        "text": "و به شب‌های ده گانه ماه ذی حجّه،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5996,
+        "text": "و به آن جفت و طاق (روز تَرویه و عَرَفه)،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5997,
+        "text": "و به شب آن گاه که در حال گذر است، به همه اینها سوگند که طغیانگران دچار عذاب خواهند شد و خداپرستان پاداش خواهند گرفت.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5998,
+        "text": "آیا در اینها که یاد شد، برای خردمندی که حق را از باطل تشخیص دهد، سوگندی رسا هست؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5999,
+        "text": "آیا ندانسته‌ای که پروردگارت با قوم عاد چه کرد؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6000,
+        "text": "با ارم، آن شهری که پایه‌ها و ستون‌ها (قصرها و بناهای عالی) داشت،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6001,
+        "text": "که مانند آن در هیچ یک از شهرها ساخته نشده بود.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6002,
+        "text": "آیا ندانسته‌ای که خدا با قوم ثمود چه کرد؟ همانان که در آن درّه، صخره‌ها را می‌بریدند و در کوه‌ها خانه می‌ساختند.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6003,
+        "text": "آیا ندانسته‌ای که خدا با فرعون که صاحب میخ‌ها بود چه کرد؟",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6004,
+        "text": "همان کسانی که در شهرها سر به طغیان برداشتند.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6005,
+        "text": "و در آنها تباهی بسیار به بار آوردند.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6006,
+        "text": "پس پروردگارت تازیانه عذاب را بر آنها فرود آورد.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6007,
+        "text": "قطعاً پروردگار تو در کمین طغیانگران است و آنان را سزا خواهد داد.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6008,
+        "text": "آری، آدمی این گونه است که وقتی پروردگارش او را می‌آزماید بدین طریق که عزیزش می‌دارد و نعمتش می‌بخشد، می‌گوید: پروردگارم مرا عزیز داشته و انجام هر کاری را بر من روا دانسته است.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6009,
+        "text": "و امّا وقتی او را می‌آزماید بدین طریق که روزی را بر او تنگ می‌گیرد، می‌گوید: پروردگارم مرا خوار شمرده است.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6010,
+        "text": "نه، چنین نیست که خواری در بینوایی و عزّت در توانگری باشد، اینها وسیله آزمایش شما هستند. چگونه ثروت برای شما مایه عزّت است در حالی که شما یتیم را گرامی نمی‌دارید.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6011,
+        "text": "و یکدیگر را بر اطعام بینوا ترغیب نمی‌کنید.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6012,
+        "text": "و میراث یتیمان را با حق خود یکجا می‌خورید.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6013,
+        "text": "و مال را بسیار دوست می‌دارید.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6014,
+        "text": "آری، هرگز توانگری نشانه عزّت و بینوایی نشانه خواری نزد خدا نیست، آن گاه که زمین را خرد و ذرّه ذرّه گردانند،",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6015,
+        "text": "و فرمان پروردگارت در رسد و فرشتگان صف در صف بیایند،",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6016,
+        "text": "و دوزخ در آن روز آورده شود (پدیدار گردد)، آن روز انسان متوجه می‌شود که نعمت‌ها و محنت‌ها همه وسیله آزمون الهی بوده است، ولی این توجه کجا برای او سودمند است؟",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 593,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6017,
+        "text": "آن روز انسان کفرپیشه می‌گوید: ای کاش برای زندگی آخرتم که حیات واقعی است کار شایسته‌ای پیش فرستاده بودم.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6018,
+        "text": "پس در آن روز هیچ کس به سختیِ عذاب او عذاب نکند.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6019,
+        "text": "و هیچ کس به سختیِ در بند کشیدن او در بند نکشد.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6020,
+        "text": "و به آن کسی که خدا را پرستش نموده و دلش را به یاد او آرام داشته است خطاب می‌شود: ای نفس مطمَئنّه،",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6021,
+        "text": "به سوی پروردگارت بازگرد که تو به پیشامدهایی که او برایت مقدّر کرد و به احکام و آیینی که برای تو مقرّر داشت خشنود بودی و خدا نیز از تو خشنود بود.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6022,
+        "text": "تو بدین شیوه مرا بندگی کردی پس در میان بندگان راستین من درآی.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 6023,
+        "text": "و به بهشت من وارد شو.",
+        "numberInSurah": 30,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 531,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "سُورَةُ المَاعُونِ",
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "Almsgiving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
+      {
+        "number": 6198,
+        "text": "آیا دیدی آن کسی را که جزا و پاداش را دروغ می‌انگارد و رستاخیز را باور نمی‌کند؟",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6199,
+        "text": "او همان کسی است که یتیم را به شدت و ستم از خود می‌راند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6200,
+        "text": "و دیگران را بر اطعام بینوا ترغیب نمی‌کند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6201,
+        "text": "با این حال تظاهر به ایمان می‌کند و نماز می‌گزارد. پس وای بر این نمازگزاران!",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6202,
+        "text": "که از نمازشان غافلند و بدان اهتمام نمیورزند.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6203,
+        "text": "همانان که در عبادت هایشان ریا می‌کنند.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6204,
+        "text": "و از اموال خویش آنچه نیاز دیگران را برمی آورند دریغ میورزند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 549,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

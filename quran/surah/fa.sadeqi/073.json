@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "ای جامه بر (جان و تن خویشتن) فرو پیچیده‌،",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "شب را به‌پا خیز مگر اندکی.",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "نیمش را، یا اندکی از نیمش را بکاه،",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "یا بر آن (نیم) بیفزای، و قرآن را شمرده بخوان شمردنی (روشن).",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "ما همواره به زودی بر تو گفتاری گران‌بار فرو می‌افکنیم‌.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "بی‌گمان عبادت نشأت‌‌یافته از شب گامی استوارتر و فراتر و گفته‌اش پای‌برجاتر و گرانبارتر است.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "به‌راستی برایت، در روز، شناوری ای دور و دراز است.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "و نام پروردگار خود را یاد کن و فراسویش (آن گونه) انقطاعی یاب که (دیگران را نیز سویش) منقطع سازی.",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "پروردگار خاور و باختر (که) خدایی جز او نیست؛ پس او را کارساز خویش برگیر.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "و بر آنچه می‌گویند شکیبا باش و از آنان با دوری‌گزیدنی زیبا، دور باش.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "و مرا با تکذیب‌کنندگان نعمت‌وار واگذار و اندکی مهلتشان ده.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "به‌راستی پیش ما عذاب‌هایی سخت و آتش پرزبانه،",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "و طعامی گلوگیر و عذابی پردرد است،",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "(در) روزی که زمین و کوه‌ها به لرزه درآیند، حال آنکه کوه‌ها ریگی انباشته‌‌اند.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "بی‌گمان، ما سوی شما فرستاده‌ای که گواه بر شماست روانه کردیم‌؛ همان گونه که فرستاده‌ای سوی فرعون فرستادیم.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "پس فرعون (آن) فرستاده را عصیان کرد. پس ما او را به گونه‌ای مرگبار بر گرفتیم.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "پس اگر کفر بورزید، چگونه از روزی که کودکان را پیر می‌گرداند پرهیز می‌کنید؟",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "آسمان از حادثه‌ی آن (روز) از هم شکافته (و) وعده‌ی او شدنی بوده است.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "همانا این‌ها یادواره‌ای است تا هر که بخواهد سوی پروردگارش راهی در پیش گیرد.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "پروردگارت به‌راستی می‌داند که تو و گروهی از کسانی که با تواَند، نزدیک به دوسوم از شب، و نصف آن را، یا یک‌‌سوم آن را (به عبادت) بر می‌خیزید. خداست که شب و روز را تقدیر و اندازه می‌دهد. (او) می‌داند که (شما) هرگز آن را ضبط نتوانید کرد. پس (از حکم نخستین) بر شما برگشت. پس هر چه از قرآن مُیسر می‌شود بخوانید. (خدا) دانست که به زودی در میانتان بیمارانی خواهند بود، و دیگرانی (که) در زمین (پای) می‌زنند (هم) هستند حال آنکه از فضل خدا می‌جویند، و دیگرانی (هم) در راه خدا کشتار می‌کنند. پس هر چه از آن [:قرآن] میسر شد بخوانید و نماز را بر پا بدارید و زکات را بپردازید و وامی نیکو به خدا دهید. و هر کار خوبی برای خویش از پیش فرستید، آن را نزد خدا بهتر و با پاداشی بیشتر بازخواهید یافت. و از خدا پوشش بخواهید. خدا بی‌گمان بسی پوشنده‌ی رحمتگر بر ویژگان است.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

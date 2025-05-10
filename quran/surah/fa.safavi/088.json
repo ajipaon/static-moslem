@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 26,
+    "ayahs": [
+      {
+        "number": 5968,
+        "text": "آیا خبر آن رویداد فراگیر به تو رسیده است؟",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5969,
+        "text": "روزی که آن حادثه رخ دهد، گروهی خوار و زبونند و آثار خواری در چهره هایشان نمایان است.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5970,
+        "text": "آنان در دنیا تلاش بیهوده کرده و رنج و محنت کشیده‌اند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5971,
+        "text": "و آن روز به آتش سوزان در می‌آیند و در آن ماندگارند.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5972,
+        "text": "از چشمه‌ای داغ به آنان می‌نوشانند،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5973,
+        "text": "و غذایی جز خارِ خشکیده ندارند،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5974,
+        "text": "غذایی که نه فربه می‌سازد و نه گرسنگی را چاره می‌کند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5975,
+        "text": "آن روز گروهی نیز خرّم و شادابند،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5976,
+        "text": "و از تلاشی که در دنیا کرده‌اند خشنودند.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5977,
+        "text": "در بهشتی برین جای خواهند گرفت.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5978,
+        "text": "در آن جا سخن بیهوده ای نمی‌شنوند.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5979,
+        "text": "در آن جا چشمه‌هایی است روان.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5980,
+        "text": "در آن جاست تخت‌هایی بلند.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5981,
+        "text": "و تنگ‌هایی نهاده شده،",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5982,
+        "text": "و بالش‌هایی کنار هم چیده،",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5983,
+        "text": "و فرش‌هایی فاخر و گسترده.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5984,
+        "text": "آیا برای این که به تدبیر خدا پی ببرند، به شتران نمی‌نگرند که چگونه آفریده شده‌اند؟",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5985,
+        "text": "و به آسمان نمی‌نگرند که چگونه برافراشته شده است؟",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5986,
+        "text": "و به کوه‌ها نمی‌نگرند که چگونه روی زمین قرار داده شده‌اند؟",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5987,
+        "text": "و به زمین نمی‌نگرند که چگونه گسترده و هموار شده است؟",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5988,
+        "text": "پس ربوبیّت بی همتای خدا و روز جزا را به مردم تذکّر ده که تو فقط تذکّردهنده‌ای.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5989,
+        "text": "تو بر آنان چیره نیستی.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5990,
+        "text": "آری، پیوسته همگان را تذکّر ده، مگر کسی را که از تذکّر تو روی برتابد و کفر ورزد،",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5991,
+        "text": "که خدا او را به بزرگترین عذاب کیفر خواهد داد.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5992,
+        "text": "همانا بازگشت مردم به سوی ماست.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5993,
+        "text": "آن گاه حساب اعمالشان برعهده ما خواهد بود.",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 530,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

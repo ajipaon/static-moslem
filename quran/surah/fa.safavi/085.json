@@ -1,0 +1,265 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 22,
+    "ayahs": [
+      {
+        "number": 5910,
+        "text": "سوگند به آسمانِ دارای برج‌ها، جایگاه ستارگان که سنگر دفع شیاطین است،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5911,
+        "text": "و سوگند به روز رستاخیز، روزی که وعده داوری در آن داده شده است،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5912,
+        "text": "و سوگند به پیامبر آن که ناظر و شاهد اعمال امّت است و سوگند به پاداش مؤمنانِ ستمدیده و کیفر ستمکاران، پاداش و کیفری که به عیان مشاهده خواهد شد; به همه اینها سوگند که خدا مؤمنان را از نیرنگ کافران نگاه خواهد داشت و آنان را در ایمان، شکیبا و استوار خواهد ساخت.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5913,
+        "text": "لعنت و نفرین بر کسانی که آن خندق را برای سوزاندن مؤمنان حفر کردند;",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5914,
+        "text": "همانان که آتشی شعلهور با هیزم فراوان برافروختند;",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5915,
+        "text": "آن گاه که بر کنار خندقِ آتش نشستند،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5916,
+        "text": "و آنچه را که بر سر مؤمنان می‌آوردند تماشا می‌کردند،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5917,
+        "text": "و چیزی را از آنان ناخوشایند نمی‌دانستند جز این که به خدا، آن مقتدر شکست ناپذیر و ستوده ایمان آورده بودند.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5918,
+        "text": "همان خدایی که فرمانروایی آسمان‌ها و زمین از آنِ اوست; و خداوند بر هر چیزی ناظر است و هیچ کاری بر او پنهان نمی‌ماند.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5919,
+        "text": "به یقین، کسانی که مردان و زنان با ایمان را شکنجه کرده و آزار داده و سپس توبه نکرده‌اند، آنان را انواع عذاب دوزخ هست و عذاب آتش خواهند داشت.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5920,
+        "text": "کسانی که ایمان آورده و کارهای شایسته کرده‌اند، برای آنان بوستان‌هایی با درختانی انبوه خواهد بود که از زیر آنها جویبارها جاری است. این است سعادت بزرگ.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5921,
+        "text": "قطعاً گرفتنِ پروردگارت گرفتنی سخت است.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5922,
+        "text": "اوست که موجودات را پدید می‌آورد و آنها را پس از نابودی و تباهی به حالت نخستشان برمی گرداند و بازسازی می‌کند.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5923,
+        "text": "و اوست که آمرزنده مؤمنان و دوستدار آنان است.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5924,
+        "text": "صاحب عرش و ارجمند و با عظمت است.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5925,
+        "text": "هر کاری را بخواهد به طور کامل انجام می‌دهد.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5926,
+        "text": "آیا داستان آن سپاهیان به تو رسیده است؟",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5927,
+        "text": "داستان فرعون و قوم ثمود؟ خدا آنان را نابود ساخت و پیامبرشان را یاری کرد.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5928,
+        "text": "ای پیامبر، کافران قوم تو از این داستان‌ها پند نمی‌گیرند و ایمان نمی‌آورند، بلکه همچنان بر دروغ انگاشتن قرآن اصرار میورزند.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5929,
+        "text": "و خدا از هر سو بر آنان احاطه دارد، پس نمی‌توانند از تحت قدرت او خارج شوند.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5930,
+        "text": "قرآن ـ چنان که آنان می‌پندارند ـ ساخته بشر یا القای شیاطین نیست، بلکه کتابی است خوانده شده و ارجمند و با عظمت،",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5931,
+        "text": "که در لوحی مصون از هر کذب و باطلی قرار دارد.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 590,
+        "ruku": 527,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

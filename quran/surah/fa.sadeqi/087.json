@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5949,
+        "text": "نام پروردگار -والاترین‌- خود را به پاکی بستای.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5950,
+        "text": "همان که آفرید، پس سامان بخشید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5951,
+        "text": "و آن که اندازه‌گیری کرد، پس راهنمایی نمود.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5952,
+        "text": "و کسی که چراگاه را برون آورد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5953,
+        "text": "پس (از چندی) آن را خاشاکی تیره‌گون گردانید.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5954,
+        "text": "ما به زودی تو را خواننده(ی آیات وحیانی) خواهیم کرد، پس (آن را) فراموش نمی‌کنی.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5955,
+        "text": "جز آنچه (را) خدا خواسته (که برایت نخواند). همواره او آشکار و آنچه را که نهان است می‌داند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5956,
+        "text": "و (کار) تو را برای (پیمودنِ) آسان‌ترینِ راه آسان کنیم.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5957,
+        "text": "پس به یاد(شان) آور، اگر یادواره سودمند است.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5958,
+        "text": "آن کس که بهراسد، زودا به‌راستی پند گیرد.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5959,
+        "text": "و شقی‌ترین (مکلفان) خود را از آن با کوشش، دور کند.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5960,
+        "text": "کسی که آتشی بزرگ را شعله زند.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5961,
+        "text": "سپس در آن نه بمیرد و نه زندگی کند.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5962,
+        "text": "به‌راستی رستگار کرد آن کس که خود را بسی پاک گرداند.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5963,
+        "text": "و نام پروردگارش را یاد کرد، پس نماز گزارد.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5964,
+        "text": "بلکه (شما) زندگی دنیا را (بر آخرت) بر می‌گزینید.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5965,
+        "text": "حال آنکه آخرت نیکوتر و پایدارتر است‌.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5966,
+        "text": "بی‌گمان در صحیفه‌های گذشته (همچنان) این (وحی) موجود است؛",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      },
+      {
+        "number": 5967,
+        "text": "(در) صحیفه‌های ابراهیم و موسی.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 592,
+        "ruku": 529,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

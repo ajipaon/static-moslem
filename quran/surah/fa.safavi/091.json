@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "سوگند به خورشید و تابش آن،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "و سوگند به ماه چون از پی خورشید رَود،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "و سوگند به روز چون زمین را روشن کند،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "و سوگند به شب چون زمین را فرا گیرد،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "و سوگند به آسمان و به آن مقتدری که آن را بنا کرد،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "و سوگند به زمین و به آن قدرتی که آن را بگسترد،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "و سوگند به نفس آدمی و آن قدرتمند حکیمی که آن را موزون ساخت و سامان بخشید،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "و گنهکاری و تقواپیشگی اش را به آن الهام کرد،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "به همه اینها سوگند که هر کس نفس خود را به وسیله تقوا رشد داد به سعادت رسید.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "و هر کس آن را با گناه پرورید ناکام ماند.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "به فرجام ثمودیان بنگرید تا عاقبت گناه را دریابید. قوم ثمود در اثر طغیانشان پیام الهی را دروغ انگاشتند.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "آن گاه که تیره بخت ترینشان برانگیخته شد تا ناقه الهی را پی کند.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "پس صالح فرستاده خدا به آنان ابلاغ کرد که ناقه خدا و آب خوردنش را واگذارید و مانع آن نشوید.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "ولی قومش او را تکذیب کردند و ناقه را کشتند; پس پروردگارشان آنان را به سزای گناهشان به عذابی فرو گرفت و با خاک یکسانشان ساخت.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "و از فرجام کاری که کرد باکی ندارد.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

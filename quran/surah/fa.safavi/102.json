@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "مسابقه در ثروت اندوزی و جاه طلبی شما را سرگرم کرد و از مقصد بازداشت،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "تا آن گاه که مرگتان فرا رسید و گورهای خود را دیدید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "چنین نکنید! به زودی خواهید دانست که فرجام شوم این سرگرمی چیست.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "آری، چنین نکنید! به زودی خواهید دانست که فرجام شوم این سرگرمی چیست.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "هرگز چنین نکنید، که اگر به علم یقینی دست بیابید،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "بی گمان دوزخ را در این جهان به چشم دل خواهید دید.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "سپس آن را قطعاً روز قیامت به مشاهده یقینی خواهید دید.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "سپس آن روز که دوزخ را بنگرید، درباره هر نعمتی که به شما ارزانی شده است از شما سؤال خواهد شد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

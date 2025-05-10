@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "مگر ندانسته‌ای که پروردگارت با آن فیل سواران که برای ویران ساختن کعبه لشکرکشی نمودند چه کرد؟",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "آیا ترفندشان را در بیراهه قرار نداد و بی اثر نساخت؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "و بر بالای سرشان فوج فوج پرندگانی فرستاد.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "پرندگانی که بر آنان سنگ‌هایی از سجّیل می‌افکندند.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "بدین گونه، خداوند جانشان را گرفت و آنان را همچون پوسته‌ای ساخت که مغزش خورده شده باشد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

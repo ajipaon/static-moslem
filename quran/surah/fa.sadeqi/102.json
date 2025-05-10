@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "تفاخر به افزون‌طلبی، شما را (به خود واداشته و) از خدا باز داشته.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "تا گذارتان به گورستان‌ها رسید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "هرگز (نه چنان است)! در آینده [:برزخ] خواهید دانست.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "سپس هرگز (نه چنان است)! در آینده [:رستاخیز] خواهید دانست.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "هرگز چنین نیست، اگر علم‌الیقین دارید!",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "بی‌گمان دوزخ را بی‌امان می‌بینید.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "سپس آن را بی‌چون به عین‌‌الیقین همواره خواهید دید.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "سپس به‌راستی در آن هنگام (و هنگامه) از نعمت (پروردگارتان) بی‌امان پرسیده خواهید شد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

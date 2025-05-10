@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 17,
+    "ayahs": [
+      {
+        "number": 5932,
+        "text": "سوگند به آسمان و فرودآینده(ای) از آن.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5933,
+        "text": "و چه فهماندت که آن فرودآینده چیست‌؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5934,
+        "text": "اختر فروزان سوراخ‌کن.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5935,
+        "text": "هیچ کس نیست مگر اینکه در آن هنگام (و هنگامه)، نگاهبانی (ربّانی) بر او (گماشته شده) است.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5936,
+        "text": "پس انسان باید بنگرد که از چه آفریده شده است‌؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5937,
+        "text": "از آبی‌جهنده آفریده شده،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5938,
+        "text": "(که) از صُلب (مرد) و از میان استخوان‌های سینه(‌ی زن،) برون می‌آید.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5939,
+        "text": "همواره او [:خدا] بر باز گردانیدن وی به‌راستی تواناست.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5940,
+        "text": "آن روز که رازها فاش شوند،",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5941,
+        "text": "پس برای او [:انسان و...] نه هیچ نیرویی است و نه هیچ یاوری‌.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5942,
+        "text": "سوگند به آسمان دارای (حالت) بازگردانیدن (امانت‌ها) و بازگشتن (به حالت گازی نخستین).",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5943,
+        "text": "و سوگند به زمین شکاف‌دار (آماده‌ی کِشت).",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5944,
+        "text": "(که) همانا این قرآن بی‌گمان گفتاری قاطع و جداکننده(ی حق از باطل) است.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5945,
+        "text": "و آن (هرگز) شوخی نیست.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5946,
+        "text": "آنان بی‌امان دست به نیرنگی بزرگ می‌زنند.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5947,
+        "text": "و (من نیز برابرشان) دست به نیرنگی بزرگ می‌زنم.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      },
+      {
+        "number": 5948,
+        "text": "پس کافران را مهلت ده و اندکی آنان را به حال خود واگذار.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 591,
+        "ruku": 528,
+        "hizbQuarter": 236,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

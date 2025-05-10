@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6080,
+        "text": "سوگند به آن دم که آفتاب بگسترد،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "و سوگند به شب آن گاه که تاریکی اش فراگیر شود و آرام یابد،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "که پروردگارت ـ برخلاف آنچه دشمنان می‌گویند ـ نه رهایت کرده و نه تو را دشمن داشته است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "تو در این دنیا مورد رحمت مایی، و سرای آخرت قطعاً برای تو بهتر از این سرای خواهد بود.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "و به زودی پروردگارت در آن سرای [چنان مقامی] به تو عطا کند که خرسند شوی.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "مگر تو را کودکی یتیم نیافت پس به تو پناه داد؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "و تو را راه نایافته دید پس هدایتت کرد.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "و تو را تهیدست یافت پس توانگرت ساخت.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "پس تو نیز یتیم را خوار و مغلوب مکن که خود درد یتیمی را احساس کرده‌ای.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "و سؤال کننده را که از تو رهنمود می‌خواهد یا مالی می‌طلبد، از خود مران و بر او بانگ مزن که خود تلخی تنگدستی را چشیده‌ای و نیاز به رهنمود را دانسته‌ای.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "تو می‌دانی که همه این نعمت‌ها از جانب خداست، پس نعمت پروردگارت را بازگوی و شکرش را به جای آور (در گفتار و کردارت نشان ده که نعمت‌ها داده خداست).",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

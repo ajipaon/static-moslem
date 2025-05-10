@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "text": "به این شهر [:مکه] سوگند نمی‌خورم.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6025,
+        "text": "حال آنکه تو در این شهر جای داری، یا حرمتت در آن هتک شده.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6026,
+        "text": "سوگند(م) به پدری (هم‌چون محمد) است‌. و (نیز) آن (فرزندانی) که تولید کرده‌.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6027,
+        "text": "به‌راستی انسان را در (ژرفای) سختی(اش) به‌درستی آفریدیم‌؟",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6028,
+        "text": "آیا پندارد (که) هیچ کس هرگز بر او دست نتواند یافت‌؟",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6029,
+        "text": "گوید: «مالی انباشته را تباه کردم.»",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6030,
+        "text": "آیا پندارد که هیچ کس او را ندیده است‌؟",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6031,
+        "text": "آیا برایش دو چشم ننهادیم،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6032,
+        "text": "و زبانی و دو لب؟",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6033,
+        "text": "و هر دو راه (خیر و شرّ) را در بلندای نمایانشان بدو ننمودیم؟",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6034,
+        "text": "پس هرگز نخواست از گردنه‌(ی عاقبت‌نگر) با کوشش و کاوش بالا رود.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6035,
+        "text": "و چه شناساندت (که آن) گردنه چیست‌؟",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6036,
+        "text": "در بندی را (از گرفتاری و بندش) آزاد کردن،",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6037,
+        "text": "یا در روز گرسنگی‌ای سخت، طعامی دادن،",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6038,
+        "text": "یتیمی خویشاوند را،",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6039,
+        "text": "یا بینوایی خاک‌نشین را.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6040,
+        "text": "سپس از (زمره‌ی) کسانی بوده که گرویده‌اند و یکدیگر را به شکیبایی و مرحمت سفارش کرده‌اند.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6041,
+        "text": "اینانند راستان و برکت‌یافتگان.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6042,
+        "text": "و کسانی که به انکار (و انگار) نشانه‌های ما پرداخته‌اند، آنانند (ناخجستگان:) شوم‌زدگان‌.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6043,
+        "text": "بر (سر و سامان)شان آتشی سرپوشیده - هم‌چون طبقه‌ای - احاطه دارد.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

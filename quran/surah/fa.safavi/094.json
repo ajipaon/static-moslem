@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6091,
+        "text": "آیا به تو شرح صدر ندادیم تا بتوانی وحی را دریافت کنی و بر گزندها و مشکلات راه رسالت شکیبا باشی؟",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "ما پیام تو را به مردم رساندیم و آنان را به پذیرش آن برانگیختیم و بدین وسیله سنگینی بار رسالت را از دوش تو برداشتیم.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "آن بار سنگینی که پشت تو را شکسته بود.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "و آوازه ات را بلند گردانیدیم تا آن جا که نام تو را با نام خود قرین ساختیم.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "آری، رنج‌ها را از دوش تو برداشتیم، زیرا سنّت ما بر این جاری است که در پی دشواری آسانی باشد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "به یقین، در پی دشواری آسانی خواهد بود.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "اکنون که دانستی سنّت ما چیست، هرگاه از کار رسالت فارغ شدی، به عبادت بکوش و رنج آن را بر خود هموار ساز.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "و بدین وسیله به پروردگارت رغبت کن تا در پی این رنج، آسایشی نصیب تو سازد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15,
+    "ayahs": [
+      {
+        "number": 6044,
+        "text": "سوگند به خورشید و میان‌روزش.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6045,
+        "text": "سوگند به ماه هنگامی که از پی‌اش می‌رود.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6046,
+        "text": "سوگند به روز هنگامی که خورشید را نمایان کند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6047,
+        "text": "سوگند به شب هنگامی که چون پرده بر آن پوشد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6048,
+        "text": "سوگند به آسمان و آنچه آن را سازمان و سامان داد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6049,
+        "text": "سوگند به زمین و آنچه که آن را گشاده کرد و به حرکت درآورد.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6050,
+        "text": "سوگند به نَفْسی و آنچه سازمانش داد.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6051,
+        "text": "پس پلیدکاری و پرهیزگاریش را به او الهام کرد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6052,
+        "text": "(که) هر کس نفسش را پاک گردانید، به‌راستی رستگار کرد.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6053,
+        "text": "و هر کس آلوده‌اش ساخت، همواره زیان کرد.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6054,
+        "text": "ثمودیان با طغیانشان به تکذیب پرداختند،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6055,
+        "text": "چون شقی‌ترینشان برانگیخته شد.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6056,
+        "text": "پس فرستاده‌ی خدا به آنان گفت: «زنهار! ماده شتر خدا را و (نوبت) آب خوردنش را (حرمت نهید).»",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6057,
+        "text": "پس دروغزنش خواندند و آن (ماده شتر) را پی کردند. پس پروردگارشان به (سزای) گناهشان بر (سر و سامان)‌شان هلاکتی پراضطراب فرو فرستاد. پس (دوباره شتر را زنده کرد) و سامانش داد.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6058,
+        "text": "و از پی‌آمد کار خویش، بیمی نمی‌دارد.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 595,
+        "ruku": 533,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

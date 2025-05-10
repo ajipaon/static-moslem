@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "از آن روی که خداوند قریش را با کوچ نمودن مأنوس ساخت،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "آنان را با کوچ زمستانی و تابستانی مأنوس ساخت تا با امنیّت سفر کنند و معیشت خود را فراهم آورند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "به شکرانه اش باید خداوندگار این خانه (کعبه) را بپرستند;",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "همان کسی که آنان را در سرزمینی که اسباب معیشت فراهم نبود، از گرسنگی رهایی بخشید و طعامشان داد، و آنان را از ترس و دلهره ایمن ساخت.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

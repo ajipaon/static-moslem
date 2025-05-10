@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "هنگامی که آسمان از هم بشکافد.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "و هنگامی که اختران پراکنده شوند.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "و هنگامی که دریاها بسیار روان شوند (و فوران کنند).",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "و هنگامی که گورها (زیر و زبر و) انگیخته شوند.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "هر نفسی آنچه را پیش فرستاده و باز پس نهاده، بداند.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "هان ای انسان! چه چیز تو را به پروردگار کریمت مغرور ساخت‌؟",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "(همان) کسی که تو را آفرید؛ پس سازمانت داد، و بعد تو را سامان بخشید.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "(و) در هر چهره‌ای [:روحی و جسمی] آنچه می‌خواست، تو را ترکیب داد.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "هرگز نه چنان است! شما دین را (با همان) تکذیب می‌کنید.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "و همواره بر شما بی‌گمان نگهبانانی (گماشته شده)اند؛",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "کریمانِ نویسندگان (اعمال شما)،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "آنچه را می‌کنید، می‌دانند.",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "به‌راستی نیکان بی‌گمان در (ژرفای) نعمتی اندرند.",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "و بدکاران همی بی‌امان در آتشی شعله‌ورند.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "روز بُروز طاعت، آن را می‌افروزند.",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "و آنها از آن (عذاب) پنهان نیستند.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "و تو را چه فهمانید که روزِ دین [:بُروز طاعت] چیست‌؟",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "چه فهماندت که روز دین چیست‌؟",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "روزی را که هیچ‌کس برای کسی هیچ اختیاری ندارد و در آن روز، فرمان تنها از خداست.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

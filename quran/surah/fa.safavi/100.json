@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 6147,
+        "text": "سوگند به آن اسب‌ها که نفس زنان به سوی میدان جهاد تاختند،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6148,
+        "text": "و سوگند به آنها که با نواختن و تاختن بر سنگلاخ‌ها به وسیله سم هایشان شراره آتش برآوردند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6149,
+        "text": "و سوگند به آنها که بامدادان بر دشمن به ناگهان یورش بردند،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6150,
+        "text": "و با آن یورش غباری برانگیختند،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6151,
+        "text": "و بدین وسیله میان سپاه دشمن درآمدند،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6152,
+        "text": "به آنها سوگند که آدمی در برابر نعمت‌های پروردگارش بسیار ناسپاس است.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6153,
+        "text": "و او قطعاً بر ناسپاسی خود گواه است.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6154,
+        "text": "و چون شیفته مال است بسیار بخیل است.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6155,
+        "text": "آیا نمی‌داند که ناسپاسی خدا پیامدی ناگوار دارد؟ آن روز که دفن شدگانِ در گورها برانگیخته می‌شوند.",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6156,
+        "text": "و آنچه در سینه هاست همه فاش می‌گردد.",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6157,
+        "text": "به یقین، آن روز پروردگارشان به آنان آگاه است.",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 542,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

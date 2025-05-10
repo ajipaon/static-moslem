@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "بخوان به نام پروردگارت که آفرید.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "انسان را از علق [:میلیون‌ها آویزه‌ی منی] آفرید.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "بخوان و پروردگار تو کریم‌ترین است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "کسی که با قلم آموزش داد.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "آنچه را که انسان نمی‌دانست به او آموزش داد.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "چنان نیست (که انسان سرنهد). همواره انسان بی‌گمان سرکشی می‌کند،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "که خود را بی‌نیاز دید.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "بی‌امان بازگشت(شان) سوی پروردگار تو است.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "آیا دیدی آن کس را که باز می‌داشت‌؛",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "بنده‌ای را آن‌گاه که نماز می‌گزارد؟",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "آیا دیدی اگر آن بنده بر هدایت، راهوار و استوار بوده،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "یا (دیگران را هم) به پرهیزگاری واداشته؟",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "آیا دیدی اگر (این) بازداشته شده به تکذیب پردازد و روی برگرداند (چه کیفری در پیش دارد)؟",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "مگر ندانست که خدا همواره می‌بیند؟",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "زنهار! اگر به‌راستی باز نایستد، پیشانیش را بی‌امان سخت برگیریم؛",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "(همان) پیشانی دروغزنِ خطاکار را.",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "پس باید گروه ویژه‌ی خود را بخواند.",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "به زودی آتش‌بانان را فراخوانیم.",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "زنهار! فرمانش مبر و سجده کن و برای قرب الهی کاوش و پویش نمای.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

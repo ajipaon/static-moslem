@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "سوگند به عصر پیامبر، عصر پیدایش اسلام،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "که انسان در زیانکاری و سرمایه عمرش رو به تباهی است;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "مگر کسانی که به خدا و پیامبران و روز قیامت ایمان آورده و کارهای شایسته انجام داده و یکدیگر را به پیروی از حق سفارش کرده و به شکیبایی در اطاعت از خدا و دوری جستن از گناهان و تحمّل ناگواری‌ها توصیه نموده‌اند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

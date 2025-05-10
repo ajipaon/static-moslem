@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "آیا ندیدی پروردگارت با پیل‌بانان چه کرد؟",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "آیا نیرنگشان را در (ژرفای‌) گمراه کردن ننهاد؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "و بر سروسامانشان، پرندگانی صف‌اندرصف فرستاد.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "حال آنکه بر آنان سنگ‌(هایی) از سنگ گل می‌افکنند.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "پس (خدا) آنان را مانند علفی جویده‌شده گردانید.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

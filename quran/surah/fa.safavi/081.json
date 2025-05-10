@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "آن گاه که خورشید را سراسر تاریک کنند،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "و آن گاه که ستارگان فرو ریزند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "و آن گاه که کوه‌ها را روان سازند،",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "و آن گاه که شتران آبستن وانهاده شوند،",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "و آن گاه که حیوانات وحشی محشور شوند،",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "و آن گاه که دریاها را شعلهور کنند،",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "و آن گاه که همگان را جفت و قرین کنند; نیکان را با حوریان بهشتی و مجرمان را با شیاطین،",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "و آن گاه که از دخترِ زنده به گور شده پرسند،",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "به کدامین گناه کشته شد؟",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "و آن گاه که نامه‌های اعمال برای حسابرسی گشوده شود،",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "و آن گاه که آسمان برکنده شود،",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "و آن گاه که دوزخ را برافروخته گردانند،",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "و آن گاه که بهشت برای ورود بهشتیان نزدیک آورده شود،",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "آن گاه که این حوادث روی دهد، هر کسی آنچه کرده است حاضر می‌یابد و از آن آگاه می‌شود.",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "سوگند یاد می‌کنم به آن ستارگانی که باز می‌گردند و نهان می‌شوند;",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "و با شتاب و نظم حرکت می‌کنند و از حرکت باز می‌ایستند چنان که گویی در آشیانه خود قرار گرفته‌اند،",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "و سوگند به شب آن گاه که پشت می‌کند و می‌رود،",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "و سوگند به بامداد آن گاه که برمی دمد و روشنی اش در افق پدیدار می‌شود،",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "که قرآن سخن فرستاده‌ای ارجمند (جبرئیل) است.",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "همو که نیرومند و نزد خدایِ صاحب عرش مقرّب و دارای مقام و منزلت است.",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "در آن جا فرشتگان دیگر از او فرمان می‌برند و در ابلاغ آنچه خدا به او فرمان می‌دهد امین است.",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "و سوگند به همه اینها که محمّد مبتلا به جنون نیست; او سال‌ها همراه و همنشین شما بوده است.",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "او قطعاً جبریل را در آن کرانه روشن مشاهده کرد.",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "و او در ابلاغ پیام‌های غیبی به شما، بخل نمیورزد.",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "و این قرآن گفتار شیطان آن موجود رانده شده نیست.",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "پس شما به کجا می‌روید؟",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "این قرآن جز تذکاری برای جهانیان نیست.",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "ولی تنها کسانی از شما از آن بهره می‌برند که بخواهند بر عبادت و اطاعت خدا پایدار باشند.",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "و شما چیزی را اراده نمی‌کنید مگر این که خدا که پروردگار جهان هاست آن را اراده کند.",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
