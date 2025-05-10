@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6177,
+        "text": "قسم دى په عصر (مازیګر، یا زمانه)",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6178,
+        "text": "چې بېشكه یقینًا انسان په زیان (او تاوان) كې دى",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6179,
+        "text": "غیر له هغو كسانو نه چې ایمان يې راوړى دى او نېك عملونه يې كړې دي او یو بل ته يې د حق (دین) وصیت كړى دى، او یو بل ته يې د صبر وصیت كړى دى",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 545,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "name": "عبدالولي",
+      "englishName": "عبدالولي",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

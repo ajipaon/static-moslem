@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "د قریشو له یو بل سره د الفت له وجې نه",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "د ژمي او اوړي په سفر كې د دوى د الفت په وجه",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "نو لازم دي چې دوى د دې كور د رب عبادت وكړي",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "هغه (رب) چې دوى ته يې له لوږې نه (د بچ كولو لپاره) طعام وركړى دى او دوى ته يې له وېرې نه (د ساتلو لپاره) امن (او بې خوفي) وركړې ده",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "name": "عبدالولي",
+      "englishName": "عبدالولي",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

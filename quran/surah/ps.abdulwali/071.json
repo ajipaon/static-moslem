@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "بېشكه مونږ نوح خپل قوم ته په دې سره لېږلى و چې ته خپل قوم ووېروه، مخكې له دې چې په دوى ډېر دردوونكى عذاب راشي",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "(نو) ده وویل: اى زما قومه! بېشكه زه ستاسو لپاره ښكاره وېروونكى یم",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "چې تاسو د الله عبادت كوئ او له ده نه ووېرېږئ او زما اطاعت وكړئ",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "دى به تاسو ته ستاسو ځینې ګناهونه وبخښي او ترټاكلې نېټې پورې به تاسو وروسته (او باقي پاتې) كړي، بېشكه د الله نېټه چې كله راشي (نو) وروسته كېدى نشي، كه چېرې تاسو پوهېږئ",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "ده وویل: اى زما ربه! بېشكه ما شپه او ورځ خپل قوم (توحید ته) راوباله",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "نو دوى ته زما بلنې زیاته نه كړه مګر تېښته",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "او بېشكه زه چې هر وارې دوى د دې لپاره راوبلم چې ته دوى وبخښې (نو) دوى خپلې ګوتې په خپلو غوږونو كې ننباسي او په خپلو جامو سره ځان (مخ) پټ كړي او په كفر باندې) اصرار (او همېشه والى) كوي او لويي كوي ډېر غټه لويي",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "بیا یقینًا ما دوى ښه په جار (په اوچت اواز سره) راوبلل",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "بیا یقینًا ما دوى ته څرګند (او ښكاره) دعوت وركړ او ما دوى ته په پټه هم دعوت وركړ، ښه په پټه",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "نو ما (دوى ته) وویل: تاسو له خپل رب نه بخښنه وغواړئ بېشكه دى ډېر بخښونكى دى",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "دى به په تاسو ښه ورېدونكى باران راخوشې كړي",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "او تاسو ته به مالونه او زامن درزیات كړي، او تاسو ته به باغونه پیدا كړي او تاسو ته به ولې پیدا كړي",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "په تاسو څه شوي دي چې د الله لپاره د لويي عقیده نه ساتئ؟",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "حال دا چې ده تاسو قسما قسم پیدا كړي یئ",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "ایا تاسو نه دي كتلي چې الله اوه اسمانونه لاندې باندې پیدا كړي",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "او په دغو كې يې سپوږمۍ روښانه جوړه كړه او لمر يې بَله (ځلېدونكې) ډيوه جوړه كړه",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "او الله تاسو په خاصو زرغونولو سره له ځمكې نه رازرغون كړئ",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "بیا به دى تاسو په دې كې ننباسي او راوبه موباسي په خاصو را اېستلو سره",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "او الله تاسو لپاره ځمكه فرش جوړه كړې ده",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "د دې لپاره چې تاسو د دې په ارتو لویو لارو باندې لاړ شئ",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "نوح وویل: اى زما ربه! بېشكه دوى زما نافرماني وكړه، او دوى د هغه چا پیروي وكړه چې دغه (كس) ته د ده مال او د ده اولاد زیاته نه كړه مګر زیانكاري (او تاوان)",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "او دغو خلقو ډېر لوى مكر وچلاوه",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "او ويې ویل (خپلو خلقو ته): تاسو خپل معبودان مه پرېږدئ او تاسو مه پرېږدئ (عبادت د) وَد، او نه (د) سُواع او نه (د) یغوث او یعوق اونسر",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "او یقینًا دغو (خلقو) ډېر كسان ګمراه كړي دي او ته ظالمانو ته مه زیاتوه مګر ګمراهي",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "دوى د خپلو ګناهونو په سبب غرق (ډوب) كړِى شول، نو اور ته داخل كړى شول، نو دوى د خپلو ځانونو لپاره له الله نه غیر هېڅ مدد كوونكي ونه موندل",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "او نوح وویل: اى زما ربه! ته د ځمكې له پاسه (د ځمكې په سر) په كافرانو كې هېڅ یو ګرځېدونكى مه پرېږده",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "یقینًا ته كه دوى پرېږدې، نو دوى به ستا بنده ګان ګمراه كړي او دوى نه زېږوي مګر فاجر (بدكاره)، ډېر ناشكره",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "اى زما ربه! ته ما وبخښه او زما مور او پلار او هغه څوك (هم) چې زما كور ته داخل شي، چې ایمان لرونكى وي اومومن سړي او مومنې ښځې (وبخښه) او ظالمانو ته مه زیاتوه مګر هلاكت",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "name": "عبدالولي",
+      "englishName": "عبدالولي",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

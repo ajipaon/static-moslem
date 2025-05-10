@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6226,
+        "text": "(اى نبي) ته ووایه: زه په رب د سبا پورې پناه نيسم",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "د هر هغه شي له شر نه چې ده پیدا كړى دى",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "او د تیارې شپې له شر نه كله چې تكه توره (او خوره) شي",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "او له شره د هغو (جادوګرو) ښځو چې په غوټو كې پوكي وهونكې دي",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "او د حسد كوونكي له شر نه كله چی دى حسد (شروع او ښكاره) كړي",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "name": "عبدالولي",
+      "englishName": "عبدالولي",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
