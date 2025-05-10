@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 5476,
+        "text": "O jij in kleren gehulde!",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5477,
+        "text": "Blijf op een klein gedeelte na de hele nacht op",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5478,
+        "text": "? de helft of iets minder",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5479,
+        "text": "of iets meer -- en draag de Koran achtereenvolgens voor.",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5480,
+        "text": "Wij zullen jou zwaarwegende woorden opleggen.",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5481,
+        "text": "De nachtwaak maakt meer indruk en laat juistere dingen zeggen.",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5482,
+        "text": "Immers, overdag heb jij langdurige bezigheden.",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5483,
+        "text": "Gedenk dus de naam van jouw Heer en zonder je geheel voor Hem af,",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5484,
+        "text": "de Heer van het oosten en het westen. Er is geen god dan Hij; neem Hem dus als voogd.",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5485,
+        "text": "En verdraag wat zij zeggen geduldig en ga minzaam bij hen weg.",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5486,
+        "text": "En laat Mij maar met de loochenaars die een aangenaam leven leiden en geef hun nog enig uitstel.",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5487,
+        "text": "Wij hebben boeien en een hellevuur bij Ons",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5488,
+        "text": "en voedsel om in te stikken en een pijnlijke bestraffing",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5489,
+        "text": "op de dag dat de aarde en de bergen beven en de bergen stuifduinen worden.",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5490,
+        "text": "Wij hebben een gezant tot jullie gezonden om over jullie getuige te zijn, zoals Wij een gezant tot Fir'aun gezonden hebben.",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5491,
+        "text": "Maar Fir'aun was ongehoorzaam aan de gezant en dus grepen Wij hem op een afschuwelijke manier.",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5492,
+        "text": "Hoe zouden jullie je dan, als jullie ongelovig blijven, willen beschermen tegen een dag waarop de kinderen tot grijsaards worden,",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5493,
+        "text": "waarop de hemel splijt? Zijn aanzegging wordt uitgevoerd.",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5494,
+        "text": "Dit is een vermaning en wie wil, slaat de weg naar zijn Heer in.",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 574,
+        "ruku": 508,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5495,
+        "text": "Jouw Heer weet dat jij bijna tweederde van de nacht opblijft, of de helft, of een derde, samen met een groep van hen die bij jou horen. God bepaalt de maat van de nacht en de dag. Hij weet dat jullie het niet kunnen en heeft zich genadig tot jullie gewend. Leest dus uit de Koran een gemakkelijk gedeelte voor. Hij weet dat er onder jullie zieken zullen zijn en anderen die op de aarde rondtrekken om naar Gods gunst te streven en anderen die op Gods weg strijden. Leest er dus een gemakkelijk gedeelte uit voor, verricht de salaat, geeft de zakaat en geeft aan God een goede lening. En wat jullie eerder aan goeds gedaan hebben voor jullie zelf, dat zullen jullie bij God als nog beter en geweldiger beloond vinden. En vraagt God om vergeving; God is vergevend en barmhartig.",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 575,
+        "ruku": 509,
+        "hizbQuarter": 230,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "nl.leemhuis",
+      "language": "nl",
+      "name": "Leemhuis",
+      "englishName": "Leemhuis",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
