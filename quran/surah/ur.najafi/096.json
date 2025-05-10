@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 6107,
+        "text": "(اے رسول(ص)) اپنے پروردگار کے نام سے پڑھیے جس نے (سب کائنات کو) پیدا کیا۔",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6108,
+        "text": "(بالخصوص) انسان کو جمے ہوئے خون کے ایک لوتھڑے سے پیدا کیا۔",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6109,
+        "text": "پڑھئیے! اور آپ کا پروردگار بڑا کریم ہے۔",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6110,
+        "text": "جس نے قَلم کے ذریعہ سے علم سکھایا۔",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6111,
+        "text": "اور انسان کو وہ کچھ پڑھایا جو وہ نہیں جانتا تھا۔",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6112,
+        "text": "ہرگز نہیں! انسان (اس وقت) سرکشی کرنے لگتا ہے۔",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6113,
+        "text": "جب وہ سمجھتا ہے کہ وہ (غنی) بےنیاز ہے۔",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6114,
+        "text": "بےشک آپ(ص) کے پروردگار کی طرف ہی (سب کی) بازگشت ہے۔",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6115,
+        "text": "کیا آپ(ص) نے اس شخص کو دیکھا ہے جو منع کرتا ہے۔",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6116,
+        "text": "ایک بندہ (خاص) کو جب وہ نماز پڑھتا ہے۔",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6117,
+        "text": "بھلا دیکھئے تو! اگر وہ (بندۂ خاص) ہدایت پر ہے؟",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6118,
+        "text": "یا وہ پرہیزگاری کا حکم دیتا ہے؟",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6119,
+        "text": "کیا آپ نے غور کیا ہے کہ اگر یہ شخص (حق کو) جھٹلاتا ہے اور (اس سے) رُوگردانی کرتا ہے توانجام کیا ہوگا؟",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6120,
+        "text": "کیا وہ نہیں جانتا کہ اللہ (سب کچھ) دیکھ رہا ہے؟",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6121,
+        "text": "ہرگز نہیں اگر وہ (اس سے) باز نہ آیا تو ہم اس کی پیشانی کے بال پکڑ کر کھینچیں گے۔",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6122,
+        "text": "وہ پیشانی جو جھوٹی ہے اور گنہگار؟",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6123,
+        "text": "پس وہ بلائے اپنے ہم نشینوں کو۔",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6124,
+        "text": "ہم بھی دوزخ کے ہرکاروں (فرشتوں) کو بلائیں گے۔",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6125,
+        "text": "ہرگز نہیں! اس کی بات نہ مانیے اورسجدہ کیجئے اور (اپنے پروردگار کا) قرب حاصل کیجئے۔",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 597,
+        "ruku": 538,
+        "hizbQuarter": 239,
+        "sajda": {
+          "id": 15,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    ],
+    "edition": {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "name": "محمد حسین نجفی",
+      "englishName": "محمد حسین نجفی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

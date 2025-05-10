@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6214,
+        "text": "[ای پیامبر!] هنگامی که یاری خدا و پیروزی فرارسد،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6215,
+        "text": "و مردم را ببینی که دسته دسته در دین خدا وارد می‌شوند،",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6216,
+        "text": "پس پروردگارت را با سپاس و ستایش به پاکی یادکن و از او آمرزش بخواه که او همواره توبه‌پذیر است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 552,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.gharaati",
+      "language": "fa",
+      "name": "قرائتی",
+      "englishName": "قرائتی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

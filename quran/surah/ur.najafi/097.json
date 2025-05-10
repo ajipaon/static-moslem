@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "بےشک ہم نے اس (قرآن) کوشبِ قدر میں نازل کیا۔",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "اور آپ کو کیا معلوم کہ شب قدر کیا ہے؟",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "شبِ قدر ہزار مہینوں سے بہتر ہے۔",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "اس میں فرشتے اور روح اپنے پروردگار کی اجازت سے (سال بھر کی) ہر بات کا حکم لے کر اترتے ہیں۔",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "وہ (رات) سراسر سلامتی ہے طلوعِ صبح تک۔",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "name": "محمد حسین نجفی",
+      "englishName": "محمد حسین نجفی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

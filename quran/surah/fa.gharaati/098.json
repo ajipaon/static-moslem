@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "کافرانِ اهل کتاب و مشرکان، [از آیین خود] جدا نمی‌شدند تا آن که دلیلی روشن برایشان بیاید.",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "پیامبری از سوی خدا که کتاب‌هایی پاک می‌خواند.",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "در آن‌ها نوشته‌هایی استوار و با ارزش است.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "و اهل کتاب [گروه گروه و] پراکنده نشدند مگر پس از آن که دلیل روشن برای آنان آمد [و حجّت تمام شد، سپس درباره‌ی پذیرش آن پراکنده شدند].",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "در حالی که فرمان یافته بودند تنها خدا را بپرستند، دین را برای او خالص ساخته و حق‌گرا باشند و نماز را برپا دارند و زکات بپردازند و این است دین استوار.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "همانا کسانی از اهل کتاب و مشرکان که کافر شدند، در آتش دوزخند. در آن جاودانه‌اند. آنانند بدترینِ آفریده‌ها.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "بی‌شک کسانی که ایمان آورده و کارهای شایسته کرده‌اند، آنان بهترینِ آفریدگانند.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "پاداش اینان نزد پروردگارشان، باغ‌هایی پاینده است که زیر [درختان] آن نهرها جاری است. برای همیشه در آن جاودانه‌اند. خدا از آنان خشنود است و آنان نیز از او خشنودند. این [مقام] ویژه‌ی کسی است که از پروردگارش پروا کند.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.gharaati",
+      "language": "fa",
+      "name": "قرائتی",
+      "englishName": "قرائتی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

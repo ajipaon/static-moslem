@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "چونکہ (اللہ نے) قریش کو مانوس کر دیا۔",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "یعنی جاڑے اور گرمی کے تجارتی سفر سے مانوس کر دیا ہے۔",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "تو ان کو چاہیے کہ اس گھر (خانۂ کعبہ) کے پروردگار کی عبادت کریں۔",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "جس نے ان کو بھوک میں کھانے کو دیا اور خوف میں امن عطا کیا۔",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "name": "محمد حسین نجفی",
+      "englishName": "محمد حسین نجفی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

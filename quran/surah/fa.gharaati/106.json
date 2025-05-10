@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "تا قریش را الفت دهد،",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "الفت آنان در سفرهای [بازرگانی] زمستانی و تابستانی [تا در آرامش و امنیت، معاششان را تأمین کنند].",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "پس [به شکرانه‌ی این نعمت،] پروردگار این خانه را بپرستند.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "همان که آنان را از گرسنگی [و قحطی رهانید و] غذا داد و از ترس، ایمنی‌شان بخشید.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "fa.gharaati",
+      "language": "fa",
+      "name": "قرائتی",
+      "englishName": "قرائتی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}

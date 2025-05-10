@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "اہلِ کتاب اور مشرکین میں سے جو لوگ کافر تھے وہ (اپنے کفر سے) باز آنے والے نہ تھے جب تک ان کے پاس ایک واضح دلیل نہ آجائے۔",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "یعنی اللہ کا ایک رسول(ع) جو انہیں پاک و پاکیزہ صحیفے پڑھ کر سنا ئے۔",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "جن میں بالکل درست باتیں لکھی ہوئی ہوں۔",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "اور جن لوگوں کو کتاب دی گئی تھی (اور وہ اہلِ کتاب تھے) وہ تو واضح دلیل کے آجانے کے بعد ہی تفرقہ میں پڑے۔",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "حالانکہ انہیں تو بس یہی حکم دیا گیا تھا کہ دین کو اسی کیلئے خالص کرتے ہوئے اللہ کی عبادت کریں بالکل یکسُو ہو کر اور نماز قائم کریں اور زکوٰۃ دیں اور یہی نہایت (صحیح اور) درست دین ہے۔",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "بےشک جو اہلِ کتاب اور مشرکین کفر میں مبتلا ہیں وہ جہنم کی آگ میں پڑیں گے (اور) ہمیشہ اس میں رہیں گے یہی لوگ بدترینِ خلائق ہیں۔",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "اور بےشک جو لوگ ایمان لائے اور نیک عمل کئے وہی بہترینِ خلائق ہیں۔",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "ان کی جزا ان کے پروردگار کے ہاں ہمیشگی کی جنتیں ہیں جن کے نیچے نہریں جاری ہیں وہ ان میں ہمیشہ ہمیشہ رہیں گے اللہ ان سے راضی ہے اور وہ اللہ سے راضی ہیں (یہ سب کچھ) اس کے لئے ہے جو اپنے پروردگار (کی حکم عدولی) سے ڈرتا ہے۔",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "name": "محمد حسین نجفی",
+      "englishName": "محمد حسین نجفی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  }
+}
