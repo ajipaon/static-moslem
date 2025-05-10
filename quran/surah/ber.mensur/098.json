@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6131,
+        "text": "Ijehliyen seg At Tezmamt, akked imcurak, ur steôoiâen alamma irs ed, $uôsen, ubeggen:",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6132,
+        "text": "Amazan s$uô Öebbi, i immalen tiwôeqtin zeddigen;",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6133,
+        "text": "degsent tira tumâint.",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6134,
+        "text": "Ur myefrazen wid iwumi teppunefk Tezmamt, armi ten id iusa ubeggen.",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6135,
+        "text": "Ppwamôen, kan, ad âabden Öebbi s ddin iûfan, ad malen ar tidep, ad bedden i téallit, ad zzekkin. D wagi ay d ddin umâin.",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6136,
+        "text": "Ih, wid ijehlen, seg At Tezmamt akked imcurak, di tmes n Loahennama ad wekkôen. Widak, d aâar n yimdanen.",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6137,
+        "text": "Ma d wid ippamnen, i xeddmen ayen ilhan, widak d lxetyaô n yimdanen.",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6138,
+        "text": "Arraz nnsen, ar Mass nnsen, d leonanat n Âaden, ddawat sen isaffen ppazzalen, degsen ad wekkôen, i lebda. Öebbi Iôuva ten, nitni ôuvan T. Akka i win i ippagwaden Mass is.",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 599,
+        "ruku": 540,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ber.mensur",
+      "language": "ber",
+      "name": "At Mensur",
+      "englishName": "At Mensur",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

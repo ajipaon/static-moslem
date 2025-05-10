@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "መናፍቃን በመጡህ ጊዜ «አንተ የአላህ መልክተኛ መኾንህን በእርግጥ (ምለን) እንመሰክራለን» ይላሉ፡፡ አላህም አንተ በእርግጥ መልክተኛው መኾንህን ያውቃል፡፡ አላህም መናፍቃን (ከልብ እንመሰክራለን በማለታቸው) ውሸታሞች መኾናቸውን ይመሰክራል፡፡",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "መሓሎቻቸውን ጋሻ አድርገው ያዙ፡፡ ከአላህም መንገድ ከለከሉ፡፡ እነርሱ ይሠሩት የነበሩት ነገር ከፋ፡፡",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "ይህ እነርሱ (በምላስ) ያመኑ ከዚያም (በልብ) የካዱ በመኾናቸው ነው፡፡ በልቦቻቸውም ላይ ታተመባቸው፤ ስለዚህ እነርሱ አያውቁም፡፡",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "ባየሃቸውም ጊዜ አካሎቻቸው (ግዙፍነታቸው) ያስደንቁሃል፡፡ ቢናገሩም ለንግግራቸው ታዳምጣለህ፤ (ከዕውቀት ባዶ በመኾን)፡፡ እነርሱ ልክ በግድግዳ የተጠጉ ግንዶችን ይመስላሉ፡፡ ጩኸትን ሁሉ በእነርሱ ላይ ነው ብለው ያስባሉ፡፡ እነርሱ ጠላቶች ናቸውና ተጠንቀቃቸው፡፡ አላህ ይጋደላቸው፤ (ከእምነት) እንዴት ይመለሳሉ!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "ለእነሱም ፡- «ኑ የአላህ መልክተኛ ለእናንተ ምሕረትን ይለምንላችኋል፤» በተባሉ ጊዜ ራሶቻቸውን ያዞራሉ፡፡ እነርሱም ትዕቢተኞች ኾነው ሲሸሹ ታያቸዋለህ፡፡",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "ምሕረትን ብትለምንላቸው ወይም ምሕረትን ባትለምንላቸው በእነርሱ ላይ እኩል ነው፡፡ አላህ ለእነርሱ በፍጹም አይምርም፡፡ አላህ አመጸኞችን ሕዝቦች አየመራምና፡፡",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "እነርሱ እነዚያ ፡- «አላህ መልክተኛ ዘንድ ላሉት ሰዎች እስከሚበታተኑ ድረስ አትቀልቡ» የሚሉ ናቸው፡፡ የሰማያትና የምድር ድልቦችም የአላህ ናቸው፡፡ ግን መናፍቃን አያውቁም፡፡",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "«ወደ መዲና ብንመለስ አሸናፊው ወራዳውን በእርግጥ ከእርሷ ያወጣል» ይላሉ፡፡ አሸናፊነትም ለአላህ፣ ለመልክተኛውና ለምእምናን ነው፡፡ ግን መናፍቃን አያውቁም፡፡",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "እናንተ ያመናችሁ ሆይ! ገንዘቦቻችሁና ልጆቻችሁ አላህን ከማስታወስ አያታሉዋችሁ፡፡ ይህንንም የሚሠሩ ሰዎች እነዚያ እነርሱ ከሳሪዎች ናቸው፡፡",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "አንዳችሁንም ሞት ሳይመጣውና ጌታዬ ሆይ! እንድመጸውትና ከደጋጐቹም ሰዎች እንድኾን ወደ ጥቂት ጊዜ ብታቆየኝ ኖሮ እመኛለሁ ከማለቱ በፊት ከሰጠናችሁ ሲሳይ ለግሱ፡፡",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "ማንኛይቱም ነፍስ የሞት ጊዜዋ በመጣበት ጊዜ አላህ በፍጹም አያቆያትም፡፡ አላህም በምትሠሩት ሁሉ ውስጠ ዐዋቂ ነው፡፡",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

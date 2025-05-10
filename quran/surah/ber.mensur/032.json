@@ -1,0 +1,357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 3504,
+        "text": "Alm.",
+        "numberInSurah": 1,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3505,
+        "text": "Tarusi n Tezmamt, ur illi degs ccekk, s$uô Mass imavalen.",
+        "numberInSurah": 2,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3506,
+        "text": "Ne$ a d inin: \"isnulfa p id\". Xaîi, neppat, d tidep s$uô Mass ik, iwakken a pnedôev agdud u$uô ur d iusi ara uneddaô, uqbel ik, amar ad pwanhun.",
+        "numberInSurah": 3,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3507,
+        "text": "Öebbi i Ixelqen tamurt, igenwan, akked wayen illan garasen, di sdis wussan; sinna, Iâannec $ef usgeld. Ur tesâim, war Neppa, bab, ne$ amcafaâ. Day ula d tesmektayem ara?",
+        "numberInSurah": 4,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3508,
+        "text": "A d Iseyyi lameô seg igenni ar tmurt; sinna, ad iu$al $uôeS deg ibwass, lmudda s: agim iseggwasen, s leêsab nnwen.",
+        "numberInSurah": 5,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3509,
+        "text": "Akka, Umusnaw n wayen iffren, u n wayen ur neffir, Uzmir Ipêunun.",
+        "numberInSurah": 6,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3510,
+        "text": "I Iûûegmen akw ayen Ixleq. Inza d lxelq n umdan, si talaxt.",
+        "numberInSurah": 7,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3511,
+        "text": "Sinna, Issuffe$ ed tarwa s si l$ella, degs cwiî n waman.",
+        "numberInSurah": 8,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3512,
+        "text": "Sinna, Imesl it, Iûûuv degs, si ôôuê iS. Irra yawen timesliwt, iéôi, ul. Drus ay tesnemmirem.",
+        "numberInSurah": 9,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3513,
+        "text": "Nnan: \"ma nweddeô di tmurt, day a d nepwaxleq tikelt nniven\"? Xaîi, nekôen timlilit akked Mass nnsen.",
+        "numberInSurah": 10,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 165,
+        "sajda": false
+      },
+      {
+        "number": 3514,
+        "text": "Ini: \"ad iddem ôôuê nnwen, lmelk n tmeppant i ippukelfen fellawen. Sinna, ar Mass nnwen a ppu$alem\".",
+        "numberInSurah": 11,
+        "juz": 21,
+        "manzil": 5,
+        "page": 415,
+        "ruku": 358,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3515,
+        "text": "Lemmer a pwaliv ibe$wviyen, ad brun i iqweôôa nnsen, zdat Mass nnsen: \"a Mass nne$! Nwala, nesla; Err ane$ a nexdem ayen ilhan. S tidep, numen\".",
+        "numberInSurah": 12,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3516,
+        "text": "Lemmer i £ ihwi, yili Nefka, i yal ôôuê, nnhaya s. Maca, ad ivôu wayen Nni$: \"war ccekk, ad Acaôe$ Loahennama s leonun akked yimdanen, mejmulen\".",
+        "numberInSurah": 13,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3517,
+        "text": "Ihi, jeôôbet imi teppum a d temlilem d wass nnwen agi! Nekwni, ih, Neppu kwen. Jeôôbet aâaqeb, n lebda, ilmend n wayen txeddmem.",
+        "numberInSurah": 14,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3518,
+        "text": "I iumnen kan, s issekniyen nne£, d wid, mara ten id mmektin, ara weddin ad knun, ara isbucuâen Mass nnsen s ccekôan, nitni ur pzuxxun.",
+        "numberInSurah": 15,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": {
+          "id": 10,
+          "recommended": false,
+          "obligatory": true
+        }
+      },
+      {
+        "number": 3519,
+        "text": "Ppensaren d ibeôdiyen nnsen, seg imîeôêen, pnujun $eô Mass nnsen, s tugwdi d usirem. Seg wayen iten N$at, pseddiqen.",
+        "numberInSurah": 16,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3520,
+        "text": "Ur iéôi yiwen acu i sen Ffre$ n lfeôê. D arraz n wayen llan xeddmen.",
+        "numberInSurah": 17,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3521,
+        "text": "Win illan d lmumen, day am win illan d amed$ul? Ur aâdilen.",
+        "numberInSurah": 18,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3522,
+        "text": "Ihi, i wid iumnen, ixeddmen ayen ilhan, leonanat imôaêbiyen, ara zed$en, ilmend n wayen xeddmeùn.",
+        "numberInSurah": 19,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3523,
+        "text": "Wanag wid ide$wlen, di tmes ara zed$en. Yal tikelt ideg ara b$un a d ff$en segs, a ten rren $uôes, ad asen inin: \"jeôôbet aâaqeb n tmes i tnekkôem\".",
+        "numberInSurah": 20,
+        "juz": 21,
+        "manzil": 5,
+        "page": 416,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3524,
+        "text": "Ih, a Nessukk fellasen aâaqeb aqôib mavi, war aâaqeb abarar. Ahat a d u$alen s abrid.",
+        "numberInSurah": 21,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3525,
+        "text": "Anwa i idensen sennig n win iwumi d dekôen issekniyen n Mass is, iu$al iwexxeô asen? Ih, a d Nerr ppaô seg ibe$wviyen.",
+        "numberInSurah": 22,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 359,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3526,
+        "text": "Ni$ Nefka yas Tazmamt i Musa. Ur ppili di ccekk af temlilit yideS! Nerra p d nnhaya i At Isôail.",
+        "numberInSurah": 23,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3527,
+        "text": "Nesbedd, segsen, iselmaden; nnehun s lameô nne£, mi ûebôen, u llan pputebbten $ef issekniyen nne£.",
+        "numberInSurah": 24,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3528,
+        "text": "Ih, Mass ik, Neppa, ad Iêudd garasen, ass n tnekra, $ef wayen i$ef mgarraden.",
+        "numberInSurah": 25,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3529,
+        "text": "Day ur ten inha ara wayen Nesqucc isuta, uqbel nnsen? La leêêun $ef tnezdu$in nnsen. Deg waya, s tidep, issekniyen. Day ur sellen ara?",
+        "numberInSurah": 26,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3530,
+        "text": "Day ur zôin ara Neppawi aman s akal aquôan; Nessuffu$ ed, yissen, iâaqqayen; teppen, segsen, nitni akked lmal nnsen. Day ur pwalin ara?",
+        "numberInSurah": 27,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3531,
+        "text": "Qqaôen: \"melmi l$elb agi, ma tessawalem tidep\"?",
+        "numberInSurah": 28,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3532,
+        "text": "Ini: \"ass n l$elb, liman n wid ijehlen, ur ten infaâ; ur pganin\".",
+        "numberInSurah": 29,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      },
+      {
+        "number": 3533,
+        "text": "Ihi, wexxeô asen, ggani. Nitni, s tidep, la pganin.",
+        "numberInSurah": 30,
+        "juz": 21,
+        "manzil": 5,
+        "page": 417,
+        "ruku": 360,
+        "hizbQuarter": 166,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ber.mensur",
+      "language": "ber",
+      "name": "At Mensur",
+      "englishName": "At Mensur",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

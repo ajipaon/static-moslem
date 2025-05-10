@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "እኛ ኑሕን «ሕዝቦችህን አሳማሚ ቅጣት ሳይመጣባቸው በፊት አስጠንቅቅ በማለት ወደ ሕዝቦቹ ላክነው፡፡»",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "(እርሱም) አለ «ሕዝቦቼ ሆይ! እኔ ለእናንተ ገላጭ የኾንኩ አስጠንቃቂ ነኝ፡፡",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "«አላህን ተገዙት፣ ፍሩትም፣ ታዘዙኝም በማለት፤ (አስጠንቃቂ ነኝ)፡፡",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "«ለእናንተ ከኀጢኣቶቻችሁ ይምራልና፡፡ ወደተወሰነው ጊዜም ያቆያችኋል፡፡ የአላህ (የወሰነው) ጊዜ በመጣ ወቅት አይቆይም፡፡ የምታውቁት ብትኾኑ ኖሮ (በታዘዛችሁ ነበር)፡፡»",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "(ስለ ተቃወሙትም) «አለ ጌታዬ ሆይ! እኔ ሌሊትም ቀንም ሕዝቦቼን ጠራሁ፡፡",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "«ጥሪየም መሸሽን እንጅ ሌላ አልጨመረላቸውም፡፡",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "«እኔም ለእነርሱ ትምር ዘንድ (ወደ እምነት) በጠራኋቸው ቁጥር ጣቶቻቸውን በጆሮዎቻቸው ውስጥ አደረጉ፡፡ ልብሶቻቸውንም ተከናነቡ፡፡ (በመጥፎ ሥራቸው ላይ) ዘወተሩም፡፡ (ያለ ልክ) መኩራትንም ኮሩ፡፡",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "«ከዚያም እኔ በጩኸት ጠራኋቸው፡፡",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "«ከዚያም እኔ ለእነርሱ ገለጽኩ፡፡ ለእነርሱም መመስጠርን መሰጠርኩ",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "«አልኳቸውም፡- ጌታችሁን ምሕረትን ለምኑት፡፡ እርሱ በጣም መሐሪ ነውና፡፡",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "«በእናንተ ላይ ዝናምን ተከታታይ አድርጎ ይልካል፡፡",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "«በገንዘቦችና በልጆችም ይለግሰላችኋል፡፡ ለእናንተም አትክልቶችን ያደርግላችኋል፡፡ ለእናንተም ወንዞችን ያደርግላችኋል፡፡»",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "ለአላህ ልቅናን የማትሹት ለእናንተ ምን አላችሁ?",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "በልዩ ልዩ ኹኔታዎች በእርግጥ የፈጠራችሁ ሲኾን፡፡",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "አላህ ሰባትን ሰማያት አንዱ ካንዱ በላይ ሲኾን እንዴት እንደፈጠረ አታዩምን?",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "በውስጣቸውም ጨረቃን አብሪ አደረገ፡፡ ፀሐይንም ብርሃን አደረገ፡፡",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "አላህም ከምድር ማብቀልን አበቀላችሁ፡፡",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "ከዚያም በውስጧ ይመልሳችኋል፡፡ ማውጣትንም ያወጣችኋል፡፡",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "አላህም ምድርን ለእናንተ ምንጣፍ አደረጋት፡፡",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "ከእርሷ ሰፋፊዎችን መንገዶች ትገቡ ዘንድ፡፡",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "ኑሕ አለ፡- «ጌታዬ ሆይ! እነሱ አምመጹብኝ፡፡ ገንዘቡና ልጁም ከጥፋት በስተቀር ያልጨመረለትን ሰው ተከተሉ፡፡",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "«ታላቅንም ተንኮል የመከሩትን ሰዎች» (ተከተሉ)፡፡",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "አሉም «አምላኮቻችሁን አትተዉ፡፡ ወድንም፣ ሱዋዕንም፣ የጉሥንም፣ የዑቅንም ነስርንም አትተው፡፡",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "«በእርግጥም ብዙዎችን አሳሳቱ፡፡ ከሓዲዎችንም ጥመትን እንጅ ሌላን አትጨምርላቸው» (አለ)፡፡",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "በኀጢኣቶቻቸው ምክንያት ተሰጠሙ፡፡ እሳትንም እንዲገቡ ተደረጉ፡፡ ለእነርሱም ከአላህ ሌላ የኾኑ ረዳቶችን አላገኙም፡፡",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "ኑሕም አለ «ጌታዬ ሆይ! ከከሓዲዎቹ በምድር ላይ አንድንም አትተው፡፡",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "«አንተ ብትተዋቸው ባሮችህን ያሳስታሉና፡፡ ኀጢኣተኛ ከሓዲንም እንጅ ሌላን አይወልዱም፡፡",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "«ጌታዬ ሆይ! ለእኔም ለወላጆቼም ምእመን ኾኖ በቤቴ ለገባም ሰው ሁሉ ለምእመናንና ለምእምናትም ምሕረት አድርግ፡፡ ከሓዲዎችንም ከጥፋት በቀር አትጨምርላቸው፤» (አለ)፡፡",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

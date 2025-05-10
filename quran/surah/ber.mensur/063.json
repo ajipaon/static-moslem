@@ -1,0 +1,144 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "revelationType": "Medinan",
+    "numberOfAyahs": 11,
+    "ayahs": [
+      {
+        "number": 5189,
+        "text": "Ma usan d $uôek ixabiten, ad ak inin: \"a ncehhed ar keçç, war ccekk, d Amazan n Öebbi\". Öebbi Iéôa ar keçç, war ccekk, d Amazan iS. Öebbi ad Icehhed ar, s tidep, ixabiten d ikeddaben.",
+        "numberInSurah": 1,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5190,
+        "text": "Ëesben tagallit nnsen d laânaya, d$a ssefôa$en abrid n Öebbi. Ihi, a yicmet wayen xeddmen!",
+        "numberInSurah": 2,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5191,
+        "text": "Akka, acku llan umnen, sinna, jehlen. Ppusel$en wulawen nnsen, d$a nitni ur mêiûen.",
+        "numberInSurah": 3,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 221,
+        "sajda": false
+      },
+      {
+        "number": 5192,
+        "text": "Mi ten twalav, a k taâoeb tiddi nnsen. Ma mmeslayen, tessemêasev i wawal nnsen. Amzun nitni d is$aôen i isenden, $ilen yal ti$ôi fellasen. Acengu, d nitni; êader iman ik segsen. A ten Ine$ Öebbi! Acêal wexxôen!",
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 554,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5193,
+        "text": "Ma nnan asen: \"yyaw, ad issuter Umazan n Öebbi a ppeppusemmêem\", ad bernen iqweôôa nnsen, a ten twaliv wexxôen s tem$weô.",
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5194,
+        "text": "Iâuva fellasen tessutrev, ne$ ur tessutrev ad ppusemmêen. Ur sen Ipsemmiê Öebbi, d awez$i. Öebbi, s tidep, ur Inehhu agdud iballa$en.",
+        "numberInSurah": 6,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5195,
+        "text": "Nitni i iqqaôen: \"ur pseddiqet, i wid iddan akked Umazan n Öebbi, alamma mmebruzzâen\". N Öebbi igerrujen igenwan akked tmurt, maca ixabiten ur mêiûen.",
+        "numberInSurah": 7,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5196,
+        "text": "Qqaôen: \"ma nu$al ar Lmadina, war ccekk, uzmir ad issuffe$, segs, uôhif\". Tazmert, n Öebbi akked Umazan iS, akked lmumnin, maca, ixabiten ur éôin.",
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 488,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5197,
+        "text": "A wid iumnen! £uôwat a kwen ssbaâden, af usmekti n Öebbi, wayla nnwen akked tarwa nnwen! Wid igan akka, ihi, widak d imexsuôen.",
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5198,
+        "text": "Ssedqet seg wayen i wen Nefka, uqbel a d tas tmeppant ar yiwen degwen, ad yini: \"a Mass iw! Lemmer ad iyi Teswexxôev ar lajel aqôib, ad seddqe$, ad ili$ seg wid imaânen\".",
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      },
+      {
+        "number": 5199,
+        "text": "Ur Irennu Öebbi di laâmeô, d awez$i, ma iusa d lajel is. Öebbi Ippuxebbeô $ef wayen txeddmem.",
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 555,
+        "ruku": 489,
+        "hizbQuarter": 222,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ber.mensur",
+      "language": "ber",
+      "name": "At Mensur",
+      "englishName": "At Mensur",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

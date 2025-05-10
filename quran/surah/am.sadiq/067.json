@@ -1,0 +1,353 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 30,
+    "ayahs": [
+      {
+        "number": 5242,
+        "text": "ያ ንግሥና በእጁ የኾነው አምላክ ችሮታው በዛ፡፡ እርሱም በነገሩ ሁሉ ላይ ቻይ ነው፡፡",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5243,
+        "text": "ያ የትኛችሁ ሥራው ይበልጥ ያማረ መኾኑን ሊሞክራችሁ ሞትንና ሕይወትን የፈጠረ ነው፡፡ እርሱም አሸናፊው መሓሪው ነው፡፡",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5244,
+        "text": "ያ ሰባትን ሰማያት የተነባበሩ ኾነው የፈጠረ ነው፡፡ በአልረሕማን አፈጣጠር ውስጥ ምንም መዛነፍን አታይም፡፡ ዓይንህንም መልስ፡፡ «ከስንጥቆች አንዳችን ታያለህን?»",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5245,
+        "text": "ከዚያም ብዙ ጊዜ ዓይንህን መላልስ፡፡ ዓይንህ ተዋርዶ እርሱም የደከመ ኾኖ ወዳንተ ይመለሳል፡፡",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5246,
+        "text": "ቅርቢቱን ሰማይም በእርግጥ በመብራቶች (በከዋክብት) አጌጥናት፡፡ ለሰይጣናትም መቀጥቀጫዎች አደረግናት፡፡ ለእነርሱም (ለሰይጣኖች) የእሳትን ቅጣት አዘጋጀን፡፡",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5247,
+        "text": "ለእነዚያም በጌታቸው ለካዱት የገሀነም ቅጣት አልላቸው፡፡ መመለሻይቱም ከፋች!",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5248,
+        "text": "በውስጧ በተጣሉ ጊዜ፤ እርሷ የምትፈላ ስትኾን ለእርሷ (እንደ አህያ) ማናፋትን ይሰማሉ፡፡",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5249,
+        "text": "ከቁጭትዋ የተነሳ ልትቆራረጥ ትቀርባለች፡፡ በውስጧ ጭፍሮች በተጣሉ ቁጥር ዘበኞችዋ «አስፈራሪ (ነቢይ) አልመጣችሁምን?» በማለት ይጠይቋቸዋል፡፡",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5250,
+        "text": "«አይደለም በእርግጥ አስፈራሪ መጥቶናል፡፡ አስተባበልንም፡፡ አላህም ምንንም አላወረደ እናንተ (አውርዷል ስትሉ) በትልቅ ስህተት ውስጥ እንጅ አይደላችሁም አልን» ይላሉ፡፡",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5251,
+        "text": "«የምንሰማ ወይም የምናስብ በነበርንም ኖሮ በነዳጅ እሳት ጓዶች ውስጥ ባልኾን ነበር» ይላሉ፡፡",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5252,
+        "text": "በኀጢኣታቸውም ያምናሉ ለእሳት ጓዶችም (ከእዝነት) መራቅ ተገባቸው፡፡",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5253,
+        "text": "እነዚያ ጌታቸውን በሩቁ የሚፈሩ ለእነርሱ ምሕረትና ታላቅ ምንዳ አልላቸው፡፡",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 562,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5254,
+        "text": "(ሰዎች ሆይ!) ቃላችሁንም መስጥሩ፡፡ ወይም በእርሱ ጩሁ፡፡ እርሱ በልቦች ውስጥ ያለን ሁሉ ዐዋቂ ነው፡፡",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5255,
+        "text": "የፈጠረ አምላክ እርሱ ዕውቀት ረቂቁ፣ ውስጥ ዐዋቂው ሲኾን (ምስጢርን ሁሉ) አያውቅምን?",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 496,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5256,
+        "text": "እርሱ ያ ምድርን ለእናንተ የተገራች ያደረገላችሁ ነው፡፡ በጋራዎችዋና በመንገዶችዋም ኺዱ፡፡፡ ከሲሳዩም ብሉ፡፡ (ኋላ) መመለሻውም ወደእርሱ ብቻ ነው፡፡",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5257,
+        "text": "በሰማይ ውስጥ ያለን (ሰራዊት) በእናንተ ምድርን ቢደረባባችሁ ወዲያውም እርሷ የምታረገርግ ብትኾን ትተማመናላችሁን? (አትፈሩምን?)",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5258,
+        "text": "ወይም በሰማይ ውስጥ ያለን በእናንተ ላይ ጠጠርን ያዘለች ነፋስን ቢልክባችሁ ትተማመናላችሁን? (አትፈሩምን?) ማስጠንቀቄም እንዴት እንደኾነ ወደፊት ታውቃላችሁ፡፡",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5259,
+        "text": "እነዚያም ከእነርሱ በፊት የነበሩት በእርግጥ አስተባበሉ፡፡ ጥላቻዬም እንዴት ነበር!",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5260,
+        "text": "ወደ አእዋፍ ከበላያቸው ክንፎቻቸውን ዘርግተው ተንሳፋፊዎች የሚሰበሰቡም ሲኾኑ አላዩምን? ከአልረሕማን በቀር (ባየር ላይ) የሚይዛቸው የለም፡፡ እርሱ በነገሩ ሁሉ ተመልካች ነው፡፡",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5261,
+        "text": "በእውነቱ ያ እርሱ ከአልረሕማን ሌላ የሚረዳችሁ ለእናንተ የኾነ ሰራዊት ማነው? ከሓዲዎች በመታለል ውስጥ እንጅ በሌላ ላይ አይደሉም፡፡",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5262,
+        "text": "ወይም ሲሳዩን ቢይዝባችሁ ያ ሲሳይን የሚሰጣችሁ ማነው? በእውነቱ እነርሱ በሞገድና በመደንበር ውስጥ ችክ አሉ፡፡",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5263,
+        "text": "በፊቱ ላይ ተደፍቶ የሚኼድ ሰው ይበልጥ የቀና ነውን? ወይስ በቀጥተኛ መንገድ ላይ ተስተካክሎ የሚኼድ?",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5264,
+        "text": "«እርሱ ያ የፈጠራችሁ ለእናንተም መስሚያና ማያዎችን፣ ልቦችንም ያደረገላችሁ ነው፡፡ ጥቂትንም አታመስግኑም» በላቸው፡፡",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5265,
+        "text": "«እርሱ ያ በምድር ላይ የበተናቸሁ ነው፡፡ ወደእርሱም ትሰበሰባላችሁ» በላቸው፡፡",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5266,
+        "text": "«እውነተኞችም እንደኾናችሁ ይህ ቀጠሮ መቼ ነው?» ይላሉ፡፡",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5267,
+        "text": "«ዕውቀቱ አላህ ዘንድ ብቻ ነው፡፡ እኔ ግልጽ አስፈራሪ እንጅ ሌላ አይደለሁም» በላቸው፡፡",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 563,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5268,
+        "text": "(ቅጣቱን) ቅርብ ኾኖ ባዩትም ጊዜ የእነዚያ የካዱት ሰዎች ፊቶች ይክከፋሉ፡፡ «ይህ ያ በእርሱ ትከራከሩበት የነበራችሁት ነው» ይባላሉም፡፡",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5269,
+        "text": "«አያችሁን? አላህ ቢገድለኝ ከእኔ ጋር ያሉትንም (እንደዚሁ) ወይም (በማቆየት) ቢያዝንልን ከሓዲዎችን ከአሳማሚ ቅጣት የሚያድን ማን ነው?» በላቸው፡፡",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5270,
+        "text": "«እርሱ (እመኑበት የምላችሁ) አልረሕማን ነው፡፡ (እኛ) በእርሱ አመንን፡፡ በርሱም ላይ ተጠጋን፡፡ ወደ ፊትም በግልጽ መሳሳት ውስጥ የኾነው እርሱ ማን አንደ ኾነ በእርግጥ ታውቃላችሁ» በላቸው፡፡",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      },
+      {
+        "number": 5271,
+        "text": "«አያችሁን? ውሃችሁ ሠራጊ ቢኾን ፈሳሺን ውሃ የሚያመጣላቸሁ ማን ነው?» በላቸው፡፡ (አላህ የዓለማት ጌታ ያመጣዋል)፡፡",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 564,
+        "ruku": 497,
+        "hizbQuarter": 225,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}

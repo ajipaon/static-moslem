@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "(ሙሐመድ ሆይ!) በል «እነሆ ከጂን የኾኑ ጭፈሮች (ቁርኣንን) አዳመጡ፡፡‹እኛ አስደናቂ የኾነን ቁርኣን ሰማንም› አሉ ማለት ወደእኔ ተወረደ፡፡",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "‹ወደ ቀጥታ መንገድ የሚመራን (ቁርአን ሰማን)፡፡ በእርሱም አመንን፡፡ በጌታችንም አንድንም አናጋራም፡፡›",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "‹እነሆም የጌታችን ክብር ላቀ፡፡ ሚስትንም ልጅንም አልያዘም፡፡›",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "‹እነሆም ቂላችን በአላህ ላይ ወሰን ያለፈን (ውሸት) ይናገር ነበር፡፡›",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "‹እኛም ሰዎችና ጋኔኖች በአላህ ላይ ውሸትን (ቃል) አይናገሩም ማለትን ጠረጠርን፡፡›",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "‹እነሆም ከሰዎች የኾኑ ወንዶች በጋኔን ወንዶች ይጠበቁ ነበሩ፡፡ ኩራትንም ጨመሩዋቸው፡፡›",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "‹እነርሱም አላህ አንድንም አይቀሰቅስም ማለትን እንደጠረጠራችሁ ጠረጠሩ፡፡›",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "‹እኛም ሰማይን (ለመድረስ) ፈለግን፡፡ ብርቱ ጠባቂዎችንና ችቦዎችንም ተሞልታ አገኘናት፡፡",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "‹እኛም ከእርሷ (ወሬን) ለማደመጥ በመቀመጫዎች እንቀመጥ ነበርን፡፡ አሁን ግን የሚያዳምጥ ሰው ለእርሱ ተጠባባቂ ችቦን ያገኛል፡፡",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "‹እኛም በምድር ውስጥ ባልሉ ሰዎች ክፉ ተሽቷል? ወይስ በእነርሱ ጌታቸው ደግን ነገር ሽቷል? ማለትን አናውቅም፡፡",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "‹እኛም ከእኛ ውስጥ ደጎች አልሉ፡፡ ከኛም ከዚህ ሌላ የኾኑ አልሉ፡፡ የተለያዩ መንገዶች (ባለ ቤቶች) ነበርን፡፡",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "‹እኛም አላህን በምድር ውስጥ ፈጽሞ የማናቅተው፤ ሸሽተንም ፈጽሞ የማናመልጠው መኾናችንን አረጋገጥን፡፡",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "‹እኛም መሪውን በሰማን ጊዜ በርሱ አመንን፡፡ በጌታውም የሚያምን ሰው መግጎደልንም መጭጨመርንም አይፈራም፡፡",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "«እኛም ከእኛ ውስጥ ሙስሊሞች አልሉ፡፡ ከእኛም ውስጥ በዳዮች አልሉ፡፡ የሰለሙም ሰዎች እነዚያ ቅንን መንገድ መረጡ፡፡»",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "በዳዮቹማ ለገሀነም ማገዶ ኾኑ፡፡",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "እነሆም በመንገዲቱ ላይ ቀጥ ባሉ ኖሮ ብዙ ዝናምን ባጠጣናቸው ነበር (ማለትም ተወረደልኝ)፡፡",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "በእርሱ ልንሞክራቸው (ባጠጣናቸው ነበር)፡፡ ከጌታውም ማስታወሻ የሚያፈገፍግ ሰው አስቸጋሪን ቅጣት ያገባዋል፡፡",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "እነሆ መስጊዶችም የአላህ ብቻ ናቸው፡፡ (በውስጣቸው) ከአላህ ጋር አንድንም አትገዙ (ማለትም)፡፡",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "እነሆም የአላህ ባሪያ (ሙሐመድ አላህን) የሚጠራው ኾኖ በተነሳ ጊዜ (ጋኔኖች) በእርሱ ላይ ድርብርቦች ሊኾኑ ቀረቡ (ማለትም)፡፡",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "«እኔ የምግገዛው ጌታየን ብቻ ነው፡፡ በእርሱም አንድንም አላጋራም» በል፡፡",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "«እኔ ለእናንተ ጉዳትንም ቀጥታንም አልችልም» በላቸው፡፡",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "«እኔ ከአላህ (ቅጣት) አንድም አያድነኝም፡፡ ከእርሱም ሌላ መጠጊያን አላገኝም» በላቸው፡፡",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "«ከአላህ የኾነ ማድረስን መልክቶቹንም በስተቀር (አልችልም)፡፡ አላህንና መልክተኛውንም የሚያምጽ ሰው ለእርሱ የገሀነም እሳት አልለው፡፡ በውስጧ ዘላለም ዘውታሪዎች ሲኾኑ፡፡»",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "የሚስፈራሩበትንም ባዩ ጊዜ ረዳቱ ደካማ፣ ቁጥሩም አነስተኛ የኾነው ማን እንደኾነ በእርግጥ ያውቃሉ፡፡",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "«የምትስፈራሩበት ነገር ቅርብ ወይም ጌታየ ለእርሱ የተወሰነ ጊዜን የሚያደርግለት (ሩቅ) መኾኑን አላውቅም» በላቸው፡፡",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "«(እርሱ) ሩቁን ምስጢር ዐዋቂ ነው፡፡ በምስጢሩም ላይ አንድንም አያሳውቅም፡፡»",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "ከመልክተኛ ለወደደው ቢኾን እንጅ (ለሌላ አይገልጽም)፡፡ እርሱም ከስተፊቱም ከስተኋላውም ጠባቂዎችን ያደርግለታል፡፡",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "እነርሱ ዘንድ ባለው ነገር ዕውቀቱ የከበበና ነገሩንም ሁሉ በቁጥር ያጠቃለለ ሲኾን የጌታቸውን መልክቶች ያደረሱ መኾናቸውን ያውቅ ዘንድ (ጠባቂ ያደርጋል)፡፡",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  }
+}
