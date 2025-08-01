@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5448,
+        "text": "Қ ул 'Ӱхийа 'Ила й йа 'А нн аһу А стама`а Нафа ру н Мина А л-Җи нн и Фа қ ӓл ӱ 'И нн ӓ Сами`нӓ Қ ур' ӓ нӓан `Аҗабӓа н \r",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5449,
+        "text": "Йаһд ӥ 'Илá А р- Ру шди Фа' ӓ ма нн ӓ Биһ и ۖ Ұа Ла н Нуш р ика Би ра ббин ӓ 'Ахадӓа н \r",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5450,
+        "text": "Ұа 'А нн аһ у Та`ӓлá Җадду Ра ббинӓ Мӓ А тта ҳ аҙа Ҫ ӓхибата н Ұа Лӓ Ұаладӓа н \r",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5451,
+        "text": "Ұа 'А нн аһ у К ӓ на Йа қ ӱ лу Сафӥһунӓ `Алá А лл ӓһи Ша ҭ а ҭ ӓа н \r",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5452,
+        "text": "Ұа 'А нн ӓ Ž ана нн ӓ 'А н Ла н Та қ ӱ ла А л-'И н су Ұа А л-Җи нн у `Алá А лл ӓһи Каҙибӓа н \r",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5453,
+        "text": "Ұа 'А нн аһ у К ӓ на Р иҗ ӓ лу н Мина А л-'И н си Йа`ӱҙ ӱ на Би р иҗ ӓ ли н Мина А л-Җи нн и Фазӓдӱһу м Ра һа қ ӓа н \r",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5454,
+        "text": "Ұа 'А нн аһу м Ž а нн ӱ Камӓ Ž ана н ту м 'А н Ла н Йа б `аćа А лл ӓһу 'Ахадӓа н \r",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5455,
+        "text": "Ұа 'А нн ӓ Ламаснӓ А с-Сам ӓ 'а Фаұаҗа д нӓһӓ Мули'ат Ха ра сӓа н Шадӥдӓа н Ұа Шуһубӓа н \r",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5456,
+        "text": "Ұа 'А нн ӓ Ку нн ӓ На қ `уду Минһӓ Ма қ ӓ`ида Лилсса м `и ۖ Фама н Йастами`и А л-' Ӓ на Йаҗи д Лаһу Шиһӓбӓа н Ра ҫ адӓа н \r",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5457,
+        "text": "Ұа 'А нн ӓ Лӓ На д р ӥ 'Ашар ру н 'У р ӥ да Бима н Фӥ А л-'Арđи 'А м 'А р ӓ да Биһи м Ра ббуһу м Ра шадӓа н \r",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5458,
+        "text": "Ұа 'А нн ӓ Ми нн ӓ А ҫ - Ҫ ӓлих ӱ на Ұа Ми нн ӓ Д ӱ на Ҙӓлика ۖ Ку нн ӓ Ҭ ар ӓ 'и қ а Қ идадӓа н \r",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5459,
+        "text": "Ұа 'А нн ӓ Ž ана нн ӓ 'А н Ла н Ну`җиза А лл ӓһа Фӥ А л-'Арđи Ұа Ла н Ну`җизаһ у Һа ра бӓа н \r",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5460,
+        "text": "Ұа 'А нн ӓ Ла мм ӓ Сами`нӓ А л-Һуд á 'Ӓма нн ӓ Биһ и ۖ Фама н Йу'уми н Би ра ббиһ и Фалӓ Йа ҳ ӓ фу Ба ҳ сӓа н Ұа Лӓ Ра һа қ ӓа н \r",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 572,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5461,
+        "text": "Ұа 'А нн ӓ Ми нн ӓ А л-Муслим ӱ на Ұа Ми нн ӓ А л- Қ ӓси ҭ ӱ на ۖ Фаман 'Аслама Фа'ӱл ӓ 'ика Тахар ра ұ Ра шадӓа н \r",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5462,
+        "text": "Ұа 'А мм ӓ А л- Қ ӓси ҭ ӱ на Факӓнӱ Лиҗаһа нн ама Ха ҭ абӓа н \r",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5463,
+        "text": "Ұа 'Аллаұи А ста қ ӓмӱ `Алá А ҭ - Ҭ а р ӥ қ ати Л'ас қ айнӓһу м М ӓ 'ан Ғ ада қ ӓа н \r",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5464,
+        "text": "Линафтинаһу м Ф ӥ һи ۚ Ұа Ма н Йу` р иđ `А н Ҙик р и Ра ббиһ и Йаслук/һу `Аҙӓбӓа н Ҫ а`адӓа н \r",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5465,
+        "text": "Ұа 'А нн а А л-Масӓҗида Ли лл ӓ һ Фалӓ Та д `ӱ Ма`а А лл ӓһи 'Ахадӓа н \r",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5466,
+        "text": "Ұа 'А нн аһ у Ла мм ӓ Қ ӓ ма `А б ду А лл ӓһи Йа д ` ӱ һу Кӓдӱ Йакӱн ӱ на `Ала й һи Либадӓа н \r",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 506,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5467,
+        "text": "Қ ул 'И нн ам ӓ 'А д `ӱ Ра ббӥ Ұа Л ӓ 'Уш р ику Биһ и~ 'Ахадӓа н \r",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5468,
+        "text": "Қ ул 'И нн ӥ Л ӓ 'А м лику Лаку м Đ ар рӓ а н Ұа Лӓ Ра шадӓа н \r",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5469,
+        "text": "Қ ул 'И нн ӥ Ла н Йуҗӥ ра нӥ Мина А лл ӓһи 'Ахаду н Ұа Лан 'Аҗида Ми н Дӱниһ и Мултахадӓа н \r",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5470,
+        "text": "'Иллӓ Балӓ ғ ӓа н Мина А лл ӓһи Ұа Р исӓлӓтиһ и ۚ Ұа Ма н Йа` ҫ и А лл ӓ һа Ұа Ра сӱлаһ у Фа'и нн а Лаһ у Н ӓ ра Җаһа нн ама Ҳ ӓлид ӥ на Фӥһ ӓ 'Абадӓа н \r",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5471,
+        "text": "Хатт á 'Иҙӓ Ра 'аұ Мӓ Йӱ`ад ӱ на Фасайа`лам ӱ на Ман 'Аđ`афу Нӓ ҫ и р ӓа н Ұа 'А қ аллу `Ададӓа н \r",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5472,
+        "text": "Қ ул 'Ин 'А д р ӥ 'А қ а р ӥ бу н Мӓ Тӱ`ад ӱ на 'А м Йа җ `алу Лаһ у Ра бб ӥ 'Амадӓа н \r",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5473,
+        "text": "`Ӓлиму А л- Ғ а й би Фалӓ Йуžһи р у `Алá Ғ айбиһ и~ 'Ахадӓа н \r",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5474,
+        "text": "'Иллӓ Мани А ртаđá Ми н Ра с ӱ ли н Фа'и нн аһ у Йаслуку Ми н Ба й ни Йада й һи Ұа Мин Ҳ алфиһ и Ра ҫ адӓа н \r",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      },
+      {
+        "number": 5475,
+        "text": "Лийа`лама 'А н Қ а д 'А б ла ғ ӱ Р исӓл ӓ ти Ра ббиһи м Ұа 'Ах ӓ ҭ а Бимӓ Ладайһи м Ұа 'Ах ҫ á Кулла Ша й 'ин `Ададӓа н \r",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 573,
+        "ruku": 507,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "ru.transliteration",
+      "language": "ru",
+      "name": "Транскрипция",
+      "englishName": "Russian Transliteration",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  }
+}

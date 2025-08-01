@@ -1492,5 +1492,14 @@
     "format": "text",
     "type": "translation",
     "direction": "ltr"
+  },
+  {
+    "identifier": "ru.transliteration",
+    "language": "ru",
+    "name": "Транскрипция",
+    "englishName": "Russian Transliteration",
+    "format": "text",
+    "type": "transliteration",
+    "direction": "ltr"
   }
 ]
